@@ -771,6 +771,20 @@
   },
   {
     "Version": "260410.1.0",
+    "Id": 3082,
+    "NameTextKey": -1972482010,
+    "BackgroundImageName": "login_bonus_background_03017",
+    "Mode": "Schedule",
+    "StartAtJST": "2026-03-27 10:00:00",
+    "EndAtJST": "2026-03-27 14:59:59",
+    "Repeat": false,
+    "PeriodDisplay": true,
+    "Order": 3082,
+    "HeldType": "Limit",
+    "MasterId": 0
+  },
+  {
+    "Version": "260410.1.0",
     "Id": 3031,
     "NameTextKey": -1972482010,
     "BackgroundImageName": "login_bonus_background_03017",

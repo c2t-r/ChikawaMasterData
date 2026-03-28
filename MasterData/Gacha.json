@@ -60,11 +60,11 @@
     "DateTermId": 0
   },
   {
-    "Version": "250330.1.0",
+    "Version": "260410.1.0",
     "Id": 31004,
     "ViewConditionId": 0,
     "ContentLockId": 0,
-    "DisplayBannerId": 12,
+    "DisplayBannerId": 11,
     "BackgroundType": "Mix5",
     "NameTextKey": 1208624544,
     "GachaIconIds": [

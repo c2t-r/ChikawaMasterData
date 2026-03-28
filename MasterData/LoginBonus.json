@@ -2001,6 +2001,14 @@
   },
   {
     "Version": "260410.1.0",
+    "Id": 308201,
+    "GroupId": 3082,
+    "RewardRelationType": "RewardGroup",
+    "RewardRelationId": 6000021,
+    "Highlight": false
+  },
+  {
+    "Version": "260410.1.0",
     "Id": 303101,
     "GroupId": 3031,
     "RewardRelationType": "RewardGroup",
