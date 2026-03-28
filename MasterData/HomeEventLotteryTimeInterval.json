@@ -1,0 +1,65 @@
+[
+  {
+    "Version": "250850.1.0",
+    "Id": 11,
+    "GroupId": 1,
+    "IntervalMinutes": 5,
+    "Weight": 30
+  },
+  {
+    "Version": "250850.1.0",
+    "Id": 12,
+    "GroupId": 1,
+    "IntervalMinutes": 5,
+    "Weight": 20
+  },
+  {
+    "Version": "250850.1.0",
+    "Id": 13,
+    "GroupId": 1,
+    "IntervalMinutes": 5,
+    "Weight": 10
+  },
+  {
+    "Version": "250850.1.0",
+    "Id": 21,
+    "GroupId": 2,
+    "IntervalMinutes": 5,
+    "Weight": 30
+  },
+  {
+    "Version": "250850.1.0",
+    "Id": 22,
+    "GroupId": 2,
+    "IntervalMinutes": 5,
+    "Weight": 20
+  },
+  {
+    "Version": "250850.1.0",
+    "Id": 23,
+    "GroupId": 2,
+    "IntervalMinutes": 5,
+    "Weight": 10
+  },
+  {
+    "Version": "250850.1.0",
+    "Id": 31,
+    "GroupId": 3,
+    "IntervalMinutes": 5,
+    "Weight": 30
+  },
+  {
+    "Version": "250850.1.0",
+    "Id": 32,
+    "GroupId": 3,
+    "IntervalMinutes": 5,
+    "Weight": 20
+  },
+  {
+    "Version": "250850.1.0",
+    "Id": 33,
+    "GroupId": 3,
+    "IntervalMinutes": 5,
+    "Weight": 10
+  }
+]

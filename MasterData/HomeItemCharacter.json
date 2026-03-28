@@ -1,0 +1,2682 @@
+[
+  {
+    "Version": "250330.1.0",
+    "Id": 101,
+    "SetId": 1,
+    "ReachLevel": 1,
+    "HomeCharacterId": 1001,
+    "LotteryPoint": 10
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 102,
+    "SetId": 1,
+    "ReachLevel": 2,
+    "HomeCharacterId": 1001,
+    "LotteryPoint": 10
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 201,
+    "SetId": 2,
+    "ReachLevel": 1,
+    "HomeCharacterId": 1001,
+    "LotteryPoint": 10
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 202,
+    "SetId": 2,
+    "ReachLevel": 2,
+    "HomeCharacterId": 1001,
+    "LotteryPoint": 10
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 301,
+    "SetId": 3,
+    "ReachLevel": 1,
+    "HomeCharacterId": 1001,
+    "LotteryPoint": 10
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 401,
+    "SetId": 4,
+    "ReachLevel": 1,
+    "HomeCharacterId": 1001,
+    "LotteryPoint": 10
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 402,
+    "SetId": 4,
+    "ReachLevel": 2,
+    "HomeCharacterId": 1003,
+    "LotteryPoint": 10
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 403,
+    "SetId": 4,
+    "ReachLevel": 3,
+    "HomeCharacterId": 1002,
+    "LotteryPoint": 10
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 405,
+    "SetId": 4,
+    "ReachLevel": 3,
+    "HomeCharacterId": 1001,
+    "LotteryPoint": 10
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 501,
+    "SetId": 5,
+    "ReachLevel": 1,
+    "HomeCharacterId": 1003,
+    "LotteryPoint": 10
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 502,
+    "SetId": 5,
+    "ReachLevel": 2,
+    "HomeCharacterId": 1003,
+    "LotteryPoint": 10
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 503,
+    "SetId": 5,
+    "ReachLevel": 2,
+    "HomeCharacterId": 1005,
+    "LotteryPoint": 10
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 601,
+    "SetId": 6,
+    "ReachLevel": 1,
+    "HomeCharacterId": 1001,
+    "LotteryPoint": 10
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 602,
+    "SetId": 6,
+    "ReachLevel": 2,
+    "HomeCharacterId": 1001,
+    "LotteryPoint": 10
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 701,
+    "SetId": 7,
+    "ReachLevel": 1,
+    "HomeCharacterId": 1003,
+    "LotteryPoint": 10
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 702,
+    "SetId": 7,
+    "ReachLevel": 2,
+    "HomeCharacterId": 1003,
+    "LotteryPoint": 10
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 801,
+    "SetId": 8,
+    "ReachLevel": 1,
+    "HomeCharacterId": 1002,
+    "LotteryPoint": 10
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 802,
+    "SetId": 8,
+    "ReachLevel": 2,
+    "HomeCharacterId": 1002,
+    "LotteryPoint": 10
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 901,
+    "SetId": 9,
+    "ReachLevel": 1,
+    "HomeCharacterId": 1002,
+    "LotteryPoint": 10
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 902,
+    "SetId": 9,
+    "ReachLevel": 2,
+    "HomeCharacterId": 1002,
+    "LotteryPoint": 10
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 903,
+    "SetId": 9,
+    "ReachLevel": 2,
+    "HomeCharacterId": 1001,
+    "LotteryPoint": 10
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 904,
+    "SetId": 9,
+    "ReachLevel": 3,
+    "HomeCharacterId": 1002,
+    "LotteryPoint": 10
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 905,
+    "SetId": 9,
+    "ReachLevel": 3,
+    "HomeCharacterId": 1001,
+    "LotteryPoint": 10
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 1001,
+    "SetId": 10,
+    "ReachLevel": 1,
+    "HomeCharacterId": 1002,
+    "LotteryPoint": 10
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 1101,
+    "SetId": 11,
+    "ReachLevel": 1,
+    "HomeCharacterId": 1005,
+    "LotteryPoint": 10
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 1201,
+    "SetId": 12,
+    "ReachLevel": 1,
+    "HomeCharacterId": 1007,
+    "LotteryPoint": 10
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 1202,
+    "SetId": 12,
+    "ReachLevel": 1,
+    "HomeCharacterId": 3011,
+    "LotteryPoint": 10
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 1203,
+    "SetId": 12,
+    "ReachLevel": 2,
+    "HomeCharacterId": 1007,
+    "LotteryPoint": 10
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 1204,
+    "SetId": 12,
+    "ReachLevel": 2,
+    "HomeCharacterId": 3011,
+    "LotteryPoint": 10
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 1301,
+    "SetId": 13,
+    "ReachLevel": 1,
+    "HomeCharacterId": 1007,
+    "LotteryPoint": 10
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 1302,
+    "SetId": 13,
+    "ReachLevel": 2,
+    "HomeCharacterId": 1007,
+    "LotteryPoint": 10
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 1303,
+    "SetId": 13,
+    "ReachLevel": 2,
+    "HomeCharacterId": 1002,
+    "LotteryPoint": 10
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 1304,
+    "SetId": 13,
+    "ReachLevel": 2,
+    "HomeCharacterId": 1001,
+    "LotteryPoint": 10
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 1305,
+    "SetId": 13,
+    "ReachLevel": 3,
+    "HomeCharacterId": 1007,
+    "LotteryPoint": 10
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 1306,
+    "SetId": 13,
+    "ReachLevel": 3,
+    "HomeCharacterId": 1002,
+    "LotteryPoint": 10
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 1307,
+    "SetId": 13,
+    "ReachLevel": 3,
+    "HomeCharacterId": 1001,
+    "LotteryPoint": 10
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 1401,
+    "SetId": 14,
+    "ReachLevel": 1,
+    "HomeCharacterId": 1001,
+    "LotteryPoint": 10
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 1402,
+    "SetId": 14,
+    "ReachLevel": 1,
+    "HomeCharacterId": 1002,
+    "LotteryPoint": 10
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 1403,
+    "SetId": 14,
+    "ReachLevel": 2,
+    "HomeCharacterId": 1001,
+    "LotteryPoint": 10
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 1404,
+    "SetId": 14,
+    "ReachLevel": 2,
+    "HomeCharacterId": 1002,
+    "LotteryPoint": 10
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 1501,
+    "SetId": 15,
+    "ReachLevel": 1,
+    "HomeCharacterId": 1001,
+    "LotteryPoint": 10
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 1502,
+    "SetId": 15,
+    "ReachLevel": 1,
+    "HomeCharacterId": 1002,
+    "LotteryPoint": 10
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 1503,
+    "SetId": 15,
+    "ReachLevel": 1,
+    "HomeCharacterId": 1003,
+    "LotteryPoint": 10
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 1504,
+    "SetId": 15,
+    "ReachLevel": 1,
+    "HomeCharacterId": 3006,
+    "LotteryPoint": 10
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 1505,
+    "SetId": 15,
+    "ReachLevel": 2,
+    "HomeCharacterId": 1001,
+    "LotteryPoint": 10
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 1506,
+    "SetId": 15,
+    "ReachLevel": 2,
+    "HomeCharacterId": 1002,
+    "LotteryPoint": 10
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 1507,
+    "SetId": 15,
+    "ReachLevel": 2,
+    "HomeCharacterId": 1003,
+    "LotteryPoint": 10
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 1508,
+    "SetId": 15,
+    "ReachLevel": 2,
+    "HomeCharacterId": 3006,
+    "LotteryPoint": 10
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 1601,
+    "SetId": 16,
+    "ReachLevel": 1,
+    "HomeCharacterId": 1003,
+    "LotteryPoint": 10
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 1602,
+    "SetId": 16,
+    "ReachLevel": 2,
+    "HomeCharacterId": 1003,
+    "LotteryPoint": 10
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 1603,
+    "SetId": 16,
+    "ReachLevel": 2,
+    "HomeCharacterId": 1001,
+    "LotteryPoint": 10
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 1604,
+    "SetId": 16,
+    "ReachLevel": 2,
+    "HomeCharacterId": 1002,
+    "LotteryPoint": 10
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 1605,
+    "SetId": 16,
+    "ReachLevel": 3,
+    "HomeCharacterId": 1003,
+    "LotteryPoint": 10
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 1606,
+    "SetId": 16,
+    "ReachLevel": 3,
+    "HomeCharacterId": 1001,
+    "LotteryPoint": 10
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 1607,
+    "SetId": 16,
+    "ReachLevel": 3,
+    "HomeCharacterId": 1002,
+    "LotteryPoint": 10
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 1701,
+    "SetId": 17,
+    "ReachLevel": 1,
+    "HomeCharacterId": 1005,
+    "LotteryPoint": 10
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 1801,
+    "SetId": 18,
+    "ReachLevel": 1,
+    "HomeCharacterId": 1006,
+    "LotteryPoint": 10
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 1901,
+    "SetId": 19,
+    "ReachLevel": 1,
+    "HomeCharacterId": 1006,
+    "LotteryPoint": 10
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 2001,
+    "SetId": 20,
+    "ReachLevel": 1,
+    "HomeCharacterId": 1004,
+    "LotteryPoint": 10
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 2002,
+    "SetId": 20,
+    "ReachLevel": 2,
+    "HomeCharacterId": 1004,
+    "LotteryPoint": 10
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 2101,
+    "SetId": 21,
+    "ReachLevel": 1,
+    "HomeCharacterId": 1004,
+    "LotteryPoint": 10
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 2102,
+    "SetId": 21,
+    "ReachLevel": 2,
+    "HomeCharacterId": 1004,
+    "LotteryPoint": 10
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 2201,
+    "SetId": 22,
+    "ReachLevel": 1,
+    "HomeCharacterId": 1003,
+    "LotteryPoint": 10
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 2202,
+    "SetId": 22,
+    "ReachLevel": 2,
+    "HomeCharacterId": 1003,
+    "LotteryPoint": 10
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 2203,
+    "SetId": 22,
+    "ReachLevel": 2,
+    "HomeCharacterId": 1001,
+    "LotteryPoint": 10
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 2301,
+    "SetId": 23,
+    "ReachLevel": 1,
+    "HomeCharacterId": 1001,
+    "LotteryPoint": 10
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 2302,
+    "SetId": 23,
+    "ReachLevel": 1,
+    "HomeCharacterId": 1002,
+    "LotteryPoint": 10
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 2303,
+    "SetId": 23,
+    "ReachLevel": 1,
+    "HomeCharacterId": 1003,
+    "LotteryPoint": 10
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 2304,
+    "SetId": 23,
+    "ReachLevel": 2,
+    "HomeCharacterId": 1001,
+    "LotteryPoint": 10
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 2305,
+    "SetId": 23,
+    "ReachLevel": 2,
+    "HomeCharacterId": 1002,
+    "LotteryPoint": 10
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 2306,
+    "SetId": 23,
+    "ReachLevel": 2,
+    "HomeCharacterId": 1003,
+    "LotteryPoint": 10
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 2501,
+    "SetId": 25,
+    "ReachLevel": 1,
+    "HomeCharacterId": 1001,
+    "LotteryPoint": 10
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 2502,
+    "SetId": 25,
+    "ReachLevel": 2,
+    "HomeCharacterId": 1001,
+    "LotteryPoint": 10
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 2503,
+    "SetId": 25,
+    "ReachLevel": 3,
+    "HomeCharacterId": 1001,
+    "LotteryPoint": 10
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 2504,
+    "SetId": 25,
+    "ReachLevel": 3,
+    "HomeCharacterId": 1002,
+    "LotteryPoint": 10
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 2505,
+    "SetId": 25,
+    "ReachLevel": 3,
+    "HomeCharacterId": 1003,
+    "LotteryPoint": 10
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 2601,
+    "SetId": 26,
+    "ReachLevel": 1,
+    "HomeCharacterId": 1002,
+    "LotteryPoint": 10
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 2602,
+    "SetId": 26,
+    "ReachLevel": 2,
+    "HomeCharacterId": 1002,
+    "LotteryPoint": 10
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 2603,
+    "SetId": 26,
+    "ReachLevel": 3,
+    "HomeCharacterId": 1002,
+    "LotteryPoint": 10
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 2604,
+    "SetId": 26,
+    "ReachLevel": 3,
+    "HomeCharacterId": 1003,
+    "LotteryPoint": 10
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 2701,
+    "SetId": 27,
+    "ReachLevel": 1,
+    "HomeCharacterId": 1003,
+    "LotteryPoint": 10
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 2702,
+    "SetId": 27,
+    "ReachLevel": 2,
+    "HomeCharacterId": 1003,
+    "LotteryPoint": 10
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 2703,
+    "SetId": 27,
+    "ReachLevel": 3,
+    "HomeCharacterId": 1003,
+    "LotteryPoint": 10
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 2704,
+    "SetId": 27,
+    "ReachLevel": 3,
+    "HomeCharacterId": 1001,
+    "LotteryPoint": 10
+  },
+  {
+    "Version": "250410.1.0",
+    "Id": 2801,
+    "SetId": 28,
+    "ReachLevel": 1,
+    "HomeCharacterId": 1005,
+    "LotteryPoint": 10
+  },
+  {
+    "Version": "250410.1.0",
+    "Id": 2802,
+    "SetId": 28,
+    "ReachLevel": 2,
+    "HomeCharacterId": 1005,
+    "LotteryPoint": 10
+  },
+  {
+    "Version": "250410.1.0",
+    "Id": 2803,
+    "SetId": 28,
+    "ReachLevel": 3,
+    "HomeCharacterId": 1005,
+    "LotteryPoint": 10
+  },
+  {
+    "Version": "250410.1.0",
+    "Id": 2804,
+    "SetId": 28,
+    "ReachLevel": 3,
+    "HomeCharacterId": 1003,
+    "LotteryPoint": 10
+  },
+  {
+    "Version": "250350.1.0",
+    "Id": 2901,
+    "SetId": 29,
+    "ReachLevel": 1,
+    "HomeCharacterId": 1004,
+    "LotteryPoint": 10
+  },
+  {
+    "Version": "250350.1.0",
+    "Id": 2902,
+    "SetId": 29,
+    "ReachLevel": 2,
+    "HomeCharacterId": 1004,
+    "LotteryPoint": 10
+  },
+  {
+    "Version": "250350.1.0",
+    "Id": 2903,
+    "SetId": 29,
+    "ReachLevel": 3,
+    "HomeCharacterId": 1004,
+    "LotteryPoint": 10
+  },
+  {
+    "Version": "250350.1.0",
+    "Id": 2904,
+    "SetId": 29,
+    "ReachLevel": 3,
+    "HomeCharacterId": 1001,
+    "LotteryPoint": 10
+  },
+  {
+    "Version": "250350.1.0",
+    "Id": 3001,
+    "SetId": 30,
+    "ReachLevel": 1,
+    "HomeCharacterId": 1007,
+    "LotteryPoint": 10
+  },
+  {
+    "Version": "250350.1.0",
+    "Id": 3002,
+    "SetId": 30,
+    "ReachLevel": 2,
+    "HomeCharacterId": 1007,
+    "LotteryPoint": 10
+  },
+  {
+    "Version": "250350.1.0",
+    "Id": 3003,
+    "SetId": 30,
+    "ReachLevel": 3,
+    "HomeCharacterId": 1007,
+    "LotteryPoint": 10
+  },
+  {
+    "Version": "250350.1.0",
+    "Id": 3004,
+    "SetId": 30,
+    "ReachLevel": 3,
+    "HomeCharacterId": 1001,
+    "LotteryPoint": 10
+  },
+  {
+    "Version": "250350.1.0",
+    "Id": 3005,
+    "SetId": 30,
+    "ReachLevel": 3,
+    "HomeCharacterId": 1002,
+    "LotteryPoint": 10
+  },
+  {
+    "Version": "250410.1.0",
+    "Id": 3101,
+    "SetId": 31,
+    "ReachLevel": 1,
+    "HomeCharacterId": 1006,
+    "LotteryPoint": 10
+  },
+  {
+    "Version": "250410.1.0",
+    "Id": 3102,
+    "SetId": 31,
+    "ReachLevel": 2,
+    "HomeCharacterId": 1006,
+    "LotteryPoint": 10
+  },
+  {
+    "Version": "250410.1.0",
+    "Id": 3103,
+    "SetId": 31,
+    "ReachLevel": 3,
+    "HomeCharacterId": 1006,
+    "LotteryPoint": 10
+  },
+  {
+    "Version": "250410.1.0",
+    "Id": 3104,
+    "SetId": 31,
+    "ReachLevel": 3,
+    "HomeCharacterId": 1002,
+    "LotteryPoint": 10
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 3201,
+    "SetId": 32,
+    "ReachLevel": 1,
+    "HomeCharacterId": 1001,
+    "LotteryPoint": 10
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 3202,
+    "SetId": 32,
+    "ReachLevel": 1,
+    "HomeCharacterId": 1002,
+    "LotteryPoint": 10
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 3203,
+    "SetId": 32,
+    "ReachLevel": 2,
+    "HomeCharacterId": 1001,
+    "LotteryPoint": 10
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 3204,
+    "SetId": 32,
+    "ReachLevel": 2,
+    "HomeCharacterId": 1002,
+    "LotteryPoint": 10
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 3205,
+    "SetId": 32,
+    "ReachLevel": 2,
+    "HomeCharacterId": 1003,
+    "LotteryPoint": 10
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 3206,
+    "SetId": 32,
+    "ReachLevel": 3,
+    "HomeCharacterId": 1001,
+    "LotteryPoint": 10
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 3207,
+    "SetId": 32,
+    "ReachLevel": 3,
+    "HomeCharacterId": 1002,
+    "LotteryPoint": 10
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 3208,
+    "SetId": 32,
+    "ReachLevel": 3,
+    "HomeCharacterId": 1003,
+    "LotteryPoint": 10
+  },
+  {
+    "Version": "250612.1.0",
+    "Id": 3301,
+    "SetId": 33,
+    "ReachLevel": 1,
+    "HomeCharacterId": 1007,
+    "LotteryPoint": 10
+  },
+  {
+    "Version": "250610.1.0",
+    "Id": 3401,
+    "SetId": 34,
+    "ReachLevel": 1,
+    "HomeCharacterId": 1001,
+    "LotteryPoint": 10
+  },
+  {
+    "Version": "250610.1.0",
+    "Id": 3402,
+    "SetId": 34,
+    "ReachLevel": 2,
+    "HomeCharacterId": 1001,
+    "LotteryPoint": 10
+  },
+  {
+    "Version": "250610.1.0",
+    "Id": 3403,
+    "SetId": 34,
+    "ReachLevel": 3,
+    "HomeCharacterId": 1001,
+    "LotteryPoint": 10
+  },
+  {
+    "Version": "250610.1.0",
+    "Id": 3404,
+    "SetId": 34,
+    "ReachLevel": 3,
+    "HomeCharacterId": 1002,
+    "LotteryPoint": 10
+  },
+  {
+    "Version": "250610.1.0",
+    "Id": 3405,
+    "SetId": 34,
+    "ReachLevel": 3,
+    "HomeCharacterId": 1003,
+    "LotteryPoint": 10
+  },
+  {
+    "Version": "250612.1.0",
+    "Id": 3501,
+    "SetId": 35,
+    "ReachLevel": 1,
+    "HomeCharacterId": 1005,
+    "LotteryPoint": 10
+  },
+  {
+    "Version": "250612.1.0",
+    "Id": 3701,
+    "SetId": 37,
+    "ReachLevel": 1,
+    "HomeCharacterId": 1002,
+    "LotteryPoint": 10
+  },
+  {
+    "Version": "250612.1.0",
+    "Id": 3702,
+    "SetId": 37,
+    "ReachLevel": 2,
+    "HomeCharacterId": 1002,
+    "LotteryPoint": 10
+  },
+  {
+    "Version": "250612.1.0",
+    "Id": 3703,
+    "SetId": 37,
+    "ReachLevel": 2,
+    "HomeCharacterId": 1006,
+    "LotteryPoint": 10
+  },
+  {
+    "Version": "250612.1.0",
+    "Id": 3704,
+    "SetId": 37,
+    "ReachLevel": 3,
+    "HomeCharacterId": 1002,
+    "LotteryPoint": 10
+  },
+  {
+    "Version": "250612.1.0",
+    "Id": 3705,
+    "SetId": 37,
+    "ReachLevel": 3,
+    "HomeCharacterId": 1006,
+    "LotteryPoint": 10
+  },
+  {
+    "Version": "250810.1.0",
+    "Id": 3801,
+    "SetId": 38,
+    "ReachLevel": 1,
+    "HomeCharacterId": 1004,
+    "LotteryPoint": 10
+  },
+  {
+    "Version": "250810.1.0",
+    "Id": 3802,
+    "SetId": 38,
+    "ReachLevel": 2,
+    "HomeCharacterId": 1004,
+    "LotteryPoint": 10
+  },
+  {
+    "Version": "250810.1.0",
+    "Id": 3803,
+    "SetId": 38,
+    "ReachLevel": 2,
+    "HomeCharacterId": 1007,
+    "LotteryPoint": 10
+  },
+  {
+    "Version": "250810.1.0",
+    "Id": 3804,
+    "SetId": 38,
+    "ReachLevel": 3,
+    "HomeCharacterId": 1004,
+    "LotteryPoint": 10
+  },
+  {
+    "Version": "250810.1.0",
+    "Id": 3805,
+    "SetId": 38,
+    "ReachLevel": 3,
+    "HomeCharacterId": 1007,
+    "LotteryPoint": 10
+  },
+  {
+    "Version": "250710.1.0",
+    "Id": 3901,
+    "SetId": 39,
+    "ReachLevel": 1,
+    "HomeCharacterId": 1002,
+    "LotteryPoint": 10
+  },
+  {
+    "Version": "250710.1.0",
+    "Id": 3902,
+    "SetId": 39,
+    "ReachLevel": 2,
+    "HomeCharacterId": 1003,
+    "LotteryPoint": 10
+  },
+  {
+    "Version": "250710.1.0",
+    "Id": 3903,
+    "SetId": 39,
+    "ReachLevel": 3,
+    "HomeCharacterId": 1001,
+    "LotteryPoint": 10
+  },
+  {
+    "Version": "250510.1.0",
+    "Id": 4101,
+    "SetId": 41,
+    "ReachLevel": 1,
+    "HomeCharacterId": 1001,
+    "LotteryPoint": 10
+  },
+  {
+    "Version": "250510.1.0",
+    "Id": 4102,
+    "SetId": 41,
+    "ReachLevel": 2,
+    "HomeCharacterId": 1001,
+    "LotteryPoint": 10
+  },
+  {
+    "Version": "250510.1.0",
+    "Id": 4103,
+    "SetId": 41,
+    "ReachLevel": 2,
+    "HomeCharacterId": 1002,
+    "LotteryPoint": 10
+  },
+  {
+    "Version": "250510.1.0",
+    "Id": 4104,
+    "SetId": 41,
+    "ReachLevel": 3,
+    "HomeCharacterId": 1001,
+    "LotteryPoint": 10
+  },
+  {
+    "Version": "250510.1.0",
+    "Id": 4105,
+    "SetId": 41,
+    "ReachLevel": 3,
+    "HomeCharacterId": 1002,
+    "LotteryPoint": 10
+  },
+  {
+    "Version": "250510.1.0",
+    "Id": 4106,
+    "SetId": 41,
+    "ReachLevel": 3,
+    "HomeCharacterId": 1003,
+    "LotteryPoint": 10
+  },
+  {
+    "Version": "250350.1.0",
+    "Id": 4201,
+    "SetId": 42,
+    "ReachLevel": 1,
+    "HomeCharacterId": 1001,
+    "LotteryPoint": 10
+  },
+  {
+    "Version": "250350.1.0",
+    "Id": 4202,
+    "SetId": 42,
+    "ReachLevel": 2,
+    "HomeCharacterId": 1001,
+    "LotteryPoint": 10
+  },
+  {
+    "Version": "250410.1.0",
+    "Id": 4301,
+    "SetId": 43,
+    "ReachLevel": 1,
+    "HomeCharacterId": 1002,
+    "LotteryPoint": 10
+  },
+  {
+    "Version": "250410.1.0",
+    "Id": 4302,
+    "SetId": 43,
+    "ReachLevel": 2,
+    "HomeCharacterId": 1002,
+    "LotteryPoint": 10
+  },
+  {
+    "Version": "250440.1.0",
+    "Id": 4401,
+    "SetId": 44,
+    "ReachLevel": 1,
+    "HomeCharacterId": 1001,
+    "LotteryPoint": 10
+  },
+  {
+    "Version": "250440.1.0",
+    "Id": 4402,
+    "SetId": 44,
+    "ReachLevel": 2,
+    "HomeCharacterId": 1001,
+    "LotteryPoint": 10
+  },
+  {
+    "Version": "250440.1.0",
+    "Id": 4403,
+    "SetId": 44,
+    "ReachLevel": 3,
+    "HomeCharacterId": 1001,
+    "LotteryPoint": 10
+  },
+  {
+    "Version": "250440.1.0",
+    "Id": 4501,
+    "SetId": 45,
+    "ReachLevel": 1,
+    "HomeCharacterId": 1002,
+    "LotteryPoint": 10
+  },
+  {
+    "Version": "250440.1.0",
+    "Id": 4502,
+    "SetId": 45,
+    "ReachLevel": 2,
+    "HomeCharacterId": 1002,
+    "LotteryPoint": 10
+  },
+  {
+    "Version": "250440.1.0",
+    "Id": 4503,
+    "SetId": 45,
+    "ReachLevel": 3,
+    "HomeCharacterId": 1002,
+    "LotteryPoint": 10
+  },
+  {
+    "Version": "250450.1.0",
+    "Id": 4601,
+    "SetId": 46,
+    "ReachLevel": 1,
+    "HomeCharacterId": 1003,
+    "LotteryPoint": 10
+  },
+  {
+    "Version": "250450.1.0",
+    "Id": 4602,
+    "SetId": 46,
+    "ReachLevel": 2,
+    "HomeCharacterId": 1003,
+    "LotteryPoint": 10
+  },
+  {
+    "Version": "250450.1.0",
+    "Id": 4603,
+    "SetId": 46,
+    "ReachLevel": 3,
+    "HomeCharacterId": 1003,
+    "LotteryPoint": 10
+  },
+  {
+    "Version": "250440.1.0",
+    "Id": 4701,
+    "SetId": 47,
+    "ReachLevel": 1,
+    "HomeCharacterId": 1007,
+    "LotteryPoint": 10
+  },
+  {
+    "Version": "250440.1.0",
+    "Id": 4702,
+    "SetId": 47,
+    "ReachLevel": 2,
+    "HomeCharacterId": 1007,
+    "LotteryPoint": 10
+  },
+  {
+    "Version": "250450.1.0",
+    "Id": 4801,
+    "SetId": 48,
+    "ReachLevel": 1,
+    "HomeCharacterId": 1005,
+    "LotteryPoint": 10
+  },
+  {
+    "Version": "250450.1.0",
+    "Id": 4802,
+    "SetId": 48,
+    "ReachLevel": 2,
+    "HomeCharacterId": 1005,
+    "LotteryPoint": 10
+  },
+  {
+    "Version": "250550.1.0",
+    "Id": 4901,
+    "SetId": 49,
+    "ReachLevel": 1,
+    "HomeCharacterId": 1001,
+    "LotteryPoint": 10
+  },
+  {
+    "Version": "250550.1.0",
+    "Id": 4902,
+    "SetId": 49,
+    "ReachLevel": 2,
+    "HomeCharacterId": 1001,
+    "LotteryPoint": 10
+  },
+  {
+    "Version": "250550.1.0",
+    "Id": 4903,
+    "SetId": 49,
+    "ReachLevel": 3,
+    "HomeCharacterId": 1001,
+    "LotteryPoint": 10
+  },
+  {
+    "Version": "250550.1.0",
+    "Id": 5001,
+    "SetId": 50,
+    "ReachLevel": 1,
+    "HomeCharacterId": 1002,
+    "LotteryPoint": 10
+  },
+  {
+    "Version": "250550.1.0",
+    "Id": 5002,
+    "SetId": 50,
+    "ReachLevel": 2,
+    "HomeCharacterId": 1002,
+    "LotteryPoint": 10
+  },
+  {
+    "Version": "250550.1.0",
+    "Id": 5003,
+    "SetId": 50,
+    "ReachLevel": 3,
+    "HomeCharacterId": 1002,
+    "LotteryPoint": 10
+  },
+  {
+    "Version": "250550.1.0",
+    "Id": 5101,
+    "SetId": 51,
+    "ReachLevel": 1,
+    "HomeCharacterId": 1006,
+    "LotteryPoint": 10
+  },
+  {
+    "Version": "250550.1.0",
+    "Id": 5102,
+    "SetId": 51,
+    "ReachLevel": 2,
+    "HomeCharacterId": 1006,
+    "LotteryPoint": 10
+  },
+  {
+    "Version": "250550.1.0",
+    "Id": 5103,
+    "SetId": 51,
+    "ReachLevel": 3,
+    "HomeCharacterId": 1006,
+    "LotteryPoint": 10
+  },
+  {
+    "Version": "250550.1.0",
+    "Id": 5201,
+    "SetId": 52,
+    "ReachLevel": 1,
+    "HomeCharacterId": 1003,
+    "LotteryPoint": 10
+  },
+  {
+    "Version": "250550.1.0",
+    "Id": 5202,
+    "SetId": 52,
+    "ReachLevel": 2,
+    "HomeCharacterId": 1003,
+    "LotteryPoint": 10
+  },
+  {
+    "Version": "250530.1.0",
+    "Id": 5301,
+    "SetId": 53,
+    "ReachLevel": 1,
+    "HomeCharacterId": 1004,
+    "LotteryPoint": 10
+  },
+  {
+    "Version": "250530.1.0",
+    "Id": 5302,
+    "SetId": 53,
+    "ReachLevel": 2,
+    "HomeCharacterId": 1004,
+    "LotteryPoint": 10
+  },
+  {
+    "Version": "250630.1.0",
+    "Id": 5401,
+    "SetId": 54,
+    "ReachLevel": 1,
+    "HomeCharacterId": 1001,
+    "LotteryPoint": 10
+  },
+  {
+    "Version": "250630.1.0",
+    "Id": 5402,
+    "SetId": 54,
+    "ReachLevel": 2,
+    "HomeCharacterId": 1001,
+    "LotteryPoint": 10
+  },
+  {
+    "Version": "250610.1.0",
+    "Id": 5501,
+    "SetId": 55,
+    "ReachLevel": 1,
+    "HomeCharacterId": 1002,
+    "LotteryPoint": 10
+  },
+  {
+    "Version": "250610.1.0",
+    "Id": 5502,
+    "SetId": 55,
+    "ReachLevel": 2,
+    "HomeCharacterId": 1002,
+    "LotteryPoint": 10
+  },
+  {
+    "Version": "250610.1.0",
+    "Id": 5503,
+    "SetId": 55,
+    "ReachLevel": 3,
+    "HomeCharacterId": 1002,
+    "LotteryPoint": 10
+  },
+  {
+    "Version": "250630.1.0",
+    "Id": 5601,
+    "SetId": 56,
+    "ReachLevel": 1,
+    "HomeCharacterId": 1003,
+    "LotteryPoint": 10
+  },
+  {
+    "Version": "250630.1.0",
+    "Id": 5602,
+    "SetId": 56,
+    "ReachLevel": 2,
+    "HomeCharacterId": 1003,
+    "LotteryPoint": 10
+  },
+  {
+    "Version": "250630.1.0",
+    "Id": 5603,
+    "SetId": 56,
+    "ReachLevel": 3,
+    "HomeCharacterId": 1003,
+    "LotteryPoint": 10
+  },
+  {
+    "Version": "250610.1.0",
+    "Id": 5701,
+    "SetId": 57,
+    "ReachLevel": 1,
+    "HomeCharacterId": 1004,
+    "LotteryPoint": 10
+  },
+  {
+    "Version": "250610.1.0",
+    "Id": 5702,
+    "SetId": 57,
+    "ReachLevel": 2,
+    "HomeCharacterId": 1004,
+    "LotteryPoint": 10
+  },
+  {
+    "Version": "250610.1.0",
+    "Id": 5703,
+    "SetId": 57,
+    "ReachLevel": 3,
+    "HomeCharacterId": 1004,
+    "LotteryPoint": 10
+  },
+  {
+    "Version": "250610.1.0",
+    "Id": 5801,
+    "SetId": 58,
+    "ReachLevel": 1,
+    "HomeCharacterId": 1007,
+    "LotteryPoint": 10
+  },
+  {
+    "Version": "250610.1.0",
+    "Id": 5802,
+    "SetId": 58,
+    "ReachLevel": 2,
+    "HomeCharacterId": 1007,
+    "LotteryPoint": 10
+  },
+  {
+    "Version": "250710.1.0",
+    "Id": 5901,
+    "SetId": 59,
+    "ReachLevel": 1,
+    "HomeCharacterId": 1001,
+    "LotteryPoint": 10
+  },
+  {
+    "Version": "250710.1.0",
+    "Id": 5902,
+    "SetId": 59,
+    "ReachLevel": 2,
+    "HomeCharacterId": 1001,
+    "LotteryPoint": 10
+  },
+  {
+    "Version": "250710.1.0",
+    "Id": 5903,
+    "SetId": 59,
+    "ReachLevel": 3,
+    "HomeCharacterId": 1001,
+    "LotteryPoint": 10
+  },
+  {
+    "Version": "250710.1.0",
+    "Id": 6001,
+    "SetId": 60,
+    "ReachLevel": 1,
+    "HomeCharacterId": 1003,
+    "LotteryPoint": 10
+  },
+  {
+    "Version": "250710.1.0",
+    "Id": 6002,
+    "SetId": 60,
+    "ReachLevel": 2,
+    "HomeCharacterId": 1003,
+    "LotteryPoint": 10
+  },
+  {
+    "Version": "250710.1.0",
+    "Id": 6003,
+    "SetId": 60,
+    "ReachLevel": 3,
+    "HomeCharacterId": 1003,
+    "LotteryPoint": 10
+  },
+  {
+    "Version": "250730.1.0",
+    "Id": 6101,
+    "SetId": 61,
+    "ReachLevel": 1,
+    "HomeCharacterId": 1002,
+    "LotteryPoint": 10
+  },
+  {
+    "Version": "250730.1.0",
+    "Id": 6102,
+    "SetId": 61,
+    "ReachLevel": 2,
+    "HomeCharacterId": 1002,
+    "LotteryPoint": 10
+  },
+  {
+    "Version": "250730.1.0",
+    "Id": 6103,
+    "SetId": 61,
+    "ReachLevel": 3,
+    "HomeCharacterId": 1002,
+    "LotteryPoint": 10
+  },
+  {
+    "Version": "250710.1.0",
+    "Id": 6201,
+    "SetId": 62,
+    "ReachLevel": 1,
+    "HomeCharacterId": 1005,
+    "LotteryPoint": 10
+  },
+  {
+    "Version": "250710.1.0",
+    "Id": 6202,
+    "SetId": 62,
+    "ReachLevel": 2,
+    "HomeCharacterId": 1005,
+    "LotteryPoint": 10
+  },
+  {
+    "Version": "250730.1.0",
+    "Id": 6301,
+    "SetId": 63,
+    "ReachLevel": 1,
+    "HomeCharacterId": 1006,
+    "LotteryPoint": 10
+  },
+  {
+    "Version": "250730.1.0",
+    "Id": 6302,
+    "SetId": 63,
+    "ReachLevel": 2,
+    "HomeCharacterId": 1006,
+    "LotteryPoint": 10
+  },
+  {
+    "Version": "250810.1.0",
+    "Id": 6401,
+    "SetId": 64,
+    "ReachLevel": 1,
+    "HomeCharacterId": 1004,
+    "LotteryPoint": 10
+  },
+  {
+    "Version": "250810.1.0",
+    "Id": 6402,
+    "SetId": 64,
+    "ReachLevel": 2,
+    "HomeCharacterId": 1004,
+    "LotteryPoint": 10
+  },
+  {
+    "Version": "250810.1.0",
+    "Id": 6403,
+    "SetId": 64,
+    "ReachLevel": 2,
+    "HomeCharacterId": 1003,
+    "LotteryPoint": 10
+  },
+  {
+    "Version": "250820.1.0",
+    "Id": 6501,
+    "SetId": 65,
+    "ReachLevel": 1,
+    "HomeCharacterId": 1002,
+    "LotteryPoint": 10
+  },
+  {
+    "Version": "250820.1.0",
+    "Id": 6502,
+    "SetId": 65,
+    "ReachLevel": 2,
+    "HomeCharacterId": 1002,
+    "LotteryPoint": 10
+  },
+  {
+    "Version": "250820.1.0",
+    "Id": 6503,
+    "SetId": 65,
+    "ReachLevel": 2,
+    "HomeCharacterId": 1006,
+    "LotteryPoint": 10
+  },
+  {
+    "Version": "250820.1.0",
+    "Id": 6601,
+    "SetId": 66,
+    "ReachLevel": 1,
+    "HomeCharacterId": 1007,
+    "LotteryPoint": 10
+  },
+  {
+    "Version": "250820.1.0",
+    "Id": 6602,
+    "SetId": 66,
+    "ReachLevel": 2,
+    "HomeCharacterId": 1007,
+    "LotteryPoint": 10
+  },
+  {
+    "Version": "250820.1.0",
+    "Id": 6603,
+    "SetId": 66,
+    "ReachLevel": 2,
+    "HomeCharacterId": 1001,
+    "LotteryPoint": 10
+  },
+  {
+    "Version": "250820.1.0",
+    "Id": 6604,
+    "SetId": 66,
+    "ReachLevel": 3,
+    "HomeCharacterId": 1007,
+    "LotteryPoint": 10
+  },
+  {
+    "Version": "250820.1.0",
+    "Id": 6605,
+    "SetId": 66,
+    "ReachLevel": 3,
+    "HomeCharacterId": 1001,
+    "LotteryPoint": 10
+  },
+  {
+    "Version": "250820.1.0",
+    "Id": 6606,
+    "SetId": 66,
+    "ReachLevel": 3,
+    "HomeCharacterId": 1005,
+    "LotteryPoint": 10
+  },
+  {
+    "Version": "250930.1.0",
+    "Id": 6701,
+    "SetId": 67,
+    "ReachLevel": 1,
+    "HomeCharacterId": 1006,
+    "LotteryPoint": 10
+  },
+  {
+    "Version": "250930.1.0",
+    "Id": 6702,
+    "SetId": 67,
+    "ReachLevel": 2,
+    "HomeCharacterId": 1006,
+    "LotteryPoint": 10
+  },
+  {
+    "Version": "250930.1.0",
+    "Id": 6703,
+    "SetId": 67,
+    "ReachLevel": 2,
+    "HomeCharacterId": 1005,
+    "LotteryPoint": 10
+  },
+  {
+    "Version": "250930.1.0",
+    "Id": 6704,
+    "SetId": 67,
+    "ReachLevel": 3,
+    "HomeCharacterId": 1006,
+    "LotteryPoint": 10
+  },
+  {
+    "Version": "250930.1.0",
+    "Id": 6705,
+    "SetId": 67,
+    "ReachLevel": 3,
+    "HomeCharacterId": 1005,
+    "LotteryPoint": 10
+  },
+  {
+    "Version": "250930.1.0",
+    "Id": 6706,
+    "SetId": 67,
+    "ReachLevel": 3,
+    "HomeCharacterId": 1003,
+    "LotteryPoint": 10
+  },
+  {
+    "Version": "250930.1.0",
+    "Id": 6801,
+    "SetId": 68,
+    "ReachLevel": 1,
+    "HomeCharacterId": 1001,
+    "LotteryPoint": 10
+  },
+  {
+    "Version": "250930.1.0",
+    "Id": 6802,
+    "SetId": 68,
+    "ReachLevel": 2,
+    "HomeCharacterId": 1001,
+    "LotteryPoint": 10
+  },
+  {
+    "Version": "250930.1.0",
+    "Id": 6803,
+    "SetId": 68,
+    "ReachLevel": 2,
+    "HomeCharacterId": 1002,
+    "LotteryPoint": 10
+  },
+  {
+    "Version": "250910.1.0",
+    "Id": 6901,
+    "SetId": 69,
+    "ReachLevel": 1,
+    "HomeCharacterId": 1007,
+    "LotteryPoint": 10
+  },
+  {
+    "Version": "250910.1.0",
+    "Id": 6902,
+    "SetId": 69,
+    "ReachLevel": 2,
+    "HomeCharacterId": 1007,
+    "LotteryPoint": 10
+  },
+  {
+    "Version": "250910.1.0",
+    "Id": 6903,
+    "SetId": 69,
+    "ReachLevel": 2,
+    "HomeCharacterId": 1004,
+    "LotteryPoint": 10
+  },
+  {
+    "Version": "250910.1.0",
+    "Id": 7001,
+    "SetId": 70,
+    "ReachLevel": 1,
+    "HomeCharacterId": 1001,
+    "LotteryPoint": 10
+  },
+  {
+    "Version": "250910.1.0",
+    "Id": 7002,
+    "SetId": 70,
+    "ReachLevel": 2,
+    "HomeCharacterId": 1001,
+    "LotteryPoint": 10
+  },
+  {
+    "Version": "250910.1.0",
+    "Id": 7003,
+    "SetId": 70,
+    "ReachLevel": 2,
+    "HomeCharacterId": 1002,
+    "LotteryPoint": 10
+  },
+  {
+    "Version": "250910.1.0",
+    "Id": 7004,
+    "SetId": 70,
+    "ReachLevel": 3,
+    "HomeCharacterId": 1001,
+    "LotteryPoint": 10
+  },
+  {
+    "Version": "250910.1.0",
+    "Id": 7005,
+    "SetId": 70,
+    "ReachLevel": 3,
+    "HomeCharacterId": 1002,
+    "LotteryPoint": 10
+  },
+  {
+    "Version": "250910.1.0",
+    "Id": 7006,
+    "SetId": 70,
+    "ReachLevel": 3,
+    "HomeCharacterId": 1005,
+    "LotteryPoint": 10
+  },
+  {
+    "Version": "251010.1.0",
+    "Id": 7101,
+    "SetId": 71,
+    "ReachLevel": 1,
+    "HomeCharacterId": 1001,
+    "LotteryPoint": 10
+  },
+  {
+    "Version": "251010.1.0",
+    "Id": 7102,
+    "SetId": 71,
+    "ReachLevel": 1,
+    "HomeCharacterId": 1003,
+    "LotteryPoint": 10
+  },
+  {
+    "Version": "251010.1.0",
+    "Id": 7103,
+    "SetId": 71,
+    "ReachLevel": 2,
+    "HomeCharacterId": 1001,
+    "LotteryPoint": 10
+  },
+  {
+    "Version": "251010.1.0",
+    "Id": 7104,
+    "SetId": 71,
+    "ReachLevel": 2,
+    "HomeCharacterId": 1003,
+    "LotteryPoint": 10
+  },
+  {
+    "Version": "251010.1.0",
+    "Id": 7105,
+    "SetId": 71,
+    "ReachLevel": 3,
+    "HomeCharacterId": 1001,
+    "LotteryPoint": 10
+  },
+  {
+    "Version": "251010.1.0",
+    "Id": 7106,
+    "SetId": 71,
+    "ReachLevel": 3,
+    "HomeCharacterId": 1003,
+    "LotteryPoint": 10
+  },
+  {
+    "Version": "251010.1.0",
+    "Id": 7107,
+    "SetId": 71,
+    "ReachLevel": 3,
+    "HomeCharacterId": 1002,
+    "LotteryPoint": 10
+  },
+  {
+    "Version": "251020.1.0",
+    "Id": 7201,
+    "SetId": 72,
+    "ReachLevel": 1,
+    "HomeCharacterId": 1006,
+    "LotteryPoint": 10
+  },
+  {
+    "Version": "251020.1.0",
+    "Id": 7202,
+    "SetId": 72,
+    "ReachLevel": 1,
+    "HomeCharacterId": 1005,
+    "LotteryPoint": 10
+  },
+  {
+    "Version": "251020.1.0",
+    "Id": 7203,
+    "SetId": 72,
+    "ReachLevel": 2,
+    "HomeCharacterId": 1006,
+    "LotteryPoint": 10
+  },
+  {
+    "Version": "251020.1.0",
+    "Id": 7204,
+    "SetId": 72,
+    "ReachLevel": 2,
+    "HomeCharacterId": 1005,
+    "LotteryPoint": 10
+  },
+  {
+    "Version": "251020.1.0",
+    "Id": 7205,
+    "SetId": 72,
+    "ReachLevel": 3,
+    "HomeCharacterId": 1006,
+    "LotteryPoint": 10
+  },
+  {
+    "Version": "251020.1.0",
+    "Id": 7206,
+    "SetId": 72,
+    "ReachLevel": 3,
+    "HomeCharacterId": 1005,
+    "LotteryPoint": 10
+  },
+  {
+    "Version": "251020.1.0",
+    "Id": 7207,
+    "SetId": 72,
+    "ReachLevel": 3,
+    "HomeCharacterId": 1001,
+    "LotteryPoint": 10
+  },
+  {
+    "Version": "251010.1.0",
+    "Id": 7301,
+    "SetId": 73,
+    "ReachLevel": 1,
+    "HomeCharacterId": 1007,
+    "LotteryPoint": 10
+  },
+  {
+    "Version": "251010.1.0",
+    "Id": 7302,
+    "SetId": 73,
+    "ReachLevel": 1,
+    "HomeCharacterId": 1004,
+    "LotteryPoint": 10
+  },
+  {
+    "Version": "251010.1.0",
+    "Id": 7303,
+    "SetId": 73,
+    "ReachLevel": 2,
+    "HomeCharacterId": 1007,
+    "LotteryPoint": 10
+  },
+  {
+    "Version": "251010.1.0",
+    "Id": 7304,
+    "SetId": 73,
+    "ReachLevel": 2,
+    "HomeCharacterId": 1004,
+    "LotteryPoint": 10
+  },
+  {
+    "Version": "251010.1.0",
+    "Id": 7305,
+    "SetId": 73,
+    "ReachLevel": 2,
+    "HomeCharacterId": 1001,
+    "LotteryPoint": 10
+  },
+  {
+    "Version": "251010.1.0",
+    "Id": 7401,
+    "SetId": 74,
+    "ReachLevel": 1,
+    "HomeCharacterId": 1002,
+    "LotteryPoint": 10
+  },
+  {
+    "Version": "251010.1.0",
+    "Id": 7402,
+    "SetId": 74,
+    "ReachLevel": 2,
+    "HomeCharacterId": 1003,
+    "LotteryPoint": 10
+  },
+  {
+    "Version": "251010.1.0",
+    "Id": 7403,
+    "SetId": 74,
+    "ReachLevel": 3,
+    "HomeCharacterId": 1001,
+    "LotteryPoint": 10
+  },
+  {
+    "Version": "251110.1.0",
+    "Id": 7501,
+    "SetId": 75,
+    "ReachLevel": 1,
+    "HomeCharacterId": 1001,
+    "LotteryPoint": 10
+  },
+  {
+    "Version": "251110.1.0",
+    "Id": 7502,
+    "SetId": 75,
+    "ReachLevel": 2,
+    "HomeCharacterId": 1001,
+    "LotteryPoint": 10
+  },
+  {
+    "Version": "251110.1.0",
+    "Id": 7503,
+    "SetId": 75,
+    "ReachLevel": 2,
+    "HomeCharacterId": 1002,
+    "LotteryPoint": 10
+  },
+  {
+    "Version": "251110.1.0",
+    "Id": 7504,
+    "SetId": 75,
+    "ReachLevel": 3,
+    "HomeCharacterId": 1001,
+    "LotteryPoint": 10
+  },
+  {
+    "Version": "251110.1.0",
+    "Id": 7505,
+    "SetId": 75,
+    "ReachLevel": 3,
+    "HomeCharacterId": 1002,
+    "LotteryPoint": 10
+  },
+  {
+    "Version": "251110.1.0",
+    "Id": 7506,
+    "SetId": 75,
+    "ReachLevel": 3,
+    "HomeCharacterId": 1006,
+    "LotteryPoint": 10
+  },
+  {
+    "Version": "251030.1.0",
+    "Id": 7601,
+    "SetId": 76,
+    "ReachLevel": 1,
+    "HomeCharacterId": 1004,
+    "LotteryPoint": 10
+  },
+  {
+    "Version": "251030.1.0",
+    "Id": 7602,
+    "SetId": 76,
+    "ReachLevel": 2,
+    "HomeCharacterId": 1004,
+    "LotteryPoint": 10
+  },
+  {
+    "Version": "251030.1.0",
+    "Id": 7603,
+    "SetId": 76,
+    "ReachLevel": 2,
+    "HomeCharacterId": 1005,
+    "LotteryPoint": 10
+  },
+  {
+    "Version": "251110.1.0",
+    "Id": 7701,
+    "SetId": 77,
+    "ReachLevel": 1,
+    "HomeCharacterId": 1003,
+    "LotteryPoint": 10
+  },
+  {
+    "Version": "251110.1.0",
+    "Id": 7702,
+    "SetId": 77,
+    "ReachLevel": 2,
+    "HomeCharacterId": 1007,
+    "LotteryPoint": 10
+  },
+  {
+    "Version": "251110.1.0",
+    "Id": 7801,
+    "SetId": 78,
+    "ReachLevel": 1,
+    "HomeCharacterId": 1004,
+    "LotteryPoint": 10
+  },
+  {
+    "Version": "251110.1.0",
+    "Id": 7802,
+    "SetId": 78,
+    "ReachLevel": 1,
+    "HomeCharacterId": 1006,
+    "LotteryPoint": 10
+  },
+  {
+    "Version": "251110.1.0",
+    "Id": 7803,
+    "SetId": 78,
+    "ReachLevel": 2,
+    "HomeCharacterId": 1004,
+    "LotteryPoint": 10
+  },
+  {
+    "Version": "251110.1.0",
+    "Id": 7804,
+    "SetId": 78,
+    "ReachLevel": 2,
+    "HomeCharacterId": 1006,
+    "LotteryPoint": 10
+  },
+  {
+    "Version": "251110.1.0",
+    "Id": 7805,
+    "SetId": 78,
+    "ReachLevel": 3,
+    "HomeCharacterId": 1004,
+    "LotteryPoint": 10
+  },
+  {
+    "Version": "251110.1.0",
+    "Id": 7806,
+    "SetId": 78,
+    "ReachLevel": 3,
+    "HomeCharacterId": 1006,
+    "LotteryPoint": 10
+  },
+  {
+    "Version": "251230.1.0",
+    "Id": 7901,
+    "SetId": 79,
+    "ReachLevel": 1,
+    "HomeCharacterId": 1001,
+    "LotteryPoint": 10
+  },
+  {
+    "Version": "251230.1.0",
+    "Id": 7902,
+    "SetId": 79,
+    "ReachLevel": 2,
+    "HomeCharacterId": 1001,
+    "LotteryPoint": 10
+  },
+  {
+    "Version": "251230.1.0",
+    "Id": 7903,
+    "SetId": 79,
+    "ReachLevel": 2,
+    "HomeCharacterId": 1002,
+    "LotteryPoint": 10
+  },
+  {
+    "Version": "251230.1.0",
+    "Id": 7904,
+    "SetId": 79,
+    "ReachLevel": 3,
+    "HomeCharacterId": 1001,
+    "LotteryPoint": 10
+  },
+  {
+    "Version": "251230.1.0",
+    "Id": 7905,
+    "SetId": 79,
+    "ReachLevel": 3,
+    "HomeCharacterId": 1002,
+    "LotteryPoint": 10
+  },
+  {
+    "Version": "251230.1.0",
+    "Id": 7906,
+    "SetId": 79,
+    "ReachLevel": 3,
+    "HomeCharacterId": 1005,
+    "LotteryPoint": 10
+  },
+  {
+    "Version": "251230.1.0",
+    "Id": 8001,
+    "SetId": 80,
+    "ReachLevel": 1,
+    "HomeCharacterId": 1007,
+    "LotteryPoint": 10
+  },
+  {
+    "Version": "251230.1.0",
+    "Id": 8002,
+    "SetId": 80,
+    "ReachLevel": 2,
+    "HomeCharacterId": 1007,
+    "LotteryPoint": 10
+  },
+  {
+    "Version": "251230.1.0",
+    "Id": 8003,
+    "SetId": 80,
+    "ReachLevel": 2,
+    "HomeCharacterId": 1006,
+    "LotteryPoint": 10
+  },
+  {
+    "Version": "251210.1.0",
+    "Id": 8101,
+    "SetId": 81,
+    "ReachLevel": 1,
+    "HomeCharacterId": 1003,
+    "LotteryPoint": 10
+  },
+  {
+    "Version": "251210.1.0",
+    "Id": 8102,
+    "SetId": 81,
+    "ReachLevel": 2,
+    "HomeCharacterId": 1003,
+    "LotteryPoint": 10
+  },
+  {
+    "Version": "251210.1.0",
+    "Id": 8103,
+    "SetId": 81,
+    "ReachLevel": 2,
+    "HomeCharacterId": 1004,
+    "LotteryPoint": 10
+  },
+  {
+    "Version": "251210.1.0",
+    "Id": 8201,
+    "SetId": 82,
+    "ReachLevel": 1,
+    "HomeCharacterId": 1005,
+    "LotteryPoint": 10
+  },
+  {
+    "Version": "251210.1.0",
+    "Id": 8202,
+    "SetId": 82,
+    "ReachLevel": 2,
+    "HomeCharacterId": 1005,
+    "LotteryPoint": 10
+  },
+  {
+    "Version": "251210.1.0",
+    "Id": 8203,
+    "SetId": 82,
+    "ReachLevel": 2,
+    "HomeCharacterId": 1007,
+    "LotteryPoint": 10
+  },
+  {
+    "Version": "251210.1.0",
+    "Id": 8204,
+    "SetId": 82,
+    "ReachLevel": 3,
+    "HomeCharacterId": 1005,
+    "LotteryPoint": 10
+  },
+  {
+    "Version": "251210.1.0",
+    "Id": 8205,
+    "SetId": 82,
+    "ReachLevel": 3,
+    "HomeCharacterId": 1007,
+    "LotteryPoint": 10
+  },
+  {
+    "Version": "260130.1.0",
+    "Id": 8301,
+    "SetId": 83,
+    "ReachLevel": 1,
+    "HomeCharacterId": 1002,
+    "LotteryPoint": 10
+  },
+  {
+    "Version": "260130.1.0",
+    "Id": 8302,
+    "SetId": 83,
+    "ReachLevel": 2,
+    "HomeCharacterId": 1002,
+    "LotteryPoint": 10
+  },
+  {
+    "Version": "260130.1.0",
+    "Id": 8303,
+    "SetId": 83,
+    "ReachLevel": 2,
+    "HomeCharacterId": 1001,
+    "LotteryPoint": 10
+  },
+  {
+    "Version": "260130.1.0",
+    "Id": 8304,
+    "SetId": 83,
+    "ReachLevel": 3,
+    "HomeCharacterId": 1002,
+    "LotteryPoint": 10
+  },
+  {
+    "Version": "260130.1.0",
+    "Id": 8305,
+    "SetId": 83,
+    "ReachLevel": 3,
+    "HomeCharacterId": 1001,
+    "LotteryPoint": 10
+  },
+  {
+    "Version": "260130.1.0",
+    "Id": 8306,
+    "SetId": 83,
+    "ReachLevel": 3,
+    "HomeCharacterId": 1004,
+    "LotteryPoint": 10
+  },
+  {
+    "Version": "260110.1.0",
+    "Id": 8401,
+    "SetId": 84,
+    "ReachLevel": 1,
+    "HomeCharacterId": 1006,
+    "LotteryPoint": 10
+  },
+  {
+    "Version": "260110.1.0",
+    "Id": 8402,
+    "SetId": 84,
+    "ReachLevel": 2,
+    "HomeCharacterId": 1006,
+    "LotteryPoint": 10
+  },
+  {
+    "Version": "260110.1.0",
+    "Id": 8403,
+    "SetId": 84,
+    "ReachLevel": 2,
+    "HomeCharacterId": 1005,
+    "LotteryPoint": 10
+  },
+  {
+    "Version": "260130.1.0",
+    "Id": 8501,
+    "SetId": 85,
+    "ReachLevel": 1,
+    "HomeCharacterId": 1003,
+    "LotteryPoint": 10
+  },
+  {
+    "Version": "260130.1.0",
+    "Id": 8502,
+    "SetId": 85,
+    "ReachLevel": 2,
+    "HomeCharacterId": 1003,
+    "LotteryPoint": 10
+  },
+  {
+    "Version": "260130.1.0",
+    "Id": 8503,
+    "SetId": 85,
+    "ReachLevel": 2,
+    "HomeCharacterId": 1007,
+    "LotteryPoint": 10
+  },
+  {
+    "Version": "260110.1.0",
+    "Id": 8601,
+    "SetId": 86,
+    "ReachLevel": 1,
+    "HomeCharacterId": 1001,
+    "LotteryPoint": 10
+  },
+  {
+    "Version": "260110.1.0",
+    "Id": 8602,
+    "SetId": 86,
+    "ReachLevel": 2,
+    "HomeCharacterId": 1001,
+    "LotteryPoint": 10
+  },
+  {
+    "Version": "260110.1.0",
+    "Id": 8603,
+    "SetId": 86,
+    "ReachLevel": 2,
+    "HomeCharacterId": 1002,
+    "LotteryPoint": 10
+  },
+  {
+    "Version": "260110.1.0",
+    "Id": 8604,
+    "SetId": 86,
+    "ReachLevel": 3,
+    "HomeCharacterId": 1001,
+    "LotteryPoint": 10
+  },
+  {
+    "Version": "260110.1.0",
+    "Id": 8605,
+    "SetId": 86,
+    "ReachLevel": 3,
+    "HomeCharacterId": 1002,
+    "LotteryPoint": 10
+  },
+  {
+    "Version": "260110.1.0",
+    "Id": 8606,
+    "SetId": 86,
+    "ReachLevel": 3,
+    "HomeCharacterId": 1003,
+    "LotteryPoint": 10
+  },
+  {
+    "Version": "260130.1.0",
+    "Id": 8701,
+    "SetId": 87,
+    "ReachLevel": 1,
+    "HomeCharacterId": 1001,
+    "LotteryPoint": 10
+  },
+  {
+    "Version": "260230.1.0",
+    "Id": 8801,
+    "SetId": 88,
+    "ReachLevel": 1,
+    "HomeCharacterId": 1005,
+    "LotteryPoint": 10
+  },
+  {
+    "Version": "260230.1.0",
+    "Id": 8802,
+    "SetId": 88,
+    "ReachLevel": 2,
+    "HomeCharacterId": 1005,
+    "LotteryPoint": 10
+  },
+  {
+    "Version": "260230.1.0",
+    "Id": 8803,
+    "SetId": 88,
+    "ReachLevel": 2,
+    "HomeCharacterId": 1006,
+    "LotteryPoint": 10
+  },
+  {
+    "Version": "260230.1.0",
+    "Id": 8804,
+    "SetId": 88,
+    "ReachLevel": 2,
+    "HomeCharacterId": 1003,
+    "LotteryPoint": 10
+  },
+  {
+    "Version": "260210.1.0",
+    "Id": 8901,
+    "SetId": 89,
+    "ReachLevel": 1,
+    "HomeCharacterId": 1002,
+    "LotteryPoint": 10
+  },
+  {
+    "Version": "260210.1.0",
+    "Id": 8902,
+    "SetId": 89,
+    "ReachLevel": 2,
+    "HomeCharacterId": 1002,
+    "LotteryPoint": 10
+  },
+  {
+    "Version": "260210.1.0",
+    "Id": 8903,
+    "SetId": 89,
+    "ReachLevel": 2,
+    "HomeCharacterId": 1007,
+    "LotteryPoint": 10
+  },
+  {
+    "Version": "260230.1.0",
+    "Id": 9001,
+    "SetId": 90,
+    "ReachLevel": 1,
+    "HomeCharacterId": 1001,
+    "LotteryPoint": 10
+  },
+  {
+    "Version": "260230.1.0",
+    "Id": 9002,
+    "SetId": 90,
+    "ReachLevel": 2,
+    "HomeCharacterId": 1001,
+    "LotteryPoint": 10
+  },
+  {
+    "Version": "260230.1.0",
+    "Id": 9003,
+    "SetId": 90,
+    "ReachLevel": 2,
+    "HomeCharacterId": 1004,
+    "LotteryPoint": 10
+  },
+  {
+    "Version": "260210.1.0",
+    "Id": 9101,
+    "SetId": 91,
+    "ReachLevel": 1,
+    "HomeCharacterId": 1006,
+    "LotteryPoint": 10
+  },
+  {
+    "Version": "260210.1.0",
+    "Id": 9102,
+    "SetId": 91,
+    "ReachLevel": 2,
+    "HomeCharacterId": 1006,
+    "LotteryPoint": 10
+  },
+  {
+    "Version": "260210.1.0",
+    "Id": 9103,
+    "SetId": 91,
+    "ReachLevel": 2,
+    "HomeCharacterId": 1005,
+    "LotteryPoint": 10
+  },
+  {
+    "Version": "260330.1.0",
+    "Id": 9201,
+    "SetId": 92,
+    "ReachLevel": 1,
+    "HomeCharacterId": 1006,
+    "LotteryPoint": 10
+  },
+  {
+    "Version": "260330.1.0",
+    "Id": 9202,
+    "SetId": 92,
+    "ReachLevel": 2,
+    "HomeCharacterId": 1006,
+    "LotteryPoint": 10
+  },
+  {
+    "Version": "260330.1.0",
+    "Id": 9203,
+    "SetId": 92,
+    "ReachLevel": 2,
+    "HomeCharacterId": 1004,
+    "LotteryPoint": 10
+  },
+  {
+    "Version": "260330.1.0",
+    "Id": 9204,
+    "SetId": 92,
+    "ReachLevel": 2,
+    "HomeCharacterId": 1003,
+    "LotteryPoint": 10
+  },
+  {
+    "Version": "260310.1.0",
+    "Id": 9301,
+    "SetId": 93,
+    "ReachLevel": 1,
+    "HomeCharacterId": 1001,
+    "LotteryPoint": 10
+  },
+  {
+    "Version": "260310.1.0",
+    "Id": 9302,
+    "SetId": 93,
+    "ReachLevel": 2,
+    "HomeCharacterId": 1001,
+    "LotteryPoint": 10
+  },
+  {
+    "Version": "260310.1.0",
+    "Id": 9303,
+    "SetId": 93,
+    "ReachLevel": 2,
+    "HomeCharacterId": 1007,
+    "LotteryPoint": 10
+  },
+  {
+    "Version": "260330.1.0",
+    "Id": 9401,
+    "SetId": 94,
+    "ReachLevel": 1,
+    "HomeCharacterId": 1002,
+    "LotteryPoint": 10
+  },
+  {
+    "Version": "260330.1.0",
+    "Id": 9402,
+    "SetId": 94,
+    "ReachLevel": 2,
+    "HomeCharacterId": 1002,
+    "LotteryPoint": 10
+  },
+  {
+    "Version": "260330.1.0",
+    "Id": 9403,
+    "SetId": 94,
+    "ReachLevel": 2,
+    "HomeCharacterId": 1005,
+    "LotteryPoint": 10
+  },
+  {
+    "Version": "260310.1.0",
+    "Id": 9501,
+    "SetId": 95,
+    "ReachLevel": 1,
+    "HomeCharacterId": 1001,
+    "LotteryPoint": 10
+  },
+  {
+    "Version": "260310.1.0",
+    "Id": 9502,
+    "SetId": 95,
+    "ReachLevel": 1,
+    "HomeCharacterId": 1002,
+    "LotteryPoint": 10
+  },
+  {
+    "Version": "260310.1.0",
+    "Id": 9503,
+    "SetId": 95,
+    "ReachLevel": 2,
+    "HomeCharacterId": 1001,
+    "LotteryPoint": 10
+  },
+  {
+    "Version": "260310.1.0",
+    "Id": 9504,
+    "SetId": 95,
+    "ReachLevel": 2,
+    "HomeCharacterId": 1002,
+    "LotteryPoint": 10
+  },
+  {
+    "Version": "260310.1.0",
+    "Id": 9505,
+    "SetId": 95,
+    "ReachLevel": 2,
+    "HomeCharacterId": 1004,
+    "LotteryPoint": 10
+  },
+  {
+    "Version": "260410.1.0",
+    "Id": 9601,
+    "SetId": 96,
+    "ReachLevel": 1,
+    "HomeCharacterId": 1001,
+    "LotteryPoint": 10
+  },
+  {
+    "Version": "260410.1.0",
+    "Id": 9602,
+    "SetId": 96,
+    "ReachLevel": 2,
+    "HomeCharacterId": 1001,
+    "LotteryPoint": 10
+  },
+  {
+    "Version": "260410.1.0",
+    "Id": 9603,
+    "SetId": 96,
+    "ReachLevel": 2,
+    "HomeCharacterId": 1002,
+    "LotteryPoint": 10
+  },
+  {
+    "Version": "260410.1.0",
+    "Id": 9604,
+    "SetId": 96,
+    "ReachLevel": 3,
+    "HomeCharacterId": 1001,
+    "LotteryPoint": 10
+  },
+  {
+    "Version": "260410.1.0",
+    "Id": 9605,
+    "SetId": 96,
+    "ReachLevel": 3,
+    "HomeCharacterId": 1005,
+    "LotteryPoint": 10
+  },
+  {
+    "Version": "260410.1.0",
+    "Id": 9901,
+    "SetId": 99,
+    "ReachLevel": 1,
+    "HomeCharacterId": 1001,
+    "LotteryPoint": 10
+  },
+  {
+    "Version": "260410.1.0",
+    "Id": 9902,
+    "SetId": 99,
+    "ReachLevel": 1,
+    "HomeCharacterId": 1002,
+    "LotteryPoint": 10
+  },
+  {
+    "Version": "260410.1.0",
+    "Id": 9903,
+    "SetId": 99,
+    "ReachLevel": 2,
+    "HomeCharacterId": 1001,
+    "LotteryPoint": 10
+  },
+  {
+    "Version": "260410.1.0",
+    "Id": 9904,
+    "SetId": 99,
+    "ReachLevel": 2,
+    "HomeCharacterId": 1002,
+    "LotteryPoint": 10
+  },
+  {
+    "Version": "260410.1.0",
+    "Id": 9905,
+    "SetId": 99,
+    "ReachLevel": 2,
+    "HomeCharacterId": 1003,
+    "LotteryPoint": 10
+  },
+  {
+    "Version": "260410.1.0",
+    "Id": 10001,
+    "SetId": 100,
+    "ReachLevel": 1,
+    "HomeCharacterId": 1002,
+    "LotteryPoint": 10
+  }
+]

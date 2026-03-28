@@ -1,0 +1,52 @@
+[
+  {
+    "Version": "250720.1.0",
+    "Id": 1,
+    "NameLabelTextKey": 1207123342,
+    "TreasureGroupId": 1,
+    "OrderNo": 1,
+    "AssetId": 1001,
+    "ContentLockId": 66,
+    "TreasureCategoryType": "Similars"
+  },
+  {
+    "Version": "250720.1.0",
+    "Id": 2,
+    "NameLabelTextKey": -554013644,
+    "TreasureGroupId": 2,
+    "OrderNo": 2,
+    "AssetId": 2001,
+    "ContentLockId": 67,
+    "TreasureCategoryType": "Chair"
+  },
+  {
+    "Version": "250720.1.0",
+    "Id": 3,
+    "NameLabelTextKey": -1443013470,
+    "TreasureGroupId": 3,
+    "OrderNo": 3,
+    "AssetId": 3001,
+    "ContentLockId": 68,
+    "TreasureCategoryType": "Furniture"
+  },
+  {
+    "Version": "250720.1.0",
+    "Id": 4,
+    "NameLabelTextKey": 932825345,
+    "TreasureGroupId": 4,
+    "OrderNo": 4,
+    "AssetId": 4001,
+    "ContentLockId": 69,
+    "TreasureCategoryType": "WallHanging"
+  },
+  {
+    "Version": "250720.1.0",
+    "Id": 5,
+    "NameLabelTextKey": 1084160407,
+    "TreasureGroupId": 5,
+    "OrderNo": 5,
+    "AssetId": 5001,
+    "ContentLockId": 70,
+    "TreasureCategoryType": "Ornament"
+  }
+]

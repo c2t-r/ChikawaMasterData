@@ -1,0 +1,41 @@
+[
+  {
+    "Version": "250330.1.0",
+    "Id": 1,
+    "Scale": 0.8999999761581421,
+    "Count": 0,
+    "SizeTextKey": -748813204,
+    "MinScale": 0.46000000834465027,
+    "MaxScale": 0.8999999761581421,
+    "MinLimitPositionX": -3.0,
+    "MaxLimitPositionX": 3.0,
+    "MinLimitPositionY": -2.0,
+    "MaxLimitPositionY": 9.0
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 2,
+    "Scale": 1.399999976158142,
+    "Count": 0,
+    "SizeTextKey": 1582696857,
+    "MinScale": 0.46000000834465027,
+    "MaxScale": 1.399999976158142,
+    "MinLimitPositionX": -8.0,
+    "MaxLimitPositionX": 8.0,
+    "MinLimitPositionY": -10.0,
+    "MaxLimitPositionY": 8.0
+  },
+  {
+    "Version": "250710.1.0",
+    "Id": 3,
+    "Scale": 1.399999976158142,
+    "Count": 0,
+    "SizeTextKey": 1582696857,
+    "MinScale": 0.46000000834465027,
+    "MaxScale": 1.399999976158142,
+    "MinLimitPositionX": -8.0,
+    "MaxLimitPositionX": 8.0,
+    "MinLimitPositionY": -10.0,
+    "MaxLimitPositionY": 8.0
+  }
+]

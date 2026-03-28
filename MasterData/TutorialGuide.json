@@ -1,0 +1,164 @@
+[
+  {
+    "Version": "250330.1.0",
+    "Id": 1,
+    "TutorialFunctionType": "Cooking",
+    "GuideId": 2
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 2,
+    "TutorialFunctionType": "Weeding",
+    "GuideId": 3
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 3,
+    "TutorialFunctionType": "Study",
+    "GuideId": 4
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 4,
+    "TutorialFunctionType": "CostumeEnhance",
+    "GuideId": 101
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 5,
+    "TutorialFunctionType": "Mastery",
+    "GuideId": 103
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 6,
+    "TutorialFunctionType": "CostumePromotion",
+    "GuideId": 102
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 7,
+    "TutorialFunctionType": "MasteryPromotion",
+    "GuideId": 104
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 8,
+    "TutorialFunctionType": "SubHuntGem",
+    "GuideId": 105
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 9,
+    "TutorialFunctionType": "SubHuntGold",
+    "GuideId": 106
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 10,
+    "TutorialFunctionType": "MemoryTop",
+    "GuideId": 1
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 11,
+    "TutorialFunctionType": "EventTop",
+    "GuideId": 201
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 12,
+    "TutorialFunctionType": "EventTop",
+    "GuideId": 202
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 13,
+    "TutorialFunctionType": "LeagueTop",
+    "GuideId": 301
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 14,
+    "TutorialFunctionType": "HomeItemEnhance",
+    "GuideId": 8
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 15,
+    "TutorialFunctionType": "EventTop",
+    "GuideId": 3001
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 16,
+    "TutorialFunctionType": "Gacha",
+    "GuideId": 10
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 17,
+    "TutorialFunctionType": "HuntReward",
+    "GuideId": 11
+  },
+  {
+    "Version": "250725.1.0",
+    "Id": 18,
+    "TutorialFunctionType": "Treasure",
+    "GuideId": 12
+  },
+  {
+    "Version": "250850.1.0",
+    "Id": 19,
+    "TutorialFunctionType": "HomeCollection",
+    "GuideId": 13
+  },
+  {
+    "Version": "250850.1.0",
+    "Id": 20,
+    "TutorialFunctionType": "HomeCharacterGift",
+    "GuideId": 14
+  },
+  {
+    "Version": "250725.1.0",
+    "Id": 21,
+    "TutorialFunctionType": "SubHuntTreasure",
+    "GuideId": 107
+  },
+  {
+    "Version": "251010.1.0",
+    "Id": 22,
+    "TutorialFunctionType": "ChallengeHunt",
+    "GuideId": 108
+  },
+  {
+    "Version": "251010.1.0",
+    "Id": 23,
+    "TutorialFunctionType": "ArtBook",
+    "GuideId": 109
+  },
+  {
+    "Version": "260410.1.0",
+    "Id": 24,
+    "TutorialFunctionType": "StickerNoteTop",
+    "GuideId": 110
+  },
+  {
+    "Version": "260410.1.0",
+    "Id": 25,
+    "TutorialFunctionType": "SubHuntStrongGem",
+    "GuideId": 112
+  },
+  {
+    "Version": "260410.1.0",
+    "Id": 26,
+    "TutorialFunctionType": "StickerNoteEdit",
+    "GuideId": 111
+  },
+  {
+    "Version": "260410.1.0",
+    "Id": 27,
+    "TutorialFunctionType": "Keyholder",
+    "GuideId": 113
+  }
+]

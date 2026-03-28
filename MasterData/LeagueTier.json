@@ -1,0 +1,47 @@
+[
+  {
+    "Version": "250350.1.0",
+    "Id": 1,
+    "GroupId": 1,
+    "Order": 1,
+    "NameTextKey": 840009327,
+    "AssetId": 1,
+    "LeagueHuntStageGroupId": 1
+  },
+  {
+    "Version": "250350.1.0",
+    "Id": 2,
+    "GroupId": 1,
+    "Order": 2,
+    "NameTextKey": -1424435243,
+    "AssetId": 2,
+    "LeagueHuntStageGroupId": 2
+  },
+  {
+    "Version": "250350.1.0",
+    "Id": 3,
+    "GroupId": 1,
+    "Order": 3,
+    "NameTextKey": -601888957,
+    "AssetId": 3,
+    "LeagueHuntStageGroupId": 3
+  },
+  {
+    "Version": "250350.1.0",
+    "Id": 4,
+    "GroupId": 1,
+    "Order": 4,
+    "NameTextKey": 1115386592,
+    "AssetId": 4,
+    "LeagueHuntStageGroupId": 4
+  },
+  {
+    "Version": "250350.1.0",
+    "Id": 5,
+    "GroupId": 1,
+    "Order": 5,
+    "NameTextKey": 897335926,
+    "AssetId": 5,
+    "LeagueHuntStageGroupId": 5
+  }
+]

@@ -1,0 +1,226 @@
+[
+  {
+    "Version": "250330.1.0",
+    "Id": 1001,
+    "AssetId": 1,
+    "DisplayThreshold": 1,
+    "CharacterBaseSortOrder": 7,
+    "CharacterPropSortOrder": 23
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 1000,
+    "AssetId": 1,
+    "DisplayThreshold": 0,
+    "CharacterBaseSortOrder": 0,
+    "CharacterPropSortOrder": 0
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 2001,
+    "AssetId": 2,
+    "DisplayThreshold": 1,
+    "CharacterBaseSortOrder": 6,
+    "CharacterPropSortOrder": 15
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 2000,
+    "AssetId": 2,
+    "DisplayThreshold": 0,
+    "CharacterBaseSortOrder": 0,
+    "CharacterPropSortOrder": 0
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 3001,
+    "AssetId": 3,
+    "DisplayThreshold": 1,
+    "CharacterBaseSortOrder": 8,
+    "CharacterPropSortOrder": 16
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 3000,
+    "AssetId": 3,
+    "DisplayThreshold": 0,
+    "CharacterBaseSortOrder": 0,
+    "CharacterPropSortOrder": 0
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 4001,
+    "AssetId": 4,
+    "DisplayThreshold": 1,
+    "CharacterBaseSortOrder": 9,
+    "CharacterPropSortOrder": 18
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 4000,
+    "AssetId": 4,
+    "DisplayThreshold": 0,
+    "CharacterBaseSortOrder": 0,
+    "CharacterPropSortOrder": 0
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 5001,
+    "AssetId": 5,
+    "DisplayThreshold": 1,
+    "CharacterBaseSortOrder": 7,
+    "CharacterPropSortOrder": 15
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 5000,
+    "AssetId": 5,
+    "DisplayThreshold": 0,
+    "CharacterBaseSortOrder": 0,
+    "CharacterPropSortOrder": 0
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 6001,
+    "AssetId": 6,
+    "DisplayThreshold": 1,
+    "CharacterBaseSortOrder": 7,
+    "CharacterPropSortOrder": 14
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 6000,
+    "AssetId": 6,
+    "DisplayThreshold": 0,
+    "CharacterBaseSortOrder": 0,
+    "CharacterPropSortOrder": 0
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 7001,
+    "AssetId": 7,
+    "DisplayThreshold": 1,
+    "CharacterBaseSortOrder": 8,
+    "CharacterPropSortOrder": 14
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 7000,
+    "AssetId": 7,
+    "DisplayThreshold": 0,
+    "CharacterBaseSortOrder": 0,
+    "CharacterPropSortOrder": 0
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 1075,
+    "AssetId": 1,
+    "DisplayThreshold": 75,
+    "CharacterBaseSortOrder": 17,
+    "CharacterPropSortOrder": 46
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 1025,
+    "AssetId": 1,
+    "DisplayThreshold": 25,
+    "CharacterBaseSortOrder": 14,
+    "CharacterPropSortOrder": 33
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 3075,
+    "AssetId": 3,
+    "DisplayThreshold": 75,
+    "CharacterBaseSortOrder": 25,
+    "CharacterPropSortOrder": 37
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 3025,
+    "AssetId": 3,
+    "DisplayThreshold": 25,
+    "CharacterBaseSortOrder": 18,
+    "CharacterPropSortOrder": 29
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 2075,
+    "AssetId": 2,
+    "DisplayThreshold": 75,
+    "CharacterBaseSortOrder": 27,
+    "CharacterPropSortOrder": 43
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 2025,
+    "AssetId": 2,
+    "DisplayThreshold": 25,
+    "CharacterBaseSortOrder": 17,
+    "CharacterPropSortOrder": 32
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 4075,
+    "AssetId": 4,
+    "DisplayThreshold": 75,
+    "CharacterBaseSortOrder": 28,
+    "CharacterPropSortOrder": 43
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 4025,
+    "AssetId": 4,
+    "DisplayThreshold": 25,
+    "CharacterBaseSortOrder": 15,
+    "CharacterPropSortOrder": 29
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 5075,
+    "AssetId": 5,
+    "DisplayThreshold": 75,
+    "CharacterBaseSortOrder": 32,
+    "CharacterPropSortOrder": 46
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 5025,
+    "AssetId": 5,
+    "DisplayThreshold": 25,
+    "CharacterBaseSortOrder": 15,
+    "CharacterPropSortOrder": 26
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 6075,
+    "AssetId": 6,
+    "DisplayThreshold": 75,
+    "CharacterBaseSortOrder": 28,
+    "CharacterPropSortOrder": 54
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 6025,
+    "AssetId": 6,
+    "DisplayThreshold": 25,
+    "CharacterBaseSortOrder": 14,
+    "CharacterPropSortOrder": 33
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 7075,
+    "AssetId": 7,
+    "DisplayThreshold": 75,
+    "CharacterBaseSortOrder": 25,
+    "CharacterPropSortOrder": 36
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 7025,
+    "AssetId": 7,
+    "DisplayThreshold": 25,
+    "CharacterBaseSortOrder": 13,
+    "CharacterPropSortOrder": 23
+  }
+]

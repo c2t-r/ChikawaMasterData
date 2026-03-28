@@ -1,0 +1,239 @@
+[
+  {
+    "Version": "250330.1.0",
+    "Id": 101,
+    "TabTextKey": 0,
+    "GuideItemPageIds": [
+      101
+    ]
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 201,
+    "TabTextKey": 0,
+    "GuideItemPageIds": [
+      201,
+      202,
+      203,
+      204
+    ]
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 301,
+    "TabTextKey": 0,
+    "GuideItemPageIds": [
+      301,
+      302,
+      303
+    ]
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 401,
+    "TabTextKey": 0,
+    "GuideItemPageIds": [
+      401
+    ]
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 501,
+    "TabTextKey": 1343088708,
+    "GuideItemPageIds": [
+      501
+    ]
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 502,
+    "TabTextKey": 2123636730,
+    "GuideItemPageIds": [
+      511,
+      512
+    ]
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 601,
+    "TabTextKey": -1691736122,
+    "GuideItemPageIds": [
+      601,
+      602
+    ]
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 602,
+    "TabTextKey": 1901433756,
+    "GuideItemPageIds": [
+      611
+    ]
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 701,
+    "TabTextKey": 1055571648,
+    "GuideItemPageIds": [
+      701,
+      702
+    ]
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 702,
+    "TabTextKey": 1347471643,
+    "GuideItemPageIds": [
+      711
+    ]
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 801,
+    "TabTextKey": 0,
+    "GuideItemPageIds": [
+      801,
+      802,
+      803
+    ]
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 901,
+    "TabTextKey": 0,
+    "GuideItemPageIds": [
+      901
+    ]
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 1001,
+    "TabTextKey": 0,
+    "GuideItemPageIds": [
+      1001,
+      1002,
+      1003
+    ]
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 3001,
+    "TabTextKey": 0,
+    "GuideItemPageIds": [
+      30011,
+      30012
+    ]
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 2001,
+    "TabTextKey": 0,
+    "GuideItemPageIds": [
+      2001,
+      2002
+    ]
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 4001,
+    "TabTextKey": 0,
+    "GuideItemPageIds": [
+      4001
+    ]
+  },
+  {
+    "Version": "250725.1.0",
+    "Id": 5001,
+    "TabTextKey": 0,
+    "GuideItemPageIds": [
+      5001,
+      5002,
+      5003
+    ]
+  },
+  {
+    "Version": "250850.1.0",
+    "Id": 1301,
+    "TabTextKey": 0,
+    "GuideItemPageIds": [
+      1301
+    ]
+  },
+  {
+    "Version": "250850.1.0",
+    "Id": 1401,
+    "TabTextKey": 0,
+    "GuideItemPageIds": [
+      1401
+    ]
+  },
+  {
+    "Version": "260410.1.0",
+    "Id": 703,
+    "TabTextKey": -1792014560,
+    "GuideItemPageIds": [
+      721
+    ]
+  },
+  {
+    "Version": "251010.1.0",
+    "Id": 3002,
+    "TabTextKey": 0,
+    "GuideItemPageIds": [
+      30021,
+      30022
+    ]
+  },
+  {
+    "Version": "251010.1.0",
+    "Id": 3003,
+    "TabTextKey": 0,
+    "GuideItemPageIds": [
+      30031,
+      30032,
+      30033
+    ]
+  },
+  {
+    "Version": "260410.1.0",
+    "Id": 1101,
+    "TabTextKey": 0,
+    "GuideItemPageIds": [
+      11011,
+      11012,
+      11013
+    ]
+  },
+  {
+    "Version": "260410.1.0",
+    "Id": 1111,
+    "TabTextKey": 0,
+    "GuideItemPageIds": [
+      11111,
+      11112,
+      11113,
+      11114
+    ]
+  },
+  {
+    "Version": "260410.1.0",
+    "Id": 704,
+    "TabTextKey": -1106843429,
+    "GuideItemPageIds": [
+      731
+    ]
+  },
+  {
+    "Version": "260410.1.0",
+    "Id": 1201,
+    "TabTextKey": 0,
+    "GuideItemPageIds": [
+      12011,
+      12012,
+      12013,
+      12014,
+      12015,
+      12016
+    ]
+  }
+]

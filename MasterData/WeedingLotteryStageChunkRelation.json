@@ -1,0 +1,92 @@
+[
+  {
+    "Version": "250330.1.0",
+    "Id": 1,
+    "ChunkNumber": 1,
+    "WeedingStageChunkLotteryGroupId": 101
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 2,
+    "ChunkNumber": 2,
+    "WeedingStageChunkLotteryGroupId": 102
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 3,
+    "ChunkNumber": 3,
+    "WeedingStageChunkLotteryGroupId": 401
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 4,
+    "ChunkNumber": 4,
+    "WeedingStageChunkLotteryGroupId": 201
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 5,
+    "ChunkNumber": 5,
+    "WeedingStageChunkLotteryGroupId": 202
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 6,
+    "ChunkNumber": 6,
+    "WeedingStageChunkLotteryGroupId": 101
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 7,
+    "ChunkNumber": 7,
+    "WeedingStageChunkLotteryGroupId": 102
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 8,
+    "ChunkNumber": 8,
+    "WeedingStageChunkLotteryGroupId": 201
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 9,
+    "ChunkNumber": 9,
+    "WeedingStageChunkLotteryGroupId": 301
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 10,
+    "ChunkNumber": 10,
+    "WeedingStageChunkLotteryGroupId": 302
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 11,
+    "ChunkNumber": 11,
+    "WeedingStageChunkLotteryGroupId": 202
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 12,
+    "ChunkNumber": 12,
+    "WeedingStageChunkLotteryGroupId": 101
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 13,
+    "ChunkNumber": 13,
+    "WeedingStageChunkLotteryGroupId": 302
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 14,
+    "ChunkNumber": 14,
+    "WeedingStageChunkLotteryGroupId": 301
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 15,
+    "ChunkNumber": 15,
+    "WeedingStageChunkLotteryGroupId": 102
+  }
+]

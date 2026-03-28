@@ -1,0 +1,37 @@
+[
+  {
+    "Version": "250330.1.0",
+    "Id": 1,
+    "AssetId": 1,
+    "RewardId": 200003,
+    "RewardAcquireAssetId": 1
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 2,
+    "AssetId": 2,
+    "RewardId": 11000050,
+    "RewardAcquireAssetId": 1
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 3,
+    "AssetId": 3,
+    "RewardId": 210002,
+    "RewardAcquireAssetId": 11
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 4,
+    "AssetId": 4,
+    "RewardId": 220002,
+    "RewardAcquireAssetId": 12
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 5,
+    "AssetId": 5,
+    "RewardId": 100001,
+    "RewardAcquireAssetId": 4
+  }
+]

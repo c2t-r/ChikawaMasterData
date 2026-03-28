@@ -1,0 +1,26 @@
+[
+  {
+    "Version": "250330.1.0",
+    "Id": 1,
+    "Rarity": "SuperRare",
+    "ExperienceGroupId": 31,
+    "EnhanceConsumeIdPerExperience": 16,
+    "UnlockLevelUpperGroupId": 1
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 2,
+    "Rarity": "HyperRare",
+    "ExperienceGroupId": 32,
+    "EnhanceConsumeIdPerExperience": 16,
+    "UnlockLevelUpperGroupId": 2
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 3,
+    "Rarity": "UltraRare",
+    "ExperienceGroupId": 33,
+    "EnhanceConsumeIdPerExperience": 16,
+    "UnlockLevelUpperGroupId": 3
+  }
+]

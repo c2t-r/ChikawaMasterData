@@ -1,0 +1,10 @@
+[
+  {
+    "Version": "250330.1.0",
+    "Id": 1,
+    "Type": "ClubMembershipActivateEnd",
+    "RelativeBeforeDay": 0,
+    "RelativeAfterDay": 3,
+    "BuffItemId": 103
+  }
+]

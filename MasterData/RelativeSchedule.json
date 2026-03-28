@@ -1,0 +1,290 @@
+[
+  {
+    "Version": "250330.1.0",
+    "Id": 1,
+    "TimeUnitType": "Day",
+    "TimeUnitCount": 28
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 2,
+    "TimeUnitType": "Day",
+    "TimeUnitCount": 28
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 3,
+    "TimeUnitType": "Day",
+    "TimeUnitCount": 28
+  },
+  {
+    "Version": "250632.1.0",
+    "Id": 4,
+    "TimeUnitType": "Day",
+    "TimeUnitCount": 2
+  },
+  {
+    "Version": "260110.1.0",
+    "Id": 5,
+    "TimeUnitType": "Day",
+    "TimeUnitCount": 2
+  },
+  {
+    "Version": "260330.1.0",
+    "Id": 6,
+    "TimeUnitType": "Day",
+    "TimeUnitCount": 1
+  },
+  {
+    "Version": "260330.1.0",
+    "Id": 7,
+    "TimeUnitType": "Day",
+    "TimeUnitCount": 1
+  },
+  {
+    "Version": "260330.1.0",
+    "Id": 8,
+    "TimeUnitType": "Day",
+    "TimeUnitCount": 1
+  },
+  {
+    "Version": "260330.1.0",
+    "Id": 9,
+    "TimeUnitType": "Day",
+    "TimeUnitCount": 1
+  },
+  {
+    "Version": "260330.1.0",
+    "Id": 10,
+    "TimeUnitType": "Day",
+    "TimeUnitCount": 1
+  },
+  {
+    "Version": "260330.1.0",
+    "Id": 11,
+    "TimeUnitType": "Day",
+    "TimeUnitCount": 1
+  },
+  {
+    "Version": "260330.1.0",
+    "Id": 12,
+    "TimeUnitType": "Day",
+    "TimeUnitCount": 1
+  },
+  {
+    "Version": "260330.1.0",
+    "Id": 13,
+    "TimeUnitType": "Day",
+    "TimeUnitCount": 1
+  },
+  {
+    "Version": "260410.1.0",
+    "Id": 14,
+    "TimeUnitType": "Day",
+    "TimeUnitCount": 1
+  },
+  {
+    "Version": "260410.1.0",
+    "Id": 15,
+    "TimeUnitType": "Day",
+    "TimeUnitCount": 1
+  },
+  {
+    "Version": "260410.1.0",
+    "Id": 16,
+    "TimeUnitType": "Day",
+    "TimeUnitCount": 1
+  },
+  {
+    "Version": "260410.1.0",
+    "Id": 17,
+    "TimeUnitType": "Day",
+    "TimeUnitCount": 1
+  },
+  {
+    "Version": "260410.1.0",
+    "Id": 18,
+    "TimeUnitType": "Day",
+    "TimeUnitCount": 1
+  },
+  {
+    "Version": "260410.1.0",
+    "Id": 19,
+    "TimeUnitType": "Day",
+    "TimeUnitCount": 1
+  },
+  {
+    "Version": "260410.1.0",
+    "Id": 20,
+    "TimeUnitType": "Day",
+    "TimeUnitCount": 1
+  },
+  {
+    "Version": "260410.1.0",
+    "Id": 21,
+    "TimeUnitType": "Day",
+    "TimeUnitCount": 1
+  },
+  {
+    "Version": "260410.1.0",
+    "Id": 22,
+    "TimeUnitType": "Day",
+    "TimeUnitCount": 1
+  },
+  {
+    "Version": "260410.1.0",
+    "Id": 23,
+    "TimeUnitType": "Day",
+    "TimeUnitCount": 1
+  },
+  {
+    "Version": "260410.1.0",
+    "Id": 24,
+    "TimeUnitType": "Day",
+    "TimeUnitCount": 1
+  },
+  {
+    "Version": "260410.1.0",
+    "Id": 25,
+    "TimeUnitType": "Day",
+    "TimeUnitCount": 1
+  },
+  {
+    "Version": "260410.1.0",
+    "Id": 26,
+    "TimeUnitType": "Day",
+    "TimeUnitCount": 1
+  },
+  {
+    "Version": "260410.1.0",
+    "Id": 27,
+    "TimeUnitType": "Day",
+    "TimeUnitCount": 1
+  },
+  {
+    "Version": "260410.1.0",
+    "Id": 28,
+    "TimeUnitType": "Day",
+    "TimeUnitCount": 1
+  },
+  {
+    "Version": "260410.1.0",
+    "Id": 29,
+    "TimeUnitType": "Day",
+    "TimeUnitCount": 1
+  },
+  {
+    "Version": "260410.1.0",
+    "Id": 30,
+    "TimeUnitType": "Day",
+    "TimeUnitCount": 1
+  },
+  {
+    "Version": "260410.1.0",
+    "Id": 31,
+    "TimeUnitType": "Day",
+    "TimeUnitCount": 1
+  },
+  {
+    "Version": "260410.1.0",
+    "Id": 32,
+    "TimeUnitType": "Day",
+    "TimeUnitCount": 1
+  },
+  {
+    "Version": "260410.1.0",
+    "Id": 33,
+    "TimeUnitType": "Day",
+    "TimeUnitCount": 1
+  },
+  {
+    "Version": "260410.1.0",
+    "Id": 34,
+    "TimeUnitType": "Day",
+    "TimeUnitCount": 1
+  },
+  {
+    "Version": "260410.1.0",
+    "Id": 35,
+    "TimeUnitType": "Day",
+    "TimeUnitCount": 1
+  },
+  {
+    "Version": "260410.1.0",
+    "Id": 36,
+    "TimeUnitType": "Day",
+    "TimeUnitCount": 1
+  },
+  {
+    "Version": "260410.1.0",
+    "Id": 37,
+    "TimeUnitType": "Day",
+    "TimeUnitCount": 1
+  },
+  {
+    "Version": "260410.1.0",
+    "Id": 38,
+    "TimeUnitType": "Day",
+    "TimeUnitCount": 1
+  },
+  {
+    "Version": "260410.1.0",
+    "Id": 39,
+    "TimeUnitType": "Day",
+    "TimeUnitCount": 1
+  },
+  {
+    "Version": "260410.1.0",
+    "Id": 40,
+    "TimeUnitType": "Day",
+    "TimeUnitCount": 1
+  },
+  {
+    "Version": "260410.1.0",
+    "Id": 41,
+    "TimeUnitType": "Day",
+    "TimeUnitCount": 1
+  },
+  {
+    "Version": "260410.1.0",
+    "Id": 42,
+    "TimeUnitType": "Day",
+    "TimeUnitCount": 1
+  },
+  {
+    "Version": "260410.1.0",
+    "Id": 43,
+    "TimeUnitType": "Day",
+    "TimeUnitCount": 1
+  },
+  {
+    "Version": "260410.1.0",
+    "Id": 44,
+    "TimeUnitType": "Day",
+    "TimeUnitCount": 1
+  },
+  {
+    "Version": "260410.1.0",
+    "Id": 45,
+    "TimeUnitType": "Day",
+    "TimeUnitCount": 1
+  },
+  {
+    "Version": "260410.1.0",
+    "Id": 46,
+    "TimeUnitType": "Day",
+    "TimeUnitCount": 1
+  },
+  {
+    "Version": "260410.1.0",
+    "Id": 47,
+    "TimeUnitType": "Day",
+    "TimeUnitCount": 1
+  },
+  {
+    "Version": "260410.1.0",
+    "Id": 48,
+    "TimeUnitType": "Day",
+    "TimeUnitCount": 1
+  }
+]

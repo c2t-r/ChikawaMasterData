@@ -1,0 +1,443 @@
+[
+  {
+    "Version": "250850.1.0",
+    "Id": 10011,
+    "HomeCharacterGroupId": 1001,
+    "IdleAnimationId": 211,
+    "PlayAnimationId": 212,
+    "Weight": 30,
+    "ConditionGroupId": 0
+  },
+  {
+    "Version": "250850.1.0",
+    "Id": 10012,
+    "HomeCharacterGroupId": 1001,
+    "IdleAnimationId": 221,
+    "PlayAnimationId": 222,
+    "Weight": 10,
+    "ConditionGroupId": 0
+  },
+  {
+    "Version": "250850.1.0",
+    "Id": 10013,
+    "HomeCharacterGroupId": 1001,
+    "IdleAnimationId": 221,
+    "PlayAnimationId": 223,
+    "Weight": 10,
+    "ConditionGroupId": 0
+  },
+  {
+    "Version": "250850.1.0",
+    "Id": 10014,
+    "HomeCharacterGroupId": 1001,
+    "IdleAnimationId": 221,
+    "PlayAnimationId": 224,
+    "Weight": 10,
+    "ConditionGroupId": 0
+  },
+  {
+    "Version": "250850.1.0",
+    "Id": 10021,
+    "HomeCharacterGroupId": 1002,
+    "IdleAnimationId": 211,
+    "PlayAnimationId": 212,
+    "Weight": 30,
+    "ConditionGroupId": 0
+  },
+  {
+    "Version": "250850.1.0",
+    "Id": 10022,
+    "HomeCharacterGroupId": 1002,
+    "IdleAnimationId": 221,
+    "PlayAnimationId": 222,
+    "Weight": 10,
+    "ConditionGroupId": 0
+  },
+  {
+    "Version": "250850.1.0",
+    "Id": 10023,
+    "HomeCharacterGroupId": 1002,
+    "IdleAnimationId": 221,
+    "PlayAnimationId": 223,
+    "Weight": 10,
+    "ConditionGroupId": 0
+  },
+  {
+    "Version": "250850.1.0",
+    "Id": 10024,
+    "HomeCharacterGroupId": 1002,
+    "IdleAnimationId": 221,
+    "PlayAnimationId": 224,
+    "Weight": 10,
+    "ConditionGroupId": 0
+  },
+  {
+    "Version": "250850.1.0",
+    "Id": 10031,
+    "HomeCharacterGroupId": 1003,
+    "IdleAnimationId": 211,
+    "PlayAnimationId": 212,
+    "Weight": 30,
+    "ConditionGroupId": 0
+  },
+  {
+    "Version": "250850.1.0",
+    "Id": 10032,
+    "HomeCharacterGroupId": 1003,
+    "IdleAnimationId": 221,
+    "PlayAnimationId": 222,
+    "Weight": 10,
+    "ConditionGroupId": 0
+  },
+  {
+    "Version": "250850.1.0",
+    "Id": 10033,
+    "HomeCharacterGroupId": 1003,
+    "IdleAnimationId": 221,
+    "PlayAnimationId": 223,
+    "Weight": 10,
+    "ConditionGroupId": 0
+  },
+  {
+    "Version": "250850.1.0",
+    "Id": 10034,
+    "HomeCharacterGroupId": 1003,
+    "IdleAnimationId": 221,
+    "PlayAnimationId": 225,
+    "Weight": 10,
+    "ConditionGroupId": 0
+  },
+  {
+    "Version": "250850.1.0",
+    "Id": 10041,
+    "HomeCharacterGroupId": 1004,
+    "IdleAnimationId": 211,
+    "PlayAnimationId": 212,
+    "Weight": 30,
+    "ConditionGroupId": 0
+  },
+  {
+    "Version": "250850.1.0",
+    "Id": 10042,
+    "HomeCharacterGroupId": 1004,
+    "IdleAnimationId": 221,
+    "PlayAnimationId": 222,
+    "Weight": 10,
+    "ConditionGroupId": 0
+  },
+  {
+    "Version": "250850.1.0",
+    "Id": 10043,
+    "HomeCharacterGroupId": 1004,
+    "IdleAnimationId": 221,
+    "PlayAnimationId": 223,
+    "Weight": 10,
+    "ConditionGroupId": 0
+  },
+  {
+    "Version": "250850.1.0",
+    "Id": 10044,
+    "HomeCharacterGroupId": 1004,
+    "IdleAnimationId": 221,
+    "PlayAnimationId": 224,
+    "Weight": 10,
+    "ConditionGroupId": 0
+  },
+  {
+    "Version": "250850.1.0",
+    "Id": 10051,
+    "HomeCharacterGroupId": 1005,
+    "IdleAnimationId": 211,
+    "PlayAnimationId": 212,
+    "Weight": 30,
+    "ConditionGroupId": 0
+  },
+  {
+    "Version": "250850.1.0",
+    "Id": 10052,
+    "HomeCharacterGroupId": 1005,
+    "IdleAnimationId": 221,
+    "PlayAnimationId": 222,
+    "Weight": 10,
+    "ConditionGroupId": 0
+  },
+  {
+    "Version": "250850.1.0",
+    "Id": 10053,
+    "HomeCharacterGroupId": 1005,
+    "IdleAnimationId": 221,
+    "PlayAnimationId": 223,
+    "Weight": 10,
+    "ConditionGroupId": 0
+  },
+  {
+    "Version": "250850.1.0",
+    "Id": 10054,
+    "HomeCharacterGroupId": 1005,
+    "IdleAnimationId": 221,
+    "PlayAnimationId": 224,
+    "Weight": 10,
+    "ConditionGroupId": 0
+  },
+  {
+    "Version": "250850.1.0",
+    "Id": 10061,
+    "HomeCharacterGroupId": 1006,
+    "IdleAnimationId": 211,
+    "PlayAnimationId": 212,
+    "Weight": 30,
+    "ConditionGroupId": 0
+  },
+  {
+    "Version": "250850.1.0",
+    "Id": 10062,
+    "HomeCharacterGroupId": 1006,
+    "IdleAnimationId": 221,
+    "PlayAnimationId": 222,
+    "Weight": 10,
+    "ConditionGroupId": 0
+  },
+  {
+    "Version": "250850.1.0",
+    "Id": 10063,
+    "HomeCharacterGroupId": 1006,
+    "IdleAnimationId": 221,
+    "PlayAnimationId": 223,
+    "Weight": 10,
+    "ConditionGroupId": 0
+  },
+  {
+    "Version": "250850.1.0",
+    "Id": 10064,
+    "HomeCharacterGroupId": 1006,
+    "IdleAnimationId": 221,
+    "PlayAnimationId": 224,
+    "Weight": 10,
+    "ConditionGroupId": 0
+  },
+  {
+    "Version": "250850.1.0",
+    "Id": 10071,
+    "HomeCharacterGroupId": 1007,
+    "IdleAnimationId": 211,
+    "PlayAnimationId": 212,
+    "Weight": 30,
+    "ConditionGroupId": 0
+  },
+  {
+    "Version": "250850.1.0",
+    "Id": 10072,
+    "HomeCharacterGroupId": 1007,
+    "IdleAnimationId": 221,
+    "PlayAnimationId": 222,
+    "Weight": 10,
+    "ConditionGroupId": 0
+  },
+  {
+    "Version": "250850.1.0",
+    "Id": 10073,
+    "HomeCharacterGroupId": 1007,
+    "IdleAnimationId": 221,
+    "PlayAnimationId": 223,
+    "Weight": 10,
+    "ConditionGroupId": 0
+  },
+  {
+    "Version": "250850.1.0",
+    "Id": 10074,
+    "HomeCharacterGroupId": 1007,
+    "IdleAnimationId": 221,
+    "PlayAnimationId": 224,
+    "Weight": 10,
+    "ConditionGroupId": 0
+  },
+  {
+    "Version": "250850.1.0",
+    "Id": 30011,
+    "HomeCharacterGroupId": 3001,
+    "IdleAnimationId": 251,
+    "PlayAnimationId": 252,
+    "Weight": 10,
+    "ConditionGroupId": 0
+  },
+  {
+    "Version": "250850.1.0",
+    "Id": 30021,
+    "HomeCharacterGroupId": 3002,
+    "IdleAnimationId": 251,
+    "PlayAnimationId": 252,
+    "Weight": 10,
+    "ConditionGroupId": 0
+  },
+  {
+    "Version": "250850.1.0",
+    "Id": 30031,
+    "HomeCharacterGroupId": 3003,
+    "IdleAnimationId": 251,
+    "PlayAnimationId": 252,
+    "Weight": 10,
+    "ConditionGroupId": 0
+  },
+  {
+    "Version": "250850.1.0",
+    "Id": 30041,
+    "HomeCharacterGroupId": 3004,
+    "IdleAnimationId": 251,
+    "PlayAnimationId": 252,
+    "Weight": 10,
+    "ConditionGroupId": 0
+  },
+  {
+    "Version": "250850.1.0",
+    "Id": 30051,
+    "HomeCharacterGroupId": 3005,
+    "IdleAnimationId": 251,
+    "PlayAnimationId": 252,
+    "Weight": 10,
+    "ConditionGroupId": 0
+  },
+  {
+    "Version": "250850.1.0",
+    "Id": 30061,
+    "HomeCharacterGroupId": 3006,
+    "IdleAnimationId": 251,
+    "PlayAnimationId": 252,
+    "Weight": 10,
+    "ConditionGroupId": 0
+  },
+  {
+    "Version": "250850.1.0",
+    "Id": 30071,
+    "HomeCharacterGroupId": 3007,
+    "IdleAnimationId": 251,
+    "PlayAnimationId": 252,
+    "Weight": 10,
+    "ConditionGroupId": 0
+  },
+  {
+    "Version": "250850.1.0",
+    "Id": 30081,
+    "HomeCharacterGroupId": 3008,
+    "IdleAnimationId": 251,
+    "PlayAnimationId": 252,
+    "Weight": 10,
+    "ConditionGroupId": 0
+  },
+  {
+    "Version": "250850.1.0",
+    "Id": 30091,
+    "HomeCharacterGroupId": 3009,
+    "IdleAnimationId": 251,
+    "PlayAnimationId": 252,
+    "Weight": 10,
+    "ConditionGroupId": 0
+  },
+  {
+    "Version": "250850.1.0",
+    "Id": 30111,
+    "HomeCharacterGroupId": 3011,
+    "IdleAnimationId": 251,
+    "PlayAnimationId": 252,
+    "Weight": 10,
+    "ConditionGroupId": 0
+  },
+  {
+    "Version": "250850.1.0",
+    "Id": 30121,
+    "HomeCharacterGroupId": 3012,
+    "IdleAnimationId": 251,
+    "PlayAnimationId": 252,
+    "Weight": 10,
+    "ConditionGroupId": 0
+  },
+  {
+    "Version": "250850.1.0",
+    "Id": 30131,
+    "HomeCharacterGroupId": 3013,
+    "IdleAnimationId": 251,
+    "PlayAnimationId": 252,
+    "Weight": 10,
+    "ConditionGroupId": 0
+  },
+  {
+    "Version": "250850.1.0",
+    "Id": 30141,
+    "HomeCharacterGroupId": 3014,
+    "IdleAnimationId": 251,
+    "PlayAnimationId": 252,
+    "Weight": 10,
+    "ConditionGroupId": 0
+  },
+  {
+    "Version": "250850.1.0",
+    "Id": 30151,
+    "HomeCharacterGroupId": 3015,
+    "IdleAnimationId": 251,
+    "PlayAnimationId": 252,
+    "Weight": 10,
+    "ConditionGroupId": 0
+  },
+  {
+    "Version": "250850.1.0",
+    "Id": 30161,
+    "HomeCharacterGroupId": 3016,
+    "IdleAnimationId": 251,
+    "PlayAnimationId": 252,
+    "Weight": 10,
+    "ConditionGroupId": 0
+  },
+  {
+    "Version": "250850.1.0",
+    "Id": 30171,
+    "HomeCharacterGroupId": 3017,
+    "IdleAnimationId": 251,
+    "PlayAnimationId": 252,
+    "Weight": 10,
+    "ConditionGroupId": 0
+  },
+  {
+    "Version": "250850.1.0",
+    "Id": 30181,
+    "HomeCharacterGroupId": 3018,
+    "IdleAnimationId": 251,
+    "PlayAnimationId": 252,
+    "Weight": 10,
+    "ConditionGroupId": 0
+  },
+  {
+    "Version": "250850.1.0",
+    "Id": 30191,
+    "HomeCharacterGroupId": 3019,
+    "IdleAnimationId": 251,
+    "PlayAnimationId": 252,
+    "Weight": 10,
+    "ConditionGroupId": 0
+  },
+  {
+    "Version": "250850.1.0",
+    "Id": 30201,
+    "HomeCharacterGroupId": 3020,
+    "IdleAnimationId": 251,
+    "PlayAnimationId": 252,
+    "Weight": 10,
+    "ConditionGroupId": 0
+  },
+  {
+    "Version": "250850.1.0",
+    "Id": 30211,
+    "HomeCharacterGroupId": 3021,
+    "IdleAnimationId": 251,
+    "PlayAnimationId": 252,
+    "Weight": 10,
+    "ConditionGroupId": 0
+  },
+  {
+    "Version": "250850.1.0",
+    "Id": 30221,
+    "HomeCharacterGroupId": 3022,
+    "IdleAnimationId": 251,
+    "PlayAnimationId": 252,
+    "Weight": 10,
+    "ConditionGroupId": 0
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "Version": "251010.1.0",
+    "Id": 101507,
+    "OutGameAssetId": 1,
+    "InGameUnderBgAssetId": 105,
+    "HuntStageNameTextKey": -1017702415,
+    "HuntDescriptionTextKey": 590389391
+  },
+  {
+    "Version": "260410.1.0",
+    "Id": 102607,
+    "OutGameAssetId": 3,
+    "InGameUnderBgAssetId": 255,
+    "HuntStageNameTextKey": -1017702415,
+    "HuntDescriptionTextKey": 590389391
+  }
+]

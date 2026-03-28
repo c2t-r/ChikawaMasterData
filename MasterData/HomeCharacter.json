@@ -1,0 +1,562 @@
+[
+  {
+    "Version": "250330.1.0",
+    "Id": 1001,
+    "HomeCharacterType": "Main",
+    "Value": 11001,
+    "EventZone": {
+      "x": 0.0,
+      "y": 0.15000000596046448,
+      "width": 2.0,
+      "height": 1.5
+    },
+    "BodyZone": {
+      "x": 0.0,
+      "y": 0.0,
+      "width": 1.0,
+      "height": 1.0
+    },
+    "GiftAssetId": 1001,
+    "SortOrder": 1
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 1002,
+    "HomeCharacterType": "Main",
+    "Value": 12001,
+    "EventZone": {
+      "x": 0.0,
+      "y": 0.15000000596046448,
+      "width": 2.0,
+      "height": 1.5
+    },
+    "BodyZone": {
+      "x": 0.0,
+      "y": 0.0,
+      "width": 1.0,
+      "height": 1.0
+    },
+    "GiftAssetId": 1002,
+    "SortOrder": 2
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 1003,
+    "HomeCharacterType": "Main",
+    "Value": 13001,
+    "EventZone": {
+      "x": 0.0,
+      "y": 0.15000000596046448,
+      "width": 2.0,
+      "height": 1.5
+    },
+    "BodyZone": {
+      "x": 0.0,
+      "y": 0.0,
+      "width": 1.0,
+      "height": 1.0
+    },
+    "GiftAssetId": 1003,
+    "SortOrder": 3
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 1004,
+    "HomeCharacterType": "Main",
+    "Value": 14001,
+    "EventZone": {
+      "x": 0.0,
+      "y": 0.15000000596046448,
+      "width": 2.0,
+      "height": 1.5
+    },
+    "BodyZone": {
+      "x": 0.0,
+      "y": 0.0,
+      "width": 1.0,
+      "height": 1.0
+    },
+    "GiftAssetId": 1004,
+    "SortOrder": 5
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 1005,
+    "HomeCharacterType": "Main",
+    "Value": 15001,
+    "EventZone": {
+      "x": 0.0,
+      "y": 0.15000000596046448,
+      "width": 2.0,
+      "height": 1.5
+    },
+    "BodyZone": {
+      "x": 0.0,
+      "y": 0.0,
+      "width": 1.0,
+      "height": 1.0
+    },
+    "GiftAssetId": 1005,
+    "SortOrder": 4
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 1006,
+    "HomeCharacterType": "Main",
+    "Value": 16001,
+    "EventZone": {
+      "x": 0.0,
+      "y": 0.15000000596046448,
+      "width": 2.0,
+      "height": 1.5
+    },
+    "BodyZone": {
+      "x": 0.0,
+      "y": 0.0,
+      "width": 1.0,
+      "height": 1.0
+    },
+    "GiftAssetId": 1006,
+    "SortOrder": 6
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 1007,
+    "HomeCharacterType": "Main",
+    "Value": 17001,
+    "EventZone": {
+      "x": 0.0,
+      "y": 0.15000000596046448,
+      "width": 2.0,
+      "height": 1.5
+    },
+    "BodyZone": {
+      "x": 0.0,
+      "y": 0.0,
+      "width": 1.0,
+      "height": 1.0
+    },
+    "GiftAssetId": 1007,
+    "SortOrder": 7
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 3001,
+    "HomeCharacterType": "Sub",
+    "Value": 19,
+    "EventZone": {
+      "x": 0.0,
+      "y": 0.30000001192092896,
+      "width": 3.0,
+      "height": 3.0
+    },
+    "BodyZone": {
+      "x": 0.0,
+      "y": 0.0,
+      "width": 2.0,
+      "height": 2.0
+    },
+    "GiftAssetId": 3001,
+    "SortOrder": 8
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 3002,
+    "HomeCharacterType": "Sub",
+    "Value": 7,
+    "EventZone": {
+      "x": 0.0,
+      "y": 0.30000001192092896,
+      "width": 3.0,
+      "height": 3.0
+    },
+    "BodyZone": {
+      "x": 0.0,
+      "y": 0.0,
+      "width": 2.0,
+      "height": 2.0
+    },
+    "GiftAssetId": 3002,
+    "SortOrder": 9
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 3003,
+    "HomeCharacterType": "Sub",
+    "Value": 4,
+    "EventZone": {
+      "x": 0.0,
+      "y": 0.30000001192092896,
+      "width": 3.0,
+      "height": 3.0
+    },
+    "BodyZone": {
+      "x": 0.0,
+      "y": 0.0,
+      "width": 2.0,
+      "height": 2.0
+    },
+    "GiftAssetId": 3003,
+    "SortOrder": 10
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 3004,
+    "HomeCharacterType": "Sub",
+    "Value": 2,
+    "EventZone": {
+      "x": 0.0,
+      "y": 0.30000001192092896,
+      "width": 3.0,
+      "height": 3.0
+    },
+    "BodyZone": {
+      "x": 0.0,
+      "y": 0.0,
+      "width": 2.0,
+      "height": 2.0
+    },
+    "GiftAssetId": 3004,
+    "SortOrder": 11
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 3005,
+    "HomeCharacterType": "Sub",
+    "Value": 1,
+    "EventZone": {
+      "x": 0.0,
+      "y": 0.30000001192092896,
+      "width": 3.0,
+      "height": 3.0
+    },
+    "BodyZone": {
+      "x": 0.0,
+      "y": 0.0,
+      "width": 2.0,
+      "height": 2.0
+    },
+    "GiftAssetId": 3005,
+    "SortOrder": 12
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 3006,
+    "HomeCharacterType": "Sub",
+    "Value": 3,
+    "EventZone": {
+      "x": 0.0,
+      "y": 0.30000001192092896,
+      "width": 3.0,
+      "height": 3.0
+    },
+    "BodyZone": {
+      "x": 0.0,
+      "y": 0.0,
+      "width": 2.0,
+      "height": 2.0
+    },
+    "GiftAssetId": 3006,
+    "SortOrder": 13
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 3007,
+    "HomeCharacterType": "Sub",
+    "Value": 10,
+    "EventZone": {
+      "x": 0.0,
+      "y": 0.30000001192092896,
+      "width": 3.0,
+      "height": 3.0
+    },
+    "BodyZone": {
+      "x": 0.0,
+      "y": 0.0,
+      "width": 2.0,
+      "height": 2.0
+    },
+    "GiftAssetId": 3007,
+    "SortOrder": 14
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 3008,
+    "HomeCharacterType": "Sub",
+    "Value": 6,
+    "EventZone": {
+      "x": 0.0,
+      "y": 0.30000001192092896,
+      "width": 3.0,
+      "height": 3.0
+    },
+    "BodyZone": {
+      "x": 0.0,
+      "y": 0.0,
+      "width": 2.0,
+      "height": 2.0
+    },
+    "GiftAssetId": 3008,
+    "SortOrder": 15
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 3009,
+    "HomeCharacterType": "Sub",
+    "Value": 9,
+    "EventZone": {
+      "x": 0.0,
+      "y": 0.30000001192092896,
+      "width": 3.0,
+      "height": 3.0
+    },
+    "BodyZone": {
+      "x": 0.0,
+      "y": 0.0,
+      "width": 2.0,
+      "height": 2.0
+    },
+    "GiftAssetId": 3009,
+    "SortOrder": 16
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 3011,
+    "HomeCharacterType": "Sub",
+    "Value": 5,
+    "EventZone": {
+      "x": 0.0,
+      "y": 0.30000001192092896,
+      "width": 3.0,
+      "height": 3.0
+    },
+    "BodyZone": {
+      "x": 0.0,
+      "y": 0.0,
+      "width": 2.0,
+      "height": 2.0
+    },
+    "GiftAssetId": 3011,
+    "SortOrder": 17
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 3012,
+    "HomeCharacterType": "Sub",
+    "Value": 13,
+    "EventZone": {
+      "x": 0.0,
+      "y": 0.30000001192092896,
+      "width": 3.0,
+      "height": 3.0
+    },
+    "BodyZone": {
+      "x": 0.0,
+      "y": 0.0,
+      "width": 2.0,
+      "height": 2.0
+    },
+    "GiftAssetId": 3012,
+    "SortOrder": 18
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 3013,
+    "HomeCharacterType": "Sub",
+    "Value": 14,
+    "EventZone": {
+      "x": 0.0,
+      "y": 0.30000001192092896,
+      "width": 3.0,
+      "height": 3.0
+    },
+    "BodyZone": {
+      "x": 0.0,
+      "y": 0.0,
+      "width": 2.0,
+      "height": 2.0
+    },
+    "GiftAssetId": 3013,
+    "SortOrder": 19
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 3014,
+    "HomeCharacterType": "Sub",
+    "Value": 17,
+    "EventZone": {
+      "x": 0.0,
+      "y": 0.30000001192092896,
+      "width": 3.0,
+      "height": 3.0
+    },
+    "BodyZone": {
+      "x": 0.0,
+      "y": 0.0,
+      "width": 2.0,
+      "height": 2.0
+    },
+    "GiftAssetId": 3014,
+    "SortOrder": 20
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 3015,
+    "HomeCharacterType": "Sub",
+    "Value": 8,
+    "EventZone": {
+      "x": 0.0,
+      "y": 0.30000001192092896,
+      "width": 3.0,
+      "height": 3.0
+    },
+    "BodyZone": {
+      "x": 0.0,
+      "y": 0.0,
+      "width": 2.0,
+      "height": 2.0
+    },
+    "GiftAssetId": 3015,
+    "SortOrder": 21
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 3016,
+    "HomeCharacterType": "Sub",
+    "Value": 16,
+    "EventZone": {
+      "x": 0.0,
+      "y": 0.30000001192092896,
+      "width": 3.0,
+      "height": 3.0
+    },
+    "BodyZone": {
+      "x": 0.0,
+      "y": 0.0,
+      "width": 2.0,
+      "height": 2.0
+    },
+    "GiftAssetId": 3016,
+    "SortOrder": 22
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 3017,
+    "HomeCharacterType": "Sub",
+    "Value": 15,
+    "EventZone": {
+      "x": 0.0,
+      "y": 0.30000001192092896,
+      "width": 3.0,
+      "height": 3.0
+    },
+    "BodyZone": {
+      "x": 0.0,
+      "y": 0.0,
+      "width": 2.0,
+      "height": 2.0
+    },
+    "GiftAssetId": 3017,
+    "SortOrder": 23
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 3018,
+    "HomeCharacterType": "Sub",
+    "Value": 12,
+    "EventZone": {
+      "x": 0.0,
+      "y": 0.30000001192092896,
+      "width": 3.0,
+      "height": 3.0
+    },
+    "BodyZone": {
+      "x": 0.0,
+      "y": 0.0,
+      "width": 2.0,
+      "height": 2.0
+    },
+    "GiftAssetId": 3018,
+    "SortOrder": 24
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 3019,
+    "HomeCharacterType": "Sub",
+    "Value": 18,
+    "EventZone": {
+      "x": 0.0,
+      "y": 0.30000001192092896,
+      "width": 3.0,
+      "height": 3.0
+    },
+    "BodyZone": {
+      "x": 0.0,
+      "y": 0.0,
+      "width": 2.0,
+      "height": 2.0
+    },
+    "GiftAssetId": 3019,
+    "SortOrder": 25
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 3020,
+    "HomeCharacterType": "Sub",
+    "Value": 20,
+    "EventZone": {
+      "x": 0.0,
+      "y": 0.30000001192092896,
+      "width": 3.0,
+      "height": 3.0
+    },
+    "BodyZone": {
+      "x": 0.0,
+      "y": 0.0,
+      "width": 2.0,
+      "height": 2.0
+    },
+    "GiftAssetId": 3020,
+    "SortOrder": 26
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 3021,
+    "HomeCharacterType": "Sub",
+    "Value": 21,
+    "EventZone": {
+      "x": 0.0,
+      "y": 0.30000001192092896,
+      "width": 3.0,
+      "height": 3.0
+    },
+    "BodyZone": {
+      "x": 0.0,
+      "y": 0.0,
+      "width": 2.0,
+      "height": 2.0
+    },
+    "GiftAssetId": 3021,
+    "SortOrder": 27
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 3022,
+    "HomeCharacterType": "Sub",
+    "Value": 11,
+    "EventZone": {
+      "x": 0.0,
+      "y": 0.30000001192092896,
+      "width": 3.0,
+      "height": 3.0
+    },
+    "BodyZone": {
+      "x": 0.0,
+      "y": 0.0,
+      "width": 2.0,
+      "height": 2.0
+    },
+    "GiftAssetId": 3022,
+    "SortOrder": 28
+  }
+]

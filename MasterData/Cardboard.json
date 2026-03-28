@@ -1,0 +1,98 @@
+[
+  {
+    "Version": "260410.1.0",
+    "Id": 200001,
+    "CardboardGroupId": 1,
+    "NameTextKey": -142453143,
+    "DescriptionTextKey": 1314391765,
+    "CardboardAssetId": 1,
+    "SortOrder": 10,
+    "ViewConditionId": 0,
+    "ReleaseType": "Default",
+    "MasterId": 0
+  },
+  {
+    "Version": "260410.1.0",
+    "Id": 200002,
+    "CardboardGroupId": 1,
+    "NameTextKey": 1854605267,
+    "DescriptionTextKey": -682535057,
+    "CardboardAssetId": 2,
+    "SortOrder": 20,
+    "ViewConditionId": 0,
+    "ReleaseType": "Default",
+    "MasterId": 0
+  },
+  {
+    "Version": "260410.1.0",
+    "Id": 200003,
+    "CardboardGroupId": 1,
+    "NameTextKey": 428619589,
+    "DescriptionTextKey": -1604950023,
+    "CardboardAssetId": 3,
+    "SortOrder": 30,
+    "ViewConditionId": 0,
+    "ReleaseType": "Default",
+    "MasterId": 0
+  },
+  {
+    "Version": "260410.1.0",
+    "Id": 200004,
+    "CardboardGroupId": 1,
+    "NameTextKey": -2014797082,
+    "DescriptionTextKey": 1043526234,
+    "CardboardAssetId": 4,
+    "SortOrder": 40,
+    "ViewConditionId": 0,
+    "ReleaseType": "Default",
+    "MasterId": 0
+  },
+  {
+    "Version": "260410.1.0",
+    "Id": 200005,
+    "CardboardGroupId": 1,
+    "NameTextKey": -252734864,
+    "DescriptionTextKey": 1228260044,
+    "CardboardAssetId": 5,
+    "SortOrder": 50,
+    "ViewConditionId": 0,
+    "ReleaseType": "Default",
+    "MasterId": 0
+  },
+  {
+    "Version": "260410.1.0",
+    "Id": 200006,
+    "CardboardGroupId": 1,
+    "NameTextKey": 1776731082,
+    "DescriptionTextKey": -801336458,
+    "CardboardAssetId": 6,
+    "SortOrder": 60,
+    "ViewConditionId": 0,
+    "ReleaseType": "Default",
+    "MasterId": 0
+  },
+  {
+    "Version": "260410.1.0",
+    "Id": 200007,
+    "CardboardGroupId": 1,
+    "NameTextKey": 518124380,
+    "DescriptionTextKey": -1489263648,
+    "CardboardAssetId": 7,
+    "SortOrder": 70,
+    "ViewConditionId": 0,
+    "ReleaseType": "Default",
+    "MasterId": 0
+  },
+  {
+    "Version": "260410.1.0",
+    "Id": 200008,
+    "CardboardGroupId": 1,
+    "NameTextKey": -1906381107,
+    "DescriptionTextKey": 931446385,
+    "CardboardAssetId": 8,
+    "SortOrder": 80,
+    "ViewConditionId": 0,
+    "ReleaseType": "Default",
+    "MasterId": 0
+  }
+]

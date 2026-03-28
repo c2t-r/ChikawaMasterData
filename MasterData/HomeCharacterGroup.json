@@ -1,0 +1,618 @@
+[
+  {
+    "Version": "250850.1.0",
+    "Id": 1001,
+    "SlotNum": 1,
+    "HomeCharacterIds": [
+      1001
+    ],
+    "EventZone": {
+      "x": 0.0,
+      "y": 0.15000000596046448,
+      "width": 2.0,
+      "height": 1.5
+    },
+    "BodyZone": {
+      "x": 0.0,
+      "y": 0.0,
+      "width": 1.0,
+      "height": 1.0
+    },
+    "GroupAssetId": 0,
+    "GroupNameTextKey": 0
+  },
+  {
+    "Version": "250850.1.0",
+    "Id": 1002,
+    "SlotNum": 1,
+    "HomeCharacterIds": [
+      1002
+    ],
+    "EventZone": {
+      "x": 0.0,
+      "y": 0.15000000596046448,
+      "width": 2.0,
+      "height": 1.5
+    },
+    "BodyZone": {
+      "x": 0.0,
+      "y": 0.0,
+      "width": 1.0,
+      "height": 1.0
+    },
+    "GroupAssetId": 0,
+    "GroupNameTextKey": 0
+  },
+  {
+    "Version": "250850.1.0",
+    "Id": 1003,
+    "SlotNum": 1,
+    "HomeCharacterIds": [
+      1003
+    ],
+    "EventZone": {
+      "x": 0.0,
+      "y": 0.15000000596046448,
+      "width": 2.0,
+      "height": 1.5
+    },
+    "BodyZone": {
+      "x": 0.0,
+      "y": 0.0,
+      "width": 1.0,
+      "height": 1.0
+    },
+    "GroupAssetId": 0,
+    "GroupNameTextKey": 0
+  },
+  {
+    "Version": "250850.1.0",
+    "Id": 1004,
+    "SlotNum": 1,
+    "HomeCharacterIds": [
+      1004
+    ],
+    "EventZone": {
+      "x": 0.0,
+      "y": 0.15000000596046448,
+      "width": 2.0,
+      "height": 1.5
+    },
+    "BodyZone": {
+      "x": 0.0,
+      "y": 0.0,
+      "width": 1.0,
+      "height": 1.0
+    },
+    "GroupAssetId": 0,
+    "GroupNameTextKey": 0
+  },
+  {
+    "Version": "250850.1.0",
+    "Id": 1005,
+    "SlotNum": 1,
+    "HomeCharacterIds": [
+      1005
+    ],
+    "EventZone": {
+      "x": 0.0,
+      "y": 0.15000000596046448,
+      "width": 2.0,
+      "height": 1.5
+    },
+    "BodyZone": {
+      "x": 0.0,
+      "y": 0.0,
+      "width": 1.0,
+      "height": 1.0
+    },
+    "GroupAssetId": 0,
+    "GroupNameTextKey": 0
+  },
+  {
+    "Version": "250850.1.0",
+    "Id": 1006,
+    "SlotNum": 1,
+    "HomeCharacterIds": [
+      1006
+    ],
+    "EventZone": {
+      "x": 0.0,
+      "y": 0.15000000596046448,
+      "width": 2.0,
+      "height": 1.5
+    },
+    "BodyZone": {
+      "x": 0.0,
+      "y": 0.0,
+      "width": 1.0,
+      "height": 1.0
+    },
+    "GroupAssetId": 0,
+    "GroupNameTextKey": 0
+  },
+  {
+    "Version": "250850.1.0",
+    "Id": 1007,
+    "SlotNum": 1,
+    "HomeCharacterIds": [
+      1007
+    ],
+    "EventZone": {
+      "x": 0.0,
+      "y": 0.15000000596046448,
+      "width": 2.0,
+      "height": 1.5
+    },
+    "BodyZone": {
+      "x": 0.0,
+      "y": 0.0,
+      "width": 1.0,
+      "height": 1.0
+    },
+    "GroupAssetId": 0,
+    "GroupNameTextKey": 0
+  },
+  {
+    "Version": "250850.1.0",
+    "Id": 3001,
+    "SlotNum": 2,
+    "HomeCharacterIds": [
+      3001
+    ],
+    "EventZone": {
+      "x": 0.0,
+      "y": 0.30000001192092896,
+      "width": 3.0,
+      "height": 3.0
+    },
+    "BodyZone": {
+      "x": 0.0,
+      "y": 0.0,
+      "width": 2.0,
+      "height": 2.0
+    },
+    "GroupAssetId": 0,
+    "GroupNameTextKey": 0
+  },
+  {
+    "Version": "250850.1.0",
+    "Id": 3002,
+    "SlotNum": 1,
+    "HomeCharacterIds": [
+      3002
+    ],
+    "EventZone": {
+      "x": 0.0,
+      "y": 0.30000001192092896,
+      "width": 3.0,
+      "height": 3.0
+    },
+    "BodyZone": {
+      "x": 0.0,
+      "y": 0.0,
+      "width": 2.0,
+      "height": 2.0
+    },
+    "GroupAssetId": 0,
+    "GroupNameTextKey": 0
+  },
+  {
+    "Version": "250850.1.0",
+    "Id": 3003,
+    "SlotNum": 2,
+    "HomeCharacterIds": [
+      3003
+    ],
+    "EventZone": {
+      "x": 0.0,
+      "y": 0.30000001192092896,
+      "width": 3.0,
+      "height": 3.0
+    },
+    "BodyZone": {
+      "x": 0.0,
+      "y": 0.0,
+      "width": 2.0,
+      "height": 2.0
+    },
+    "GroupAssetId": 0,
+    "GroupNameTextKey": 0
+  },
+  {
+    "Version": "250850.1.0",
+    "Id": 3004,
+    "SlotNum": 2,
+    "HomeCharacterIds": [
+      3004
+    ],
+    "EventZone": {
+      "x": 0.0,
+      "y": 0.30000001192092896,
+      "width": 3.0,
+      "height": 3.0
+    },
+    "BodyZone": {
+      "x": 0.0,
+      "y": 0.0,
+      "width": 2.0,
+      "height": 2.0
+    },
+    "GroupAssetId": 0,
+    "GroupNameTextKey": 0
+  },
+  {
+    "Version": "250850.1.0",
+    "Id": 3005,
+    "SlotNum": 2,
+    "HomeCharacterIds": [
+      3005
+    ],
+    "EventZone": {
+      "x": 0.0,
+      "y": 0.30000001192092896,
+      "width": 3.0,
+      "height": 3.0
+    },
+    "BodyZone": {
+      "x": 0.0,
+      "y": 0.0,
+      "width": 2.0,
+      "height": 2.0
+    },
+    "GroupAssetId": 0,
+    "GroupNameTextKey": 0
+  },
+  {
+    "Version": "250850.1.0",
+    "Id": 3006,
+    "SlotNum": 2,
+    "HomeCharacterIds": [
+      3006
+    ],
+    "EventZone": {
+      "x": 0.0,
+      "y": 0.30000001192092896,
+      "width": 3.0,
+      "height": 3.0
+    },
+    "BodyZone": {
+      "x": 0.0,
+      "y": 0.0,
+      "width": 2.0,
+      "height": 2.0
+    },
+    "GroupAssetId": 0,
+    "GroupNameTextKey": 0
+  },
+  {
+    "Version": "250850.1.0",
+    "Id": 3007,
+    "SlotNum": 1,
+    "HomeCharacterIds": [
+      3007
+    ],
+    "EventZone": {
+      "x": 0.0,
+      "y": 0.30000001192092896,
+      "width": 3.0,
+      "height": 3.0
+    },
+    "BodyZone": {
+      "x": 0.0,
+      "y": 0.0,
+      "width": 2.0,
+      "height": 2.0
+    },
+    "GroupAssetId": 0,
+    "GroupNameTextKey": 0
+  },
+  {
+    "Version": "250850.1.0",
+    "Id": 3008,
+    "SlotNum": 2,
+    "HomeCharacterIds": [
+      3008
+    ],
+    "EventZone": {
+      "x": 0.0,
+      "y": 0.30000001192092896,
+      "width": 3.0,
+      "height": 3.0
+    },
+    "BodyZone": {
+      "x": 0.0,
+      "y": 0.0,
+      "width": 2.0,
+      "height": 2.0
+    },
+    "GroupAssetId": 0,
+    "GroupNameTextKey": 0
+  },
+  {
+    "Version": "250850.1.0",
+    "Id": 3009,
+    "SlotNum": 1,
+    "HomeCharacterIds": [
+      3009
+    ],
+    "EventZone": {
+      "x": 0.0,
+      "y": 0.30000001192092896,
+      "width": 3.0,
+      "height": 3.0
+    },
+    "BodyZone": {
+      "x": 0.0,
+      "y": 0.0,
+      "width": 2.0,
+      "height": 2.0
+    },
+    "GroupAssetId": 0,
+    "GroupNameTextKey": 0
+  },
+  {
+    "Version": "250850.1.0",
+    "Id": 3011,
+    "SlotNum": 2,
+    "HomeCharacterIds": [
+      3011
+    ],
+    "EventZone": {
+      "x": 0.0,
+      "y": 0.30000001192092896,
+      "width": 3.0,
+      "height": 3.0
+    },
+    "BodyZone": {
+      "x": 0.0,
+      "y": 0.0,
+      "width": 2.0,
+      "height": 2.0
+    },
+    "GroupAssetId": 0,
+    "GroupNameTextKey": 0
+  },
+  {
+    "Version": "250850.1.0",
+    "Id": 3012,
+    "SlotNum": 2,
+    "HomeCharacterIds": [
+      3012
+    ],
+    "EventZone": {
+      "x": 0.0,
+      "y": 0.30000001192092896,
+      "width": 3.0,
+      "height": 3.0
+    },
+    "BodyZone": {
+      "x": 0.0,
+      "y": 0.0,
+      "width": 2.0,
+      "height": 2.0
+    },
+    "GroupAssetId": 0,
+    "GroupNameTextKey": 0
+  },
+  {
+    "Version": "250850.1.0",
+    "Id": 3013,
+    "SlotNum": 2,
+    "HomeCharacterIds": [
+      3013
+    ],
+    "EventZone": {
+      "x": 0.0,
+      "y": 0.30000001192092896,
+      "width": 3.0,
+      "height": 3.0
+    },
+    "BodyZone": {
+      "x": 0.0,
+      "y": 0.0,
+      "width": 2.0,
+      "height": 2.0
+    },
+    "GroupAssetId": 0,
+    "GroupNameTextKey": 0
+  },
+  {
+    "Version": "250850.1.0",
+    "Id": 3014,
+    "SlotNum": 1,
+    "HomeCharacterIds": [
+      3014
+    ],
+    "EventZone": {
+      "x": 0.0,
+      "y": 0.30000001192092896,
+      "width": 3.0,
+      "height": 3.0
+    },
+    "BodyZone": {
+      "x": 0.0,
+      "y": 0.0,
+      "width": 2.0,
+      "height": 2.0
+    },
+    "GroupAssetId": 0,
+    "GroupNameTextKey": 0
+  },
+  {
+    "Version": "250850.1.0",
+    "Id": 3015,
+    "SlotNum": 1,
+    "HomeCharacterIds": [
+      3015
+    ],
+    "EventZone": {
+      "x": 0.0,
+      "y": 0.30000001192092896,
+      "width": 3.0,
+      "height": 3.0
+    },
+    "BodyZone": {
+      "x": 0.0,
+      "y": 0.0,
+      "width": 2.0,
+      "height": 2.0
+    },
+    "GroupAssetId": 0,
+    "GroupNameTextKey": 0
+  },
+  {
+    "Version": "250850.1.0",
+    "Id": 3016,
+    "SlotNum": 2,
+    "HomeCharacterIds": [
+      3016
+    ],
+    "EventZone": {
+      "x": 0.0,
+      "y": 0.30000001192092896,
+      "width": 3.0,
+      "height": 3.0
+    },
+    "BodyZone": {
+      "x": 0.0,
+      "y": 0.0,
+      "width": 2.0,
+      "height": 2.0
+    },
+    "GroupAssetId": 0,
+    "GroupNameTextKey": 0
+  },
+  {
+    "Version": "250850.1.0",
+    "Id": 3017,
+    "SlotNum": 2,
+    "HomeCharacterIds": [
+      3017
+    ],
+    "EventZone": {
+      "x": 0.0,
+      "y": 0.30000001192092896,
+      "width": 3.0,
+      "height": 3.0
+    },
+    "BodyZone": {
+      "x": 0.0,
+      "y": 0.0,
+      "width": 2.0,
+      "height": 2.0
+    },
+    "GroupAssetId": 0,
+    "GroupNameTextKey": 0
+  },
+  {
+    "Version": "250850.1.0",
+    "Id": 3018,
+    "SlotNum": 2,
+    "HomeCharacterIds": [
+      3018
+    ],
+    "EventZone": {
+      "x": 0.0,
+      "y": 0.30000001192092896,
+      "width": 3.0,
+      "height": 3.0
+    },
+    "BodyZone": {
+      "x": 0.0,
+      "y": 0.0,
+      "width": 2.0,
+      "height": 2.0
+    },
+    "GroupAssetId": 0,
+    "GroupNameTextKey": 0
+  },
+  {
+    "Version": "250850.1.0",
+    "Id": 3019,
+    "SlotNum": 2,
+    "HomeCharacterIds": [
+      3019
+    ],
+    "EventZone": {
+      "x": 0.0,
+      "y": 0.30000001192092896,
+      "width": 3.0,
+      "height": 3.0
+    },
+    "BodyZone": {
+      "x": 0.0,
+      "y": 0.0,
+      "width": 2.0,
+      "height": 2.0
+    },
+    "GroupAssetId": 0,
+    "GroupNameTextKey": 0
+  },
+  {
+    "Version": "250850.1.0",
+    "Id": 3020,
+    "SlotNum": 1,
+    "HomeCharacterIds": [
+      3020
+    ],
+    "EventZone": {
+      "x": 0.0,
+      "y": 0.30000001192092896,
+      "width": 3.0,
+      "height": 3.0
+    },
+    "BodyZone": {
+      "x": 0.0,
+      "y": 0.0,
+      "width": 2.0,
+      "height": 2.0
+    },
+    "GroupAssetId": 0,
+    "GroupNameTextKey": 0
+  },
+  {
+    "Version": "250850.1.0",
+    "Id": 3021,
+    "SlotNum": 1,
+    "HomeCharacterIds": [
+      3021
+    ],
+    "EventZone": {
+      "x": 0.0,
+      "y": 0.30000001192092896,
+      "width": 3.0,
+      "height": 3.0
+    },
+    "BodyZone": {
+      "x": 0.0,
+      "y": 0.0,
+      "width": 2.0,
+      "height": 2.0
+    },
+    "GroupAssetId": 0,
+    "GroupNameTextKey": 0
+  },
+  {
+    "Version": "250850.1.0",
+    "Id": 3022,
+    "SlotNum": 2,
+    "HomeCharacterIds": [
+      3022
+    ],
+    "EventZone": {
+      "x": 0.0,
+      "y": 0.30000001192092896,
+      "width": 3.0,
+      "height": 3.0
+    },
+    "BodyZone": {
+      "x": 0.0,
+      "y": 0.0,
+      "width": 2.0,
+      "height": 2.0
+    },
+    "GroupAssetId": 0,
+    "GroupNameTextKey": 0
+  }
+]

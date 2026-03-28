@@ -1,0 +1,47 @@
+[
+  {
+    "Version": "250330.1.0",
+    "Id": 1,
+    "GroupId": 1,
+    "StartLevel": 100,
+    "EndLevel": 120,
+    "ConsumeId": 21,
+    "PromotionCount": 1
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 2,
+    "GroupId": 1,
+    "StartLevel": 120,
+    "EndLevel": 140,
+    "ConsumeId": 22,
+    "PromotionCount": 2
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 3,
+    "GroupId": 1,
+    "StartLevel": 140,
+    "EndLevel": 160,
+    "ConsumeId": 23,
+    "PromotionCount": 3
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 4,
+    "GroupId": 1,
+    "StartLevel": 160,
+    "EndLevel": 180,
+    "ConsumeId": 24,
+    "PromotionCount": 4
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 5,
+    "GroupId": 1,
+    "StartLevel": 180,
+    "EndLevel": 200,
+    "ConsumeId": 25,
+    "PromotionCount": 5
+  }
+]

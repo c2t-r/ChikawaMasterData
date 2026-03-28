@@ -1,0 +1,416 @@
+[
+  {
+    "Version": "250350.1.0",
+    "Id": 5,
+    "NameTextKey": -531647454,
+    "DescriptionTextKey": 868666586,
+    "AssetId": 1001,
+    "Rarity": "Rare",
+    "InventoryType": "Simple"
+  },
+  {
+    "Version": "250410.1.0",
+    "Id": 6,
+    "NameTextKey": 239195406,
+    "DescriptionTextKey": 868666586,
+    "AssetId": 1002,
+    "Rarity": "Rare",
+    "InventoryType": "Simple"
+  },
+  {
+    "Version": "250350.1.0",
+    "Id": 7,
+    "NameTextKey": -1756855116,
+    "DescriptionTextKey": 1153563724,
+    "AssetId": 2001,
+    "Rarity": "Rare",
+    "InventoryType": "Simple"
+  },
+  {
+    "Version": "250410.1.0",
+    "Id": 8,
+    "NameTextKey": 2034689432,
+    "DescriptionTextKey": 1153563724,
+    "AssetId": 2002,
+    "Rarity": "Rare",
+    "InventoryType": "Simple"
+  },
+  {
+    "Version": "250440.1.0",
+    "Id": 30,
+    "NameTextKey": -417173445,
+    "DescriptionTextKey": 868666586,
+    "AssetId": 1003,
+    "Rarity": "Rare",
+    "InventoryType": "Simple"
+  },
+  {
+    "Version": "250440.1.0",
+    "Id": 31,
+    "NameTextKey": -1876606803,
+    "DescriptionTextKey": 1153563724,
+    "AssetId": 2003,
+    "Rarity": "Rare",
+    "InventoryType": "Simple"
+  },
+  {
+    "Version": "250450.1.0",
+    "Id": 40,
+    "NameTextKey": 153882903,
+    "DescriptionTextKey": 868666586,
+    "AssetId": 1004,
+    "Rarity": "Rare",
+    "InventoryType": "Simple"
+  },
+  {
+    "Version": "250450.1.0",
+    "Id": 41,
+    "NameTextKey": 2116755841,
+    "DescriptionTextKey": 1153563724,
+    "AssetId": 2004,
+    "Rarity": "Rare",
+    "InventoryType": "Simple"
+  },
+  {
+    "Version": "250530.1.0",
+    "Id": 50,
+    "NameTextKey": -292275184,
+    "DescriptionTextKey": 868666586,
+    "AssetId": 1003,
+    "Rarity": "Rare",
+    "InventoryType": "Simple"
+  },
+  {
+    "Version": "250530.1.0",
+    "Id": 51,
+    "NameTextKey": -1718416250,
+    "DescriptionTextKey": 1153563724,
+    "AssetId": 2003,
+    "Rarity": "Rare",
+    "InventoryType": "Simple"
+  },
+  {
+    "Version": "250550.1.0",
+    "Id": 60,
+    "NameTextKey": -111901341,
+    "DescriptionTextKey": 868666586,
+    "AssetId": 1004,
+    "Rarity": "Rare",
+    "InventoryType": "Simple"
+  },
+  {
+    "Version": "250550.1.0",
+    "Id": 61,
+    "NameTextKey": -1907116555,
+    "DescriptionTextKey": 1153563724,
+    "AssetId": 2004,
+    "Rarity": "Rare",
+    "InventoryType": "Simple"
+  },
+  {
+    "Version": "250610.1.0",
+    "Id": 70,
+    "NameTextKey": 391832655,
+    "DescriptionTextKey": 868666586,
+    "AssetId": 1001,
+    "Rarity": "Rare",
+    "InventoryType": "Simple"
+  },
+  {
+    "Version": "250610.1.0",
+    "Id": 71,
+    "NameTextKey": 1616762073,
+    "DescriptionTextKey": 1153563724,
+    "AssetId": 2001,
+    "Rarity": "Rare",
+    "InventoryType": "Simple"
+  },
+  {
+    "Version": "250630.1.0",
+    "Id": 80,
+    "NameTextKey": -29802118,
+    "DescriptionTextKey": 868666586,
+    "AssetId": 1002,
+    "Rarity": "Rare",
+    "InventoryType": "Simple"
+  },
+  {
+    "Version": "250630.1.0",
+    "Id": 81,
+    "NameTextKey": -1992396308,
+    "DescriptionTextKey": 1153563724,
+    "AssetId": 2002,
+    "Rarity": "Rare",
+    "InventoryType": "Simple"
+  },
+  {
+    "Version": "250710.1.0",
+    "Id": 10051,
+    "NameTextKey": 272048214,
+    "DescriptionTextKey": 868666586,
+    "AssetId": 1003,
+    "Rarity": "Rare",
+    "InventoryType": "Simple"
+  },
+  {
+    "Version": "250730.1.0",
+    "Id": 10052,
+    "NameTextKey": -141619887,
+    "DescriptionTextKey": 868666586,
+    "AssetId": 1004,
+    "Rarity": "Rare",
+    "InventoryType": "Simple"
+  },
+  {
+    "Version": "250810.1.0",
+    "Id": 10061,
+    "NameTextKey": 1293351614,
+    "DescriptionTextKey": 868666586,
+    "AssetId": 1001,
+    "Rarity": "Rare",
+    "InventoryType": "Simple"
+  },
+  {
+    "Version": "250820.1.0",
+    "Id": 10062,
+    "NameTextKey": -736122108,
+    "DescriptionTextKey": 868666586,
+    "AssetId": 1002,
+    "Rarity": "Rare",
+    "InventoryType": "Simple"
+  },
+  {
+    "Version": "250910.1.0",
+    "Id": 10071,
+    "NameTextKey": 1410190335,
+    "DescriptionTextKey": 868666586,
+    "AssetId": 1003,
+    "Rarity": "Rare",
+    "InventoryType": "Simple"
+  },
+  {
+    "Version": "250930.1.0",
+    "Id": 10072,
+    "NameTextKey": -855336379,
+    "DescriptionTextKey": 868666586,
+    "AssetId": 1004,
+    "Rarity": "Rare",
+    "InventoryType": "Simple"
+  },
+  {
+    "Version": "251010.1.0",
+    "Id": 10081,
+    "NameTextKey": -745154768,
+    "DescriptionTextKey": 868666586,
+    "AssetId": 1001,
+    "Rarity": "Rare",
+    "InventoryType": "Simple"
+  },
+  {
+    "Version": "251010.1.0",
+    "Id": 10083,
+    "NameTextKey": -745154768,
+    "DescriptionTextKey": 868666586,
+    "AssetId": 1001,
+    "Rarity": "Rare",
+    "InventoryType": "Simple"
+  },
+  {
+    "Version": "251010.1.0",
+    "Id": 10084,
+    "NameTextKey": -745154768,
+    "DescriptionTextKey": 868666586,
+    "AssetId": 1001,
+    "Rarity": "Rare",
+    "InventoryType": "Simple"
+  },
+  {
+    "Version": "251010.1.0",
+    "Id": 10085,
+    "NameTextKey": -721939671,
+    "DescriptionTextKey": -1429234336,
+    "AssetId": 3001,
+    "Rarity": "SuperRare",
+    "InventoryType": "Simple"
+  },
+  {
+    "Version": "251030.1.0",
+    "Id": 10091,
+    "NameTextKey": -896604559,
+    "DescriptionTextKey": 868666586,
+    "AssetId": 1003,
+    "Rarity": "Rare",
+    "InventoryType": "Simple"
+  },
+  {
+    "Version": "251110.1.0",
+    "Id": 10092,
+    "NameTextKey": 1401403339,
+    "DescriptionTextKey": 868666586,
+    "AssetId": 1004,
+    "Rarity": "Rare",
+    "InventoryType": "Simple"
+  },
+  {
+    "Version": "251030.1.0",
+    "Id": 10095,
+    "NameTextKey": -840752536,
+    "DescriptionTextKey": -1429234336,
+    "AssetId": 3003,
+    "Rarity": "SuperRare",
+    "InventoryType": "Simple"
+  },
+  {
+    "Version": "251210.1.0",
+    "Id": 10101,
+    "NameTextKey": 445527823,
+    "DescriptionTextKey": 868666586,
+    "AssetId": 1001,
+    "Rarity": "Rare",
+    "InventoryType": "Simple"
+  },
+  {
+    "Version": "251230.1.0",
+    "Id": 10102,
+    "NameTextKey": -2088278347,
+    "DescriptionTextKey": 868666586,
+    "AssetId": 1002,
+    "Rarity": "Rare",
+    "InventoryType": "Simple"
+  },
+  {
+    "Version": "251210.1.0",
+    "Id": 10105,
+    "NameTextKey": 501478166,
+    "DescriptionTextKey": -1429234336,
+    "AssetId": 3001,
+    "Rarity": "SuperRare",
+    "InventoryType": "Simple"
+  },
+  {
+    "Version": "260110.1.0",
+    "Id": 10111,
+    "NameTextKey": 60098126,
+    "DescriptionTextKey": 868666586,
+    "AssetId": 1003,
+    "Rarity": "Rare",
+    "InventoryType": "Simple"
+  },
+  {
+    "Version": "260110.1.0",
+    "Id": 10113,
+    "NameTextKey": -308582558,
+    "DescriptionTextKey": 868666586,
+    "AssetId": 1003,
+    "Rarity": "Rare",
+    "InventoryType": "Simple"
+  },
+  {
+    "Version": "260110.1.0",
+    "Id": 10114,
+    "NameTextKey": 1946153665,
+    "DescriptionTextKey": 868666586,
+    "AssetId": 1003,
+    "Rarity": "Rare",
+    "InventoryType": "Simple"
+  },
+  {
+    "Version": "260110.1.0",
+    "Id": 10115,
+    "NameTextKey": 83411543,
+    "DescriptionTextKey": -1429234336,
+    "AssetId": 3003,
+    "Rarity": "SuperRare",
+    "InventoryType": "Simple"
+  },
+  {
+    "Version": "260210.1.0",
+    "Id": 10121,
+    "NameTextKey": 683169165,
+    "DescriptionTextKey": 868666586,
+    "AssetId": 1001,
+    "Rarity": "Rare",
+    "InventoryType": "Simple"
+  },
+  {
+    "Version": "260230.1.0",
+    "Id": 10122,
+    "NameTextKey": -1313799113,
+    "DescriptionTextKey": 868666586,
+    "AssetId": 1002,
+    "Rarity": "Rare",
+    "InventoryType": "Simple"
+  },
+  {
+    "Version": "260210.1.0",
+    "Id": 10125,
+    "NameTextKey": 802525588,
+    "DescriptionTextKey": -1429234336,
+    "AssetId": 3001,
+    "Rarity": "SuperRare",
+    "InventoryType": "Simple"
+  },
+  {
+    "Version": "260310.1.0",
+    "Id": 10131,
+    "NameTextKey": 832791756,
+    "DescriptionTextKey": 868666586,
+    "AssetId": 1003,
+    "Rarity": "Rare",
+    "InventoryType": "Simple"
+  },
+  {
+    "Version": "260330.1.0",
+    "Id": 10132,
+    "NameTextKey": -1465240202,
+    "DescriptionTextKey": 868666586,
+    "AssetId": 1004,
+    "Rarity": "Rare",
+    "InventoryType": "Simple"
+  },
+  {
+    "Version": "260310.1.0",
+    "Id": 10135,
+    "NameTextKey": 919511253,
+    "DescriptionTextKey": -1429234336,
+    "AssetId": 3003,
+    "Rarity": "SuperRare",
+    "InventoryType": "Simple"
+  },
+  {
+    "Version": "260410.1.0",
+    "Id": 10145,
+    "NameTextKey": 2039428626,
+    "DescriptionTextKey": -1429234336,
+    "AssetId": 3001,
+    "Rarity": "SuperRare",
+    "InventoryType": "Simple"
+  },
+  {
+    "Version": "260410.1.0",
+    "Id": 10141,
+    "NameTextKey": 2128802315,
+    "DescriptionTextKey": 868666586,
+    "AssetId": 1001,
+    "Rarity": "Rare",
+    "InventoryType": "Simple"
+  },
+  {
+    "Version": "260410.1.0",
+    "Id": 10143,
+    "NameTextKey": 2128802315,
+    "DescriptionTextKey": 868666586,
+    "AssetId": 1001,
+    "Rarity": "Rare",
+    "InventoryType": "Simple"
+  },
+  {
+    "Version": "260410.1.0",
+    "Id": 10144,
+    "NameTextKey": 2128802315,
+    "DescriptionTextKey": 868666586,
+    "AssetId": 1001,
+    "Rarity": "Rare",
+    "InventoryType": "Simple"
+  }
+]

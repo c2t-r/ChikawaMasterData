@@ -1,0 +1,234 @@
+[
+  {
+    "Version": "250330.1.0",
+    "Id": 1,
+    "ConsumeGroupId": 9,
+    "DailyRecoveryUnitRewardGroupId": 9,
+    "DailyRecoveryCount": 2,
+    "DailyRecoveryHourJST": 15
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 2,
+    "ConsumeGroupId": 8,
+    "DailyRecoveryUnitRewardGroupId": 8,
+    "DailyRecoveryCount": 2,
+    "DailyRecoveryHourJST": 15
+  },
+  {
+    "Version": "250350.1.0",
+    "Id": 3,
+    "ConsumeGroupId": 14001,
+    "DailyRecoveryUnitRewardGroupId": 200000001,
+    "DailyRecoveryCount": 2,
+    "DailyRecoveryHourJST": 15
+  },
+  {
+    "Version": "250410.1.0",
+    "Id": 4,
+    "ConsumeGroupId": 14002,
+    "DailyRecoveryUnitRewardGroupId": 200000002,
+    "DailyRecoveryCount": 2,
+    "DailyRecoveryHourJST": 15
+  },
+  {
+    "Version": "250440.1.0",
+    "Id": 5,
+    "ConsumeGroupId": 14003,
+    "DailyRecoveryUnitRewardGroupId": 200000003,
+    "DailyRecoveryCount": 2,
+    "DailyRecoveryHourJST": 15
+  },
+  {
+    "Version": "250450.1.0",
+    "Id": 6,
+    "ConsumeGroupId": 14004,
+    "DailyRecoveryUnitRewardGroupId": 200000004,
+    "DailyRecoveryCount": 2,
+    "DailyRecoveryHourJST": 15
+  },
+  {
+    "Version": "250530.1.0",
+    "Id": 7,
+    "ConsumeGroupId": 14005,
+    "DailyRecoveryUnitRewardGroupId": 200000005,
+    "DailyRecoveryCount": 2,
+    "DailyRecoveryHourJST": 15
+  },
+  {
+    "Version": "250550.1.0",
+    "Id": 8,
+    "ConsumeGroupId": 14006,
+    "DailyRecoveryUnitRewardGroupId": 200000006,
+    "DailyRecoveryCount": 2,
+    "DailyRecoveryHourJST": 15
+  },
+  {
+    "Version": "250610.1.0",
+    "Id": 9,
+    "ConsumeGroupId": 14007,
+    "DailyRecoveryUnitRewardGroupId": 200000007,
+    "DailyRecoveryCount": 2,
+    "DailyRecoveryHourJST": 15
+  },
+  {
+    "Version": "250630.1.0",
+    "Id": 10,
+    "ConsumeGroupId": 14008,
+    "DailyRecoveryUnitRewardGroupId": 200000008,
+    "DailyRecoveryCount": 2,
+    "DailyRecoveryHourJST": 15
+  },
+  {
+    "Version": "250710.1.0",
+    "Id": 11,
+    "ConsumeGroupId": 14009,
+    "DailyRecoveryUnitRewardGroupId": 200000009,
+    "DailyRecoveryCount": 2,
+    "DailyRecoveryHourJST": 15
+  },
+  {
+    "Version": "250730.1.0",
+    "Id": 12,
+    "ConsumeGroupId": 14010,
+    "DailyRecoveryUnitRewardGroupId": 200000010,
+    "DailyRecoveryCount": 2,
+    "DailyRecoveryHourJST": 15
+  },
+  {
+    "Version": "250725.1.0",
+    "Id": 13,
+    "ConsumeGroupId": 26,
+    "DailyRecoveryUnitRewardGroupId": 118,
+    "DailyRecoveryCount": 2,
+    "DailyRecoveryHourJST": 15
+  },
+  {
+    "Version": "250810.1.0",
+    "Id": 1011,
+    "ConsumeGroupId": 14011,
+    "DailyRecoveryUnitRewardGroupId": 200000011,
+    "DailyRecoveryCount": 2,
+    "DailyRecoveryHourJST": 15
+  },
+  {
+    "Version": "250820.1.0",
+    "Id": 1012,
+    "ConsumeGroupId": 14012,
+    "DailyRecoveryUnitRewardGroupId": 200000012,
+    "DailyRecoveryCount": 2,
+    "DailyRecoveryHourJST": 15
+  },
+  {
+    "Version": "250910.1.0",
+    "Id": 1013,
+    "ConsumeGroupId": 14013,
+    "DailyRecoveryUnitRewardGroupId": 200000013,
+    "DailyRecoveryCount": 2,
+    "DailyRecoveryHourJST": 15
+  },
+  {
+    "Version": "250930.1.0",
+    "Id": 1014,
+    "ConsumeGroupId": 14014,
+    "DailyRecoveryUnitRewardGroupId": 200000014,
+    "DailyRecoveryCount": 2,
+    "DailyRecoveryHourJST": 15
+  },
+  {
+    "Version": "251010.1.0",
+    "Id": 1015,
+    "ConsumeGroupId": 14015,
+    "DailyRecoveryUnitRewardGroupId": 200000015,
+    "DailyRecoveryCount": 2,
+    "DailyRecoveryHourJST": 15
+  },
+  {
+    "Version": "251030.1.0",
+    "Id": 1017,
+    "ConsumeGroupId": 14017,
+    "DailyRecoveryUnitRewardGroupId": 200000017,
+    "DailyRecoveryCount": 2,
+    "DailyRecoveryHourJST": 15
+  },
+  {
+    "Version": "251110.1.0",
+    "Id": 1018,
+    "ConsumeGroupId": 14018,
+    "DailyRecoveryUnitRewardGroupId": 200000018,
+    "DailyRecoveryCount": 2,
+    "DailyRecoveryHourJST": 15
+  },
+  {
+    "Version": "251210.1.0",
+    "Id": 1019,
+    "ConsumeGroupId": 14019,
+    "DailyRecoveryUnitRewardGroupId": 200000019,
+    "DailyRecoveryCount": 2,
+    "DailyRecoveryHourJST": 15
+  },
+  {
+    "Version": "251230.1.0",
+    "Id": 1020,
+    "ConsumeGroupId": 14020,
+    "DailyRecoveryUnitRewardGroupId": 200000020,
+    "DailyRecoveryCount": 2,
+    "DailyRecoveryHourJST": 15
+  },
+  {
+    "Version": "260110.1.0",
+    "Id": 1021,
+    "ConsumeGroupId": 14021,
+    "DailyRecoveryUnitRewardGroupId": 200000021,
+    "DailyRecoveryCount": 2,
+    "DailyRecoveryHourJST": 15
+  },
+  {
+    "Version": "260210.1.0",
+    "Id": 1022,
+    "ConsumeGroupId": 14022,
+    "DailyRecoveryUnitRewardGroupId": 200000022,
+    "DailyRecoveryCount": 2,
+    "DailyRecoveryHourJST": 15
+  },
+  {
+    "Version": "260230.1.0",
+    "Id": 1023,
+    "ConsumeGroupId": 14023,
+    "DailyRecoveryUnitRewardGroupId": 200000023,
+    "DailyRecoveryCount": 2,
+    "DailyRecoveryHourJST": 15
+  },
+  {
+    "Version": "260310.1.0",
+    "Id": 1024,
+    "ConsumeGroupId": 14024,
+    "DailyRecoveryUnitRewardGroupId": 200000024,
+    "DailyRecoveryCount": 2,
+    "DailyRecoveryHourJST": 15
+  },
+  {
+    "Version": "260330.1.0",
+    "Id": 1025,
+    "ConsumeGroupId": 14025,
+    "DailyRecoveryUnitRewardGroupId": 200000025,
+    "DailyRecoveryCount": 2,
+    "DailyRecoveryHourJST": 15
+  },
+  {
+    "Version": "260410.1.0",
+    "Id": 14,
+    "ConsumeGroupId": 29,
+    "DailyRecoveryUnitRewardGroupId": 119,
+    "DailyRecoveryCount": 2,
+    "DailyRecoveryHourJST": 15
+  },
+  {
+    "Version": "260410.1.0",
+    "Id": 1026,
+    "ConsumeGroupId": 14026,
+    "DailyRecoveryUnitRewardGroupId": 200000026,
+    "DailyRecoveryCount": 2,
+    "DailyRecoveryHourJST": 15
+  }
+]

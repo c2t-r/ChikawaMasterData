@@ -1,0 +1,13 @@
+[
+  {
+    "Version": "250350.1.0",
+    "Id": 1,
+    "LeagueTermId": 1,
+    "LeagueHuntAdmissionFeeId": 1,
+    "LeagueTierGroupId": 1,
+    "LeagueHuntStageGroupId": 1,
+    "LeagueSeasonShopGroupId": 21,
+    "LeagueDailyShopGroupId": 22,
+    "NameTextKey": -888987144
+  }
+]

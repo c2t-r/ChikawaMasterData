@@ -1,0 +1,9 @@
+[
+  {
+    "Version": "250350.1.0",
+    "Id": 1,
+    "ConditionDateTermId": 2503512,
+    "ResetType": "EveryThirdDay",
+    "RefreshHourJST": "15"
+  }
+]

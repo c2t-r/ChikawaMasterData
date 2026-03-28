@@ -1,0 +1,30 @@
+[
+  {
+    "Version": "250330.1.0",
+    "Id": 1,
+    "SubContentsTopType": "Weeding",
+    "ResourceId": 301,
+    "ContentLockId": 24
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 2,
+    "SubContentsTopType": "Study",
+    "ResourceId": 101,
+    "ContentLockId": 25
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 3,
+    "SubContentsTopType": "Cooking",
+    "ResourceId": 201,
+    "ContentLockId": 26
+  },
+  {
+    "Version": "250612.1.0",
+    "Id": 4,
+    "SubContentsTopType": "PermanentExchange",
+    "ResourceId": 401,
+    "ContentLockId": 27
+  }
+]

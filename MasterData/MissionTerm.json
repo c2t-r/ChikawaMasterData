@@ -1,0 +1,1082 @@
+[
+  {
+    "Version": "250330.1.0",
+    "Id": 1,
+    "ConditionDateTermId": 1,
+    "ResetType": "Never",
+    "RefreshHourJST": "15",
+    "DateTermRepeatOptionId": 1
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 2,
+    "ConditionDateTermId": 2,
+    "ResetType": "Never",
+    "RefreshHourJST": "15",
+    "DateTermRepeatOptionId": 1
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 3,
+    "ConditionDateTermId": 4,
+    "ResetType": "Daily",
+    "RefreshHourJST": "15",
+    "DateTermRepeatOptionId": 1
+  },
+  {
+    "Version": "250550.1.0",
+    "Id": 4,
+    "ConditionDateTermId": 2505502,
+    "ResetType": "Daily",
+    "RefreshHourJST": "15",
+    "DateTermRepeatOptionId": 1
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 10011,
+    "ConditionDateTermId": 2501504,
+    "ResetType": "Daily",
+    "RefreshHourJST": "15",
+    "DateTermRepeatOptionId": 1
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 10012,
+    "ConditionDateTermId": 2501504,
+    "ResetType": "Never",
+    "RefreshHourJST": "15",
+    "DateTermRepeatOptionId": 1
+  },
+  {
+    "Version": "250350.1.0",
+    "Id": 5001,
+    "ConditionDateTermId": 2503501,
+    "ResetType": "Daily",
+    "RefreshHourJST": "15",
+    "DateTermRepeatOptionId": 1
+  },
+  {
+    "Version": "250350.1.0",
+    "Id": 5101,
+    "ConditionDateTermId": 2503501,
+    "ResetType": "Never",
+    "RefreshHourJST": "15",
+    "DateTermRepeatOptionId": 1
+  },
+  {
+    "Version": "250410.1.0",
+    "Id": 5002,
+    "ConditionDateTermId": 2504101,
+    "ResetType": "Daily",
+    "RefreshHourJST": "15",
+    "DateTermRepeatOptionId": 1
+  },
+  {
+    "Version": "250410.1.0",
+    "Id": 5102,
+    "ConditionDateTermId": 2504101,
+    "ResetType": "Never",
+    "RefreshHourJST": "15",
+    "DateTermRepeatOptionId": 1
+  },
+  {
+    "Version": "250350.1.0",
+    "Id": 2503508,
+    "ConditionDateTermId": 2503508,
+    "ResetType": "Never",
+    "RefreshHourJST": "15",
+    "DateTermRepeatOptionId": 1
+  },
+  {
+    "Version": "250410.1.0",
+    "Id": 2504104,
+    "ConditionDateTermId": 2504104,
+    "ResetType": "Never",
+    "RefreshHourJST": "15",
+    "DateTermRepeatOptionId": 1
+  },
+  {
+    "Version": "250440.1.0",
+    "Id": 2504407,
+    "ConditionDateTermId": 2504407,
+    "ResetType": "Never",
+    "RefreshHourJST": "15",
+    "DateTermRepeatOptionId": 1
+  },
+  {
+    "Version": "250450.1.0",
+    "Id": 2504506,
+    "ConditionDateTermId": 2504506,
+    "ResetType": "Never",
+    "RefreshHourJST": "15",
+    "DateTermRepeatOptionId": 1
+  },
+  {
+    "Version": "250530.1.0",
+    "Id": 2505302,
+    "ConditionDateTermId": 2505302,
+    "ResetType": "Never",
+    "RefreshHourJST": "15",
+    "DateTermRepeatOptionId": 1
+  },
+  {
+    "Version": "250550.1.0",
+    "Id": 2505502,
+    "ConditionDateTermId": 2505502,
+    "ResetType": "Never",
+    "RefreshHourJST": "15",
+    "DateTermRepeatOptionId": 1
+  },
+  {
+    "Version": "250610.1.0",
+    "Id": 2506102,
+    "ConditionDateTermId": 2506102,
+    "ResetType": "Never",
+    "RefreshHourJST": "15",
+    "DateTermRepeatOptionId": 1
+  },
+  {
+    "Version": "250630.1.0",
+    "Id": 2506302,
+    "ConditionDateTermId": 2506302,
+    "ResetType": "Never",
+    "RefreshHourJST": "15",
+    "DateTermRepeatOptionId": 1
+  },
+  {
+    "Version": "250420.1.0",
+    "Id": 4003,
+    "ConditionDateTermId": 2504201,
+    "ResetType": "Never",
+    "RefreshHourJST": "15",
+    "DateTermRepeatOptionId": 1
+  },
+  {
+    "Version": "250440.1.0",
+    "Id": 5003,
+    "ConditionDateTermId": 2504401,
+    "ResetType": "Daily",
+    "RefreshHourJST": "15",
+    "DateTermRepeatOptionId": 1
+  },
+  {
+    "Version": "250440.1.0",
+    "Id": 5103,
+    "ConditionDateTermId": 2504401,
+    "ResetType": "Never",
+    "RefreshHourJST": "15",
+    "DateTermRepeatOptionId": 1
+  },
+  {
+    "Version": "250450.1.0",
+    "Id": 5004,
+    "ConditionDateTermId": 2504501,
+    "ResetType": "Daily",
+    "RefreshHourJST": "15",
+    "DateTermRepeatOptionId": 1
+  },
+  {
+    "Version": "250450.1.0",
+    "Id": 5104,
+    "ConditionDateTermId": 2504501,
+    "ResetType": "Never",
+    "RefreshHourJST": "15",
+    "DateTermRepeatOptionId": 1
+  },
+  {
+    "Version": "250530.1.0",
+    "Id": 5005,
+    "ConditionDateTermId": 2505305,
+    "ResetType": "Daily",
+    "RefreshHourJST": "15",
+    "DateTermRepeatOptionId": 1
+  },
+  {
+    "Version": "250530.1.0",
+    "Id": 5105,
+    "ConditionDateTermId": 2505305,
+    "ResetType": "Never",
+    "RefreshHourJST": "15",
+    "DateTermRepeatOptionId": 1
+  },
+  {
+    "Version": "250550.1.0",
+    "Id": 5006,
+    "ConditionDateTermId": 2505505,
+    "ResetType": "Daily",
+    "RefreshHourJST": "15",
+    "DateTermRepeatOptionId": 1
+  },
+  {
+    "Version": "250550.1.0",
+    "Id": 5106,
+    "ConditionDateTermId": 2505505,
+    "ResetType": "Never",
+    "RefreshHourJST": "15",
+    "DateTermRepeatOptionId": 1
+  },
+  {
+    "Version": "250440.1.0",
+    "Id": 6003,
+    "ConditionDateTermId": 2504401,
+    "ResetType": "Daily",
+    "RefreshHourJST": "15",
+    "DateTermRepeatOptionId": 1
+  },
+  {
+    "Version": "250450.1.0",
+    "Id": 6004,
+    "ConditionDateTermId": 2504501,
+    "ResetType": "Never",
+    "RefreshHourJST": "15",
+    "DateTermRepeatOptionId": 1
+  },
+  {
+    "Version": "250510.1.0",
+    "Id": 4002,
+    "ConditionDateTermId": 2505107,
+    "ResetType": "Never",
+    "RefreshHourJST": "15",
+    "DateTermRepeatOptionId": 1
+  },
+  {
+    "Version": "250810.1.0",
+    "Id": 4220,
+    "ConditionDateTermId": 2508104,
+    "ResetType": "MissionTermEnd",
+    "RefreshHourJST": "15",
+    "DateTermRepeatOptionId": 1
+  },
+  {
+    "Version": "250510.1.0",
+    "Id": 10021,
+    "ConditionDateTermId": 2505104,
+    "ResetType": "Daily",
+    "RefreshHourJST": "15",
+    "DateTermRepeatOptionId": 1
+  },
+  {
+    "Version": "250610.1.0",
+    "Id": 5007,
+    "ConditionDateTermId": 2506105,
+    "ResetType": "Daily",
+    "RefreshHourJST": "15",
+    "DateTermRepeatOptionId": 1
+  },
+  {
+    "Version": "250610.1.0",
+    "Id": 5107,
+    "ConditionDateTermId": 2506105,
+    "ResetType": "Never",
+    "RefreshHourJST": "15",
+    "DateTermRepeatOptionId": 1
+  },
+  {
+    "Version": "250630.1.0",
+    "Id": 5008,
+    "ConditionDateTermId": 2506305,
+    "ResetType": "Daily",
+    "RefreshHourJST": "15",
+    "DateTermRepeatOptionId": 1
+  },
+  {
+    "Version": "250630.1.0",
+    "Id": 5108,
+    "ConditionDateTermId": 2506305,
+    "ResetType": "Never",
+    "RefreshHourJST": "15",
+    "DateTermRepeatOptionId": 1
+  },
+  {
+    "Version": "250640.1.0",
+    "Id": 4050,
+    "ConditionDateTermId": 10001,
+    "ResetType": "Never",
+    "RefreshHourJST": "15",
+    "DateTermRepeatOptionId": 1
+  },
+  {
+    "Version": "250610.1.0",
+    "Id": 4060,
+    "ConditionDateTermId": 10002,
+    "ResetType": "Never",
+    "RefreshHourJST": "15",
+    "DateTermRepeatOptionId": 1
+  },
+  {
+    "Version": "250620.1.0",
+    "Id": 4070,
+    "ConditionDateTermId": 10003,
+    "ResetType": "Never",
+    "RefreshHourJST": "15",
+    "DateTermRepeatOptionId": 1
+  },
+  {
+    "Version": "250630.1.0",
+    "Id": 4080,
+    "ConditionDateTermId": 10004,
+    "ResetType": "Never",
+    "RefreshHourJST": "15",
+    "DateTermRepeatOptionId": 1
+  },
+  {
+    "Version": "250710.1.0",
+    "Id": 4150,
+    "ConditionDateTermId": 10005,
+    "ResetType": "MissionTermEnd",
+    "RefreshHourJST": "15",
+    "DateTermRepeatOptionId": 1
+  },
+  {
+    "Version": "250710.1.0",
+    "Id": 4160,
+    "ConditionDateTermId": 10006,
+    "ResetType": "MissionTermEnd",
+    "RefreshHourJST": "15",
+    "DateTermRepeatOptionId": 1
+  },
+  {
+    "Version": "250730.1.0",
+    "Id": 4170,
+    "ConditionDateTermId": 10007,
+    "ResetType": "MissionTermEnd",
+    "RefreshHourJST": "15",
+    "DateTermRepeatOptionId": 1
+  },
+  {
+    "Version": "250730.1.0",
+    "Id": 4180,
+    "ConditionDateTermId": 10008,
+    "ResetType": "MissionTermEnd",
+    "RefreshHourJST": "15",
+    "DateTermRepeatOptionId": 1
+  },
+  {
+    "Version": "250810.1.0",
+    "Id": 4190,
+    "ConditionDateTermId": 10009,
+    "ResetType": "MissionTermEnd",
+    "RefreshHourJST": "15",
+    "DateTermRepeatOptionId": 1
+  },
+  {
+    "Version": "250810.1.0",
+    "Id": 4200,
+    "ConditionDateTermId": 10010,
+    "ResetType": "MissionTermEnd",
+    "RefreshHourJST": "15",
+    "DateTermRepeatOptionId": 1
+  },
+  {
+    "Version": "250820.1.0",
+    "Id": 4230,
+    "ConditionDateTermId": 10015,
+    "ResetType": "MissionTermEnd",
+    "RefreshHourJST": "15",
+    "DateTermRepeatOptionId": 1
+  },
+  {
+    "Version": "250820.1.0",
+    "Id": 4240,
+    "ConditionDateTermId": 10016,
+    "ResetType": "MissionTermEnd",
+    "RefreshHourJST": "15",
+    "DateTermRepeatOptionId": 1
+  },
+  {
+    "Version": "250620.1.0",
+    "Id": 4110,
+    "ConditionDateTermId": 2506201,
+    "ResetType": "MissionTermEnd",
+    "RefreshHourJST": "15",
+    "DateTermRepeatOptionId": 1
+  },
+  {
+    "Version": "250730.1.0",
+    "Id": 4120,
+    "ConditionDateTermId": 2507302,
+    "ResetType": "MissionTermEnd",
+    "RefreshHourJST": "15",
+    "DateTermRepeatOptionId": 1
+  },
+  {
+    "Version": "250710.1.0",
+    "Id": 4130,
+    "ConditionDateTermId": 2507101,
+    "ResetType": "MissionTermEnd",
+    "RefreshHourJST": "15",
+    "DateTermRepeatOptionId": 1
+  },
+  {
+    "Version": "250820.1.0",
+    "Id": 4140,
+    "ConditionDateTermId": 2508202,
+    "ResetType": "MissionTermEnd",
+    "RefreshHourJST": "15",
+    "DateTermRepeatOptionId": 1
+  },
+  {
+    "Version": "250810.1.0",
+    "Id": 4210,
+    "ConditionDateTermId": 2508101,
+    "ResetType": "MissionTermEnd",
+    "RefreshHourJST": "15",
+    "DateTermRepeatOptionId": 1
+  },
+  {
+    "Version": "250610.1.0",
+    "Id": 10031,
+    "ConditionDateTermId": 2506107,
+    "ResetType": "Daily",
+    "RefreshHourJST": "15",
+    "DateTermRepeatOptionId": 1
+  },
+  {
+    "Version": "250710.1.0",
+    "Id": 72005110,
+    "ConditionDateTermId": 72005110,
+    "ResetType": "Never",
+    "RefreshHourJST": "15",
+    "DateTermRepeatOptionId": 1
+  },
+  {
+    "Version": "250730.1.0",
+    "Id": 72005210,
+    "ConditionDateTermId": 72005210,
+    "ResetType": "Never",
+    "RefreshHourJST": "15",
+    "DateTermRepeatOptionId": 1
+  },
+  {
+    "Version": "250710.1.0",
+    "Id": 5009,
+    "ConditionDateTermId": 72005130,
+    "ResetType": "Daily",
+    "RefreshHourJST": "15",
+    "DateTermRepeatOptionId": 1
+  },
+  {
+    "Version": "250710.1.0",
+    "Id": 5109,
+    "ConditionDateTermId": 72005130,
+    "ResetType": "MissionTermEnd",
+    "RefreshHourJST": "15",
+    "DateTermRepeatOptionId": 1
+  },
+  {
+    "Version": "250730.1.0",
+    "Id": 5010,
+    "ConditionDateTermId": 72005230,
+    "ResetType": "Daily",
+    "RefreshHourJST": "15",
+    "DateTermRepeatOptionId": 1
+  },
+  {
+    "Version": "250730.1.0",
+    "Id": 5110,
+    "ConditionDateTermId": 72005230,
+    "ResetType": "MissionTermEnd",
+    "RefreshHourJST": "15",
+    "DateTermRepeatOptionId": 1
+  },
+  {
+    "Version": "250710.1.0",
+    "Id": 10041,
+    "ConditionDateTermId": 71004080,
+    "ResetType": "Daily",
+    "RefreshHourJST": "15",
+    "DateTermRepeatOptionId": 1
+  },
+  {
+    "Version": "250810.1.0",
+    "Id": 10051,
+    "ConditionDateTermId": 71005080,
+    "ResetType": "Daily",
+    "RefreshHourJST": "15",
+    "DateTermRepeatOptionId": 1
+  },
+  {
+    "Version": "250810.1.0",
+    "Id": 5011,
+    "ConditionDateTermId": 72006130,
+    "ResetType": "Daily",
+    "RefreshHourJST": "15",
+    "DateTermRepeatOptionId": 1
+  },
+  {
+    "Version": "250810.1.0",
+    "Id": 5111,
+    "ConditionDateTermId": 72006130,
+    "ResetType": "MissionTermEnd",
+    "RefreshHourJST": "15",
+    "DateTermRepeatOptionId": 1
+  },
+  {
+    "Version": "250820.1.0",
+    "Id": 5012,
+    "ConditionDateTermId": 72006230,
+    "ResetType": "Daily",
+    "RefreshHourJST": "15",
+    "DateTermRepeatOptionId": 1
+  },
+  {
+    "Version": "250820.1.0",
+    "Id": 5112,
+    "ConditionDateTermId": 72006230,
+    "ResetType": "MissionTermEnd",
+    "RefreshHourJST": "15",
+    "DateTermRepeatOptionId": 1
+  },
+  {
+    "Version": "250810.1.0",
+    "Id": 72006110,
+    "ConditionDateTermId": 72006110,
+    "ResetType": "Never",
+    "RefreshHourJST": "15",
+    "DateTermRepeatOptionId": 1
+  },
+  {
+    "Version": "250820.1.0",
+    "Id": 72006210,
+    "ConditionDateTermId": 72006210,
+    "ResetType": "Never",
+    "RefreshHourJST": "15",
+    "DateTermRepeatOptionId": 1
+  },
+  {
+    "Version": "251110.1.0",
+    "Id": 7001,
+    "ConditionDateTermId": 10031,
+    "ResetType": "WeeklyFriday",
+    "RefreshHourJST": "15",
+    "DateTermRepeatOptionId": 2
+  },
+  {
+    "Version": "251110.1.0",
+    "Id": 7002,
+    "ConditionDateTermId": 10032,
+    "ResetType": "WeeklyFriday",
+    "RefreshHourJST": "15",
+    "DateTermRepeatOptionId": 2
+  },
+  {
+    "Version": "251110.1.0",
+    "Id": 7003,
+    "ConditionDateTermId": 10033,
+    "ResetType": "WeeklyFriday",
+    "RefreshHourJST": "15",
+    "DateTermRepeatOptionId": 2
+  },
+  {
+    "Version": "250850.1.0",
+    "Id": 7101,
+    "ConditionDateTermId": 10020,
+    "ResetType": "WeeklyFriday",
+    "RefreshHourJST": "15",
+    "DateTermRepeatOptionId": 2
+  },
+  {
+    "Version": "250850.1.0",
+    "Id": 7102,
+    "ConditionDateTermId": 10021,
+    "ResetType": "WeeklyFriday",
+    "RefreshHourJST": "15",
+    "DateTermRepeatOptionId": 2
+  },
+  {
+    "Version": "250850.1.0",
+    "Id": 7103,
+    "ConditionDateTermId": 10022,
+    "ResetType": "WeeklyFriday",
+    "RefreshHourJST": "15",
+    "DateTermRepeatOptionId": 2
+  },
+  {
+    "Version": "250930.1.0",
+    "Id": 4260,
+    "ConditionDateTermId": 73007000,
+    "ResetType": "MissionTermEnd",
+    "RefreshHourJST": "15",
+    "DateTermRepeatOptionId": 1
+  },
+  {
+    "Version": "250910.1.0",
+    "Id": 10061,
+    "ConditionDateTermId": 71006080,
+    "ResetType": "Daily",
+    "RefreshHourJST": "15",
+    "DateTermRepeatOptionId": 1
+  },
+  {
+    "Version": "250910.1.0",
+    "Id": 5013,
+    "ConditionDateTermId": 72007130,
+    "ResetType": "Daily",
+    "RefreshHourJST": "15",
+    "DateTermRepeatOptionId": 1
+  },
+  {
+    "Version": "250910.1.0",
+    "Id": 5113,
+    "ConditionDateTermId": 72007130,
+    "ResetType": "MissionTermEnd",
+    "RefreshHourJST": "15",
+    "DateTermRepeatOptionId": 1
+  },
+  {
+    "Version": "250930.1.0",
+    "Id": 5014,
+    "ConditionDateTermId": 72007230,
+    "ResetType": "Daily",
+    "RefreshHourJST": "15",
+    "DateTermRepeatOptionId": 1
+  },
+  {
+    "Version": "250930.1.0",
+    "Id": 5114,
+    "ConditionDateTermId": 72007230,
+    "ResetType": "MissionTermEnd",
+    "RefreshHourJST": "15",
+    "DateTermRepeatOptionId": 1
+  },
+  {
+    "Version": "250910.1.0",
+    "Id": 12509101,
+    "ConditionDateTermId": 12509101,
+    "ResetType": "Never",
+    "RefreshHourJST": "15",
+    "DateTermRepeatOptionId": 1
+  },
+  {
+    "Version": "250930.1.0",
+    "Id": 12509301,
+    "ConditionDateTermId": 12509301,
+    "ResetType": "Never",
+    "RefreshHourJST": "15",
+    "DateTermRepeatOptionId": 1
+  },
+  {
+    "Version": "251010.1.0",
+    "Id": 12510101,
+    "ConditionDateTermId": 12510101,
+    "ResetType": "Never",
+    "RefreshHourJST": "15",
+    "DateTermRepeatOptionId": 1
+  },
+  {
+    "Version": "251020.1.0",
+    "Id": 12510201,
+    "ConditionDateTermId": 12510201,
+    "ResetType": "Never",
+    "RefreshHourJST": "15",
+    "DateTermRepeatOptionId": 1
+  },
+  {
+    "Version": "251010.1.0",
+    "Id": 10071,
+    "ConditionDateTermId": 71007080,
+    "ResetType": "Daily",
+    "RefreshHourJST": "15",
+    "DateTermRepeatOptionId": 1
+  },
+  {
+    "Version": "251010.1.0",
+    "Id": 5015,
+    "ConditionDateTermId": 72008130,
+    "ResetType": "Daily",
+    "RefreshHourJST": "15",
+    "DateTermRepeatOptionId": 1
+  },
+  {
+    "Version": "251010.1.0",
+    "Id": 5115,
+    "ConditionDateTermId": 72008130,
+    "ResetType": "MissionTermEnd",
+    "RefreshHourJST": "15",
+    "DateTermRepeatOptionId": 1
+  },
+  {
+    "Version": "251030.1.0",
+    "Id": 12510301,
+    "ConditionDateTermId": 12510301,
+    "ResetType": "Never",
+    "RefreshHourJST": "15",
+    "DateTermRepeatOptionId": 1
+  },
+  {
+    "Version": "251110.1.0",
+    "Id": 12511101,
+    "ConditionDateTermId": 12511101,
+    "ResetType": "Never",
+    "RefreshHourJST": "15",
+    "DateTermRepeatOptionId": 1
+  },
+  {
+    "Version": "251130.1.0",
+    "Id": 4280,
+    "ConditionDateTermId": 2511301,
+    "ResetType": "MissionTermEnd",
+    "RefreshHourJST": "15",
+    "DateTermRepeatOptionId": 1
+  },
+  {
+    "Version": "251030.1.0",
+    "Id": 5017,
+    "ConditionDateTermId": 72009130,
+    "ResetType": "Daily",
+    "RefreshHourJST": "15",
+    "DateTermRepeatOptionId": 1
+  },
+  {
+    "Version": "251030.1.0",
+    "Id": 5117,
+    "ConditionDateTermId": 72009130,
+    "ResetType": "MissionTermEnd",
+    "RefreshHourJST": "15",
+    "DateTermRepeatOptionId": 1
+  },
+  {
+    "Version": "251110.1.0",
+    "Id": 5018,
+    "ConditionDateTermId": 72009230,
+    "ResetType": "Daily",
+    "RefreshHourJST": "15",
+    "DateTermRepeatOptionId": 1
+  },
+  {
+    "Version": "251110.1.0",
+    "Id": 5118,
+    "ConditionDateTermId": 72009230,
+    "ResetType": "MissionTermEnd",
+    "RefreshHourJST": "15",
+    "DateTermRepeatOptionId": 1
+  },
+  {
+    "Version": "251110.1.0",
+    "Id": 10081,
+    "ConditionDateTermId": 71008080,
+    "ResetType": "Daily",
+    "RefreshHourJST": "15",
+    "DateTermRepeatOptionId": 1
+  },
+  {
+    "Version": "251210.1.0",
+    "Id": 10091,
+    "ConditionDateTermId": 71009080,
+    "ResetType": "Daily",
+    "RefreshHourJST": "15",
+    "DateTermRepeatOptionId": 1
+  },
+  {
+    "Version": "251130.1.0",
+    "Id": 4290,
+    "ConditionDateTermId": 73009000,
+    "ResetType": "MissionTermEnd",
+    "RefreshHourJST": "15",
+    "DateTermRepeatOptionId": 1
+  },
+  {
+    "Version": "251210.1.0",
+    "Id": 12512101,
+    "ConditionDateTermId": 12512101,
+    "ResetType": "Never",
+    "RefreshHourJST": "15",
+    "DateTermRepeatOptionId": 1
+  },
+  {
+    "Version": "251230.1.0",
+    "Id": 12512301,
+    "ConditionDateTermId": 12512301,
+    "ResetType": "Never",
+    "RefreshHourJST": "15",
+    "DateTermRepeatOptionId": 1
+  },
+  {
+    "Version": "251210.1.0",
+    "Id": 5019,
+    "ConditionDateTermId": 72010130,
+    "ResetType": "Daily",
+    "RefreshHourJST": "15",
+    "DateTermRepeatOptionId": 1
+  },
+  {
+    "Version": "251210.1.0",
+    "Id": 5119,
+    "ConditionDateTermId": 72010130,
+    "ResetType": "MissionTermEnd",
+    "RefreshHourJST": "15",
+    "DateTermRepeatOptionId": 1
+  },
+  {
+    "Version": "251230.1.0",
+    "Id": 5020,
+    "ConditionDateTermId": 72010230,
+    "ResetType": "Daily",
+    "RefreshHourJST": "15",
+    "DateTermRepeatOptionId": 1
+  },
+  {
+    "Version": "251230.1.0",
+    "Id": 5120,
+    "ConditionDateTermId": 72010230,
+    "ResetType": "MissionTermEnd",
+    "RefreshHourJST": "15",
+    "DateTermRepeatOptionId": 1
+  },
+  {
+    "Version": "260110.1.0",
+    "Id": 12601101,
+    "ConditionDateTermId": 12601101,
+    "ResetType": "Never",
+    "RefreshHourJST": "15",
+    "DateTermRepeatOptionId": 1
+  },
+  {
+    "Version": "260110.1.0",
+    "Id": 10101,
+    "ConditionDateTermId": 71010080,
+    "ResetType": "Daily",
+    "RefreshHourJST": "15",
+    "DateTermRepeatOptionId": 1
+  },
+  {
+    "Version": "260110.1.0",
+    "Id": 4300,
+    "ConditionDateTermId": 73010000,
+    "ResetType": "MissionTermEnd",
+    "RefreshHourJST": "15",
+    "DateTermRepeatOptionId": 1
+  },
+  {
+    "Version": "260110.1.0",
+    "Id": 5021,
+    "ConditionDateTermId": 72011130,
+    "ResetType": "Daily",
+    "RefreshHourJST": "15",
+    "DateTermRepeatOptionId": 1
+  },
+  {
+    "Version": "260110.1.0",
+    "Id": 5121,
+    "ConditionDateTermId": 72011130,
+    "ResetType": "MissionTermEnd",
+    "RefreshHourJST": "15",
+    "DateTermRepeatOptionId": 1
+  },
+  {
+    "Version": "260210.1.0",
+    "Id": 12602101,
+    "ConditionDateTermId": 12602101,
+    "ResetType": "Never",
+    "RefreshHourJST": "15",
+    "DateTermRepeatOptionId": 1
+  },
+  {
+    "Version": "260230.1.0",
+    "Id": 12602301,
+    "ConditionDateTermId": 12602301,
+    "ResetType": "Never",
+    "RefreshHourJST": "15",
+    "DateTermRepeatOptionId": 1
+  },
+  {
+    "Version": "260130.1.0",
+    "Id": 4310,
+    "ConditionDateTermId": 2601305,
+    "ResetType": "MissionTermEnd",
+    "RefreshHourJST": "15",
+    "DateTermRepeatOptionId": 1
+  },
+  {
+    "Version": "260130.1.0",
+    "Id": 4320,
+    "ConditionDateTermId": 73011000,
+    "ResetType": "MissionTermEnd",
+    "RefreshHourJST": "15",
+    "DateTermRepeatOptionId": 1
+  },
+  {
+    "Version": "260210.1.0",
+    "Id": 5022,
+    "ConditionDateTermId": 72012130,
+    "ResetType": "Daily",
+    "RefreshHourJST": "15",
+    "DateTermRepeatOptionId": 1
+  },
+  {
+    "Version": "260210.1.0",
+    "Id": 5122,
+    "ConditionDateTermId": 72012130,
+    "ResetType": "MissionTermEnd",
+    "RefreshHourJST": "15",
+    "DateTermRepeatOptionId": 1
+  },
+  {
+    "Version": "260230.1.0",
+    "Id": 5023,
+    "ConditionDateTermId": 72012230,
+    "ResetType": "Daily",
+    "RefreshHourJST": "15",
+    "DateTermRepeatOptionId": 1
+  },
+  {
+    "Version": "260230.1.0",
+    "Id": 5123,
+    "ConditionDateTermId": 72012230,
+    "ResetType": "MissionTermEnd",
+    "RefreshHourJST": "15",
+    "DateTermRepeatOptionId": 1
+  },
+  {
+    "Version": "260210.1.0",
+    "Id": 10111,
+    "ConditionDateTermId": 71011080,
+    "ResetType": "Daily",
+    "RefreshHourJST": "15",
+    "DateTermRepeatOptionId": 1
+  },
+  {
+    "Version": "260210.1.0",
+    "Id": 4330,
+    "ConditionDateTermId": 73012000,
+    "ResetType": "MissionTermEnd",
+    "RefreshHourJST": "15",
+    "DateTermRepeatOptionId": 1
+  },
+  {
+    "Version": "260230.1.0",
+    "Id": 4340,
+    "ConditionDateTermId": 73013000,
+    "ResetType": "MissionTermEnd",
+    "RefreshHourJST": "15",
+    "DateTermRepeatOptionId": 1
+  },
+  {
+    "Version": "260310.1.0",
+    "Id": 10121,
+    "ConditionDateTermId": 71012080,
+    "ResetType": "Daily",
+    "RefreshHourJST": "15",
+    "DateTermRepeatOptionId": 1
+  },
+  {
+    "Version": "260310.1.0",
+    "Id": 12603101,
+    "ConditionDateTermId": 12603101,
+    "ResetType": "Never",
+    "RefreshHourJST": "15",
+    "DateTermRepeatOptionId": 1
+  },
+  {
+    "Version": "260330.1.0",
+    "Id": 12603301,
+    "ConditionDateTermId": 12603301,
+    "ResetType": "Never",
+    "RefreshHourJST": "15",
+    "DateTermRepeatOptionId": 1
+  },
+  {
+    "Version": "260330.1.0",
+    "Id": 4350,
+    "ConditionDateTermId": 73014000,
+    "ResetType": "MissionTermEnd",
+    "RefreshHourJST": "15",
+    "DateTermRepeatOptionId": 1
+  },
+  {
+    "Version": "260310.1.0",
+    "Id": 5024,
+    "ConditionDateTermId": 72013130,
+    "ResetType": "Daily",
+    "RefreshHourJST": "15",
+    "DateTermRepeatOptionId": 1
+  },
+  {
+    "Version": "260310.1.0",
+    "Id": 5124,
+    "ConditionDateTermId": 72013130,
+    "ResetType": "MissionTermEnd",
+    "RefreshHourJST": "15",
+    "DateTermRepeatOptionId": 1
+  },
+  {
+    "Version": "260330.1.0",
+    "Id": 5025,
+    "ConditionDateTermId": 72013230,
+    "ResetType": "Daily",
+    "RefreshHourJST": "15",
+    "DateTermRepeatOptionId": 1
+  },
+  {
+    "Version": "260330.1.0",
+    "Id": 5125,
+    "ConditionDateTermId": 72013230,
+    "ResetType": "MissionTermEnd",
+    "RefreshHourJST": "15",
+    "DateTermRepeatOptionId": 1
+  },
+  {
+    "Version": "260310.1.0",
+    "Id": 4360,
+    "ConditionDateTermId": 73015000,
+    "ResetType": "MissionTermEnd",
+    "RefreshHourJST": "15",
+    "DateTermRepeatOptionId": 1
+  },
+  {
+    "Version": "260410.1.0",
+    "Id": 4370,
+    "ConditionDateTermId": 73016000,
+    "ResetType": "MissionTermEnd",
+    "RefreshHourJST": "15",
+    "DateTermRepeatOptionId": 1
+  },
+  {
+    "Version": "260410.1.0",
+    "Id": 12604101,
+    "ConditionDateTermId": 12604101,
+    "ResetType": "Never",
+    "RefreshHourJST": "15",
+    "DateTermRepeatOptionId": 1
+  },
+  {
+    "Version": "260410.1.0",
+    "Id": 10131,
+    "ConditionDateTermId": 71013080,
+    "ResetType": "Daily",
+    "RefreshHourJST": "15",
+    "DateTermRepeatOptionId": 1
+  },
+  {
+    "Version": "260410.1.0",
+    "Id": 4380,
+    "ConditionDateTermId": 2604108,
+    "ResetType": "MissionTermEnd",
+    "RefreshHourJST": "15",
+    "DateTermRepeatOptionId": 1
+  },
+  {
+    "Version": "260410.1.0",
+    "Id": 5026,
+    "ConditionDateTermId": 72014130,
+    "ResetType": "Daily",
+    "RefreshHourJST": "15",
+    "DateTermRepeatOptionId": 1
+  },
+  {
+    "Version": "260410.1.0",
+    "Id": 5126,
+    "ConditionDateTermId": 72014130,
+    "ResetType": "MissionTermEnd",
+    "RefreshHourJST": "15",
+    "DateTermRepeatOptionId": 1
+  },
+  {
+    "Version": "260410.1.0",
+    "Id": 4500,
+    "ConditionDateTermId": 2604111,
+    "ResetType": "MissionTermEnd",
+    "RefreshHourJST": "15",
+    "DateTermRepeatOptionId": 1
+  }
+]

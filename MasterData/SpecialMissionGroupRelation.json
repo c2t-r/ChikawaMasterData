@@ -1,0 +1,1274 @@
+[
+  {
+    "Version": "250330.1.0",
+    "Id": 10,
+    "SpecialMissionCampaignId": 1,
+    "MissionGroupId": 4010,
+    "DayCount": 0,
+    "StepCount": 0
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 11,
+    "SpecialMissionCampaignId": 1,
+    "MissionGroupId": 4011,
+    "DayCount": 1,
+    "StepCount": 0
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 12,
+    "SpecialMissionCampaignId": 1,
+    "MissionGroupId": 4012,
+    "DayCount": 2,
+    "StepCount": 0
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 13,
+    "SpecialMissionCampaignId": 1,
+    "MissionGroupId": 4013,
+    "DayCount": 3,
+    "StepCount": 0
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 14,
+    "SpecialMissionCampaignId": 1,
+    "MissionGroupId": 4014,
+    "DayCount": 4,
+    "StepCount": 0
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 15,
+    "SpecialMissionCampaignId": 1,
+    "MissionGroupId": 4015,
+    "DayCount": 5,
+    "StepCount": 0
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 16,
+    "SpecialMissionCampaignId": 1,
+    "MissionGroupId": 4016,
+    "DayCount": 6,
+    "StepCount": 0
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 17,
+    "SpecialMissionCampaignId": 1,
+    "MissionGroupId": 4017,
+    "DayCount": 7,
+    "StepCount": 0
+  },
+  {
+    "Version": "250510.1.0",
+    "Id": 20,
+    "SpecialMissionCampaignId": 3,
+    "MissionGroupId": 4020,
+    "DayCount": 0,
+    "StepCount": 0
+  },
+  {
+    "Version": "250510.1.0",
+    "Id": 21,
+    "SpecialMissionCampaignId": 3,
+    "MissionGroupId": 4021,
+    "DayCount": 1,
+    "StepCount": 0
+  },
+  {
+    "Version": "250510.1.0",
+    "Id": 22,
+    "SpecialMissionCampaignId": 3,
+    "MissionGroupId": 4022,
+    "DayCount": 2,
+    "StepCount": 0
+  },
+  {
+    "Version": "250510.1.0",
+    "Id": 23,
+    "SpecialMissionCampaignId": 3,
+    "MissionGroupId": 4023,
+    "DayCount": 3,
+    "StepCount": 0
+  },
+  {
+    "Version": "250510.1.0",
+    "Id": 24,
+    "SpecialMissionCampaignId": 3,
+    "MissionGroupId": 4024,
+    "DayCount": 4,
+    "StepCount": 0
+  },
+  {
+    "Version": "250510.1.0",
+    "Id": 25,
+    "SpecialMissionCampaignId": 3,
+    "MissionGroupId": 4025,
+    "DayCount": 5,
+    "StepCount": 0
+  },
+  {
+    "Version": "250420.1.0",
+    "Id": 30,
+    "SpecialMissionCampaignId": 4,
+    "MissionGroupId": 4030,
+    "DayCount": 0,
+    "StepCount": 0
+  },
+  {
+    "Version": "250420.1.0",
+    "Id": 31,
+    "SpecialMissionCampaignId": 4,
+    "MissionGroupId": 4031,
+    "DayCount": 1,
+    "StepCount": 0
+  },
+  {
+    "Version": "250420.1.0",
+    "Id": 32,
+    "SpecialMissionCampaignId": 4,
+    "MissionGroupId": 4032,
+    "DayCount": 2,
+    "StepCount": 0
+  },
+  {
+    "Version": "250420.1.0",
+    "Id": 33,
+    "SpecialMissionCampaignId": 4,
+    "MissionGroupId": 4033,
+    "DayCount": 3,
+    "StepCount": 0
+  },
+  {
+    "Version": "250420.1.0",
+    "Id": 34,
+    "SpecialMissionCampaignId": 4,
+    "MissionGroupId": 4034,
+    "DayCount": 4,
+    "StepCount": 0
+  },
+  {
+    "Version": "250420.1.0",
+    "Id": 35,
+    "SpecialMissionCampaignId": 4,
+    "MissionGroupId": 4035,
+    "DayCount": 5,
+    "StepCount": 0
+  },
+  {
+    "Version": "250640.1.0",
+    "Id": 36,
+    "SpecialMissionCampaignId": 5,
+    "MissionGroupId": 4070,
+    "DayCount": 0,
+    "StepCount": 0
+  },
+  {
+    "Version": "250640.1.0",
+    "Id": 37,
+    "SpecialMissionCampaignId": 5,
+    "MissionGroupId": 4071,
+    "DayCount": 1,
+    "StepCount": 0
+  },
+  {
+    "Version": "250640.1.0",
+    "Id": 38,
+    "SpecialMissionCampaignId": 5,
+    "MissionGroupId": 4072,
+    "DayCount": 2,
+    "StepCount": 0
+  },
+  {
+    "Version": "250610.1.0",
+    "Id": 39,
+    "SpecialMissionCampaignId": 6,
+    "MissionGroupId": 4080,
+    "DayCount": 0,
+    "StepCount": 0
+  },
+  {
+    "Version": "250610.1.0",
+    "Id": 40,
+    "SpecialMissionCampaignId": 6,
+    "MissionGroupId": 4081,
+    "DayCount": 1,
+    "StepCount": 0
+  },
+  {
+    "Version": "250610.1.0",
+    "Id": 41,
+    "SpecialMissionCampaignId": 6,
+    "MissionGroupId": 4082,
+    "DayCount": 2,
+    "StepCount": 0
+  },
+  {
+    "Version": "250620.1.0",
+    "Id": 42,
+    "SpecialMissionCampaignId": 7,
+    "MissionGroupId": 4090,
+    "DayCount": 0,
+    "StepCount": 0
+  },
+  {
+    "Version": "250620.1.0",
+    "Id": 43,
+    "SpecialMissionCampaignId": 7,
+    "MissionGroupId": 4091,
+    "DayCount": 1,
+    "StepCount": 0
+  },
+  {
+    "Version": "250620.1.0",
+    "Id": 44,
+    "SpecialMissionCampaignId": 7,
+    "MissionGroupId": 4092,
+    "DayCount": 2,
+    "StepCount": 0
+  },
+  {
+    "Version": "250630.1.0",
+    "Id": 45,
+    "SpecialMissionCampaignId": 8,
+    "MissionGroupId": 4100,
+    "DayCount": 0,
+    "StepCount": 0
+  },
+  {
+    "Version": "250630.1.0",
+    "Id": 46,
+    "SpecialMissionCampaignId": 8,
+    "MissionGroupId": 4101,
+    "DayCount": 1,
+    "StepCount": 0
+  },
+  {
+    "Version": "250630.1.0",
+    "Id": 47,
+    "SpecialMissionCampaignId": 8,
+    "MissionGroupId": 4102,
+    "DayCount": 2,
+    "StepCount": 0
+  },
+  {
+    "Version": "250620.1.0",
+    "Id": 48,
+    "SpecialMissionCampaignId": 1001,
+    "MissionGroupId": 4111,
+    "DayCount": 0,
+    "StepCount": 1
+  },
+  {
+    "Version": "250620.1.0",
+    "Id": 49,
+    "SpecialMissionCampaignId": 1001,
+    "MissionGroupId": 4112,
+    "DayCount": 0,
+    "StepCount": 2
+  },
+  {
+    "Version": "250620.1.0",
+    "Id": 50,
+    "SpecialMissionCampaignId": 1001,
+    "MissionGroupId": 4113,
+    "DayCount": 0,
+    "StepCount": 3
+  },
+  {
+    "Version": "250620.1.0",
+    "Id": 51,
+    "SpecialMissionCampaignId": 1001,
+    "MissionGroupId": 4114,
+    "DayCount": 0,
+    "StepCount": 4
+  },
+  {
+    "Version": "250730.1.0",
+    "Id": 52,
+    "SpecialMissionCampaignId": 1002,
+    "MissionGroupId": 4121,
+    "DayCount": 0,
+    "StepCount": 1
+  },
+  {
+    "Version": "250730.1.0",
+    "Id": 53,
+    "SpecialMissionCampaignId": 1002,
+    "MissionGroupId": 4122,
+    "DayCount": 0,
+    "StepCount": 2
+  },
+  {
+    "Version": "250730.1.0",
+    "Id": 54,
+    "SpecialMissionCampaignId": 1002,
+    "MissionGroupId": 4123,
+    "DayCount": 0,
+    "StepCount": 3
+  },
+  {
+    "Version": "250730.1.0",
+    "Id": 55,
+    "SpecialMissionCampaignId": 1002,
+    "MissionGroupId": 4124,
+    "DayCount": 0,
+    "StepCount": 4
+  },
+  {
+    "Version": "250710.1.0",
+    "Id": 56,
+    "SpecialMissionCampaignId": 1003,
+    "MissionGroupId": 4131,
+    "DayCount": 0,
+    "StepCount": 1
+  },
+  {
+    "Version": "250710.1.0",
+    "Id": 57,
+    "SpecialMissionCampaignId": 1003,
+    "MissionGroupId": 4132,
+    "DayCount": 0,
+    "StepCount": 2
+  },
+  {
+    "Version": "250710.1.0",
+    "Id": 58,
+    "SpecialMissionCampaignId": 1003,
+    "MissionGroupId": 4133,
+    "DayCount": 0,
+    "StepCount": 3
+  },
+  {
+    "Version": "250710.1.0",
+    "Id": 59,
+    "SpecialMissionCampaignId": 1003,
+    "MissionGroupId": 4134,
+    "DayCount": 0,
+    "StepCount": 4
+  },
+  {
+    "Version": "250820.1.0",
+    "Id": 60,
+    "SpecialMissionCampaignId": 1004,
+    "MissionGroupId": 4141,
+    "DayCount": 0,
+    "StepCount": 1
+  },
+  {
+    "Version": "250820.1.0",
+    "Id": 61,
+    "SpecialMissionCampaignId": 1004,
+    "MissionGroupId": 4142,
+    "DayCount": 0,
+    "StepCount": 2
+  },
+  {
+    "Version": "250820.1.0",
+    "Id": 62,
+    "SpecialMissionCampaignId": 1004,
+    "MissionGroupId": 4143,
+    "DayCount": 0,
+    "StepCount": 3
+  },
+  {
+    "Version": "250820.1.0",
+    "Id": 63,
+    "SpecialMissionCampaignId": 1004,
+    "MissionGroupId": 4144,
+    "DayCount": 0,
+    "StepCount": 4
+  },
+  {
+    "Version": "250710.1.0",
+    "Id": 64,
+    "SpecialMissionCampaignId": 9,
+    "MissionGroupId": 4150,
+    "DayCount": 0,
+    "StepCount": 0
+  },
+  {
+    "Version": "250710.1.0",
+    "Id": 65,
+    "SpecialMissionCampaignId": 9,
+    "MissionGroupId": 4151,
+    "DayCount": 1,
+    "StepCount": 0
+  },
+  {
+    "Version": "250710.1.0",
+    "Id": 66,
+    "SpecialMissionCampaignId": 9,
+    "MissionGroupId": 4152,
+    "DayCount": 2,
+    "StepCount": 0
+  },
+  {
+    "Version": "250710.1.0",
+    "Id": 67,
+    "SpecialMissionCampaignId": 10,
+    "MissionGroupId": 4160,
+    "DayCount": 0,
+    "StepCount": 0
+  },
+  {
+    "Version": "250710.1.0",
+    "Id": 68,
+    "SpecialMissionCampaignId": 10,
+    "MissionGroupId": 4161,
+    "DayCount": 1,
+    "StepCount": 0
+  },
+  {
+    "Version": "250710.1.0",
+    "Id": 69,
+    "SpecialMissionCampaignId": 10,
+    "MissionGroupId": 4162,
+    "DayCount": 2,
+    "StepCount": 0
+  },
+  {
+    "Version": "250730.1.0",
+    "Id": 70,
+    "SpecialMissionCampaignId": 11,
+    "MissionGroupId": 4170,
+    "DayCount": 0,
+    "StepCount": 0
+  },
+  {
+    "Version": "250730.1.0",
+    "Id": 71,
+    "SpecialMissionCampaignId": 11,
+    "MissionGroupId": 4171,
+    "DayCount": 1,
+    "StepCount": 0
+  },
+  {
+    "Version": "250730.1.0",
+    "Id": 72,
+    "SpecialMissionCampaignId": 11,
+    "MissionGroupId": 4172,
+    "DayCount": 2,
+    "StepCount": 0
+  },
+  {
+    "Version": "250730.1.0",
+    "Id": 73,
+    "SpecialMissionCampaignId": 12,
+    "MissionGroupId": 4180,
+    "DayCount": 0,
+    "StepCount": 0
+  },
+  {
+    "Version": "250730.1.0",
+    "Id": 74,
+    "SpecialMissionCampaignId": 12,
+    "MissionGroupId": 4181,
+    "DayCount": 1,
+    "StepCount": 0
+  },
+  {
+    "Version": "250730.1.0",
+    "Id": 75,
+    "SpecialMissionCampaignId": 12,
+    "MissionGroupId": 4182,
+    "DayCount": 2,
+    "StepCount": 0
+  },
+  {
+    "Version": "250810.1.0",
+    "Id": 76,
+    "SpecialMissionCampaignId": 13,
+    "MissionGroupId": 4190,
+    "DayCount": 0,
+    "StepCount": 0
+  },
+  {
+    "Version": "250810.1.0",
+    "Id": 77,
+    "SpecialMissionCampaignId": 13,
+    "MissionGroupId": 4191,
+    "DayCount": 1,
+    "StepCount": 0
+  },
+  {
+    "Version": "250810.1.0",
+    "Id": 78,
+    "SpecialMissionCampaignId": 13,
+    "MissionGroupId": 4192,
+    "DayCount": 2,
+    "StepCount": 0
+  },
+  {
+    "Version": "250810.1.0",
+    "Id": 79,
+    "SpecialMissionCampaignId": 14,
+    "MissionGroupId": 4200,
+    "DayCount": 0,
+    "StepCount": 0
+  },
+  {
+    "Version": "250810.1.0",
+    "Id": 80,
+    "SpecialMissionCampaignId": 14,
+    "MissionGroupId": 4201,
+    "DayCount": 1,
+    "StepCount": 0
+  },
+  {
+    "Version": "250810.1.0",
+    "Id": 81,
+    "SpecialMissionCampaignId": 14,
+    "MissionGroupId": 4202,
+    "DayCount": 2,
+    "StepCount": 0
+  },
+  {
+    "Version": "250810.1.0",
+    "Id": 82,
+    "SpecialMissionCampaignId": 1005,
+    "MissionGroupId": 4211,
+    "DayCount": 0,
+    "StepCount": 1
+  },
+  {
+    "Version": "250810.1.0",
+    "Id": 83,
+    "SpecialMissionCampaignId": 1005,
+    "MissionGroupId": 4212,
+    "DayCount": 0,
+    "StepCount": 2
+  },
+  {
+    "Version": "250810.1.0",
+    "Id": 84,
+    "SpecialMissionCampaignId": 1005,
+    "MissionGroupId": 4213,
+    "DayCount": 0,
+    "StepCount": 3
+  },
+  {
+    "Version": "250810.1.0",
+    "Id": 85,
+    "SpecialMissionCampaignId": 1005,
+    "MissionGroupId": 4214,
+    "DayCount": 0,
+    "StepCount": 4
+  },
+  {
+    "Version": "250810.1.0",
+    "Id": 4220,
+    "SpecialMissionCampaignId": 19,
+    "MissionGroupId": 4220,
+    "DayCount": 0,
+    "StepCount": 0
+  },
+  {
+    "Version": "250810.1.0",
+    "Id": 4221,
+    "SpecialMissionCampaignId": 19,
+    "MissionGroupId": 4221,
+    "DayCount": 1,
+    "StepCount": 0
+  },
+  {
+    "Version": "250810.1.0",
+    "Id": 4222,
+    "SpecialMissionCampaignId": 19,
+    "MissionGroupId": 4222,
+    "DayCount": 2,
+    "StepCount": 0
+  },
+  {
+    "Version": "250810.1.0",
+    "Id": 4223,
+    "SpecialMissionCampaignId": 19,
+    "MissionGroupId": 4223,
+    "DayCount": 3,
+    "StepCount": 0
+  },
+  {
+    "Version": "250810.1.0",
+    "Id": 4224,
+    "SpecialMissionCampaignId": 19,
+    "MissionGroupId": 4224,
+    "DayCount": 4,
+    "StepCount": 0
+  },
+  {
+    "Version": "250810.1.0",
+    "Id": 4225,
+    "SpecialMissionCampaignId": 19,
+    "MissionGroupId": 4225,
+    "DayCount": 5,
+    "StepCount": 0
+  },
+  {
+    "Version": "250820.1.0",
+    "Id": 4230,
+    "SpecialMissionCampaignId": 20,
+    "MissionGroupId": 4230,
+    "DayCount": 0,
+    "StepCount": 0
+  },
+  {
+    "Version": "250820.1.0",
+    "Id": 4231,
+    "SpecialMissionCampaignId": 20,
+    "MissionGroupId": 4231,
+    "DayCount": 1,
+    "StepCount": 0
+  },
+  {
+    "Version": "250820.1.0",
+    "Id": 4232,
+    "SpecialMissionCampaignId": 20,
+    "MissionGroupId": 4232,
+    "DayCount": 2,
+    "StepCount": 0
+  },
+  {
+    "Version": "250820.1.0",
+    "Id": 4240,
+    "SpecialMissionCampaignId": 21,
+    "MissionGroupId": 4240,
+    "DayCount": 0,
+    "StepCount": 0
+  },
+  {
+    "Version": "250820.1.0",
+    "Id": 4241,
+    "SpecialMissionCampaignId": 21,
+    "MissionGroupId": 4241,
+    "DayCount": 1,
+    "StepCount": 0
+  },
+  {
+    "Version": "250820.1.0",
+    "Id": 4242,
+    "SpecialMissionCampaignId": 21,
+    "MissionGroupId": 4242,
+    "DayCount": 2,
+    "StepCount": 0
+  },
+  {
+    "Version": "251110.1.0",
+    "Id": 700100,
+    "SpecialMissionCampaignId": 10031,
+    "MissionGroupId": 700100,
+    "DayCount": 0,
+    "StepCount": 0
+  },
+  {
+    "Version": "251110.1.0",
+    "Id": 700101,
+    "SpecialMissionCampaignId": 10031,
+    "MissionGroupId": 700101,
+    "DayCount": 1,
+    "StepCount": 0
+  },
+  {
+    "Version": "251110.1.0",
+    "Id": 700102,
+    "SpecialMissionCampaignId": 10031,
+    "MissionGroupId": 700102,
+    "DayCount": 2,
+    "StepCount": 0
+  },
+  {
+    "Version": "251110.1.0",
+    "Id": 700200,
+    "SpecialMissionCampaignId": 10032,
+    "MissionGroupId": 700200,
+    "DayCount": 0,
+    "StepCount": 0
+  },
+  {
+    "Version": "251110.1.0",
+    "Id": 700201,
+    "SpecialMissionCampaignId": 10032,
+    "MissionGroupId": 700201,
+    "DayCount": 1,
+    "StepCount": 0
+  },
+  {
+    "Version": "251110.1.0",
+    "Id": 700202,
+    "SpecialMissionCampaignId": 10032,
+    "MissionGroupId": 700202,
+    "DayCount": 2,
+    "StepCount": 0
+  },
+  {
+    "Version": "251110.1.0",
+    "Id": 700300,
+    "SpecialMissionCampaignId": 10033,
+    "MissionGroupId": 700300,
+    "DayCount": 0,
+    "StepCount": 0
+  },
+  {
+    "Version": "251110.1.0",
+    "Id": 700301,
+    "SpecialMissionCampaignId": 10033,
+    "MissionGroupId": 700301,
+    "DayCount": 1,
+    "StepCount": 0
+  },
+  {
+    "Version": "251110.1.0",
+    "Id": 700302,
+    "SpecialMissionCampaignId": 10033,
+    "MissionGroupId": 700302,
+    "DayCount": 2,
+    "StepCount": 0
+  },
+  {
+    "Version": "250850.1.0",
+    "Id": 710100,
+    "SpecialMissionCampaignId": 2101,
+    "MissionGroupId": 710100,
+    "DayCount": 0,
+    "StepCount": 0
+  },
+  {
+    "Version": "250850.1.0",
+    "Id": 710101,
+    "SpecialMissionCampaignId": 2101,
+    "MissionGroupId": 710101,
+    "DayCount": 1,
+    "StepCount": 0
+  },
+  {
+    "Version": "250850.1.0",
+    "Id": 710102,
+    "SpecialMissionCampaignId": 2101,
+    "MissionGroupId": 710102,
+    "DayCount": 2,
+    "StepCount": 0
+  },
+  {
+    "Version": "250850.1.0",
+    "Id": 710200,
+    "SpecialMissionCampaignId": 2102,
+    "MissionGroupId": 710200,
+    "DayCount": 0,
+    "StepCount": 0
+  },
+  {
+    "Version": "250850.1.0",
+    "Id": 710201,
+    "SpecialMissionCampaignId": 2102,
+    "MissionGroupId": 710201,
+    "DayCount": 1,
+    "StepCount": 0
+  },
+  {
+    "Version": "250850.1.0",
+    "Id": 710202,
+    "SpecialMissionCampaignId": 2102,
+    "MissionGroupId": 710202,
+    "DayCount": 2,
+    "StepCount": 0
+  },
+  {
+    "Version": "250850.1.0",
+    "Id": 710300,
+    "SpecialMissionCampaignId": 2103,
+    "MissionGroupId": 710300,
+    "DayCount": 0,
+    "StepCount": 0
+  },
+  {
+    "Version": "250850.1.0",
+    "Id": 710301,
+    "SpecialMissionCampaignId": 2103,
+    "MissionGroupId": 710301,
+    "DayCount": 1,
+    "StepCount": 0
+  },
+  {
+    "Version": "250850.1.0",
+    "Id": 710302,
+    "SpecialMissionCampaignId": 2103,
+    "MissionGroupId": 710302,
+    "DayCount": 2,
+    "StepCount": 0
+  },
+  {
+    "Version": "250930.1.0",
+    "Id": 4261,
+    "SpecialMissionCampaignId": 1007,
+    "MissionGroupId": 4261,
+    "DayCount": 0,
+    "StepCount": 1
+  },
+  {
+    "Version": "250930.1.0",
+    "Id": 4262,
+    "SpecialMissionCampaignId": 1007,
+    "MissionGroupId": 4262,
+    "DayCount": 0,
+    "StepCount": 2
+  },
+  {
+    "Version": "250930.1.0",
+    "Id": 4263,
+    "SpecialMissionCampaignId": 1007,
+    "MissionGroupId": 4263,
+    "DayCount": 0,
+    "StepCount": 3
+  },
+  {
+    "Version": "250930.1.0",
+    "Id": 4264,
+    "SpecialMissionCampaignId": 1007,
+    "MissionGroupId": 4264,
+    "DayCount": 0,
+    "StepCount": 4
+  },
+  {
+    "Version": "251130.1.0",
+    "Id": 4280,
+    "SpecialMissionCampaignId": 1009,
+    "MissionGroupId": 4280,
+    "DayCount": 0,
+    "StepCount": 0
+  },
+  {
+    "Version": "251130.1.0",
+    "Id": 4281,
+    "SpecialMissionCampaignId": 1009,
+    "MissionGroupId": 4281,
+    "DayCount": 1,
+    "StepCount": 1
+  },
+  {
+    "Version": "251130.1.0",
+    "Id": 4282,
+    "SpecialMissionCampaignId": 1009,
+    "MissionGroupId": 4282,
+    "DayCount": 2,
+    "StepCount": 2
+  },
+  {
+    "Version": "251130.1.0",
+    "Id": 4283,
+    "SpecialMissionCampaignId": 1009,
+    "MissionGroupId": 4283,
+    "DayCount": 3,
+    "StepCount": 3
+  },
+  {
+    "Version": "251130.1.0",
+    "Id": 4284,
+    "SpecialMissionCampaignId": 1009,
+    "MissionGroupId": 4284,
+    "DayCount": 4,
+    "StepCount": 4
+  },
+  {
+    "Version": "251130.1.0",
+    "Id": 4285,
+    "SpecialMissionCampaignId": 1009,
+    "MissionGroupId": 4285,
+    "DayCount": 5,
+    "StepCount": 5
+  },
+  {
+    "Version": "251130.1.0",
+    "Id": 4291,
+    "SpecialMissionCampaignId": 1010,
+    "MissionGroupId": 4291,
+    "DayCount": 0,
+    "StepCount": 1
+  },
+  {
+    "Version": "251130.1.0",
+    "Id": 4292,
+    "SpecialMissionCampaignId": 1010,
+    "MissionGroupId": 4292,
+    "DayCount": 0,
+    "StepCount": 2
+  },
+  {
+    "Version": "251130.1.0",
+    "Id": 4293,
+    "SpecialMissionCampaignId": 1010,
+    "MissionGroupId": 4293,
+    "DayCount": 0,
+    "StepCount": 3
+  },
+  {
+    "Version": "251130.1.0",
+    "Id": 4294,
+    "SpecialMissionCampaignId": 1010,
+    "MissionGroupId": 4294,
+    "DayCount": 0,
+    "StepCount": 4
+  },
+  {
+    "Version": "260110.1.0",
+    "Id": 4301,
+    "SpecialMissionCampaignId": 1011,
+    "MissionGroupId": 4301,
+    "DayCount": 0,
+    "StepCount": 1
+  },
+  {
+    "Version": "260110.1.0",
+    "Id": 4302,
+    "SpecialMissionCampaignId": 1011,
+    "MissionGroupId": 4302,
+    "DayCount": 0,
+    "StepCount": 2
+  },
+  {
+    "Version": "260110.1.0",
+    "Id": 4303,
+    "SpecialMissionCampaignId": 1011,
+    "MissionGroupId": 4303,
+    "DayCount": 0,
+    "StepCount": 3
+  },
+  {
+    "Version": "260110.1.0",
+    "Id": 4304,
+    "SpecialMissionCampaignId": 1011,
+    "MissionGroupId": 4304,
+    "DayCount": 0,
+    "StepCount": 4
+  },
+  {
+    "Version": "260130.1.0",
+    "Id": 4310,
+    "SpecialMissionCampaignId": 31,
+    "MissionGroupId": 4310,
+    "DayCount": 0,
+    "StepCount": 0
+  },
+  {
+    "Version": "260130.1.0",
+    "Id": 4311,
+    "SpecialMissionCampaignId": 31,
+    "MissionGroupId": 4311,
+    "DayCount": 1,
+    "StepCount": 0
+  },
+  {
+    "Version": "260130.1.0",
+    "Id": 4312,
+    "SpecialMissionCampaignId": 31,
+    "MissionGroupId": 4312,
+    "DayCount": 2,
+    "StepCount": 0
+  },
+  {
+    "Version": "260130.1.0",
+    "Id": 4313,
+    "SpecialMissionCampaignId": 31,
+    "MissionGroupId": 4313,
+    "DayCount": 3,
+    "StepCount": 0
+  },
+  {
+    "Version": "260130.1.0",
+    "Id": 4314,
+    "SpecialMissionCampaignId": 31,
+    "MissionGroupId": 4314,
+    "DayCount": 4,
+    "StepCount": 0
+  },
+  {
+    "Version": "260130.1.0",
+    "Id": 4315,
+    "SpecialMissionCampaignId": 31,
+    "MissionGroupId": 4315,
+    "DayCount": 5,
+    "StepCount": 0
+  },
+  {
+    "Version": "260130.1.0",
+    "Id": 4321,
+    "SpecialMissionCampaignId": 1012,
+    "MissionGroupId": 4321,
+    "DayCount": 0,
+    "StepCount": 1
+  },
+  {
+    "Version": "260130.1.0",
+    "Id": 4322,
+    "SpecialMissionCampaignId": 1012,
+    "MissionGroupId": 4322,
+    "DayCount": 0,
+    "StepCount": 2
+  },
+  {
+    "Version": "260130.1.0",
+    "Id": 4323,
+    "SpecialMissionCampaignId": 1012,
+    "MissionGroupId": 4323,
+    "DayCount": 0,
+    "StepCount": 3
+  },
+  {
+    "Version": "260130.1.0",
+    "Id": 4324,
+    "SpecialMissionCampaignId": 1012,
+    "MissionGroupId": 4324,
+    "DayCount": 0,
+    "StepCount": 4
+  },
+  {
+    "Version": "260210.1.0",
+    "Id": 4331,
+    "SpecialMissionCampaignId": 1013,
+    "MissionGroupId": 4331,
+    "DayCount": 0,
+    "StepCount": 1
+  },
+  {
+    "Version": "260210.1.0",
+    "Id": 4332,
+    "SpecialMissionCampaignId": 1013,
+    "MissionGroupId": 4332,
+    "DayCount": 0,
+    "StepCount": 2
+  },
+  {
+    "Version": "260210.1.0",
+    "Id": 4333,
+    "SpecialMissionCampaignId": 1013,
+    "MissionGroupId": 4333,
+    "DayCount": 0,
+    "StepCount": 3
+  },
+  {
+    "Version": "260210.1.0",
+    "Id": 4334,
+    "SpecialMissionCampaignId": 1013,
+    "MissionGroupId": 4334,
+    "DayCount": 0,
+    "StepCount": 4
+  },
+  {
+    "Version": "260230.1.0",
+    "Id": 4341,
+    "SpecialMissionCampaignId": 1014,
+    "MissionGroupId": 4341,
+    "DayCount": 0,
+    "StepCount": 1
+  },
+  {
+    "Version": "260230.1.0",
+    "Id": 4342,
+    "SpecialMissionCampaignId": 1014,
+    "MissionGroupId": 4342,
+    "DayCount": 0,
+    "StepCount": 2
+  },
+  {
+    "Version": "260230.1.0",
+    "Id": 4343,
+    "SpecialMissionCampaignId": 1014,
+    "MissionGroupId": 4343,
+    "DayCount": 0,
+    "StepCount": 3
+  },
+  {
+    "Version": "260230.1.0",
+    "Id": 4344,
+    "SpecialMissionCampaignId": 1014,
+    "MissionGroupId": 4344,
+    "DayCount": 0,
+    "StepCount": 4
+  },
+  {
+    "Version": "260330.1.0",
+    "Id": 4351,
+    "SpecialMissionCampaignId": 1015,
+    "MissionGroupId": 4351,
+    "DayCount": 0,
+    "StepCount": 1
+  },
+  {
+    "Version": "260330.1.0",
+    "Id": 4352,
+    "SpecialMissionCampaignId": 1015,
+    "MissionGroupId": 4352,
+    "DayCount": 0,
+    "StepCount": 2
+  },
+  {
+    "Version": "260330.1.0",
+    "Id": 4353,
+    "SpecialMissionCampaignId": 1015,
+    "MissionGroupId": 4353,
+    "DayCount": 0,
+    "StepCount": 3
+  },
+  {
+    "Version": "260330.1.0",
+    "Id": 4354,
+    "SpecialMissionCampaignId": 1015,
+    "MissionGroupId": 4354,
+    "DayCount": 0,
+    "StepCount": 4
+  },
+  {
+    "Version": "260310.1.0",
+    "Id": 4361,
+    "SpecialMissionCampaignId": 1016,
+    "MissionGroupId": 4361,
+    "DayCount": 0,
+    "StepCount": 1
+  },
+  {
+    "Version": "260310.1.0",
+    "Id": 4362,
+    "SpecialMissionCampaignId": 1016,
+    "MissionGroupId": 4362,
+    "DayCount": 0,
+    "StepCount": 2
+  },
+  {
+    "Version": "260310.1.0",
+    "Id": 4363,
+    "SpecialMissionCampaignId": 1016,
+    "MissionGroupId": 4363,
+    "DayCount": 0,
+    "StepCount": 3
+  },
+  {
+    "Version": "260310.1.0",
+    "Id": 4364,
+    "SpecialMissionCampaignId": 1016,
+    "MissionGroupId": 4364,
+    "DayCount": 0,
+    "StepCount": 4
+  },
+  {
+    "Version": "260410.1.0",
+    "Id": 4371,
+    "SpecialMissionCampaignId": 1017,
+    "MissionGroupId": 4371,
+    "DayCount": 0,
+    "StepCount": 1
+  },
+  {
+    "Version": "260410.1.0",
+    "Id": 4372,
+    "SpecialMissionCampaignId": 1017,
+    "MissionGroupId": 4372,
+    "DayCount": 0,
+    "StepCount": 2
+  },
+  {
+    "Version": "260410.1.0",
+    "Id": 4373,
+    "SpecialMissionCampaignId": 1017,
+    "MissionGroupId": 4373,
+    "DayCount": 0,
+    "StepCount": 3
+  },
+  {
+    "Version": "260410.1.0",
+    "Id": 4374,
+    "SpecialMissionCampaignId": 1017,
+    "MissionGroupId": 4374,
+    "DayCount": 0,
+    "StepCount": 4
+  },
+  {
+    "Version": "260410.1.0",
+    "Id": 4380,
+    "SpecialMissionCampaignId": 32,
+    "MissionGroupId": 4380,
+    "DayCount": 0,
+    "StepCount": 0
+  },
+  {
+    "Version": "260410.1.0",
+    "Id": 4381,
+    "SpecialMissionCampaignId": 32,
+    "MissionGroupId": 4381,
+    "DayCount": 1,
+    "StepCount": 0
+  },
+  {
+    "Version": "260410.1.0",
+    "Id": 4382,
+    "SpecialMissionCampaignId": 32,
+    "MissionGroupId": 4382,
+    "DayCount": 2,
+    "StepCount": 0
+  },
+  {
+    "Version": "260410.1.0",
+    "Id": 4383,
+    "SpecialMissionCampaignId": 32,
+    "MissionGroupId": 4383,
+    "DayCount": 3,
+    "StepCount": 0
+  },
+  {
+    "Version": "260410.1.0",
+    "Id": 4384,
+    "SpecialMissionCampaignId": 32,
+    "MissionGroupId": 4384,
+    "DayCount": 4,
+    "StepCount": 0
+  },
+  {
+    "Version": "260410.1.0",
+    "Id": 4385,
+    "SpecialMissionCampaignId": 32,
+    "MissionGroupId": 4385,
+    "DayCount": 5,
+    "StepCount": 0
+  },
+  {
+    "Version": "260410.1.0",
+    "Id": 4386,
+    "SpecialMissionCampaignId": 32,
+    "MissionGroupId": 4386,
+    "DayCount": 6,
+    "StepCount": 0
+  },
+  {
+    "Version": "260410.1.0",
+    "Id": 4500,
+    "SpecialMissionCampaignId": 34,
+    "MissionGroupId": 4500,
+    "DayCount": 0,
+    "StepCount": 0
+  },
+  {
+    "Version": "260410.1.0",
+    "Id": 4501,
+    "SpecialMissionCampaignId": 34,
+    "MissionGroupId": 4501,
+    "DayCount": 1,
+    "StepCount": 0
+  },
+  {
+    "Version": "260410.1.0",
+    "Id": 4502,
+    "SpecialMissionCampaignId": 34,
+    "MissionGroupId": 4502,
+    "DayCount": 2,
+    "StepCount": 0
+  },
+  {
+    "Version": "260410.1.0",
+    "Id": 4503,
+    "SpecialMissionCampaignId": 34,
+    "MissionGroupId": 4503,
+    "DayCount": 3,
+    "StepCount": 0
+  }
+]

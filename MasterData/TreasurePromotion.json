@@ -1,0 +1,102 @@
+[
+  {
+    "Version": "260110.1.0",
+    "Id": 11,
+    "GroupId": 1,
+    "StartLevel": 100,
+    "EndLevel": 120,
+    "ConsumeId": 3101,
+    "PromotionCount": 1,
+    "ConsumeAlternativeId": 1216
+  },
+  {
+    "Version": "260110.1.0",
+    "Id": 12,
+    "GroupId": 1,
+    "StartLevel": 120,
+    "EndLevel": 140,
+    "ConsumeId": 3102,
+    "PromotionCount": 2,
+    "ConsumeAlternativeId": 1216
+  },
+  {
+    "Version": "260110.1.0",
+    "Id": 13,
+    "GroupId": 1,
+    "StartLevel": 140,
+    "EndLevel": 160,
+    "ConsumeId": 3103,
+    "PromotionCount": 3,
+    "ConsumeAlternativeId": 1216
+  },
+  {
+    "Version": "260110.1.0",
+    "Id": 14,
+    "GroupId": 1,
+    "StartLevel": 160,
+    "EndLevel": 180,
+    "ConsumeId": 3104,
+    "PromotionCount": 4,
+    "ConsumeAlternativeId": 1216
+  },
+  {
+    "Version": "260110.1.0",
+    "Id": 15,
+    "GroupId": 1,
+    "StartLevel": 180,
+    "EndLevel": 200,
+    "ConsumeId": 3105,
+    "PromotionCount": 5,
+    "ConsumeAlternativeId": 1216
+  },
+  {
+    "Version": "260310.1.0",
+    "Id": 16,
+    "GroupId": 1,
+    "StartLevel": 200,
+    "EndLevel": 220,
+    "ConsumeId": 3106,
+    "PromotionCount": 6,
+    "ConsumeAlternativeId": 1216
+  },
+  {
+    "Version": "260310.1.0",
+    "Id": 17,
+    "GroupId": 1,
+    "StartLevel": 220,
+    "EndLevel": 240,
+    "ConsumeId": 3107,
+    "PromotionCount": 7,
+    "ConsumeAlternativeId": 1216
+  },
+  {
+    "Version": "260310.1.0",
+    "Id": 18,
+    "GroupId": 1,
+    "StartLevel": 240,
+    "EndLevel": 260,
+    "ConsumeId": 3108,
+    "PromotionCount": 8,
+    "ConsumeAlternativeId": 1216
+  },
+  {
+    "Version": "260310.1.0",
+    "Id": 19,
+    "GroupId": 1,
+    "StartLevel": 260,
+    "EndLevel": 280,
+    "ConsumeId": 3109,
+    "PromotionCount": 9,
+    "ConsumeAlternativeId": 1216
+  },
+  {
+    "Version": "260310.1.0",
+    "Id": 20,
+    "GroupId": 1,
+    "StartLevel": 280,
+    "EndLevel": 300,
+    "ConsumeId": 3110,
+    "PromotionCount": 10,
+    "ConsumeAlternativeId": 1216
+  }
+]

@@ -1,0 +1,205 @@
+[
+  {
+    "Version": "250330.1.0",
+    "Id": 1,
+    "GroupId": 2,
+    "Difficulty": 1,
+    "UnlockAtJST": "2024-09-29 04:00:00"
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 2,
+    "GroupId": 1,
+    "Difficulty": 1,
+    "UnlockAtJST": "2024-09-29 04:00:00"
+  },
+  {
+    "Version": "250350.1.0",
+    "Id": 3,
+    "GroupId": 3,
+    "Difficulty": 1,
+    "UnlockAtJST": "2025-04-01 15:00:00"
+  },
+  {
+    "Version": "250410.1.0",
+    "Id": 4,
+    "GroupId": 4,
+    "Difficulty": 1,
+    "UnlockAtJST": "2025-04-08 15:00:00"
+  },
+  {
+    "Version": "250440.1.0",
+    "Id": 5,
+    "GroupId": 5,
+    "Difficulty": 1,
+    "UnlockAtJST": "2025-04-15 15:00:00"
+  },
+  {
+    "Version": "250450.1.0",
+    "Id": 6,
+    "GroupId": 6,
+    "Difficulty": 1,
+    "UnlockAtJST": "2025-04-25 15:00:00"
+  },
+  {
+    "Version": "250530.1.0",
+    "Id": 7,
+    "GroupId": 7,
+    "Difficulty": 1,
+    "UnlockAtJST": "2025-05-08 15:00:00"
+  },
+  {
+    "Version": "250550.1.0",
+    "Id": 8,
+    "GroupId": 8,
+    "Difficulty": 1,
+    "UnlockAtJST": "2025-05-20 15:00:00"
+  },
+  {
+    "Version": "250610.1.0",
+    "Id": 9,
+    "GroupId": 9,
+    "Difficulty": 1,
+    "UnlockAtJST": "2025-06-03 15:00:00"
+  },
+  {
+    "Version": "250630.1.0",
+    "Id": 10,
+    "GroupId": 10,
+    "Difficulty": 1,
+    "UnlockAtJST": "2025-06-17 15:00:00"
+  },
+  {
+    "Version": "250710.1.0",
+    "Id": 11,
+    "GroupId": 11,
+    "Difficulty": 1,
+    "UnlockAtJST": "2025-07-01 15:00:00"
+  },
+  {
+    "Version": "250730.1.0",
+    "Id": 12,
+    "GroupId": 12,
+    "Difficulty": 1,
+    "UnlockAtJST": "2025-07-15 15:00:00"
+  },
+  {
+    "Version": "250725.1.0",
+    "Id": 13,
+    "GroupId": 13,
+    "Difficulty": 1,
+    "UnlockAtJST": "2024-09-29 04:00:00"
+  },
+  {
+    "Version": "250810.1.0",
+    "Id": 1011,
+    "GroupId": 1011,
+    "Difficulty": 1,
+    "UnlockAtJST": "2025-07-29 15:00:00"
+  },
+  {
+    "Version": "250820.1.0",
+    "Id": 1012,
+    "GroupId": 1012,
+    "Difficulty": 1,
+    "UnlockAtJST": "2025-08-12 15:00:00"
+  },
+  {
+    "Version": "250910.1.0",
+    "Id": 1013,
+    "GroupId": 1013,
+    "Difficulty": 1,
+    "UnlockAtJST": "2025-08-26 15:00:00"
+  },
+  {
+    "Version": "250930.1.0",
+    "Id": 1014,
+    "GroupId": 1014,
+    "Difficulty": 1,
+    "UnlockAtJST": "2025-09-09 15:00:00"
+  },
+  {
+    "Version": "251010.1.0",
+    "Id": 1015,
+    "GroupId": 1015,
+    "Difficulty": 1,
+    "UnlockAtJST": "2025-09-26 15:00:00"
+  },
+  {
+    "Version": "251030.1.0",
+    "Id": 1017,
+    "GroupId": 1017,
+    "Difficulty": 1,
+    "UnlockAtJST": "2025-10-17 15:00:00"
+  },
+  {
+    "Version": "251110.1.0",
+    "Id": 1018,
+    "GroupId": 1018,
+    "Difficulty": 1,
+    "UnlockAtJST": "2025-10-31 15:00:00"
+  },
+  {
+    "Version": "251210.1.0",
+    "Id": 1019,
+    "GroupId": 1019,
+    "Difficulty": 1,
+    "UnlockAtJST": "2025-11-27 15:00:00"
+  },
+  {
+    "Version": "251230.1.0",
+    "Id": 1020,
+    "GroupId": 1020,
+    "Difficulty": 1,
+    "UnlockAtJST": "2025-12-12 15:00:00"
+  },
+  {
+    "Version": "260110.1.0",
+    "Id": 1021,
+    "GroupId": 1021,
+    "Difficulty": 1,
+    "UnlockAtJST": "2026-01-01 00:00:00"
+  },
+  {
+    "Version": "260210.1.0",
+    "Id": 1022,
+    "GroupId": 1022,
+    "Difficulty": 1,
+    "UnlockAtJST": "2026-01-27 15:00:00"
+  },
+  {
+    "Version": "260230.1.0",
+    "Id": 1023,
+    "GroupId": 1023,
+    "Difficulty": 1,
+    "UnlockAtJST": "2026-02-10 15:00:00"
+  },
+  {
+    "Version": "260310.1.0",
+    "Id": 1024,
+    "GroupId": 1024,
+    "Difficulty": 1,
+    "UnlockAtJST": "2026-02-24 15:00:00"
+  },
+  {
+    "Version": "260330.1.0",
+    "Id": 1025,
+    "GroupId": 1025,
+    "Difficulty": 1,
+    "UnlockAtJST": "2026-03-10 15:00:00"
+  },
+  {
+    "Version": "260410.1.0",
+    "Id": 14,
+    "GroupId": 14,
+    "Difficulty": 1,
+    "UnlockAtJST": "2026-01-01 04:00:00"
+  },
+  {
+    "Version": "260410.1.0",
+    "Id": 1026,
+    "GroupId": 1026,
+    "Difficulty": 1,
+    "UnlockAtJST": "2026-03-27 15:00:00"
+  }
+]

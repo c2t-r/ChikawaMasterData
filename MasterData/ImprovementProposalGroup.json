@@ -1,0 +1,198 @@
+[
+  {
+    "Version": "250330.1.0",
+    "Id": 1,
+    "GroupType": "MainBattleLose",
+    "TextKey": 1614089256,
+    "MaximumDisplayCount": 4
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 2,
+    "GroupType": "MainBattleTimeUp",
+    "TextKey": -1568855975,
+    "MaximumDisplayCount": 4
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 3,
+    "GroupType": "SubBattleBossRushLose",
+    "TextKey": 1614089256,
+    "MaximumDisplayCount": 4
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 4,
+    "GroupType": "SubBattleBossRushTimeUp",
+    "TextKey": -1568855975,
+    "MaximumDisplayCount": 4
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 5,
+    "GroupType": "SubBattleGoldTimeUp",
+    "TextKey": -1568855975,
+    "MaximumDisplayCount": 4
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 6,
+    "GroupType": "GemResourceLack",
+    "TextKey": 1165060948,
+    "MaximumDisplayCount": 4
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 7,
+    "GroupType": "CostumeEnhanceResourceLack",
+    "TextKey": 1165060948,
+    "MaximumDisplayCount": 4
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 8,
+    "GroupType": "CostumePromotionResourceLack",
+    "TextKey": 1165060948,
+    "MaximumDisplayCount": 4
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 9,
+    "GroupType": "BossRushResourceLack",
+    "TextKey": 1165060948,
+    "MaximumDisplayCount": 4
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 10,
+    "GroupType": "GoldDungeonResourceLack",
+    "TextKey": 1165060948,
+    "MaximumDisplayCount": 4
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 11,
+    "GroupType": "WeedingHoeLack",
+    "TextKey": 1165060948,
+    "MaximumDisplayCount": 4
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 12,
+    "GroupType": "WeedingDrillLack",
+    "TextKey": 1165060948,
+    "MaximumDisplayCount": 4
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 13,
+    "GroupType": "WeedingBombLack",
+    "TextKey": 1165060948,
+    "MaximumDisplayCount": 4
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 14,
+    "GroupType": "StudyResourceLack",
+    "TextKey": 1165060948,
+    "MaximumDisplayCount": 4
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 15,
+    "GroupType": "CookingResourceLack",
+    "TextKey": 1165060948,
+    "MaximumDisplayCount": 4
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 16,
+    "GroupType": "MasteryEnhanceResourceLack",
+    "TextKey": 1165060948,
+    "MaximumDisplayCount": 4
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 17,
+    "GroupType": "MasteryPromotionResourceLack",
+    "TextKey": 1165060948,
+    "MaximumDisplayCount": 4
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 18,
+    "GroupType": "PaidGemResourceLack",
+    "TextKey": 1165060948,
+    "MaximumDisplayCount": 4
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 19,
+    "GroupType": "CookingUnlockLevelUpperResourceLack",
+    "TextKey": 1165060948,
+    "MaximumDisplayCount": 4
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 20,
+    "GroupType": "HomeItemEnhanceResourceLack",
+    "TextKey": 1165060948,
+    "MaximumDisplayCount": 4
+  },
+  {
+    "Version": "250720.1.0",
+    "Id": 21,
+    "GroupType": "SubBattleTreasureLose",
+    "TextKey": 1614089256,
+    "MaximumDisplayCount": 4
+  },
+  {
+    "Version": "250720.1.0",
+    "Id": 22,
+    "GroupType": "SubBattleTreasureTimeUp",
+    "TextKey": -1568855975,
+    "MaximumDisplayCount": 4
+  },
+  {
+    "Version": "250720.1.0",
+    "Id": 23,
+    "GroupType": "SubBattleTreasureResourceLack",
+    "TextKey": 1165060948,
+    "MaximumDisplayCount": 4
+  },
+  {
+    "Version": "260110.1.0",
+    "Id": 24,
+    "GroupType": "TreasureEnhanceResourceLack",
+    "TextKey": 1165060948,
+    "MaximumDisplayCount": 4
+  },
+  {
+    "Version": "260110.1.0",
+    "Id": 25,
+    "GroupType": "TreasurePromotionResourceLack",
+    "TextKey": 1165060948,
+    "MaximumDisplayCount": 4
+  },
+  {
+    "Version": "260410.1.0",
+    "Id": 26,
+    "GroupType": "SubBattleStrongGemResourceLack",
+    "TextKey": 1165060948,
+    "MaximumDisplayCount": 4
+  },
+  {
+    "Version": "260410.1.0",
+    "Id": 31,
+    "GroupType": "KeyholderEnhanceResourceLack",
+    "TextKey": 1165060948,
+    "MaximumDisplayCount": 4
+  },
+  {
+    "Version": "260410.1.0",
+    "Id": 32,
+    "GroupType": "KeyholderMax",
+    "TextKey": -1774555501,
+    "MaximumDisplayCount": 4
+  }
+]

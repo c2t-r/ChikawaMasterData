@@ -1,0 +1,2362 @@
+[
+  {
+    "Version": "250350.1.0",
+    "Id": 100101,
+    "GroupId": 1001,
+    "RewardRelationType": "Reward",
+    "RewardRelationId": 11003000,
+    "Highlight": false
+  },
+  {
+    "Version": "250350.1.0",
+    "Id": 100102,
+    "GroupId": 1001,
+    "RewardRelationType": "Reward",
+    "RewardRelationId": 11001000,
+    "Highlight": false
+  },
+  {
+    "Version": "250350.1.0",
+    "Id": 100103,
+    "GroupId": 1001,
+    "RewardRelationType": "Reward",
+    "RewardRelationId": 11001000,
+    "Highlight": false
+  },
+  {
+    "Version": "250350.1.0",
+    "Id": 100104,
+    "GroupId": 1001,
+    "RewardRelationType": "Reward",
+    "RewardRelationId": 11001000,
+    "Highlight": false
+  },
+  {
+    "Version": "250350.1.0",
+    "Id": 100105,
+    "GroupId": 1001,
+    "RewardRelationType": "Reward",
+    "RewardRelationId": 3004,
+    "Highlight": true
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 300101,
+    "GroupId": 3001,
+    "RewardRelationType": "Reward",
+    "RewardRelationId": 11001000,
+    "Highlight": false
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 300102,
+    "GroupId": 3001,
+    "RewardRelationType": "Reward",
+    "RewardRelationId": 11001000,
+    "Highlight": false
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 300103,
+    "GroupId": 3001,
+    "RewardRelationType": "Reward",
+    "RewardRelationId": 11003000,
+    "Highlight": false
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 300104,
+    "GroupId": 3001,
+    "RewardRelationType": "Reward",
+    "RewardRelationId": 11001000,
+    "Highlight": false
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 300105,
+    "GroupId": 3001,
+    "RewardRelationType": "Reward",
+    "RewardRelationId": 11005000,
+    "Highlight": true
+  },
+  {
+    "Version": "250410.1.0",
+    "Id": 100201,
+    "GroupId": 1002,
+    "RewardRelationType": "Reward",
+    "RewardRelationId": 11003000,
+    "Highlight": false
+  },
+  {
+    "Version": "250410.1.0",
+    "Id": 100202,
+    "GroupId": 1002,
+    "RewardRelationType": "Reward",
+    "RewardRelationId": 11001000,
+    "Highlight": false
+  },
+  {
+    "Version": "250410.1.0",
+    "Id": 100203,
+    "GroupId": 1002,
+    "RewardRelationType": "Reward",
+    "RewardRelationId": 11001000,
+    "Highlight": false
+  },
+  {
+    "Version": "250410.1.0",
+    "Id": 100204,
+    "GroupId": 1002,
+    "RewardRelationType": "Reward",
+    "RewardRelationId": 11001000,
+    "Highlight": false
+  },
+  {
+    "Version": "250410.1.0",
+    "Id": 100205,
+    "GroupId": 1002,
+    "RewardRelationType": "Reward",
+    "RewardRelationId": 11003000,
+    "Highlight": true
+  },
+  {
+    "Version": "250440.1.0",
+    "Id": 100301,
+    "GroupId": 1003,
+    "RewardRelationType": "Reward",
+    "RewardRelationId": 11003000,
+    "Highlight": false
+  },
+  {
+    "Version": "250440.1.0",
+    "Id": 100302,
+    "GroupId": 1003,
+    "RewardRelationType": "Reward",
+    "RewardRelationId": 11001000,
+    "Highlight": false
+  },
+  {
+    "Version": "250440.1.0",
+    "Id": 100303,
+    "GroupId": 1003,
+    "RewardRelationType": "Reward",
+    "RewardRelationId": 11001000,
+    "Highlight": false
+  },
+  {
+    "Version": "250440.1.0",
+    "Id": 100304,
+    "GroupId": 1003,
+    "RewardRelationType": "Reward",
+    "RewardRelationId": 11001000,
+    "Highlight": false
+  },
+  {
+    "Version": "250440.1.0",
+    "Id": 100305,
+    "GroupId": 1003,
+    "RewardRelationType": "Reward",
+    "RewardRelationId": 3005,
+    "Highlight": true
+  },
+  {
+    "Version": "250450.1.0",
+    "Id": 100401,
+    "GroupId": 1004,
+    "RewardRelationType": "Reward",
+    "RewardRelationId": 11003000,
+    "Highlight": true
+  },
+  {
+    "Version": "250450.1.0",
+    "Id": 100402,
+    "GroupId": 1004,
+    "RewardRelationType": "Reward",
+    "RewardRelationId": 11001000,
+    "Highlight": false
+  },
+  {
+    "Version": "250450.1.0",
+    "Id": 100403,
+    "GroupId": 1004,
+    "RewardRelationType": "Reward",
+    "RewardRelationId": 11001000,
+    "Highlight": false
+  },
+  {
+    "Version": "250450.1.0",
+    "Id": 100404,
+    "GroupId": 1004,
+    "RewardRelationType": "Reward",
+    "RewardRelationId": 11003000,
+    "Highlight": true
+  },
+  {
+    "Version": "250450.1.0",
+    "Id": 100405,
+    "GroupId": 1004,
+    "RewardRelationType": "Reward",
+    "RewardRelationId": 11001000,
+    "Highlight": false
+  },
+  {
+    "Version": "250450.1.0",
+    "Id": 100406,
+    "GroupId": 1004,
+    "RewardRelationType": "Reward",
+    "RewardRelationId": 11001000,
+    "Highlight": false
+  },
+  {
+    "Version": "250450.1.0",
+    "Id": 100407,
+    "GroupId": 1004,
+    "RewardRelationType": "Reward",
+    "RewardRelationId": 11003000,
+    "Highlight": true
+  },
+  {
+    "Version": "260410.1.0",
+    "Id": 3200801,
+    "GroupId": 3200801,
+    "RewardRelationType": "RewardGroup",
+    "RewardRelationId": 320085,
+    "Highlight": false
+  },
+  {
+    "Version": "250510.1.0",
+    "Id": 300301,
+    "GroupId": 300301,
+    "RewardRelationType": "Reward",
+    "RewardRelationId": 11001000,
+    "Highlight": false
+  },
+  {
+    "Version": "250510.1.0",
+    "Id": 300302,
+    "GroupId": 300301,
+    "RewardRelationType": "Reward",
+    "RewardRelationId": 11001000,
+    "Highlight": false
+  },
+  {
+    "Version": "250510.1.0",
+    "Id": 300303,
+    "GroupId": 300301,
+    "RewardRelationType": "Reward",
+    "RewardRelationId": 11003000,
+    "Highlight": false
+  },
+  {
+    "Version": "250510.1.0",
+    "Id": 300304,
+    "GroupId": 300301,
+    "RewardRelationType": "Reward",
+    "RewardRelationId": 11001000,
+    "Highlight": false
+  },
+  {
+    "Version": "250510.1.0",
+    "Id": 300305,
+    "GroupId": 300301,
+    "RewardRelationType": "Reward",
+    "RewardRelationId": 11001000,
+    "Highlight": false
+  },
+  {
+    "Version": "250510.1.0",
+    "Id": 300306,
+    "GroupId": 300301,
+    "RewardRelationType": "Reward",
+    "RewardRelationId": 11001000,
+    "Highlight": false
+  },
+  {
+    "Version": "250510.1.0",
+    "Id": 300307,
+    "GroupId": 300301,
+    "RewardRelationType": "Reward",
+    "RewardRelationId": 11004000,
+    "Highlight": false
+  },
+  {
+    "Version": "250510.1.0",
+    "Id": 300308,
+    "GroupId": 300301,
+    "RewardRelationType": "Reward",
+    "RewardRelationId": 11001000,
+    "Highlight": false
+  },
+  {
+    "Version": "250510.1.0",
+    "Id": 300309,
+    "GroupId": 300301,
+    "RewardRelationType": "Reward",
+    "RewardRelationId": 11001000,
+    "Highlight": false
+  },
+  {
+    "Version": "250510.1.0",
+    "Id": 300310,
+    "GroupId": 300301,
+    "RewardRelationType": "Reward",
+    "RewardRelationId": 11001000,
+    "Highlight": false
+  },
+  {
+    "Version": "250510.1.0",
+    "Id": 300311,
+    "GroupId": 300301,
+    "RewardRelationType": "Reward",
+    "RewardRelationId": 11005000,
+    "Highlight": false
+  },
+  {
+    "Version": "250510.1.0",
+    "Id": 300401,
+    "GroupId": 3004,
+    "RewardRelationType": "Reward",
+    "RewardRelationId": 74001,
+    "Highlight": false
+  },
+  {
+    "Version": "250530.1.0",
+    "Id": 100501,
+    "GroupId": 1005,
+    "RewardRelationType": "Reward",
+    "RewardRelationId": 11001000,
+    "Highlight": false
+  },
+  {
+    "Version": "250530.1.0",
+    "Id": 100502,
+    "GroupId": 1005,
+    "RewardRelationType": "Reward",
+    "RewardRelationId": 11001000,
+    "Highlight": false
+  },
+  {
+    "Version": "250530.1.0",
+    "Id": 100503,
+    "GroupId": 1005,
+    "RewardRelationType": "Reward",
+    "RewardRelationId": 11003000,
+    "Highlight": false
+  },
+  {
+    "Version": "250530.1.0",
+    "Id": 100504,
+    "GroupId": 1005,
+    "RewardRelationType": "Reward",
+    "RewardRelationId": 11001000,
+    "Highlight": false
+  },
+  {
+    "Version": "250530.1.0",
+    "Id": 100505,
+    "GroupId": 1005,
+    "RewardRelationType": "Reward",
+    "RewardRelationId": 3006,
+    "Highlight": true
+  },
+  {
+    "Version": "250530.1.0",
+    "Id": 100506,
+    "GroupId": 1005,
+    "RewardRelationType": "Reward",
+    "RewardRelationId": 11001000,
+    "Highlight": false
+  },
+  {
+    "Version": "250530.1.0",
+    "Id": 100507,
+    "GroupId": 1005,
+    "RewardRelationType": "Reward",
+    "RewardRelationId": 11003000,
+    "Highlight": false
+  },
+  {
+    "Version": "250550.1.0",
+    "Id": 100601,
+    "GroupId": 1006,
+    "RewardRelationType": "Reward",
+    "RewardRelationId": 11001000,
+    "Highlight": false
+  },
+  {
+    "Version": "250550.1.0",
+    "Id": 100602,
+    "GroupId": 1006,
+    "RewardRelationType": "Reward",
+    "RewardRelationId": 11001000,
+    "Highlight": false
+  },
+  {
+    "Version": "250550.1.0",
+    "Id": 100603,
+    "GroupId": 1006,
+    "RewardRelationType": "Reward",
+    "RewardRelationId": 11003000,
+    "Highlight": false
+  },
+  {
+    "Version": "250550.1.0",
+    "Id": 100604,
+    "GroupId": 1006,
+    "RewardRelationType": "Reward",
+    "RewardRelationId": 11001000,
+    "Highlight": false
+  },
+  {
+    "Version": "250550.1.0",
+    "Id": 100605,
+    "GroupId": 1006,
+    "RewardRelationType": "Reward",
+    "RewardRelationId": 11003000,
+    "Highlight": false
+  },
+  {
+    "Version": "250550.1.0",
+    "Id": 100606,
+    "GroupId": 1006,
+    "RewardRelationType": "Reward",
+    "RewardRelationId": 11001000,
+    "Highlight": false
+  },
+  {
+    "Version": "250550.1.0",
+    "Id": 100607,
+    "GroupId": 1006,
+    "RewardRelationType": "Reward",
+    "RewardRelationId": 11003000,
+    "Highlight": false
+  },
+  {
+    "Version": "250610.1.0",
+    "Id": 100701,
+    "GroupId": 1007,
+    "RewardRelationType": "Reward",
+    "RewardRelationId": 11001000,
+    "Highlight": false
+  },
+  {
+    "Version": "250610.1.0",
+    "Id": 100702,
+    "GroupId": 1007,
+    "RewardRelationType": "Reward",
+    "RewardRelationId": 11001000,
+    "Highlight": false
+  },
+  {
+    "Version": "250610.1.0",
+    "Id": 100703,
+    "GroupId": 1007,
+    "RewardRelationType": "Reward",
+    "RewardRelationId": 11003000,
+    "Highlight": false
+  },
+  {
+    "Version": "250610.1.0",
+    "Id": 100704,
+    "GroupId": 1007,
+    "RewardRelationType": "Reward",
+    "RewardRelationId": 11001000,
+    "Highlight": false
+  },
+  {
+    "Version": "250610.1.0",
+    "Id": 100705,
+    "GroupId": 1007,
+    "RewardRelationType": "Reward",
+    "RewardRelationId": 3007,
+    "Highlight": false
+  },
+  {
+    "Version": "250610.1.0",
+    "Id": 100706,
+    "GroupId": 1007,
+    "RewardRelationType": "Reward",
+    "RewardRelationId": 11001000,
+    "Highlight": false
+  },
+  {
+    "Version": "250610.1.0",
+    "Id": 100707,
+    "GroupId": 1007,
+    "RewardRelationType": "Reward",
+    "RewardRelationId": 11003000,
+    "Highlight": false
+  },
+  {
+    "Version": "250630.1.0",
+    "Id": 100801,
+    "GroupId": 1008,
+    "RewardRelationType": "Reward",
+    "RewardRelationId": 11001000,
+    "Highlight": false
+  },
+  {
+    "Version": "250630.1.0",
+    "Id": 100802,
+    "GroupId": 1008,
+    "RewardRelationType": "Reward",
+    "RewardRelationId": 11001000,
+    "Highlight": false
+  },
+  {
+    "Version": "250630.1.0",
+    "Id": 100803,
+    "GroupId": 1008,
+    "RewardRelationType": "Reward",
+    "RewardRelationId": 11003000,
+    "Highlight": false
+  },
+  {
+    "Version": "250630.1.0",
+    "Id": 100804,
+    "GroupId": 1008,
+    "RewardRelationType": "Reward",
+    "RewardRelationId": 11001000,
+    "Highlight": false
+  },
+  {
+    "Version": "250630.1.0",
+    "Id": 100805,
+    "GroupId": 1008,
+    "RewardRelationType": "Reward",
+    "RewardRelationId": 11003000,
+    "Highlight": false
+  },
+  {
+    "Version": "250630.1.0",
+    "Id": 100806,
+    "GroupId": 1008,
+    "RewardRelationType": "Reward",
+    "RewardRelationId": 11001000,
+    "Highlight": false
+  },
+  {
+    "Version": "250630.1.0",
+    "Id": 100807,
+    "GroupId": 1008,
+    "RewardRelationType": "Reward",
+    "RewardRelationId": 11003000,
+    "Highlight": false
+  },
+  {
+    "Version": "250632.1.0",
+    "Id": 300501,
+    "GroupId": 3005,
+    "RewardRelationType": "RewardGroup",
+    "RewardRelationId": 6000001,
+    "Highlight": true
+  },
+  {
+    "Version": "250632.1.0",
+    "Id": 300502,
+    "GroupId": 3005,
+    "RewardRelationType": "Reward",
+    "RewardRelationId": 11001000,
+    "Highlight": false
+  },
+  {
+    "Version": "250632.1.0",
+    "Id": 300503,
+    "GroupId": 3005,
+    "RewardRelationType": "Reward",
+    "RewardRelationId": 11001000,
+    "Highlight": false
+  },
+  {
+    "Version": "250632.1.0",
+    "Id": 300504,
+    "GroupId": 3005,
+    "RewardRelationType": "Reward",
+    "RewardRelationId": 11005000,
+    "Highlight": false
+  },
+  {
+    "Version": "250632.1.0",
+    "Id": 300505,
+    "GroupId": 3005,
+    "RewardRelationType": "Reward",
+    "RewardRelationId": 11001000,
+    "Highlight": false
+  },
+  {
+    "Version": "250632.1.0",
+    "Id": 300506,
+    "GroupId": 3005,
+    "RewardRelationType": "Reward",
+    "RewardRelationId": 11001000,
+    "Highlight": false
+  },
+  {
+    "Version": "250632.1.0",
+    "Id": 300507,
+    "GroupId": 3005,
+    "RewardRelationType": "Reward",
+    "RewardRelationId": 11005000,
+    "Highlight": false
+  },
+  {
+    "Version": "250710.1.0",
+    "Id": 100901,
+    "GroupId": 1009,
+    "RewardRelationType": "Reward",
+    "RewardRelationId": 11001000,
+    "Highlight": false
+  },
+  {
+    "Version": "250710.1.0",
+    "Id": 100902,
+    "GroupId": 1009,
+    "RewardRelationType": "Reward",
+    "RewardRelationId": 11001000,
+    "Highlight": false
+  },
+  {
+    "Version": "250710.1.0",
+    "Id": 100903,
+    "GroupId": 1009,
+    "RewardRelationType": "Reward",
+    "RewardRelationId": 11003000,
+    "Highlight": false
+  },
+  {
+    "Version": "250710.1.0",
+    "Id": 100904,
+    "GroupId": 1009,
+    "RewardRelationType": "Reward",
+    "RewardRelationId": 11001000,
+    "Highlight": false
+  },
+  {
+    "Version": "250710.1.0",
+    "Id": 100905,
+    "GroupId": 1009,
+    "RewardRelationType": "Reward",
+    "RewardRelationId": 3008,
+    "Highlight": true
+  },
+  {
+    "Version": "250710.1.0",
+    "Id": 100906,
+    "GroupId": 1009,
+    "RewardRelationType": "Reward",
+    "RewardRelationId": 11001000,
+    "Highlight": false
+  },
+  {
+    "Version": "250710.1.0",
+    "Id": 100907,
+    "GroupId": 1009,
+    "RewardRelationType": "Reward",
+    "RewardRelationId": 11003000,
+    "Highlight": false
+  },
+  {
+    "Version": "250730.1.0",
+    "Id": 101001,
+    "GroupId": 1010,
+    "RewardRelationType": "Reward",
+    "RewardRelationId": 11001000,
+    "Highlight": false
+  },
+  {
+    "Version": "250730.1.0",
+    "Id": 101002,
+    "GroupId": 1010,
+    "RewardRelationType": "Reward",
+    "RewardRelationId": 11001000,
+    "Highlight": false
+  },
+  {
+    "Version": "250730.1.0",
+    "Id": 101003,
+    "GroupId": 1010,
+    "RewardRelationType": "Reward",
+    "RewardRelationId": 11003000,
+    "Highlight": false
+  },
+  {
+    "Version": "250730.1.0",
+    "Id": 101004,
+    "GroupId": 1010,
+    "RewardRelationType": "Reward",
+    "RewardRelationId": 11001000,
+    "Highlight": false
+  },
+  {
+    "Version": "250730.1.0",
+    "Id": 101005,
+    "GroupId": 1010,
+    "RewardRelationType": "Reward",
+    "RewardRelationId": 11003000,
+    "Highlight": false
+  },
+  {
+    "Version": "250730.1.0",
+    "Id": 101006,
+    "GroupId": 1010,
+    "RewardRelationType": "Reward",
+    "RewardRelationId": 11001000,
+    "Highlight": false
+  },
+  {
+    "Version": "250730.1.0",
+    "Id": 101007,
+    "GroupId": 1010,
+    "RewardRelationType": "Reward",
+    "RewardRelationId": 11003000,
+    "Highlight": false
+  },
+  {
+    "Version": "250810.1.0",
+    "Id": 101101,
+    "GroupId": 1011,
+    "RewardRelationType": "Reward",
+    "RewardRelationId": 11001000,
+    "Highlight": false
+  },
+  {
+    "Version": "250810.1.0",
+    "Id": 101102,
+    "GroupId": 1011,
+    "RewardRelationType": "Reward",
+    "RewardRelationId": 11001000,
+    "Highlight": false
+  },
+  {
+    "Version": "250810.1.0",
+    "Id": 101103,
+    "GroupId": 1011,
+    "RewardRelationType": "Reward",
+    "RewardRelationId": 11003000,
+    "Highlight": false
+  },
+  {
+    "Version": "250810.1.0",
+    "Id": 101104,
+    "GroupId": 1011,
+    "RewardRelationType": "Reward",
+    "RewardRelationId": 11001000,
+    "Highlight": false
+  },
+  {
+    "Version": "250810.1.0",
+    "Id": 101105,
+    "GroupId": 1011,
+    "RewardRelationType": "Reward",
+    "RewardRelationId": 3009,
+    "Highlight": true
+  },
+  {
+    "Version": "250810.1.0",
+    "Id": 101106,
+    "GroupId": 1011,
+    "RewardRelationType": "Reward",
+    "RewardRelationId": 11001000,
+    "Highlight": false
+  },
+  {
+    "Version": "250810.1.0",
+    "Id": 101107,
+    "GroupId": 1011,
+    "RewardRelationType": "Reward",
+    "RewardRelationId": 11003000,
+    "Highlight": false
+  },
+  {
+    "Version": "250820.1.0",
+    "Id": 101201,
+    "GroupId": 1012,
+    "RewardRelationType": "Reward",
+    "RewardRelationId": 2065,
+    "Highlight": true
+  },
+  {
+    "Version": "250820.1.0",
+    "Id": 101202,
+    "GroupId": 1012,
+    "RewardRelationType": "Reward",
+    "RewardRelationId": 11001000,
+    "Highlight": false
+  },
+  {
+    "Version": "250820.1.0",
+    "Id": 101203,
+    "GroupId": 1012,
+    "RewardRelationType": "Reward",
+    "RewardRelationId": 11003000,
+    "Highlight": false
+  },
+  {
+    "Version": "250820.1.0",
+    "Id": 101204,
+    "GroupId": 1012,
+    "RewardRelationType": "Reward",
+    "RewardRelationId": 11001000,
+    "Highlight": false
+  },
+  {
+    "Version": "250820.1.0",
+    "Id": 101205,
+    "GroupId": 1012,
+    "RewardRelationType": "Reward",
+    "RewardRelationId": 2065,
+    "Highlight": true
+  },
+  {
+    "Version": "250820.1.0",
+    "Id": 101206,
+    "GroupId": 1012,
+    "RewardRelationType": "Reward",
+    "RewardRelationId": 11001000,
+    "Highlight": false
+  },
+  {
+    "Version": "250820.1.0",
+    "Id": 101207,
+    "GroupId": 1012,
+    "RewardRelationType": "Reward",
+    "RewardRelationId": 11003000,
+    "Highlight": false
+  },
+  {
+    "Version": "250810.1.0",
+    "Id": 300601,
+    "GroupId": 3006,
+    "RewardRelationType": "Reward",
+    "RewardRelationId": 11001000,
+    "Highlight": false
+  },
+  {
+    "Version": "250810.1.0",
+    "Id": 300602,
+    "GroupId": 3006,
+    "RewardRelationType": "Reward",
+    "RewardRelationId": 74000002,
+    "Highlight": false
+  },
+  {
+    "Version": "250810.1.0",
+    "Id": 300603,
+    "GroupId": 3006,
+    "RewardRelationType": "Reward",
+    "RewardRelationId": 11005000,
+    "Highlight": false
+  },
+  {
+    "Version": "250810.1.0",
+    "Id": 300604,
+    "GroupId": 3006,
+    "RewardRelationType": "Reward",
+    "RewardRelationId": 74000002,
+    "Highlight": false
+  },
+  {
+    "Version": "250810.1.0",
+    "Id": 300605,
+    "GroupId": 3006,
+    "RewardRelationType": "Reward",
+    "RewardRelationId": 11003000,
+    "Highlight": false
+  },
+  {
+    "Version": "250810.1.0",
+    "Id": 300606,
+    "GroupId": 3006,
+    "RewardRelationType": "Reward",
+    "RewardRelationId": 74000002,
+    "Highlight": false
+  },
+  {
+    "Version": "250810.1.0",
+    "Id": 300607,
+    "GroupId": 3006,
+    "RewardRelationType": "Reward",
+    "RewardRelationId": 11005000,
+    "Highlight": false
+  },
+  {
+    "Version": "250940.1.0",
+    "Id": 300701,
+    "GroupId": 3007,
+    "RewardRelationType": "Reward",
+    "RewardRelationId": 11003000,
+    "Highlight": false
+  },
+  {
+    "Version": "250940.1.0",
+    "Id": 300801,
+    "GroupId": 3008,
+    "RewardRelationType": "Reward",
+    "RewardRelationId": 522010,
+    "Highlight": false
+  },
+  {
+    "Version": "250940.1.0",
+    "Id": 300901,
+    "GroupId": 3009,
+    "RewardRelationType": "Reward",
+    "RewardRelationId": 11003000,
+    "Highlight": false
+  },
+  {
+    "Version": "250940.1.0",
+    "Id": 301001,
+    "GroupId": 3010,
+    "RewardRelationType": "Reward",
+    "RewardRelationId": 713010,
+    "Highlight": false
+  },
+  {
+    "Version": "250940.1.0",
+    "Id": 301101,
+    "GroupId": 3011,
+    "RewardRelationType": "Reward",
+    "RewardRelationId": 11003000,
+    "Highlight": false
+  },
+  {
+    "Version": "250940.1.0",
+    "Id": 301201,
+    "GroupId": 3012,
+    "RewardRelationType": "Reward",
+    "RewardRelationId": 130020,
+    "Highlight": false
+  },
+  {
+    "Version": "250940.1.0",
+    "Id": 301301,
+    "GroupId": 3013,
+    "RewardRelationType": "Reward",
+    "RewardRelationId": 11003000,
+    "Highlight": false
+  },
+  {
+    "Version": "250910.1.0",
+    "Id": 101301,
+    "GroupId": 1013,
+    "RewardRelationType": "Reward",
+    "RewardRelationId": 11001000,
+    "Highlight": false
+  },
+  {
+    "Version": "250910.1.0",
+    "Id": 101302,
+    "GroupId": 1013,
+    "RewardRelationType": "Reward",
+    "RewardRelationId": 11001000,
+    "Highlight": false
+  },
+  {
+    "Version": "250910.1.0",
+    "Id": 101303,
+    "GroupId": 1013,
+    "RewardRelationType": "Reward",
+    "RewardRelationId": 11003000,
+    "Highlight": false
+  },
+  {
+    "Version": "250910.1.0",
+    "Id": 101304,
+    "GroupId": 1013,
+    "RewardRelationType": "Reward",
+    "RewardRelationId": 11001000,
+    "Highlight": false
+  },
+  {
+    "Version": "250910.1.0",
+    "Id": 101305,
+    "GroupId": 1013,
+    "RewardRelationType": "Reward",
+    "RewardRelationId": 3010,
+    "Highlight": true
+  },
+  {
+    "Version": "250910.1.0",
+    "Id": 101306,
+    "GroupId": 1013,
+    "RewardRelationType": "Reward",
+    "RewardRelationId": 11001000,
+    "Highlight": false
+  },
+  {
+    "Version": "250910.1.0",
+    "Id": 101307,
+    "GroupId": 1013,
+    "RewardRelationType": "Reward",
+    "RewardRelationId": 11003000,
+    "Highlight": false
+  },
+  {
+    "Version": "250930.1.0",
+    "Id": 101401,
+    "GroupId": 1014,
+    "RewardRelationType": "Reward",
+    "RewardRelationId": 2068,
+    "Highlight": true
+  },
+  {
+    "Version": "250930.1.0",
+    "Id": 101402,
+    "GroupId": 1014,
+    "RewardRelationType": "Reward",
+    "RewardRelationId": 11001000,
+    "Highlight": false
+  },
+  {
+    "Version": "250930.1.0",
+    "Id": 101403,
+    "GroupId": 1014,
+    "RewardRelationType": "Reward",
+    "RewardRelationId": 11003000,
+    "Highlight": false
+  },
+  {
+    "Version": "250930.1.0",
+    "Id": 101404,
+    "GroupId": 1014,
+    "RewardRelationType": "Reward",
+    "RewardRelationId": 11001000,
+    "Highlight": false
+  },
+  {
+    "Version": "250930.1.0",
+    "Id": 101405,
+    "GroupId": 1014,
+    "RewardRelationType": "Reward",
+    "RewardRelationId": 2068,
+    "Highlight": true
+  },
+  {
+    "Version": "250930.1.0",
+    "Id": 101406,
+    "GroupId": 1014,
+    "RewardRelationType": "Reward",
+    "RewardRelationId": 11001000,
+    "Highlight": false
+  },
+  {
+    "Version": "250930.1.0",
+    "Id": 101407,
+    "GroupId": 1014,
+    "RewardRelationType": "Reward",
+    "RewardRelationId": 11003000,
+    "Highlight": false
+  },
+  {
+    "Version": "251010.1.0",
+    "Id": 301401,
+    "GroupId": 3014,
+    "RewardRelationType": "Reward",
+    "RewardRelationId": 22002,
+    "Highlight": true
+  },
+  {
+    "Version": "251010.1.0",
+    "Id": 301402,
+    "GroupId": 3014,
+    "RewardRelationType": "Reward",
+    "RewardRelationId": 11002000,
+    "Highlight": false
+  },
+  {
+    "Version": "251010.1.0",
+    "Id": 301403,
+    "GroupId": 3014,
+    "RewardRelationType": "Reward",
+    "RewardRelationId": 120100,
+    "Highlight": true
+  },
+  {
+    "Version": "251010.1.0",
+    "Id": 301404,
+    "GroupId": 3014,
+    "RewardRelationType": "Reward",
+    "RewardRelationId": 11005000,
+    "Highlight": false
+  },
+  {
+    "Version": "251010.1.0",
+    "Id": 301405,
+    "GroupId": 3014,
+    "RewardRelationType": "Reward",
+    "RewardRelationId": 130020,
+    "Highlight": true
+  },
+  {
+    "Version": "251010.1.0",
+    "Id": 301406,
+    "GroupId": 3014,
+    "RewardRelationType": "Reward",
+    "RewardRelationId": 11002000,
+    "Highlight": false
+  },
+  {
+    "Version": "251010.1.0",
+    "Id": 301407,
+    "GroupId": 3014,
+    "RewardRelationType": "Reward",
+    "RewardRelationId": 11010000,
+    "Highlight": true
+  },
+  {
+    "Version": "251010.1.0",
+    "Id": 101501,
+    "GroupId": 1015,
+    "RewardRelationType": "Reward",
+    "RewardRelationId": 11001000,
+    "Highlight": false
+  },
+  {
+    "Version": "251010.1.0",
+    "Id": 101502,
+    "GroupId": 1015,
+    "RewardRelationType": "Reward",
+    "RewardRelationId": 11001000,
+    "Highlight": false
+  },
+  {
+    "Version": "251010.1.0",
+    "Id": 101503,
+    "GroupId": 1015,
+    "RewardRelationType": "Reward",
+    "RewardRelationId": 11003000,
+    "Highlight": true
+  },
+  {
+    "Version": "251010.1.0",
+    "Id": 101504,
+    "GroupId": 1015,
+    "RewardRelationType": "Reward",
+    "RewardRelationId": 11001000,
+    "Highlight": false
+  },
+  {
+    "Version": "251010.1.0",
+    "Id": 101505,
+    "GroupId": 1015,
+    "RewardRelationType": "Reward",
+    "RewardRelationId": 3011,
+    "Highlight": true
+  },
+  {
+    "Version": "251010.1.0",
+    "Id": 101506,
+    "GroupId": 1015,
+    "RewardRelationType": "Reward",
+    "RewardRelationId": 11001000,
+    "Highlight": false
+  },
+  {
+    "Version": "251010.1.0",
+    "Id": 101507,
+    "GroupId": 1015,
+    "RewardRelationType": "Reward",
+    "RewardRelationId": 11003000,
+    "Highlight": true
+  },
+  {
+    "Version": "251010.1.0",
+    "Id": 101508,
+    "GroupId": 1015,
+    "RewardRelationType": "Reward",
+    "RewardRelationId": 11001000,
+    "Highlight": false
+  },
+  {
+    "Version": "251010.1.0",
+    "Id": 101509,
+    "GroupId": 1015,
+    "RewardRelationType": "Reward",
+    "RewardRelationId": 11001000,
+    "Highlight": false
+  },
+  {
+    "Version": "251010.1.0",
+    "Id": 101510,
+    "GroupId": 1015,
+    "RewardRelationType": "Reward",
+    "RewardRelationId": 130020,
+    "Highlight": true
+  },
+  {
+    "Version": "251130.1.0",
+    "Id": 301501,
+    "GroupId": 3015,
+    "RewardRelationType": "Reward",
+    "RewardRelationId": 130005,
+    "Highlight": true
+  },
+  {
+    "Version": "251130.1.0",
+    "Id": 301502,
+    "GroupId": 3015,
+    "RewardRelationType": "Reward",
+    "RewardRelationId": 200050,
+    "Highlight": false
+  },
+  {
+    "Version": "251130.1.0",
+    "Id": 301503,
+    "GroupId": 3015,
+    "RewardRelationType": "Reward",
+    "RewardRelationId": 130005,
+    "Highlight": true
+  },
+  {
+    "Version": "251130.1.0",
+    "Id": 301504,
+    "GroupId": 3015,
+    "RewardRelationType": "Reward",
+    "RewardRelationId": 200050,
+    "Highlight": false
+  },
+  {
+    "Version": "251130.1.0",
+    "Id": 301505,
+    "GroupId": 3015,
+    "RewardRelationType": "Reward",
+    "RewardRelationId": 130005,
+    "Highlight": true
+  },
+  {
+    "Version": "251030.1.0",
+    "Id": 101601,
+    "GroupId": 1016,
+    "RewardRelationType": "Reward",
+    "RewardRelationId": 11001000,
+    "Highlight": false
+  },
+  {
+    "Version": "251030.1.0",
+    "Id": 101602,
+    "GroupId": 1016,
+    "RewardRelationType": "Reward",
+    "RewardRelationId": 11001000,
+    "Highlight": false
+  },
+  {
+    "Version": "251030.1.0",
+    "Id": 101603,
+    "GroupId": 1016,
+    "RewardRelationType": "Reward",
+    "RewardRelationId": 11003000,
+    "Highlight": false
+  },
+  {
+    "Version": "251030.1.0",
+    "Id": 101604,
+    "GroupId": 1016,
+    "RewardRelationType": "Reward",
+    "RewardRelationId": 11001000,
+    "Highlight": false
+  },
+  {
+    "Version": "251030.1.0",
+    "Id": 101605,
+    "GroupId": 1016,
+    "RewardRelationType": "Reward",
+    "RewardRelationId": 3012,
+    "Highlight": true
+  },
+  {
+    "Version": "251030.1.0",
+    "Id": 101606,
+    "GroupId": 1016,
+    "RewardRelationType": "Reward",
+    "RewardRelationId": 11001000,
+    "Highlight": false
+  },
+  {
+    "Version": "251030.1.0",
+    "Id": 101607,
+    "GroupId": 1016,
+    "RewardRelationType": "Reward",
+    "RewardRelationId": 11003000,
+    "Highlight": false
+  },
+  {
+    "Version": "251110.1.0",
+    "Id": 101701,
+    "GroupId": 1017,
+    "RewardRelationType": "Reward",
+    "RewardRelationId": 2077,
+    "Highlight": true
+  },
+  {
+    "Version": "251110.1.0",
+    "Id": 101702,
+    "GroupId": 1017,
+    "RewardRelationType": "Reward",
+    "RewardRelationId": 11001000,
+    "Highlight": false
+  },
+  {
+    "Version": "251110.1.0",
+    "Id": 101703,
+    "GroupId": 1017,
+    "RewardRelationType": "Reward",
+    "RewardRelationId": 11003000,
+    "Highlight": false
+  },
+  {
+    "Version": "251110.1.0",
+    "Id": 101704,
+    "GroupId": 1017,
+    "RewardRelationType": "Reward",
+    "RewardRelationId": 11001000,
+    "Highlight": false
+  },
+  {
+    "Version": "251110.1.0",
+    "Id": 101705,
+    "GroupId": 1017,
+    "RewardRelationType": "Reward",
+    "RewardRelationId": 2077,
+    "Highlight": true
+  },
+  {
+    "Version": "251110.1.0",
+    "Id": 101706,
+    "GroupId": 1017,
+    "RewardRelationType": "Reward",
+    "RewardRelationId": 11001000,
+    "Highlight": false
+  },
+  {
+    "Version": "251110.1.0",
+    "Id": 101707,
+    "GroupId": 1017,
+    "RewardRelationType": "Reward",
+    "RewardRelationId": 11003000,
+    "Highlight": false
+  },
+  {
+    "Version": "251130.1.0",
+    "Id": 301601,
+    "GroupId": 3016,
+    "RewardRelationType": "Reward",
+    "RewardRelationId": 200200,
+    "Highlight": false
+  },
+  {
+    "Version": "251210.1.0",
+    "Id": 101801,
+    "GroupId": 1018,
+    "RewardRelationType": "Reward",
+    "RewardRelationId": 11001000,
+    "Highlight": false
+  },
+  {
+    "Version": "251210.1.0",
+    "Id": 101802,
+    "GroupId": 1018,
+    "RewardRelationType": "Reward",
+    "RewardRelationId": 11001000,
+    "Highlight": false
+  },
+  {
+    "Version": "251210.1.0",
+    "Id": 101803,
+    "GroupId": 1018,
+    "RewardRelationType": "Reward",
+    "RewardRelationId": 11003000,
+    "Highlight": false
+  },
+  {
+    "Version": "251210.1.0",
+    "Id": 101804,
+    "GroupId": 1018,
+    "RewardRelationType": "Reward",
+    "RewardRelationId": 11001000,
+    "Highlight": false
+  },
+  {
+    "Version": "251210.1.0",
+    "Id": 101805,
+    "GroupId": 1018,
+    "RewardRelationType": "Reward",
+    "RewardRelationId": 3013,
+    "Highlight": true
+  },
+  {
+    "Version": "251210.1.0",
+    "Id": 101806,
+    "GroupId": 1018,
+    "RewardRelationType": "Reward",
+    "RewardRelationId": 11001000,
+    "Highlight": false
+  },
+  {
+    "Version": "251210.1.0",
+    "Id": 101807,
+    "GroupId": 1018,
+    "RewardRelationType": "Reward",
+    "RewardRelationId": 11003000,
+    "Highlight": false
+  },
+  {
+    "Version": "251230.1.0",
+    "Id": 101901,
+    "GroupId": 1019,
+    "RewardRelationType": "Reward",
+    "RewardRelationId": 2080,
+    "Highlight": true
+  },
+  {
+    "Version": "251230.1.0",
+    "Id": 101902,
+    "GroupId": 1019,
+    "RewardRelationType": "Reward",
+    "RewardRelationId": 11001000,
+    "Highlight": false
+  },
+  {
+    "Version": "251230.1.0",
+    "Id": 101903,
+    "GroupId": 1019,
+    "RewardRelationType": "Reward",
+    "RewardRelationId": 11003000,
+    "Highlight": false
+  },
+  {
+    "Version": "251230.1.0",
+    "Id": 101904,
+    "GroupId": 1019,
+    "RewardRelationType": "Reward",
+    "RewardRelationId": 11001000,
+    "Highlight": false
+  },
+  {
+    "Version": "251230.1.0",
+    "Id": 101905,
+    "GroupId": 1019,
+    "RewardRelationType": "Reward",
+    "RewardRelationId": 2080,
+    "Highlight": true
+  },
+  {
+    "Version": "251230.1.0",
+    "Id": 101906,
+    "GroupId": 1019,
+    "RewardRelationType": "Reward",
+    "RewardRelationId": 11001000,
+    "Highlight": false
+  },
+  {
+    "Version": "251230.1.0",
+    "Id": 101907,
+    "GroupId": 1019,
+    "RewardRelationType": "Reward",
+    "RewardRelationId": 11003000,
+    "Highlight": false
+  },
+  {
+    "Version": "251230.1.0",
+    "Id": 301701,
+    "GroupId": 3017,
+    "RewardRelationType": "Reward",
+    "RewardRelationId": 11003000,
+    "Highlight": false
+  },
+  {
+    "Version": "251210.1.0",
+    "Id": 301801,
+    "GroupId": 3018,
+    "RewardRelationType": "Reward",
+    "RewardRelationId": 11002000,
+    "Highlight": false
+  },
+  {
+    "Version": "251210.1.0",
+    "Id": 301802,
+    "GroupId": 3018,
+    "RewardRelationType": "Reward",
+    "RewardRelationId": 11005000,
+    "Highlight": false
+  },
+  {
+    "Version": "251210.1.0",
+    "Id": 301803,
+    "GroupId": 3018,
+    "RewardRelationType": "Reward",
+    "RewardRelationId": 11003000,
+    "Highlight": false
+  },
+  {
+    "Version": "251210.1.0",
+    "Id": 301804,
+    "GroupId": 3018,
+    "RewardRelationType": "Reward",
+    "RewardRelationId": 11003000,
+    "Highlight": false
+  },
+  {
+    "Version": "251210.1.0",
+    "Id": 301805,
+    "GroupId": 3018,
+    "RewardRelationType": "Reward",
+    "RewardRelationId": 11007000,
+    "Highlight": false
+  },
+  {
+    "Version": "260110.1.0",
+    "Id": 102001,
+    "GroupId": 1020,
+    "RewardRelationType": "Reward",
+    "RewardRelationId": 11003000,
+    "Highlight": false
+  },
+  {
+    "Version": "260110.1.0",
+    "Id": 102002,
+    "GroupId": 1020,
+    "RewardRelationType": "Reward",
+    "RewardRelationId": 11001000,
+    "Highlight": false
+  },
+  {
+    "Version": "260110.1.0",
+    "Id": 102003,
+    "GroupId": 1020,
+    "RewardRelationType": "Reward",
+    "RewardRelationId": 11003000,
+    "Highlight": false
+  },
+  {
+    "Version": "260110.1.0",
+    "Id": 102004,
+    "GroupId": 1020,
+    "RewardRelationType": "Reward",
+    "RewardRelationId": 11001000,
+    "Highlight": false
+  },
+  {
+    "Version": "260110.1.0",
+    "Id": 102005,
+    "GroupId": 1020,
+    "RewardRelationType": "Reward",
+    "RewardRelationId": 3014,
+    "Highlight": true
+  },
+  {
+    "Version": "260110.1.0",
+    "Id": 102006,
+    "GroupId": 1020,
+    "RewardRelationType": "Reward",
+    "RewardRelationId": 11001000,
+    "Highlight": false
+  },
+  {
+    "Version": "260110.1.0",
+    "Id": 102007,
+    "GroupId": 1020,
+    "RewardRelationType": "Reward",
+    "RewardRelationId": 11001000,
+    "Highlight": false
+  },
+  {
+    "Version": "260130.1.0",
+    "Id": 102101,
+    "GroupId": 1021,
+    "RewardRelationType": "Reward",
+    "RewardRelationId": 2085,
+    "Highlight": true
+  },
+  {
+    "Version": "260130.1.0",
+    "Id": 102102,
+    "GroupId": 1021,
+    "RewardRelationType": "Reward",
+    "RewardRelationId": 11001000,
+    "Highlight": false
+  },
+  {
+    "Version": "260130.1.0",
+    "Id": 102103,
+    "GroupId": 1021,
+    "RewardRelationType": "Reward",
+    "RewardRelationId": 11005000,
+    "Highlight": false
+  },
+  {
+    "Version": "260130.1.0",
+    "Id": 102104,
+    "GroupId": 1021,
+    "RewardRelationType": "Reward",
+    "RewardRelationId": 11001000,
+    "Highlight": false
+  },
+  {
+    "Version": "260130.1.0",
+    "Id": 102105,
+    "GroupId": 1021,
+    "RewardRelationType": "Reward",
+    "RewardRelationId": 2085,
+    "Highlight": true
+  },
+  {
+    "Version": "260130.1.0",
+    "Id": 102106,
+    "GroupId": 1021,
+    "RewardRelationType": "Reward",
+    "RewardRelationId": 11001000,
+    "Highlight": false
+  },
+  {
+    "Version": "260130.1.0",
+    "Id": 102107,
+    "GroupId": 1021,
+    "RewardRelationType": "Reward",
+    "RewardRelationId": 11001000,
+    "Highlight": false
+  },
+  {
+    "Version": "260130.1.0",
+    "Id": 301901,
+    "GroupId": 3019,
+    "RewardRelationType": "Reward",
+    "RewardRelationId": 11002000,
+    "Highlight": false
+  },
+  {
+    "Version": "260130.1.0",
+    "Id": 301902,
+    "GroupId": 3019,
+    "RewardRelationType": "Reward",
+    "RewardRelationId": 11005000,
+    "Highlight": true
+  },
+  {
+    "Version": "260130.1.0",
+    "Id": 301903,
+    "GroupId": 3019,
+    "RewardRelationType": "Reward",
+    "RewardRelationId": 11003000,
+    "Highlight": false
+  },
+  {
+    "Version": "260130.1.0",
+    "Id": 301904,
+    "GroupId": 3019,
+    "RewardRelationType": "Reward",
+    "RewardRelationId": 11003000,
+    "Highlight": false
+  },
+  {
+    "Version": "260130.1.0",
+    "Id": 301905,
+    "GroupId": 3019,
+    "RewardRelationType": "Reward",
+    "RewardRelationId": 11007000,
+    "Highlight": true
+  },
+  {
+    "Version": "260130.1.0",
+    "Id": 302001,
+    "GroupId": 3020,
+    "RewardRelationType": "Reward",
+    "RewardRelationId": 74003,
+    "Highlight": true
+  },
+  {
+    "Version": "260210.1.0",
+    "Id": 102201,
+    "GroupId": 1022,
+    "RewardRelationType": "Reward",
+    "RewardRelationId": 11001000,
+    "Highlight": false
+  },
+  {
+    "Version": "260210.1.0",
+    "Id": 102202,
+    "GroupId": 1022,
+    "RewardRelationType": "Reward",
+    "RewardRelationId": 11001000,
+    "Highlight": false
+  },
+  {
+    "Version": "260210.1.0",
+    "Id": 102203,
+    "GroupId": 1022,
+    "RewardRelationType": "Reward",
+    "RewardRelationId": 11003000,
+    "Highlight": false
+  },
+  {
+    "Version": "260210.1.0",
+    "Id": 102204,
+    "GroupId": 1022,
+    "RewardRelationType": "Reward",
+    "RewardRelationId": 11001000,
+    "Highlight": false
+  },
+  {
+    "Version": "260210.1.0",
+    "Id": 102205,
+    "GroupId": 1022,
+    "RewardRelationType": "Reward",
+    "RewardRelationId": 3015,
+    "Highlight": true
+  },
+  {
+    "Version": "260210.1.0",
+    "Id": 102206,
+    "GroupId": 1022,
+    "RewardRelationType": "Reward",
+    "RewardRelationId": 11001000,
+    "Highlight": false
+  },
+  {
+    "Version": "260210.1.0",
+    "Id": 102207,
+    "GroupId": 1022,
+    "RewardRelationType": "Reward",
+    "RewardRelationId": 11003000,
+    "Highlight": false
+  },
+  {
+    "Version": "260230.1.0",
+    "Id": 102301,
+    "GroupId": 1023,
+    "RewardRelationType": "Reward",
+    "RewardRelationId": 11003000,
+    "Highlight": true
+  },
+  {
+    "Version": "260230.1.0",
+    "Id": 102302,
+    "GroupId": 1023,
+    "RewardRelationType": "Reward",
+    "RewardRelationId": 11001000,
+    "Highlight": false
+  },
+  {
+    "Version": "260230.1.0",
+    "Id": 102303,
+    "GroupId": 1023,
+    "RewardRelationType": "Reward",
+    "RewardRelationId": 11001000,
+    "Highlight": false
+  },
+  {
+    "Version": "260230.1.0",
+    "Id": 102304,
+    "GroupId": 1023,
+    "RewardRelationType": "Reward",
+    "RewardRelationId": 11003000,
+    "Highlight": true
+  },
+  {
+    "Version": "260230.1.0",
+    "Id": 102305,
+    "GroupId": 1023,
+    "RewardRelationType": "Reward",
+    "RewardRelationId": 11001000,
+    "Highlight": false
+  },
+  {
+    "Version": "260230.1.0",
+    "Id": 102306,
+    "GroupId": 1023,
+    "RewardRelationType": "Reward",
+    "RewardRelationId": 11001000,
+    "Highlight": false
+  },
+  {
+    "Version": "260230.1.0",
+    "Id": 102307,
+    "GroupId": 1023,
+    "RewardRelationType": "Reward",
+    "RewardRelationId": 11003000,
+    "Highlight": true
+  },
+  {
+    "Version": "260210.1.0",
+    "Id": 302101,
+    "GroupId": 3021,
+    "RewardRelationType": "Reward",
+    "RewardRelationId": 11002000,
+    "Highlight": false
+  },
+  {
+    "Version": "260210.1.0",
+    "Id": 302102,
+    "GroupId": 3021,
+    "RewardRelationType": "Reward",
+    "RewardRelationId": 11005000,
+    "Highlight": false
+  },
+  {
+    "Version": "260210.1.0",
+    "Id": 302103,
+    "GroupId": 3021,
+    "RewardRelationType": "Reward",
+    "RewardRelationId": 11003000,
+    "Highlight": false
+  },
+  {
+    "Version": "260210.1.0",
+    "Id": 302104,
+    "GroupId": 3021,
+    "RewardRelationType": "Reward",
+    "RewardRelationId": 11003000,
+    "Highlight": false
+  },
+  {
+    "Version": "260210.1.0",
+    "Id": 302105,
+    "GroupId": 3021,
+    "RewardRelationType": "Reward",
+    "RewardRelationId": 11007000,
+    "Highlight": true
+  },
+  {
+    "Version": "260310.1.0",
+    "Id": 102401,
+    "GroupId": 1024,
+    "RewardRelationType": "Reward",
+    "RewardRelationId": 11001000,
+    "Highlight": false
+  },
+  {
+    "Version": "260310.1.0",
+    "Id": 102402,
+    "GroupId": 1024,
+    "RewardRelationType": "Reward",
+    "RewardRelationId": 11001000,
+    "Highlight": false
+  },
+  {
+    "Version": "260310.1.0",
+    "Id": 102403,
+    "GroupId": 1024,
+    "RewardRelationType": "Reward",
+    "RewardRelationId": 11003000,
+    "Highlight": false
+  },
+  {
+    "Version": "260310.1.0",
+    "Id": 102404,
+    "GroupId": 1024,
+    "RewardRelationType": "Reward",
+    "RewardRelationId": 11001000,
+    "Highlight": false
+  },
+  {
+    "Version": "260310.1.0",
+    "Id": 102405,
+    "GroupId": 1024,
+    "RewardRelationType": "Reward",
+    "RewardRelationId": 3016,
+    "Highlight": true
+  },
+  {
+    "Version": "260310.1.0",
+    "Id": 102406,
+    "GroupId": 1024,
+    "RewardRelationType": "Reward",
+    "RewardRelationId": 11001000,
+    "Highlight": false
+  },
+  {
+    "Version": "260310.1.0",
+    "Id": 102407,
+    "GroupId": 1024,
+    "RewardRelationType": "Reward",
+    "RewardRelationId": 11003000,
+    "Highlight": false
+  },
+  {
+    "Version": "260330.1.0",
+    "Id": 102501,
+    "GroupId": 1025,
+    "RewardRelationType": "Reward",
+    "RewardRelationId": 11003000,
+    "Highlight": true
+  },
+  {
+    "Version": "260330.1.0",
+    "Id": 102502,
+    "GroupId": 1025,
+    "RewardRelationType": "Reward",
+    "RewardRelationId": 11001000,
+    "Highlight": false
+  },
+  {
+    "Version": "260330.1.0",
+    "Id": 102503,
+    "GroupId": 1025,
+    "RewardRelationType": "Reward",
+    "RewardRelationId": 11001000,
+    "Highlight": false
+  },
+  {
+    "Version": "260330.1.0",
+    "Id": 102504,
+    "GroupId": 1025,
+    "RewardRelationType": "Reward",
+    "RewardRelationId": 11003000,
+    "Highlight": true
+  },
+  {
+    "Version": "260330.1.0",
+    "Id": 102505,
+    "GroupId": 1025,
+    "RewardRelationType": "Reward",
+    "RewardRelationId": 11001000,
+    "Highlight": false
+  },
+  {
+    "Version": "260330.1.0",
+    "Id": 102506,
+    "GroupId": 1025,
+    "RewardRelationType": "Reward",
+    "RewardRelationId": 11001000,
+    "Highlight": false
+  },
+  {
+    "Version": "260330.1.0",
+    "Id": 102507,
+    "GroupId": 1025,
+    "RewardRelationType": "Reward",
+    "RewardRelationId": 11003000,
+    "Highlight": true
+  },
+  {
+    "Version": "260330.1.0",
+    "Id": 302201,
+    "GroupId": 3022,
+    "RewardRelationType": "RewardGroup",
+    "RewardRelationId": 6000021,
+    "Highlight": false
+  },
+  {
+    "Version": "260330.1.0",
+    "Id": 302301,
+    "GroupId": 3023,
+    "RewardRelationType": "RewardGroup",
+    "RewardRelationId": 6000031,
+    "Highlight": false
+  },
+  {
+    "Version": "260330.1.0",
+    "Id": 302401,
+    "GroupId": 3024,
+    "RewardRelationType": "RewardGroup",
+    "RewardRelationId": 6000041,
+    "Highlight": false
+  },
+  {
+    "Version": "260330.1.0",
+    "Id": 302501,
+    "GroupId": 3025,
+    "RewardRelationType": "RewardGroup",
+    "RewardRelationId": 6000051,
+    "Highlight": false
+  },
+  {
+    "Version": "260330.1.0",
+    "Id": 302601,
+    "GroupId": 3026,
+    "RewardRelationType": "RewardGroup",
+    "RewardRelationId": 6000061,
+    "Highlight": false
+  },
+  {
+    "Version": "260330.1.0",
+    "Id": 302701,
+    "GroupId": 3027,
+    "RewardRelationType": "RewardGroup",
+    "RewardRelationId": 6000071,
+    "Highlight": false
+  },
+  {
+    "Version": "260330.1.0",
+    "Id": 302801,
+    "GroupId": 3028,
+    "RewardRelationType": "RewardGroup",
+    "RewardRelationId": 6000081,
+    "Highlight": false
+  },
+  {
+    "Version": "260330.1.0",
+    "Id": 302901,
+    "GroupId": 3029,
+    "RewardRelationType": "RewardGroup",
+    "RewardRelationId": 6000091,
+    "Highlight": false
+  },
+  {
+    "Version": "260410.1.0",
+    "Id": 303001,
+    "GroupId": 3030,
+    "RewardRelationType": "Reward",
+    "RewardRelationId": 340010,
+    "Highlight": false
+  },
+  {
+    "Version": "260410.1.0",
+    "Id": 303101,
+    "GroupId": 3031,
+    "RewardRelationType": "RewardGroup",
+    "RewardRelationId": 6000101,
+    "Highlight": false
+  },
+  {
+    "Version": "260410.1.0",
+    "Id": 303201,
+    "GroupId": 3032,
+    "RewardRelationType": "RewardGroup",
+    "RewardRelationId": 6000111,
+    "Highlight": false
+  },
+  {
+    "Version": "260410.1.0",
+    "Id": 303301,
+    "GroupId": 3033,
+    "RewardRelationType": "RewardGroup",
+    "RewardRelationId": 6000121,
+    "Highlight": false
+  },
+  {
+    "Version": "260410.1.0",
+    "Id": 303401,
+    "GroupId": 3034,
+    "RewardRelationType": "RewardGroup",
+    "RewardRelationId": 6000131,
+    "Highlight": false
+  },
+  {
+    "Version": "260410.1.0",
+    "Id": 303501,
+    "GroupId": 3035,
+    "RewardRelationType": "RewardGroup",
+    "RewardRelationId": 6000141,
+    "Highlight": false
+  },
+  {
+    "Version": "260410.1.0",
+    "Id": 303601,
+    "GroupId": 3036,
+    "RewardRelationType": "RewardGroup",
+    "RewardRelationId": 6000151,
+    "Highlight": false
+  },
+  {
+    "Version": "260410.1.0",
+    "Id": 303701,
+    "GroupId": 3037,
+    "RewardRelationType": "RewardGroup",
+    "RewardRelationId": 6000161,
+    "Highlight": false
+  },
+  {
+    "Version": "260410.1.0",
+    "Id": 303801,
+    "GroupId": 3038,
+    "RewardRelationType": "RewardGroup",
+    "RewardRelationId": 6000171,
+    "Highlight": false
+  },
+  {
+    "Version": "260410.1.0",
+    "Id": 303901,
+    "GroupId": 3039,
+    "RewardRelationType": "RewardGroup",
+    "RewardRelationId": 6000181,
+    "Highlight": false
+  },
+  {
+    "Version": "260410.1.0",
+    "Id": 304001,
+    "GroupId": 3040,
+    "RewardRelationType": "RewardGroup",
+    "RewardRelationId": 6000191,
+    "Highlight": false
+  },
+  {
+    "Version": "260410.1.0",
+    "Id": 304101,
+    "GroupId": 3041,
+    "RewardRelationType": "RewardGroup",
+    "RewardRelationId": 6000201,
+    "Highlight": false
+  },
+  {
+    "Version": "260410.1.0",
+    "Id": 304201,
+    "GroupId": 3042,
+    "RewardRelationType": "RewardGroup",
+    "RewardRelationId": 6000211,
+    "Highlight": false
+  },
+  {
+    "Version": "260410.1.0",
+    "Id": 304301,
+    "GroupId": 3043,
+    "RewardRelationType": "RewardGroup",
+    "RewardRelationId": 6000221,
+    "Highlight": false
+  },
+  {
+    "Version": "260410.1.0",
+    "Id": 304401,
+    "GroupId": 3044,
+    "RewardRelationType": "RewardGroup",
+    "RewardRelationId": 6000231,
+    "Highlight": false
+  },
+  {
+    "Version": "260410.1.0",
+    "Id": 304501,
+    "GroupId": 3045,
+    "RewardRelationType": "RewardGroup",
+    "RewardRelationId": 6000241,
+    "Highlight": false
+  },
+  {
+    "Version": "260410.1.0",
+    "Id": 304601,
+    "GroupId": 3046,
+    "RewardRelationType": "RewardGroup",
+    "RewardRelationId": 6000251,
+    "Highlight": false
+  },
+  {
+    "Version": "260410.1.0",
+    "Id": 304701,
+    "GroupId": 3047,
+    "RewardRelationType": "RewardGroup",
+    "RewardRelationId": 6000261,
+    "Highlight": false
+  },
+  {
+    "Version": "260410.1.0",
+    "Id": 304801,
+    "GroupId": 3048,
+    "RewardRelationType": "RewardGroup",
+    "RewardRelationId": 6000271,
+    "Highlight": false
+  },
+  {
+    "Version": "260410.1.0",
+    "Id": 304901,
+    "GroupId": 3049,
+    "RewardRelationType": "RewardGroup",
+    "RewardRelationId": 6000281,
+    "Highlight": false
+  },
+  {
+    "Version": "260410.1.0",
+    "Id": 305001,
+    "GroupId": 3050,
+    "RewardRelationType": "RewardGroup",
+    "RewardRelationId": 6000291,
+    "Highlight": false
+  },
+  {
+    "Version": "260410.1.0",
+    "Id": 305101,
+    "GroupId": 3051,
+    "RewardRelationType": "RewardGroup",
+    "RewardRelationId": 6000301,
+    "Highlight": false
+  },
+  {
+    "Version": "260410.1.0",
+    "Id": 305201,
+    "GroupId": 3052,
+    "RewardRelationType": "RewardGroup",
+    "RewardRelationId": 6000311,
+    "Highlight": false
+  },
+  {
+    "Version": "260410.1.0",
+    "Id": 305301,
+    "GroupId": 3053,
+    "RewardRelationType": "RewardGroup",
+    "RewardRelationId": 6000321,
+    "Highlight": false
+  },
+  {
+    "Version": "260410.1.0",
+    "Id": 305401,
+    "GroupId": 3054,
+    "RewardRelationType": "RewardGroup",
+    "RewardRelationId": 6000331,
+    "Highlight": false
+  },
+  {
+    "Version": "260410.1.0",
+    "Id": 305501,
+    "GroupId": 3055,
+    "RewardRelationType": "RewardGroup",
+    "RewardRelationId": 6000341,
+    "Highlight": false
+  },
+  {
+    "Version": "260410.1.0",
+    "Id": 305601,
+    "GroupId": 3056,
+    "RewardRelationType": "RewardGroup",
+    "RewardRelationId": 6000351,
+    "Highlight": false
+  },
+  {
+    "Version": "260410.1.0",
+    "Id": 305701,
+    "GroupId": 3057,
+    "RewardRelationType": "RewardGroup",
+    "RewardRelationId": 6000361,
+    "Highlight": false
+  },
+  {
+    "Version": "260410.1.0",
+    "Id": 305801,
+    "GroupId": 3058,
+    "RewardRelationType": "RewardGroup",
+    "RewardRelationId": 6000371,
+    "Highlight": false
+  },
+  {
+    "Version": "260410.1.0",
+    "Id": 305901,
+    "GroupId": 3059,
+    "RewardRelationType": "RewardGroup",
+    "RewardRelationId": 6000381,
+    "Highlight": false
+  },
+  {
+    "Version": "260410.1.0",
+    "Id": 306001,
+    "GroupId": 3060,
+    "RewardRelationType": "RewardGroup",
+    "RewardRelationId": 6000391,
+    "Highlight": false
+  },
+  {
+    "Version": "260410.1.0",
+    "Id": 306101,
+    "GroupId": 3061,
+    "RewardRelationType": "RewardGroup",
+    "RewardRelationId": 6000401,
+    "Highlight": false
+  },
+  {
+    "Version": "260410.1.0",
+    "Id": 306201,
+    "GroupId": 3062,
+    "RewardRelationType": "RewardGroup",
+    "RewardRelationId": 6000411,
+    "Highlight": false
+  },
+  {
+    "Version": "260410.1.0",
+    "Id": 306301,
+    "GroupId": 3063,
+    "RewardRelationType": "RewardGroup",
+    "RewardRelationId": 6000421,
+    "Highlight": false
+  },
+  {
+    "Version": "260410.1.0",
+    "Id": 306401,
+    "GroupId": 3064,
+    "RewardRelationType": "RewardGroup",
+    "RewardRelationId": 6000431,
+    "Highlight": false
+  },
+  {
+    "Version": "260410.1.0",
+    "Id": 306501,
+    "GroupId": 3065,
+    "RewardRelationType": "RewardGroup",
+    "RewardRelationId": 6000441,
+    "Highlight": false
+  },
+  {
+    "Version": "260410.1.0",
+    "Id": 102601,
+    "GroupId": 1026,
+    "RewardRelationType": "Reward",
+    "RewardRelationId": 11001000,
+    "Highlight": false
+  },
+  {
+    "Version": "260410.1.0",
+    "Id": 102602,
+    "GroupId": 1026,
+    "RewardRelationType": "Reward",
+    "RewardRelationId": 11001000,
+    "Highlight": false
+  },
+  {
+    "Version": "260410.1.0",
+    "Id": 102603,
+    "GroupId": 1026,
+    "RewardRelationType": "Reward",
+    "RewardRelationId": 11003000,
+    "Highlight": false
+  },
+  {
+    "Version": "260410.1.0",
+    "Id": 102604,
+    "GroupId": 1026,
+    "RewardRelationType": "Reward",
+    "RewardRelationId": 11001000,
+    "Highlight": false
+  },
+  {
+    "Version": "260410.1.0",
+    "Id": 102605,
+    "GroupId": 1026,
+    "RewardRelationType": "Reward",
+    "RewardRelationId": 3017,
+    "Highlight": true
+  },
+  {
+    "Version": "260410.1.0",
+    "Id": 102606,
+    "GroupId": 1026,
+    "RewardRelationType": "Reward",
+    "RewardRelationId": 11001000,
+    "Highlight": false
+  },
+  {
+    "Version": "260410.1.0",
+    "Id": 102607,
+    "GroupId": 1026,
+    "RewardRelationType": "Reward",
+    "RewardRelationId": 11003000,
+    "Highlight": false
+  },
+  {
+    "Version": "260410.1.0",
+    "Id": 306601,
+    "GroupId": 3066,
+    "RewardRelationType": "Reward",
+    "RewardRelationId": 11100000,
+    "Highlight": false
+  },
+  {
+    "Version": "260410.1.0",
+    "Id": 306602,
+    "GroupId": 3066,
+    "RewardRelationType": "Reward",
+    "RewardRelationId": 11200000,
+    "Highlight": false
+  },
+  {
+    "Version": "260410.1.0",
+    "Id": 306603,
+    "GroupId": 3066,
+    "RewardRelationType": "Reward",
+    "RewardRelationId": 130150,
+    "Highlight": true
+  }
+]

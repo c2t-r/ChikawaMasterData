@@ -1,0 +1,152 @@
+[
+  {
+    "Version": "250350.1.0",
+    "Id": 1,
+    "DailyMissionGroupId": 5001,
+    "ConstantMissionGroupId": 5101
+  },
+  {
+    "Version": "250410.1.0",
+    "Id": 2,
+    "DailyMissionGroupId": 5002,
+    "ConstantMissionGroupId": 5102
+  },
+  {
+    "Version": "250440.1.0",
+    "Id": 3,
+    "DailyMissionGroupId": 5003,
+    "ConstantMissionGroupId": 5103
+  },
+  {
+    "Version": "250450.1.0",
+    "Id": 4,
+    "DailyMissionGroupId": 5004,
+    "ConstantMissionGroupId": 5104
+  },
+  {
+    "Version": "250530.1.0",
+    "Id": 5,
+    "DailyMissionGroupId": 5005,
+    "ConstantMissionGroupId": 5105
+  },
+  {
+    "Version": "250550.1.0",
+    "Id": 6,
+    "DailyMissionGroupId": 5006,
+    "ConstantMissionGroupId": 5106
+  },
+  {
+    "Version": "250610.1.0",
+    "Id": 7,
+    "DailyMissionGroupId": 5007,
+    "ConstantMissionGroupId": 5107
+  },
+  {
+    "Version": "250630.1.0",
+    "Id": 8,
+    "DailyMissionGroupId": 5008,
+    "ConstantMissionGroupId": 5108
+  },
+  {
+    "Version": "250710.1.0",
+    "Id": 9,
+    "DailyMissionGroupId": 5009,
+    "ConstantMissionGroupId": 5109
+  },
+  {
+    "Version": "250730.1.0",
+    "Id": 10,
+    "DailyMissionGroupId": 5010,
+    "ConstantMissionGroupId": 5110
+  },
+  {
+    "Version": "250810.1.0",
+    "Id": 101102,
+    "DailyMissionGroupId": 5011,
+    "ConstantMissionGroupId": 5111
+  },
+  {
+    "Version": "250820.1.0",
+    "Id": 101202,
+    "DailyMissionGroupId": 5012,
+    "ConstantMissionGroupId": 5112
+  },
+  {
+    "Version": "250910.1.0",
+    "Id": 101302,
+    "DailyMissionGroupId": 5013,
+    "ConstantMissionGroupId": 5113
+  },
+  {
+    "Version": "250930.1.0",
+    "Id": 101402,
+    "DailyMissionGroupId": 5014,
+    "ConstantMissionGroupId": 5114
+  },
+  {
+    "Version": "251010.1.0",
+    "Id": 101502,
+    "DailyMissionGroupId": 5015,
+    "ConstantMissionGroupId": 5115
+  },
+  {
+    "Version": "251030.1.0",
+    "Id": 101702,
+    "DailyMissionGroupId": 5017,
+    "ConstantMissionGroupId": 5117
+  },
+  {
+    "Version": "251110.1.0",
+    "Id": 101802,
+    "DailyMissionGroupId": 5018,
+    "ConstantMissionGroupId": 5118
+  },
+  {
+    "Version": "251210.1.0",
+    "Id": 101902,
+    "DailyMissionGroupId": 5019,
+    "ConstantMissionGroupId": 5119
+  },
+  {
+    "Version": "251230.1.0",
+    "Id": 102002,
+    "DailyMissionGroupId": 5020,
+    "ConstantMissionGroupId": 5120
+  },
+  {
+    "Version": "260110.1.0",
+    "Id": 102102,
+    "DailyMissionGroupId": 5021,
+    "ConstantMissionGroupId": 5121
+  },
+  {
+    "Version": "260210.1.0",
+    "Id": 102202,
+    "DailyMissionGroupId": 5022,
+    "ConstantMissionGroupId": 5122
+  },
+  {
+    "Version": "260230.1.0",
+    "Id": 102302,
+    "DailyMissionGroupId": 5023,
+    "ConstantMissionGroupId": 5123
+  },
+  {
+    "Version": "260310.1.0",
+    "Id": 102402,
+    "DailyMissionGroupId": 5024,
+    "ConstantMissionGroupId": 5124
+  },
+  {
+    "Version": "260330.1.0",
+    "Id": 102502,
+    "DailyMissionGroupId": 5025,
+    "ConstantMissionGroupId": 5125
+  },
+  {
+    "Version": "260410.1.0",
+    "Id": 102602,
+    "DailyMissionGroupId": 5026,
+    "ConstantMissionGroupId": 5126
+  }
+]

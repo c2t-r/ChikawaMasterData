@@ -1,0 +1,1812 @@
+[
+  {
+    "Version": "250330.1.0",
+    "Id": 311,
+    "NameTextKey": -2131968596,
+    "AssetId": 3005001,
+    "Rarity": "Normal",
+    "SkillEffectIds": [
+      311
+    ],
+    "RecastTime": 8000,
+    "SkillCastTime": 3000,
+    "DescriptionFormat": -1994780349,
+    "SpeechBalloonId": 101
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 312,
+    "NameTextKey": -135557830,
+    "AssetId": 3004001,
+    "Rarity": "Normal",
+    "SkillEffectIds": [
+      312
+    ],
+    "RecastTime": 7000,
+    "SkillCastTime": 3000,
+    "DescriptionFormat": -1994780349,
+    "SpeechBalloonId": 101
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 313,
+    "NameTextKey": 434498582,
+    "AssetId": 3006001,
+    "Rarity": "Normal",
+    "SkillEffectIds": [
+      313
+    ],
+    "RecastTime": 6000,
+    "SkillCastTime": 3000,
+    "DescriptionFormat": -1925846401,
+    "SpeechBalloonId": 101
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 321,
+    "NameTextKey": 1770985625,
+    "AssetId": 3003001,
+    "Rarity": "NormalRare",
+    "SkillEffectIds": [
+      321
+    ],
+    "RecastTime": 10000,
+    "SkillCastTime": 3000,
+    "DescriptionFormat": -1994780349,
+    "SpeechBalloonId": 101
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 322,
+    "NameTextKey": -1634055948,
+    "AssetId": 3011001,
+    "Rarity": "NormalRare",
+    "SkillEffectIds": [
+      322
+    ],
+    "RecastTime": 5000,
+    "SkillCastTime": 3000,
+    "DescriptionFormat": -1994780349,
+    "SpeechBalloonId": 101
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 323,
+    "NameTextKey": -27410159,
+    "AssetId": 3008001,
+    "Rarity": "NormalRare",
+    "SkillEffectIds": [
+      323
+    ],
+    "RecastTime": 6000,
+    "SkillCastTime": 3000,
+    "DescriptionFormat": -1994780349,
+    "SpeechBalloonId": 101
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 331,
+    "NameTextKey": 512239631,
+    "AssetId": 3002001,
+    "Rarity": "Rare",
+    "SkillEffectIds": [
+      331
+    ],
+    "RecastTime": 11000,
+    "SkillCastTime": 3000,
+    "DescriptionFormat": -1994780349,
+    "SpeechBalloonId": 101
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 332,
+    "NameTextKey": -1711829779,
+    "AssetId": 3015001,
+    "Rarity": "Rare",
+    "SkillEffectIds": [
+      332
+    ],
+    "RecastTime": 10000,
+    "SkillCastTime": 3000,
+    "DescriptionFormat": -1994780349,
+    "SpeechBalloonId": 101
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 333,
+    "NameTextKey": -1990528633,
+    "AssetId": 3009001,
+    "Rarity": "Rare",
+    "SkillEffectIds": [
+      333
+    ],
+    "RecastTime": 12000,
+    "SkillCastTime": 3000,
+    "DescriptionFormat": -1994780349,
+    "SpeechBalloonId": 101
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 341,
+    "NameTextKey": 1860361344,
+    "AssetId": 3007001,
+    "Rarity": "SuperRare",
+    "SkillEffectIds": [
+      341
+    ],
+    "RecastTime": 9000,
+    "SkillCastTime": 3000,
+    "DescriptionFormat": -1386884718,
+    "SpeechBalloonId": 101
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 342,
+    "NameTextKey": 750668429,
+    "AssetId": 3022001,
+    "Rarity": "SuperRare",
+    "SkillEffectIds": [
+      342
+    ],
+    "RecastTime": 10000,
+    "SkillCastTime": 3000,
+    "DescriptionFormat": -1994780349,
+    "SpeechBalloonId": 101
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 343,
+    "NameTextKey": -414781360,
+    "AssetId": 3018001,
+    "Rarity": "SuperRare",
+    "SkillEffectIds": [
+      343
+    ],
+    "RecastTime": 10000,
+    "SkillCastTime": 3000,
+    "DescriptionFormat": 1030158422,
+    "SpeechBalloonId": 101
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 351,
+    "NameTextKey": 127080782,
+    "AssetId": 3012001,
+    "Rarity": "HyperRare",
+    "SkillEffectIds": [
+      351
+    ],
+    "RecastTime": 14000,
+    "SkillCastTime": 3000,
+    "DescriptionFormat": -1994780349,
+    "SpeechBalloonId": 101
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 352,
+    "NameTextKey": 1888758232,
+    "AssetId": 3013001,
+    "Rarity": "HyperRare",
+    "SkillEffectIds": [
+      352
+    ],
+    "RecastTime": 13000,
+    "SkillCastTime": 3000,
+    "DescriptionFormat": -1994780349,
+    "SpeechBalloonId": 101
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 353,
+    "NameTextKey": 2012868033,
+    "AssetId": 3017001,
+    "Rarity": "HyperRare",
+    "SkillEffectIds": [
+      353
+    ],
+    "RecastTime": 10000,
+    "SkillCastTime": 3000,
+    "DescriptionFormat": -1386884718,
+    "SpeechBalloonId": 101
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 361,
+    "NameTextKey": 16702807,
+    "AssetId": 3016001,
+    "Rarity": "UltraRare",
+    "SkillEffectIds": [
+      361
+    ],
+    "RecastTime": 13000,
+    "SkillCastTime": 3000,
+    "DescriptionFormat": -1994780349,
+    "SpeechBalloonId": 101
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 362,
+    "NameTextKey": -286212997,
+    "AssetId": 3014001,
+    "Rarity": "UltraRare",
+    "SkillEffectIds": [
+      362
+    ],
+    "RecastTime": 25000,
+    "SkillCastTime": 3000,
+    "DescriptionFormat": -1386884718,
+    "SpeechBalloonId": 101
+  },
+  {
+    "Version": "250535.1.0",
+    "Id": 363,
+    "NameTextKey": -1874739002,
+    "AssetId": 3019001,
+    "Rarity": "UltraRare",
+    "SkillEffectIds": [
+      363
+    ],
+    "RecastTime": 35000,
+    "SkillCastTime": 3000,
+    "DescriptionFormat": -2053050214,
+    "SpeechBalloonId": 101
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 371,
+    "NameTextKey": -2021557835,
+    "AssetId": 3001001,
+    "Rarity": "LegendRare",
+    "SkillEffectIds": [
+      371
+    ],
+    "RecastTime": 14000,
+    "SkillCastTime": 3000,
+    "DescriptionFormat": -1994780349,
+    "SpeechBalloonId": 101
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 372,
+    "NameTextKey": -1028641887,
+    "AssetId": 3020001,
+    "Rarity": "LegendRare",
+    "SkillEffectIds": [
+      372
+    ],
+    "RecastTime": 90000,
+    "SkillCastTime": 3000,
+    "DescriptionFormat": -1994780349,
+    "SpeechBalloonId": 101
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 373,
+    "NameTextKey": -1246291145,
+    "AssetId": 3021001,
+    "Rarity": "LegendRare",
+    "SkillEffectIds": [
+      373
+    ],
+    "RecastTime": 15000,
+    "SkillCastTime": 3000,
+    "DescriptionFormat": -1994780349,
+    "SpeechBalloonId": 101
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 11001,
+    "NameTextKey": -1407193613,
+    "AssetId": 1001001,
+    "Rarity": "Rare",
+    "SkillEffectIds": [
+      11001
+    ],
+    "RecastTime": 10000,
+    "SkillCastTime": 3000,
+    "DescriptionFormat": -1994780349,
+    "SpeechBalloonId": 101
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 12001,
+    "NameTextKey": -1407193613,
+    "AssetId": 1002001,
+    "Rarity": "Rare",
+    "SkillEffectIds": [
+      12001
+    ],
+    "RecastTime": 10000,
+    "SkillCastTime": 3000,
+    "DescriptionFormat": -1994780349,
+    "SpeechBalloonId": 101
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 13001,
+    "NameTextKey": -1407193613,
+    "AssetId": 1003001,
+    "Rarity": "Rare",
+    "SkillEffectIds": [
+      13001
+    ],
+    "RecastTime": 15000,
+    "SkillCastTime": 3000,
+    "DescriptionFormat": -1994780349,
+    "SpeechBalloonId": 101
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 14001,
+    "NameTextKey": -1407193613,
+    "AssetId": 1004001,
+    "Rarity": "Rare",
+    "SkillEffectIds": [
+      14001
+    ],
+    "RecastTime": 15000,
+    "SkillCastTime": 3000,
+    "DescriptionFormat": -1994780349,
+    "SpeechBalloonId": 101
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 15001,
+    "NameTextKey": -1407193613,
+    "AssetId": 1005001,
+    "Rarity": "Rare",
+    "SkillEffectIds": [
+      15001
+    ],
+    "RecastTime": 10000,
+    "SkillCastTime": 3000,
+    "DescriptionFormat": -1994780349,
+    "SpeechBalloonId": 101
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 16001,
+    "NameTextKey": -1407193613,
+    "AssetId": 1006001,
+    "Rarity": "Rare",
+    "SkillEffectIds": [
+      16001
+    ],
+    "RecastTime": 9000,
+    "SkillCastTime": 3000,
+    "DescriptionFormat": -1994780349,
+    "SpeechBalloonId": 101
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 17001,
+    "NameTextKey": -1407193613,
+    "AssetId": 1007001,
+    "Rarity": "Rare",
+    "SkillEffectIds": [
+      17001
+    ],
+    "RecastTime": 15000,
+    "SkillCastTime": 3000,
+    "DescriptionFormat": -1994780349,
+    "SpeechBalloonId": 101
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 21001,
+    "NameTextKey": -1407193613,
+    "AssetId": 1001005,
+    "Rarity": "SuperRare",
+    "SkillEffectIds": [
+      21001
+    ],
+    "RecastTime": 8000,
+    "SkillCastTime": 3000,
+    "DescriptionFormat": -1994780349,
+    "SpeechBalloonId": 101
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 22001,
+    "NameTextKey": -1407193613,
+    "AssetId": 1002005,
+    "Rarity": "SuperRare",
+    "SkillEffectIds": [
+      22001
+    ],
+    "RecastTime": 8000,
+    "SkillCastTime": 3000,
+    "DescriptionFormat": -1994780349,
+    "SpeechBalloonId": 101
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 23001,
+    "NameTextKey": -1407193613,
+    "AssetId": 1003005,
+    "Rarity": "SuperRare",
+    "SkillEffectIds": [
+      23001
+    ],
+    "RecastTime": 8000,
+    "SkillCastTime": 3000,
+    "DescriptionFormat": -1994780349,
+    "SpeechBalloonId": 101
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 31001,
+    "NameTextKey": -1407193613,
+    "AssetId": 1001002,
+    "Rarity": "HyperRare",
+    "SkillEffectIds": [
+      31001
+    ],
+    "RecastTime": 5000,
+    "SkillCastTime": 3000,
+    "DescriptionFormat": -1994780349,
+    "SpeechBalloonId": 101
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 32001,
+    "NameTextKey": -1407193613,
+    "AssetId": 1002002,
+    "Rarity": "HyperRare",
+    "SkillEffectIds": [
+      32001
+    ],
+    "RecastTime": 6000,
+    "SkillCastTime": 3000,
+    "DescriptionFormat": -1386884718,
+    "SpeechBalloonId": 101
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 33001,
+    "NameTextKey": -1407193613,
+    "AssetId": 1003002,
+    "Rarity": "HyperRare",
+    "SkillEffectIds": [
+      33001
+    ],
+    "RecastTime": 5000,
+    "SkillCastTime": 3000,
+    "DescriptionFormat": -1994780349,
+    "SpeechBalloonId": 101
+  },
+  {
+    "Version": "250410.1.0",
+    "Id": 34001,
+    "NameTextKey": -1407193613,
+    "AssetId": 1004002,
+    "Rarity": "HyperRare",
+    "SkillEffectIds": [
+      34001
+    ],
+    "RecastTime": 6000,
+    "SkillCastTime": 3000,
+    "DescriptionFormat": -1386884718,
+    "SpeechBalloonId": 101
+  },
+  {
+    "Version": "250350.1.0",
+    "Id": 35001,
+    "NameTextKey": -1407193613,
+    "AssetId": 1005002,
+    "Rarity": "HyperRare",
+    "SkillEffectIds": [
+      35001
+    ],
+    "RecastTime": 5000,
+    "SkillCastTime": 3000,
+    "DescriptionFormat": -1994780349,
+    "SpeechBalloonId": 101
+  },
+  {
+    "Version": "250350.1.0",
+    "Id": 36001,
+    "NameTextKey": -1407193613,
+    "AssetId": 1006002,
+    "Rarity": "HyperRare",
+    "SkillEffectIds": [
+      36001
+    ],
+    "RecastTime": 5000,
+    "SkillCastTime": 3000,
+    "DescriptionFormat": -1994780349,
+    "SpeechBalloonId": 101
+  },
+  {
+    "Version": "250410.1.0",
+    "Id": 37001,
+    "NameTextKey": -1407193613,
+    "AssetId": 1007002,
+    "Rarity": "HyperRare",
+    "SkillEffectIds": [
+      37001
+    ],
+    "RecastTime": 5000,
+    "SkillCastTime": 3000,
+    "DescriptionFormat": -1994780349,
+    "SpeechBalloonId": 101
+  },
+  {
+    "Version": "250440.1.0",
+    "Id": 31002,
+    "NameTextKey": -1407193613,
+    "AssetId": 1001003,
+    "Rarity": "HyperRare",
+    "SkillEffectIds": [
+      31002
+    ],
+    "RecastTime": 5000,
+    "SkillCastTime": 3000,
+    "DescriptionFormat": -1994780349,
+    "SpeechBalloonId": 101
+  },
+  {
+    "Version": "250440.1.0",
+    "Id": 32002,
+    "NameTextKey": -1407193613,
+    "AssetId": 1002003,
+    "Rarity": "HyperRare",
+    "SkillEffectIds": [
+      32002
+    ],
+    "RecastTime": 5000,
+    "SkillCastTime": 3000,
+    "DescriptionFormat": -1994780349,
+    "SpeechBalloonId": 101
+  },
+  {
+    "Version": "250450.1.0",
+    "Id": 33002,
+    "NameTextKey": -1407193613,
+    "AssetId": 1003003,
+    "Rarity": "HyperRare",
+    "SkillEffectIds": [
+      33002
+    ],
+    "RecastTime": 5000,
+    "SkillCastTime": 3000,
+    "DescriptionFormat": -1994780349,
+    "SpeechBalloonId": 101
+  },
+  {
+    "Version": "250440.1.0",
+    "Id": 34002,
+    "NameTextKey": -1407193613,
+    "AssetId": 1004003,
+    "Rarity": "HyperRare",
+    "SkillEffectIds": [
+      34002
+    ],
+    "RecastTime": 5000,
+    "SkillCastTime": 3000,
+    "DescriptionFormat": -1994780349,
+    "SpeechBalloonId": 101
+  },
+  {
+    "Version": "250450.1.0",
+    "Id": 35002,
+    "NameTextKey": -1407193613,
+    "AssetId": 1005003,
+    "Rarity": "HyperRare",
+    "SkillEffectIds": [
+      35002
+    ],
+    "RecastTime": 5000,
+    "SkillCastTime": 3000,
+    "DescriptionFormat": -1994780349,
+    "SpeechBalloonId": 101
+  },
+  {
+    "Version": "250450.1.0",
+    "Id": 36002,
+    "NameTextKey": -1407193613,
+    "AssetId": 1006003,
+    "Rarity": "HyperRare",
+    "SkillEffectIds": [
+      36002
+    ],
+    "RecastTime": 5000,
+    "SkillCastTime": 3000,
+    "DescriptionFormat": -1994780349,
+    "SpeechBalloonId": 101
+  },
+  {
+    "Version": "250440.1.0",
+    "Id": 37002,
+    "NameTextKey": -1407193613,
+    "AssetId": 1007003,
+    "Rarity": "HyperRare",
+    "SkillEffectIds": [
+      37002
+    ],
+    "RecastTime": 5000,
+    "SkillCastTime": 3000,
+    "DescriptionFormat": -1994780349,
+    "SpeechBalloonId": 101
+  },
+  {
+    "Version": "250530.1.0",
+    "Id": 31003,
+    "NameTextKey": -1407193613,
+    "AssetId": 1001004,
+    "Rarity": "HyperRare",
+    "SkillEffectIds": [
+      31003
+    ],
+    "RecastTime": 5000,
+    "SkillCastTime": 3000,
+    "DescriptionFormat": -1994780349,
+    "SpeechBalloonId": 101
+  },
+  {
+    "Version": "250550.1.0",
+    "Id": 32003,
+    "NameTextKey": -1407193613,
+    "AssetId": 1002004,
+    "Rarity": "HyperRare",
+    "SkillEffectIds": [
+      32003
+    ],
+    "RecastTime": 5000,
+    "SkillCastTime": 3000,
+    "DescriptionFormat": -1994780349,
+    "SpeechBalloonId": 101
+  },
+  {
+    "Version": "250530.1.0",
+    "Id": 33003,
+    "NameTextKey": -1407193613,
+    "AssetId": 1003004,
+    "Rarity": "HyperRare",
+    "SkillEffectIds": [
+      33003
+    ],
+    "RecastTime": 5000,
+    "SkillCastTime": 3000,
+    "DescriptionFormat": -1994780349,
+    "SpeechBalloonId": 101
+  },
+  {
+    "Version": "250550.1.0",
+    "Id": 34003,
+    "NameTextKey": -1407193613,
+    "AssetId": 1004004,
+    "Rarity": "HyperRare",
+    "SkillEffectIds": [
+      34003
+    ],
+    "RecastTime": 5000,
+    "SkillCastTime": 3000,
+    "DescriptionFormat": -1994780349,
+    "SpeechBalloonId": 101
+  },
+  {
+    "Version": "250550.1.0",
+    "Id": 35003,
+    "NameTextKey": -1407193613,
+    "AssetId": 1005004,
+    "Rarity": "HyperRare",
+    "SkillEffectIds": [
+      35003
+    ],
+    "RecastTime": 5000,
+    "SkillCastTime": 3000,
+    "DescriptionFormat": -1994780349,
+    "SpeechBalloonId": 101
+  },
+  {
+    "Version": "250530.1.0",
+    "Id": 36003,
+    "NameTextKey": -1407193613,
+    "AssetId": 1006004,
+    "Rarity": "HyperRare",
+    "SkillEffectIds": [
+      36003
+    ],
+    "RecastTime": 7000,
+    "SkillCastTime": 3000,
+    "DescriptionFormat": -1994780349,
+    "SpeechBalloonId": 101
+  },
+  {
+    "Version": "250530.1.0",
+    "Id": 37003,
+    "NameTextKey": -1407193613,
+    "AssetId": 1007004,
+    "Rarity": "HyperRare",
+    "SkillEffectIds": [
+      37003
+    ],
+    "RecastTime": 5000,
+    "SkillCastTime": 3000,
+    "DescriptionFormat": -1994780349,
+    "SpeechBalloonId": 101
+  },
+  {
+    "Version": "250610.1.0",
+    "Id": 31004,
+    "NameTextKey": -1407193613,
+    "AssetId": 1001006,
+    "Rarity": "HyperRare",
+    "SkillEffectIds": [
+      31004
+    ],
+    "RecastTime": 5000,
+    "SkillCastTime": 3000,
+    "DescriptionFormat": -1994780349,
+    "SpeechBalloonId": 101
+  },
+  {
+    "Version": "250610.1.0",
+    "Id": 32004,
+    "NameTextKey": -1407193613,
+    "AssetId": 1002006,
+    "Rarity": "HyperRare",
+    "SkillEffectIds": [
+      32004
+    ],
+    "RecastTime": 5000,
+    "SkillCastTime": 3000,
+    "DescriptionFormat": -1994780349,
+    "SpeechBalloonId": 101
+  },
+  {
+    "Version": "250630.1.0",
+    "Id": 33004,
+    "NameTextKey": -1407193613,
+    "AssetId": 1003006,
+    "Rarity": "HyperRare",
+    "SkillEffectIds": [
+      33004
+    ],
+    "RecastTime": 5000,
+    "SkillCastTime": 3000,
+    "DescriptionFormat": -1994780349,
+    "SpeechBalloonId": 101
+  },
+  {
+    "Version": "250610.1.0",
+    "Id": 34004,
+    "NameTextKey": -1407193613,
+    "AssetId": 1004006,
+    "Rarity": "HyperRare",
+    "SkillEffectIds": [
+      34004
+    ],
+    "RecastTime": 9000,
+    "SkillCastTime": 3000,
+    "DescriptionFormat": 1030158422,
+    "SpeechBalloonId": 101
+  },
+  {
+    "Version": "250630.1.0",
+    "Id": 35004,
+    "NameTextKey": -1407193613,
+    "AssetId": 1005006,
+    "Rarity": "HyperRare",
+    "SkillEffectIds": [
+      35004
+    ],
+    "RecastTime": 5000,
+    "SkillCastTime": 3000,
+    "DescriptionFormat": -1994780349,
+    "SpeechBalloonId": 101
+  },
+  {
+    "Version": "250610.1.0",
+    "Id": 36004,
+    "NameTextKey": -1407193613,
+    "AssetId": 1006006,
+    "Rarity": "HyperRare",
+    "SkillEffectIds": [
+      36004
+    ],
+    "RecastTime": 5000,
+    "SkillCastTime": 3000,
+    "DescriptionFormat": -1994780349,
+    "SpeechBalloonId": 101
+  },
+  {
+    "Version": "250630.1.0",
+    "Id": 37004,
+    "NameTextKey": -1407193613,
+    "AssetId": 1007006,
+    "Rarity": "HyperRare",
+    "SkillEffectIds": [
+      37004
+    ],
+    "RecastTime": 9000,
+    "SkillCastTime": 3000,
+    "DescriptionFormat": -2053050214,
+    "SpeechBalloonId": 101
+  },
+  {
+    "Version": "250710.1.0",
+    "Id": 31005,
+    "NameTextKey": -1407193613,
+    "AssetId": 1001008,
+    "Rarity": "HyperRare",
+    "SkillEffectIds": [
+      31005
+    ],
+    "RecastTime": 5000,
+    "SkillCastTime": 3000,
+    "DescriptionFormat": -1994780349,
+    "SpeechBalloonId": 101
+  },
+  {
+    "Version": "250730.1.0",
+    "Id": 32005,
+    "NameTextKey": -1407193613,
+    "AssetId": 1002008,
+    "Rarity": "HyperRare",
+    "SkillEffectIds": [
+      32005
+    ],
+    "RecastTime": 9000,
+    "SkillCastTime": 3000,
+    "DescriptionFormat": 1030158422,
+    "SpeechBalloonId": 101
+  },
+  {
+    "Version": "250710.1.0",
+    "Id": 33005,
+    "NameTextKey": -1407193613,
+    "AssetId": 1003008,
+    "Rarity": "HyperRare",
+    "SkillEffectIds": [
+      33005
+    ],
+    "RecastTime": 7000,
+    "SkillCastTime": 3000,
+    "DescriptionFormat": -1994780349,
+    "SpeechBalloonId": 101
+  },
+  {
+    "Version": "250730.1.0",
+    "Id": 34005,
+    "NameTextKey": -1407193613,
+    "AssetId": 1004008,
+    "Rarity": "HyperRare",
+    "SkillEffectIds": [
+      34005
+    ],
+    "RecastTime": 5000,
+    "SkillCastTime": 3000,
+    "DescriptionFormat": -1994780349,
+    "SpeechBalloonId": 101
+  },
+  {
+    "Version": "250710.1.0",
+    "Id": 35005,
+    "NameTextKey": -1407193613,
+    "AssetId": 1005008,
+    "Rarity": "HyperRare",
+    "SkillEffectIds": [
+      35005
+    ],
+    "RecastTime": 5000,
+    "SkillCastTime": 3000,
+    "DescriptionFormat": -1994780349,
+    "SpeechBalloonId": 101
+  },
+  {
+    "Version": "250730.1.0",
+    "Id": 36005,
+    "NameTextKey": -1407193613,
+    "AssetId": 1006008,
+    "Rarity": "HyperRare",
+    "SkillEffectIds": [
+      36005,
+      360051
+    ],
+    "RecastTime": 11000,
+    "SkillCastTime": 3000,
+    "DescriptionFormat": -1905492932,
+    "SpeechBalloonId": 101
+  },
+  {
+    "Version": "250710.1.0",
+    "Id": 37005,
+    "NameTextKey": -1407193613,
+    "AssetId": 1007008,
+    "Rarity": "HyperRare",
+    "SkillEffectIds": [
+      37005
+    ],
+    "RecastTime": 5000,
+    "SkillCastTime": 3000,
+    "DescriptionFormat": -1994780349,
+    "SpeechBalloonId": 101
+  },
+  {
+    "Version": "250810.1.0",
+    "Id": 31006,
+    "NameTextKey": -1407193613,
+    "AssetId": 1001009,
+    "Rarity": "HyperRare",
+    "SkillEffectIds": [
+      31006
+    ],
+    "RecastTime": 9000,
+    "SkillCastTime": 3000,
+    "DescriptionFormat": 1030158422,
+    "SpeechBalloonId": 101
+  },
+  {
+    "Version": "250810.1.0",
+    "Id": 32006,
+    "NameTextKey": -1407193613,
+    "AssetId": 1002009,
+    "Rarity": "HyperRare",
+    "SkillEffectIds": [
+      32006
+    ],
+    "RecastTime": 5000,
+    "SkillCastTime": 3000,
+    "DescriptionFormat": -1994780349,
+    "SpeechBalloonId": 101
+  },
+  {
+    "Version": "250820.1.0",
+    "Id": 33006,
+    "NameTextKey": -1407193613,
+    "AssetId": 1003009,
+    "Rarity": "HyperRare",
+    "SkillEffectIds": [
+      33006
+    ],
+    "RecastTime": 9000,
+    "SkillCastTime": 3000,
+    "DescriptionFormat": -2053050214,
+    "SpeechBalloonId": 101
+  },
+  {
+    "Version": "250820.1.0",
+    "Id": 34006,
+    "NameTextKey": -1407193613,
+    "AssetId": 1004009,
+    "Rarity": "HyperRare",
+    "SkillEffectIds": [
+      34006
+    ],
+    "RecastTime": 5000,
+    "SkillCastTime": 3000,
+    "DescriptionFormat": -1994780349,
+    "SpeechBalloonId": 101
+  },
+  {
+    "Version": "250820.1.0",
+    "Id": 35006,
+    "NameTextKey": -1407193613,
+    "AssetId": 1005009,
+    "Rarity": "HyperRare",
+    "SkillEffectIds": [
+      35006
+    ],
+    "RecastTime": 7000,
+    "SkillCastTime": 3000,
+    "DescriptionFormat": -1994780349,
+    "SpeechBalloonId": 101
+  },
+  {
+    "Version": "250810.1.0",
+    "Id": 36006,
+    "NameTextKey": -1407193613,
+    "AssetId": 1006009,
+    "Rarity": "HyperRare",
+    "SkillEffectIds": [
+      36006
+    ],
+    "RecastTime": 5000,
+    "SkillCastTime": 3000,
+    "DescriptionFormat": -1994780349,
+    "SpeechBalloonId": 101
+  },
+  {
+    "Version": "250810.1.0",
+    "Id": 37006,
+    "NameTextKey": -1407193613,
+    "AssetId": 1007009,
+    "Rarity": "HyperRare",
+    "SkillEffectIds": [
+      37006
+    ],
+    "RecastTime": 7000,
+    "SkillCastTime": 3000,
+    "DescriptionFormat": -1994780349,
+    "SpeechBalloonId": 101
+  },
+  {
+    "Version": "251010.1.0",
+    "Id": 31007,
+    "NameTextKey": -1407193613,
+    "AssetId": 1001010,
+    "Rarity": "HyperRare",
+    "SkillEffectIds": [
+      31007
+    ],
+    "RecastTime": 15000,
+    "SkillCastTime": 3000,
+    "DescriptionFormat": 1008989634,
+    "SpeechBalloonId": 101
+  },
+  {
+    "Version": "250930.1.0",
+    "Id": 32007,
+    "NameTextKey": -1407193613,
+    "AssetId": 1002010,
+    "Rarity": "HyperRare",
+    "SkillEffectIds": [
+      32007
+    ],
+    "RecastTime": 15000,
+    "SkillCastTime": 3000,
+    "DescriptionFormat": -19469718,
+    "SpeechBalloonId": 101
+  },
+  {
+    "Version": "250910.1.0",
+    "Id": 33007,
+    "NameTextKey": -1407193613,
+    "AssetId": 1003010,
+    "Rarity": "HyperRare",
+    "SkillEffectIds": [
+      33007
+    ],
+    "RecastTime": 5000,
+    "SkillCastTime": 3000,
+    "DescriptionFormat": -1994780349,
+    "SpeechBalloonId": 101
+  },
+  {
+    "Version": "250910.1.0",
+    "Id": 34007,
+    "NameTextKey": -1407193613,
+    "AssetId": 1004010,
+    "Rarity": "HyperRare",
+    "SkillEffectIds": [
+      34007
+    ],
+    "RecastTime": 6000,
+    "SkillCastTime": 3000,
+    "DescriptionFormat": -1386884718,
+    "SpeechBalloonId": 101
+  },
+  {
+    "Version": "250930.1.0",
+    "Id": 35007,
+    "NameTextKey": -1407193613,
+    "AssetId": 1005010,
+    "Rarity": "HyperRare",
+    "SkillEffectIds": [
+      35007
+    ],
+    "RecastTime": 5000,
+    "SkillCastTime": 3000,
+    "DescriptionFormat": -1994780349,
+    "SpeechBalloonId": 101
+  },
+  {
+    "Version": "250930.1.0",
+    "Id": 36007,
+    "NameTextKey": -1407193613,
+    "AssetId": 1006010,
+    "Rarity": "HyperRare",
+    "SkillEffectIds": [
+      36007
+    ],
+    "RecastTime": 5000,
+    "SkillCastTime": 3000,
+    "DescriptionFormat": -1994780349,
+    "SpeechBalloonId": 101
+  },
+  {
+    "Version": "250910.1.0",
+    "Id": 37007,
+    "NameTextKey": -1407193613,
+    "AssetId": 1007010,
+    "Rarity": "HyperRare",
+    "SkillEffectIds": [
+      37007
+    ],
+    "RecastTime": 5000,
+    "SkillCastTime": 3000,
+    "DescriptionFormat": -1994780349,
+    "SpeechBalloonId": 101
+  },
+  {
+    "Version": "251010.1.0",
+    "Id": 31008,
+    "NameTextKey": -1407193613,
+    "AssetId": 1001011,
+    "Rarity": "HyperRare",
+    "SkillEffectIds": [
+      31008
+    ],
+    "RecastTime": 7000,
+    "SkillCastTime": 3000,
+    "DescriptionFormat": -1994780349,
+    "SpeechBalloonId": 101
+  },
+  {
+    "Version": "251010.1.0",
+    "Id": 32008,
+    "NameTextKey": -1407193613,
+    "AssetId": 1002011,
+    "Rarity": "HyperRare",
+    "SkillEffectIds": [
+      32008
+    ],
+    "RecastTime": 9000,
+    "SkillCastTime": 3000,
+    "DescriptionFormat": -269115532,
+    "SpeechBalloonId": 101
+  },
+  {
+    "Version": "251020.1.0",
+    "Id": 33008,
+    "NameTextKey": -1407193613,
+    "AssetId": 1003011,
+    "Rarity": "HyperRare",
+    "SkillEffectIds": [
+      33008
+    ],
+    "RecastTime": 15000,
+    "SkillCastTime": 3000,
+    "DescriptionFormat": -19469718,
+    "SpeechBalloonId": 101
+  },
+  {
+    "Version": "251020.1.0",
+    "Id": 34008,
+    "NameTextKey": -1407193613,
+    "AssetId": 1004011,
+    "Rarity": "HyperRare",
+    "SkillEffectIds": [
+      34008
+    ],
+    "RecastTime": 9000,
+    "SkillCastTime": 3000,
+    "DescriptionFormat": -2053050214,
+    "SpeechBalloonId": 101
+  },
+  {
+    "Version": "251020.1.0",
+    "Id": 35008,
+    "NameTextKey": -1407193613,
+    "AssetId": 1005011,
+    "Rarity": "HyperRare",
+    "SkillEffectIds": [
+      35008
+    ],
+    "RecastTime": 9000,
+    "SkillCastTime": 3000,
+    "DescriptionFormat": 1030158422,
+    "SpeechBalloonId": 101
+  },
+  {
+    "Version": "251010.1.0",
+    "Id": 36008,
+    "NameTextKey": -1407193613,
+    "AssetId": 1006011,
+    "Rarity": "HyperRare",
+    "SkillEffectIds": [
+      36008
+    ],
+    "RecastTime": 7000,
+    "SkillCastTime": 3000,
+    "DescriptionFormat": -1994780349,
+    "SpeechBalloonId": 101
+  },
+  {
+    "Version": "251010.1.0",
+    "Id": 37008,
+    "NameTextKey": -1407193613,
+    "AssetId": 1007011,
+    "Rarity": "HyperRare",
+    "SkillEffectIds": [
+      37008
+    ],
+    "RecastTime": 7000,
+    "SkillCastTime": 3000,
+    "DescriptionFormat": -1994780349,
+    "SpeechBalloonId": 101
+  },
+  {
+    "Version": "251010.1.0",
+    "Id": 21002,
+    "NameTextKey": -1407193613,
+    "AssetId": 1001015,
+    "Rarity": "SuperRare",
+    "SkillEffectIds": [
+      21002
+    ],
+    "RecastTime": 8000,
+    "SkillCastTime": 3000,
+    "DescriptionFormat": -1994780349,
+    "SpeechBalloonId": 101
+  },
+  {
+    "Version": "251010.1.0",
+    "Id": 22002,
+    "NameTextKey": -1407193613,
+    "AssetId": 1002015,
+    "Rarity": "SuperRare",
+    "SkillEffectIds": [
+      22002
+    ],
+    "RecastTime": 8000,
+    "SkillCastTime": 3000,
+    "DescriptionFormat": -1994780349,
+    "SpeechBalloonId": 101
+  },
+  {
+    "Version": "251010.1.0",
+    "Id": 23002,
+    "NameTextKey": -1407193613,
+    "AssetId": 1003015,
+    "Rarity": "SuperRare",
+    "SkillEffectIds": [
+      23002
+    ],
+    "RecastTime": 8000,
+    "SkillCastTime": 3000,
+    "DescriptionFormat": -1994780349,
+    "SpeechBalloonId": 101
+  },
+  {
+    "Version": "251030.1.0",
+    "Id": 31009,
+    "NameTextKey": -1407193613,
+    "AssetId": 1001012,
+    "Rarity": "HyperRare",
+    "SkillEffectIds": [
+      31009
+    ],
+    "RecastTime": 5000,
+    "SkillCastTime": 3000,
+    "DescriptionFormat": -1994780349,
+    "SpeechBalloonId": 101
+  },
+  {
+    "Version": "251110.1.0",
+    "Id": 32009,
+    "NameTextKey": -1407193613,
+    "AssetId": 1002012,
+    "Rarity": "HyperRare",
+    "SkillEffectIds": [
+      32009
+    ],
+    "RecastTime": 5000,
+    "SkillCastTime": 3000,
+    "DescriptionFormat": -1994780349,
+    "SpeechBalloonId": 101
+  },
+  {
+    "Version": "251030.1.0",
+    "Id": 33009,
+    "NameTextKey": -1407193613,
+    "AssetId": 1003012,
+    "Rarity": "HyperRare",
+    "SkillEffectIds": [
+      33009
+    ],
+    "RecastTime": 5000,
+    "SkillCastTime": 3000,
+    "DescriptionFormat": -1994780349,
+    "SpeechBalloonId": 101
+  },
+  {
+    "Version": "251110.1.0",
+    "Id": 34009,
+    "NameTextKey": -1407193613,
+    "AssetId": 1004012,
+    "Rarity": "HyperRare",
+    "SkillEffectIds": [
+      34009
+    ],
+    "RecastTime": 15000,
+    "SkillCastTime": 3000,
+    "DescriptionFormat": -102618297,
+    "SpeechBalloonId": 101
+  },
+  {
+    "Version": "251110.1.0",
+    "Id": 35009,
+    "NameTextKey": -1407193613,
+    "AssetId": 1005012,
+    "Rarity": "HyperRare",
+    "SkillEffectIds": [
+      35009
+    ],
+    "RecastTime": 15000,
+    "SkillCastTime": 3000,
+    "DescriptionFormat": -19469718,
+    "SpeechBalloonId": 101
+  },
+  {
+    "Version": "251030.1.0",
+    "Id": 36009,
+    "NameTextKey": -1407193613,
+    "AssetId": 1006012,
+    "Rarity": "HyperRare",
+    "SkillEffectIds": [
+      36009
+    ],
+    "RecastTime": 5000,
+    "SkillCastTime": 3000,
+    "DescriptionFormat": -1994780349,
+    "SpeechBalloonId": 101
+  },
+  {
+    "Version": "251030.1.0",
+    "Id": 37009,
+    "NameTextKey": -1407193613,
+    "AssetId": 1007012,
+    "Rarity": "HyperRare",
+    "SkillEffectIds": [
+      37009
+    ],
+    "RecastTime": 9000,
+    "SkillCastTime": 3000,
+    "DescriptionFormat": 1030158422,
+    "SpeechBalloonId": 101
+  },
+  {
+    "Version": "251210.1.0",
+    "Id": 31010,
+    "NameTextKey": -1407193613,
+    "AssetId": 1001013,
+    "Rarity": "HyperRare",
+    "SkillEffectIds": [
+      31010
+    ],
+    "RecastTime": 6000,
+    "SkillCastTime": 3000,
+    "DescriptionFormat": -1386884718,
+    "SpeechBalloonId": 101
+  },
+  {
+    "Version": "251210.1.0",
+    "Id": 32010,
+    "NameTextKey": -1407193613,
+    "AssetId": 1002013,
+    "Rarity": "HyperRare",
+    "SkillEffectIds": [
+      32010
+    ],
+    "RecastTime": 7000,
+    "SkillCastTime": 3000,
+    "DescriptionFormat": -1994780349,
+    "SpeechBalloonId": 101
+  },
+  {
+    "Version": "251230.1.0",
+    "Id": 33010,
+    "NameTextKey": -1407193613,
+    "AssetId": 1003013,
+    "Rarity": "HyperRare",
+    "SkillEffectIds": [
+      33010
+    ],
+    "RecastTime": 5000,
+    "SkillCastTime": 3000,
+    "DescriptionFormat": -1994780349,
+    "SpeechBalloonId": 101
+  },
+  {
+    "Version": "251230.1.0",
+    "Id": 34010,
+    "NameTextKey": -1407193613,
+    "AssetId": 1004013,
+    "Rarity": "HyperRare",
+    "SkillEffectIds": [
+      34010
+    ],
+    "RecastTime": 5000,
+    "SkillCastTime": 3000,
+    "DescriptionFormat": -1994780349,
+    "SpeechBalloonId": 101
+  },
+  {
+    "Version": "251210.1.0",
+    "Id": 35010,
+    "NameTextKey": -1407193613,
+    "AssetId": 1005013,
+    "Rarity": "HyperRare",
+    "SkillEffectIds": [
+      35010
+    ],
+    "RecastTime": 15000,
+    "SkillCastTime": 3000,
+    "DescriptionFormat": -19469718,
+    "SpeechBalloonId": 101
+  },
+  {
+    "Version": "251210.1.0",
+    "Id": 36010,
+    "NameTextKey": -1407193613,
+    "AssetId": 1006013,
+    "Rarity": "HyperRare",
+    "SkillEffectIds": [
+      36010
+    ],
+    "RecastTime": 15000,
+    "SkillCastTime": 3000,
+    "DescriptionFormat": 858548777,
+    "SpeechBalloonId": 101
+  },
+  {
+    "Version": "251230.1.0",
+    "Id": 37010,
+    "NameTextKey": -1407193613,
+    "AssetId": 1007013,
+    "Rarity": "HyperRare",
+    "SkillEffectIds": [
+      37010
+    ],
+    "RecastTime": 7000,
+    "SkillCastTime": 3000,
+    "DescriptionFormat": -1994780349,
+    "SpeechBalloonId": 101
+  },
+  {
+    "Version": "260110.1.0",
+    "Id": 31011,
+    "NameTextKey": -1407193613,
+    "AssetId": 1001016,
+    "Rarity": "HyperRare",
+    "SkillEffectIds": [
+      31011
+    ],
+    "RecastTime": 7000,
+    "SkillCastTime": 3000,
+    "DescriptionFormat": 1334739227,
+    "SpeechBalloonId": 101
+  },
+  {
+    "Version": "260110.1.0",
+    "Id": 32011,
+    "NameTextKey": -1407193613,
+    "AssetId": 1002016,
+    "Rarity": "HyperRare",
+    "SkillEffectIds": [
+      32011
+    ],
+    "RecastTime": 5000,
+    "SkillCastTime": 3000,
+    "DescriptionFormat": -1994780349,
+    "SpeechBalloonId": 101
+  },
+  {
+    "Version": "260110.1.0",
+    "Id": 33011,
+    "NameTextKey": -1407193613,
+    "AssetId": 1003016,
+    "Rarity": "HyperRare",
+    "SkillEffectIds": [
+      33011
+    ],
+    "RecastTime": 10000,
+    "SkillCastTime": 3000,
+    "DescriptionFormat": -1994780349,
+    "SpeechBalloonId": 101
+  },
+  {
+    "Version": "260110.1.0",
+    "Id": 34011,
+    "NameTextKey": -1407193613,
+    "AssetId": 1004016,
+    "Rarity": "HyperRare",
+    "SkillEffectIds": [
+      34011
+    ],
+    "RecastTime": 7000,
+    "SkillCastTime": 3000,
+    "DescriptionFormat": -1994780349,
+    "SpeechBalloonId": 101
+  },
+  {
+    "Version": "260110.1.0",
+    "Id": 35011,
+    "NameTextKey": -1407193613,
+    "AssetId": 1005016,
+    "Rarity": "HyperRare",
+    "SkillEffectIds": [
+      35011
+    ],
+    "RecastTime": 10000,
+    "SkillCastTime": 3000,
+    "DescriptionFormat": -1994780349,
+    "SpeechBalloonId": 101
+  },
+  {
+    "Version": "260110.1.0",
+    "Id": 36011,
+    "NameTextKey": -1407193613,
+    "AssetId": 1006016,
+    "Rarity": "HyperRare",
+    "SkillEffectIds": [
+      36011
+    ],
+    "RecastTime": 7000,
+    "SkillCastTime": 3000,
+    "DescriptionFormat": -1994780349,
+    "SpeechBalloonId": 101
+  },
+  {
+    "Version": "260110.1.0",
+    "Id": 37011,
+    "NameTextKey": -1407193613,
+    "AssetId": 1007016,
+    "Rarity": "HyperRare",
+    "SkillEffectIds": [
+      37011
+    ],
+    "RecastTime": 15000,
+    "SkillCastTime": 3000,
+    "DescriptionFormat": -19469718,
+    "SpeechBalloonId": 101
+  },
+  {
+    "Version": "260210.1.0",
+    "Id": 31012,
+    "NameTextKey": -1407193613,
+    "AssetId": 1001017,
+    "Rarity": "HyperRare",
+    "SkillEffectIds": [
+      31012
+    ],
+    "RecastTime": 7000,
+    "SkillCastTime": 3000,
+    "DescriptionFormat": -1994780349,
+    "SpeechBalloonId": 101
+  },
+  {
+    "Version": "260210.1.0",
+    "Id": 32012,
+    "NameTextKey": -1407193613,
+    "AssetId": 1002017,
+    "Rarity": "HyperRare",
+    "SkillEffectIds": [
+      32012
+    ],
+    "RecastTime": 9000,
+    "SkillCastTime": 3000,
+    "DescriptionFormat": -2053050214,
+    "SpeechBalloonId": 101
+  },
+  {
+    "Version": "260230.1.0",
+    "Id": 33012,
+    "NameTextKey": -1407193613,
+    "AssetId": 1003017,
+    "Rarity": "HyperRare",
+    "SkillEffectIds": [
+      33012
+    ],
+    "RecastTime": 7000,
+    "SkillCastTime": 3000,
+    "DescriptionFormat": -1994780349,
+    "SpeechBalloonId": 101
+  },
+  {
+    "Version": "260230.1.0",
+    "Id": 34012,
+    "NameTextKey": -1407193613,
+    "AssetId": 1004017,
+    "Rarity": "HyperRare",
+    "SkillEffectIds": [
+      34012
+    ],
+    "RecastTime": 15000,
+    "SkillCastTime": 3000,
+    "DescriptionFormat": -19469718,
+    "SpeechBalloonId": 101
+  },
+  {
+    "Version": "260230.1.0",
+    "Id": 35012,
+    "NameTextKey": -1407193613,
+    "AssetId": 1005017,
+    "Rarity": "HyperRare",
+    "SkillEffectIds": [
+      35012
+    ],
+    "RecastTime": 7000,
+    "SkillCastTime": 3000,
+    "DescriptionFormat": -1994780349,
+    "SpeechBalloonId": 101
+  },
+  {
+    "Version": "260210.1.0",
+    "Id": 36012,
+    "NameTextKey": -1407193613,
+    "AssetId": 1006017,
+    "Rarity": "HyperRare",
+    "SkillEffectIds": [
+      36012
+    ],
+    "RecastTime": 10000,
+    "SkillCastTime": 3000,
+    "DescriptionFormat": -1994780349,
+    "SpeechBalloonId": 101
+  },
+  {
+    "Version": "260210.1.0",
+    "Id": 37012,
+    "NameTextKey": -1407193613,
+    "AssetId": 1007017,
+    "Rarity": "HyperRare",
+    "SkillEffectIds": [
+      37012
+    ],
+    "RecastTime": 5000,
+    "SkillCastTime": 3000,
+    "DescriptionFormat": -1994780349,
+    "SpeechBalloonId": 101
+  },
+  {
+    "Version": "260310.1.0",
+    "Id": 31013,
+    "NameTextKey": -1407193613,
+    "AssetId": 1001018,
+    "Rarity": "HyperRare",
+    "SkillEffectIds": [
+      31013
+    ],
+    "RecastTime": 7000,
+    "SkillCastTime": 3000,
+    "DescriptionFormat": -1994780349,
+    "SpeechBalloonId": 101
+  },
+  {
+    "Version": "260310.1.0",
+    "Id": 32013,
+    "NameTextKey": -1407193613,
+    "AssetId": 1002018,
+    "Rarity": "HyperRare",
+    "SkillEffectIds": [
+      32013
+    ],
+    "RecastTime": 7000,
+    "SkillCastTime": 3000,
+    "DescriptionFormat": -1994780349,
+    "SpeechBalloonId": 101
+  },
+  {
+    "Version": "260330.1.0",
+    "Id": 33013,
+    "NameTextKey": -1407193613,
+    "AssetId": 1003018,
+    "Rarity": "HyperRare",
+    "SkillEffectIds": [
+      33013
+    ],
+    "RecastTime": 10000,
+    "SkillCastTime": 3000,
+    "DescriptionFormat": -1994780349,
+    "SpeechBalloonId": 101
+  },
+  {
+    "Version": "260310.1.0",
+    "Id": 34013,
+    "NameTextKey": -1407193613,
+    "AssetId": 1004018,
+    "Rarity": "HyperRare",
+    "SkillEffectIds": [
+      34013
+    ],
+    "RecastTime": 5000,
+    "SkillCastTime": 3000,
+    "DescriptionFormat": -1994780349,
+    "SpeechBalloonId": 101
+  },
+  {
+    "Version": "260330.1.0",
+    "Id": 35013,
+    "NameTextKey": -1407193613,
+    "AssetId": 1005018,
+    "Rarity": "HyperRare",
+    "SkillEffectIds": [
+      35013
+    ],
+    "RecastTime": 15000,
+    "SkillCastTime": 3000,
+    "DescriptionFormat": -1198484355,
+    "SpeechBalloonId": 101
+  },
+  {
+    "Version": "260330.1.0",
+    "Id": 36013,
+    "NameTextKey": -1407193613,
+    "AssetId": 1006018,
+    "Rarity": "HyperRare",
+    "SkillEffectIds": [
+      36013
+    ],
+    "RecastTime": 7000,
+    "SkillCastTime": 3000,
+    "DescriptionFormat": -1994780349,
+    "SpeechBalloonId": 101
+  },
+  {
+    "Version": "260310.1.0",
+    "Id": 37013,
+    "NameTextKey": -1407193613,
+    "AssetId": 1007018,
+    "Rarity": "HyperRare",
+    "SkillEffectIds": [
+      37013,
+      370131
+    ],
+    "RecastTime": 11000,
+    "SkillCastTime": 3000,
+    "DescriptionFormat": 2115299400,
+    "SpeechBalloonId": 101
+  },
+  {
+    "Version": "260410.1.0",
+    "Id": 31014,
+    "NameTextKey": -1407193613,
+    "AssetId": 1001019,
+    "Rarity": "HyperRare",
+    "SkillEffectIds": [
+      31014,
+      310141
+    ],
+    "RecastTime": 11000,
+    "SkillCastTime": 3000,
+    "DescriptionFormat": 2108114258,
+    "SpeechBalloonId": 101
+  },
+  {
+    "Version": "260410.1.0",
+    "Id": 33014,
+    "NameTextKey": -1407193613,
+    "AssetId": 1003019,
+    "Rarity": "HyperRare",
+    "SkillEffectIds": [
+      33014,
+      330141
+    ],
+    "RecastTime": 11000,
+    "SkillCastTime": 3000,
+    "DescriptionFormat": -676426279,
+    "SpeechBalloonId": 101
+  },
+  {
+    "Version": "260410.1.0",
+    "Id": 35014,
+    "NameTextKey": -1407193613,
+    "AssetId": 1005019,
+    "Rarity": "HyperRare",
+    "SkillEffectIds": [
+      35014
+    ],
+    "RecastTime": 7000,
+    "SkillCastTime": 3000,
+    "DescriptionFormat": 1334739227,
+    "SpeechBalloonId": 101
+  },
+  {
+    "Version": "260410.1.0",
+    "Id": 37014,
+    "NameTextKey": -1407193613,
+    "AssetId": 1007019,
+    "Rarity": "HyperRare",
+    "SkillEffectIds": [
+      37014
+    ],
+    "RecastTime": 7000,
+    "SkillCastTime": 3000,
+    "DescriptionFormat": -1994780349,
+    "SpeechBalloonId": 101
+  }
+]

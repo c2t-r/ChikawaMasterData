@@ -1,0 +1,522 @@
+[
+  {
+    "Version": "250330.1.0",
+    "Id": 1,
+    "SortOrder": 40,
+    "NameTextKey": -1211518941,
+    "TabTextKey": -1211518941,
+    "ViewPlaceType": "Shop"
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 2,
+    "SortOrder": 30,
+    "NameTextKey": 784392601,
+    "TabTextKey": 784392601,
+    "ViewPlaceType": "Shop"
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 3,
+    "SortOrder": 20,
+    "NameTextKey": 1506267407,
+    "TabTextKey": 1506267407,
+    "ViewPlaceType": "Shop"
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 4,
+    "SortOrder": 10,
+    "NameTextKey": -945601364,
+    "TabTextKey": -945601364,
+    "ViewPlaceType": "Shop"
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 11,
+    "SortOrder": 40,
+    "NameTextKey": -488753022,
+    "TabTextKey": 661541722,
+    "ViewPlaceType": "Event"
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 12,
+    "SortOrder": 30,
+    "NameTextKey": 818099491,
+    "TabTextKey": 661541722,
+    "ViewPlaceType": "Event"
+  },
+  {
+    "Version": "250350.1.0",
+    "Id": 21,
+    "SortOrder": 20,
+    "NameTextKey": 818099491,
+    "TabTextKey": -2145113270,
+    "ViewPlaceType": "Event"
+  },
+  {
+    "Version": "250350.1.0",
+    "Id": 22,
+    "SortOrder": 10,
+    "NameTextKey": 818099491,
+    "TabTextKey": -2025197741,
+    "ViewPlaceType": "Event"
+  },
+  {
+    "Version": "250410.1.0",
+    "Id": 13,
+    "SortOrder": 40,
+    "NameTextKey": -488753022,
+    "TabTextKey": 1506267407,
+    "ViewPlaceType": "Event"
+  },
+  {
+    "Version": "250410.1.0",
+    "Id": 14,
+    "SortOrder": 30,
+    "NameTextKey": 818099491,
+    "TabTextKey": 1506267407,
+    "ViewPlaceType": "Event"
+  },
+  {
+    "Version": "250440.1.0",
+    "Id": 15,
+    "SortOrder": 40,
+    "NameTextKey": -488753022,
+    "TabTextKey": 661541722,
+    "ViewPlaceType": "Event"
+  },
+  {
+    "Version": "250440.1.0",
+    "Id": 16,
+    "SortOrder": 30,
+    "NameTextKey": 818099491,
+    "TabTextKey": 661541722,
+    "ViewPlaceType": "Event"
+  },
+  {
+    "Version": "250450.1.0",
+    "Id": 17,
+    "SortOrder": 40,
+    "NameTextKey": -488753022,
+    "TabTextKey": 1506267407,
+    "ViewPlaceType": "Event"
+  },
+  {
+    "Version": "250450.1.0",
+    "Id": 18,
+    "SortOrder": 30,
+    "NameTextKey": 818099491,
+    "TabTextKey": 1506267407,
+    "ViewPlaceType": "Event"
+  },
+  {
+    "Version": "250530.1.0",
+    "Id": 19,
+    "SortOrder": 40,
+    "NameTextKey": -488753022,
+    "TabTextKey": 661541722,
+    "ViewPlaceType": "Event"
+  },
+  {
+    "Version": "250530.1.0",
+    "Id": 20,
+    "SortOrder": 30,
+    "NameTextKey": 818099491,
+    "TabTextKey": 661541722,
+    "ViewPlaceType": "Event"
+  },
+  {
+    "Version": "250550.1.0",
+    "Id": 23,
+    "SortOrder": 40,
+    "NameTextKey": -488753022,
+    "TabTextKey": 661541722,
+    "ViewPlaceType": "Event"
+  },
+  {
+    "Version": "250550.1.0",
+    "Id": 24,
+    "SortOrder": 30,
+    "NameTextKey": 818099491,
+    "TabTextKey": 661541722,
+    "ViewPlaceType": "Event"
+  },
+  {
+    "Version": "250620.1.0",
+    "Id": 35,
+    "SortOrder": 40,
+    "NameTextKey": 2077714744,
+    "TabTextKey": 661541722,
+    "ViewPlaceType": "Event"
+  },
+  {
+    "Version": "250640.1.0",
+    "Id": 36,
+    "SortOrder": 40,
+    "NameTextKey": 214981038,
+    "TabTextKey": 661541722,
+    "ViewPlaceType": "Event"
+  },
+  {
+    "Version": "250612.1.0",
+    "Id": 101,
+    "SortOrder": 40,
+    "NameTextKey": -199070213,
+    "TabTextKey": -199070213,
+    "ViewPlaceType": "PermanentExchange"
+  },
+  {
+    "Version": "250612.1.0",
+    "Id": 102,
+    "SortOrder": 30,
+    "NameTextKey": 1831550017,
+    "TabTextKey": 1831550017,
+    "ViewPlaceType": "PermanentExchange"
+  },
+  {
+    "Version": "250612.1.0",
+    "Id": 103,
+    "SortOrder": 20,
+    "NameTextKey": 439094487,
+    "TabTextKey": 439094487,
+    "ViewPlaceType": "PermanentExchange"
+  },
+  {
+    "Version": "250810.1.0",
+    "Id": 104,
+    "SortOrder": 10,
+    "NameTextKey": -2075616908,
+    "TabTextKey": -1836206865,
+    "ViewPlaceType": "PermanentExchange"
+  },
+  {
+    "Version": "260110.1.0",
+    "Id": 201,
+    "SortOrder": 50,
+    "NameTextKey": -854377385,
+    "TabTextKey": -854377385,
+    "ViewPlaceType": "TicketPermanentExchange"
+  },
+  {
+    "Version": "260110.1.0",
+    "Id": 202,
+    "SortOrder": 40,
+    "NameTextKey": 387279663,
+    "TabTextKey": -2097968011,
+    "ViewPlaceType": "TicketPermanentExchange"
+  },
+  {
+    "Version": "250610.1.0",
+    "Id": 25,
+    "SortOrder": 40,
+    "NameTextKey": -488753022,
+    "TabTextKey": 661541722,
+    "ViewPlaceType": "Event"
+  },
+  {
+    "Version": "250610.1.0",
+    "Id": 26,
+    "SortOrder": 30,
+    "NameTextKey": 818099491,
+    "TabTextKey": 661541722,
+    "ViewPlaceType": "Event"
+  },
+  {
+    "Version": "250630.1.0",
+    "Id": 27,
+    "SortOrder": 40,
+    "NameTextKey": -488753022,
+    "TabTextKey": 661541722,
+    "ViewPlaceType": "Event"
+  },
+  {
+    "Version": "250630.1.0",
+    "Id": 28,
+    "SortOrder": 30,
+    "NameTextKey": 818099491,
+    "TabTextKey": 661541722,
+    "ViewPlaceType": "Event"
+  },
+  {
+    "Version": "250710.1.0",
+    "Id": 1051,
+    "SortOrder": 40,
+    "NameTextKey": -488753022,
+    "TabTextKey": 661541722,
+    "ViewPlaceType": "Event"
+  },
+  {
+    "Version": "250710.1.0",
+    "Id": 1052,
+    "SortOrder": 30,
+    "NameTextKey": 818099491,
+    "TabTextKey": 661541722,
+    "ViewPlaceType": "Event"
+  },
+  {
+    "Version": "250730.1.0",
+    "Id": 1053,
+    "SortOrder": 40,
+    "NameTextKey": -488753022,
+    "TabTextKey": 661541722,
+    "ViewPlaceType": "Event"
+  },
+  {
+    "Version": "250730.1.0",
+    "Id": 1054,
+    "SortOrder": 30,
+    "NameTextKey": 818099491,
+    "TabTextKey": 661541722,
+    "ViewPlaceType": "Event"
+  },
+  {
+    "Version": "250810.1.0",
+    "Id": 1061,
+    "SortOrder": 40,
+    "NameTextKey": -488753022,
+    "TabTextKey": 661541722,
+    "ViewPlaceType": "Event"
+  },
+  {
+    "Version": "250820.1.0",
+    "Id": 1063,
+    "SortOrder": 40,
+    "NameTextKey": -488753022,
+    "TabTextKey": 661541722,
+    "ViewPlaceType": "Event"
+  },
+  {
+    "Version": "250810.1.0",
+    "Id": 1062,
+    "SortOrder": 30,
+    "NameTextKey": 818099491,
+    "TabTextKey": 661541722,
+    "ViewPlaceType": "Event"
+  },
+  {
+    "Version": "250820.1.0",
+    "Id": 1064,
+    "SortOrder": 30,
+    "NameTextKey": 818099491,
+    "TabTextKey": 661541722,
+    "ViewPlaceType": "Event"
+  },
+  {
+    "Version": "260210.1.0",
+    "Id": 37,
+    "SortOrder": 40,
+    "NameTextKey": -488753022,
+    "TabTextKey": 661541722,
+    "ViewPlaceType": "Event"
+  },
+  {
+    "Version": "250910.1.0",
+    "Id": 1071,
+    "SortOrder": 40,
+    "NameTextKey": -488753022,
+    "TabTextKey": 661541722,
+    "ViewPlaceType": "Event"
+  },
+  {
+    "Version": "250930.1.0",
+    "Id": 1073,
+    "SortOrder": 40,
+    "NameTextKey": -488753022,
+    "TabTextKey": 661541722,
+    "ViewPlaceType": "Event"
+  },
+  {
+    "Version": "250910.1.0",
+    "Id": 1072,
+    "SortOrder": 30,
+    "NameTextKey": 818099491,
+    "TabTextKey": 661541722,
+    "ViewPlaceType": "Event"
+  },
+  {
+    "Version": "250930.1.0",
+    "Id": 1074,
+    "SortOrder": 30,
+    "NameTextKey": 818099491,
+    "TabTextKey": 661541722,
+    "ViewPlaceType": "Event"
+  },
+  {
+    "Version": "251010.1.0",
+    "Id": 1081,
+    "SortOrder": 40,
+    "NameTextKey": -488753022,
+    "TabTextKey": 661541722,
+    "ViewPlaceType": "Event"
+  },
+  {
+    "Version": "251010.1.0",
+    "Id": 1082,
+    "SortOrder": 30,
+    "NameTextKey": 818099491,
+    "TabTextKey": 661541722,
+    "ViewPlaceType": "Event"
+  },
+  {
+    "Version": "251030.1.0",
+    "Id": 1091,
+    "SortOrder": 40,
+    "NameTextKey": -488753022,
+    "TabTextKey": 661541722,
+    "ViewPlaceType": "Event"
+  },
+  {
+    "Version": "251110.1.0",
+    "Id": 1093,
+    "SortOrder": 40,
+    "NameTextKey": -488753022,
+    "TabTextKey": 661541722,
+    "ViewPlaceType": "Event"
+  },
+  {
+    "Version": "251030.1.0",
+    "Id": 1092,
+    "SortOrder": 30,
+    "NameTextKey": 818099491,
+    "TabTextKey": 661541722,
+    "ViewPlaceType": "Event"
+  },
+  {
+    "Version": "251110.1.0",
+    "Id": 1094,
+    "SortOrder": 30,
+    "NameTextKey": 818099491,
+    "TabTextKey": 661541722,
+    "ViewPlaceType": "Event"
+  },
+  {
+    "Version": "251210.1.0",
+    "Id": 1101,
+    "SortOrder": 40,
+    "NameTextKey": -488753022,
+    "TabTextKey": 661541722,
+    "ViewPlaceType": "Event"
+  },
+  {
+    "Version": "251230.1.0",
+    "Id": 1103,
+    "SortOrder": 40,
+    "NameTextKey": -488753022,
+    "TabTextKey": 661541722,
+    "ViewPlaceType": "Event"
+  },
+  {
+    "Version": "251210.1.0",
+    "Id": 1102,
+    "SortOrder": 30,
+    "NameTextKey": 818099491,
+    "TabTextKey": 661541722,
+    "ViewPlaceType": "Event"
+  },
+  {
+    "Version": "251230.1.0",
+    "Id": 1104,
+    "SortOrder": 30,
+    "NameTextKey": 818099491,
+    "TabTextKey": 661541722,
+    "ViewPlaceType": "Event"
+  },
+  {
+    "Version": "260110.1.0",
+    "Id": 1111,
+    "SortOrder": 40,
+    "NameTextKey": -488753022,
+    "TabTextKey": 661541722,
+    "ViewPlaceType": "Event"
+  },
+  {
+    "Version": "260110.1.0",
+    "Id": 1112,
+    "SortOrder": 30,
+    "NameTextKey": 818099491,
+    "TabTextKey": 661541722,
+    "ViewPlaceType": "Event"
+  },
+  {
+    "Version": "260210.1.0",
+    "Id": 1121,
+    "SortOrder": 40,
+    "NameTextKey": -488753022,
+    "TabTextKey": 661541722,
+    "ViewPlaceType": "Event"
+  },
+  {
+    "Version": "260230.1.0",
+    "Id": 1123,
+    "SortOrder": 40,
+    "NameTextKey": -488753022,
+    "TabTextKey": 661541722,
+    "ViewPlaceType": "Event"
+  },
+  {
+    "Version": "260210.1.0",
+    "Id": 1122,
+    "SortOrder": 30,
+    "NameTextKey": 818099491,
+    "TabTextKey": 661541722,
+    "ViewPlaceType": "Event"
+  },
+  {
+    "Version": "260230.1.0",
+    "Id": 1124,
+    "SortOrder": 30,
+    "NameTextKey": 818099491,
+    "TabTextKey": 661541722,
+    "ViewPlaceType": "Event"
+  },
+  {
+    "Version": "260310.1.0",
+    "Id": 1131,
+    "SortOrder": 40,
+    "NameTextKey": -488753022,
+    "TabTextKey": 661541722,
+    "ViewPlaceType": "Event"
+  },
+  {
+    "Version": "260330.1.0",
+    "Id": 1133,
+    "SortOrder": 40,
+    "NameTextKey": -488753022,
+    "TabTextKey": 661541722,
+    "ViewPlaceType": "Event"
+  },
+  {
+    "Version": "260310.1.0",
+    "Id": 1132,
+    "SortOrder": 30,
+    "NameTextKey": 818099491,
+    "TabTextKey": 661541722,
+    "ViewPlaceType": "Event"
+  },
+  {
+    "Version": "260330.1.0",
+    "Id": 1134,
+    "SortOrder": 30,
+    "NameTextKey": 818099491,
+    "TabTextKey": 661541722,
+    "ViewPlaceType": "Event"
+  },
+  {
+    "Version": "260410.1.0",
+    "Id": 1141,
+    "SortOrder": 40,
+    "NameTextKey": -488753022,
+    "TabTextKey": 661541722,
+    "ViewPlaceType": "Event"
+  },
+  {
+    "Version": "260410.1.0",
+    "Id": 1142,
+    "SortOrder": 30,
+    "NameTextKey": 818099491,
+    "TabTextKey": 661541722,
+    "ViewPlaceType": "Event"
+  }
+]

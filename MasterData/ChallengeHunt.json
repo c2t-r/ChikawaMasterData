@@ -1,0 +1,22 @@
+[
+  {
+    "Version": "251010.1.0",
+    "Id": 101507,
+    "EntryId": 101507,
+    "RankId": 101507,
+    "ViewId": 101507,
+    "FirstReachRewardGroupId": 101507,
+    "ChallengeHuntStageId": 101507,
+    "DailyRewardGroupId": 101507
+  },
+  {
+    "Version": "260410.1.0",
+    "Id": 102607,
+    "EntryId": 102607,
+    "RankId": 102607,
+    "ViewId": 102607,
+    "FirstReachRewardGroupId": 102607,
+    "ChallengeHuntStageId": 102607,
+    "DailyRewardGroupId": 102607
+  }
+]

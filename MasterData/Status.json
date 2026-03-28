@@ -1,0 +1,163 @@
+[
+  {
+    "Version": "250612.1.0",
+    "Id": 1,
+    "StatusType": "Attack",
+    "AssetId": 1,
+    "NameTextKey": 983381112
+  },
+  {
+    "Version": "250612.1.0",
+    "Id": 2,
+    "StatusType": "AttackSpeed",
+    "AssetId": 2,
+    "NameTextKey": -2131795812
+  },
+  {
+    "Version": "250612.1.0",
+    "Id": 3,
+    "StatusType": "Health",
+    "AssetId": 3,
+    "NameTextKey": -1282983344
+  },
+  {
+    "Version": "250612.1.0",
+    "Id": 4,
+    "StatusType": "HealthRecover",
+    "AssetId": 4,
+    "NameTextKey": -656203595
+  },
+  {
+    "Version": "250612.1.0",
+    "Id": 5,
+    "StatusType": "CriticalRate",
+    "AssetId": 5,
+    "NameTextKey": -530127865
+  },
+  {
+    "Version": "250612.1.0",
+    "Id": 6,
+    "StatusType": "CriticalDamage",
+    "AssetId": 6,
+    "NameTextKey": -2133464776
+  },
+  {
+    "Version": "250610.1.0",
+    "Id": 8,
+    "StatusType": "AdvancedAttack",
+    "AssetId": 8,
+    "NameTextKey": 1087758365
+  },
+  {
+    "Version": "250612.1.0",
+    "Id": 10,
+    "StatusType": "NormalAttackDamageRate",
+    "AssetId": 10,
+    "NameTextKey": -317641576
+  },
+  {
+    "Version": "250612.1.0",
+    "Id": 11,
+    "StatusType": "BossDamageRate",
+    "AssetId": 11,
+    "NameTextKey": 2069603080
+  },
+  {
+    "Version": "250610.1.0",
+    "Id": 12,
+    "StatusType": "MobDamageRate",
+    "AssetId": 12,
+    "NameTextKey": -1484767492
+  },
+  {
+    "Version": "250725.1.0",
+    "Id": 13,
+    "StatusType": "AttackDebuff",
+    "AssetId": 1,
+    "NameTextKey": -662951944
+  },
+  {
+    "Version": "250725.1.0",
+    "Id": 14,
+    "StatusType": "DefenceDebuff",
+    "AssetId": 1,
+    "NameTextKey": 1891252664
+  },
+  {
+    "Version": "250612.1.0",
+    "Id": 20,
+    "StatusType": "SkillDamageRate",
+    "AssetId": 20,
+    "NameTextKey": 1895494437
+  },
+  {
+    "Version": "250612.1.0",
+    "Id": 21,
+    "StatusType": "UniqueSkillCoolTime",
+    "AssetId": 1,
+    "NameTextKey": 1083557970
+  },
+  {
+    "Version": "250612.1.0",
+    "Id": 22,
+    "StatusType": "AssistSkillCoolTime",
+    "AssetId": 22,
+    "NameTextKey": 1699565187
+  },
+  {
+    "Version": "250610.1.0",
+    "Id": 24,
+    "StatusType": "UniqueSkillDamageRate",
+    "AssetId": 24,
+    "NameTextKey": 464264379
+  },
+  {
+    "Version": "250612.1.0",
+    "Id": 50,
+    "StatusType": "GoldAcquire",
+    "AssetId": 50,
+    "NameTextKey": -1346293188
+  },
+  {
+    "Version": "250612.1.0",
+    "Id": 51,
+    "StatusType": "BattleTimeLimit",
+    "AssetId": 51,
+    "NameTextKey": 143219292
+  },
+  {
+    "Version": "250612.1.0",
+    "Id": 52,
+    "StatusType": "CostumeExperience",
+    "AssetId": 52,
+    "NameTextKey": 2109835795
+  },
+  {
+    "Version": "250612.1.0",
+    "Id": 100,
+    "StatusType": "WeedingActionMaxStamina",
+    "AssetId": 100,
+    "NameTextKey": -1142634312
+  },
+  {
+    "Version": "250612.1.0",
+    "Id": 101,
+    "StatusType": "WeedingActionStaminaRecoverSpeed",
+    "AssetId": 101,
+    "NameTextKey": 679707451
+  },
+  {
+    "Version": "250612.1.0",
+    "Id": 150,
+    "StatusType": "StudyResourceAcquire",
+    "AssetId": 150,
+    "NameTextKey": 2132634486
+  },
+  {
+    "Version": "250612.1.0",
+    "Id": 151,
+    "StatusType": "StudySpeed",
+    "AssetId": 151,
+    "NameTextKey": -515227244
+  }
+]

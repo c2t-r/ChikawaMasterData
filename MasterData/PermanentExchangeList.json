@@ -1,0 +1,18 @@
+[
+  {
+    "Version": "260110.1.0",
+    "Id": 1,
+    "ShopGroupCategoryId": 1,
+    "AssetId": 2,
+    "NameTextKey": 1756432373,
+    "SortOrder": 50
+  },
+  {
+    "Version": "260110.1.0",
+    "Id": 2,
+    "ShopGroupCategoryId": 2,
+    "AssetId": 1,
+    "NameTextKey": -1319161961,
+    "SortOrder": 40
+  }
+]

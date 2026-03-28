@@ -1,0 +1,146 @@
+[
+  {
+    "Version": "250330.1.0",
+    "Id": 1,
+    "GroupId": 1,
+    "UnlockStep": 0,
+    "ConsumeId": 0,
+    "ConsumeAlternativeId": 0
+  },
+  {
+    "Version": "260110.1.0",
+    "Id": 2,
+    "GroupId": 1,
+    "UnlockStep": 1,
+    "ConsumeId": 2001,
+    "ConsumeAlternativeId": 1215
+  },
+  {
+    "Version": "260110.1.0",
+    "Id": 3,
+    "GroupId": 1,
+    "UnlockStep": 2,
+    "ConsumeId": 2002,
+    "ConsumeAlternativeId": 1215
+  },
+  {
+    "Version": "260110.1.0",
+    "Id": 4,
+    "GroupId": 1,
+    "UnlockStep": 3,
+    "ConsumeId": 2003,
+    "ConsumeAlternativeId": 1215
+  },
+  {
+    "Version": "260110.1.0",
+    "Id": 5,
+    "GroupId": 1,
+    "UnlockStep": 4,
+    "ConsumeId": 2004,
+    "ConsumeAlternativeId": 1215
+  },
+  {
+    "Version": "260110.1.0",
+    "Id": 6,
+    "GroupId": 1,
+    "UnlockStep": 5,
+    "ConsumeId": 2005,
+    "ConsumeAlternativeId": 1215
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 7,
+    "GroupId": 2,
+    "UnlockStep": 0,
+    "ConsumeId": 0,
+    "ConsumeAlternativeId": 0
+  },
+  {
+    "Version": "260110.1.0",
+    "Id": 8,
+    "GroupId": 2,
+    "UnlockStep": 1,
+    "ConsumeId": 2006,
+    "ConsumeAlternativeId": 1215
+  },
+  {
+    "Version": "260110.1.0",
+    "Id": 9,
+    "GroupId": 2,
+    "UnlockStep": 2,
+    "ConsumeId": 2007,
+    "ConsumeAlternativeId": 1215
+  },
+  {
+    "Version": "260110.1.0",
+    "Id": 10,
+    "GroupId": 2,
+    "UnlockStep": 3,
+    "ConsumeId": 2008,
+    "ConsumeAlternativeId": 1215
+  },
+  {
+    "Version": "260110.1.0",
+    "Id": 11,
+    "GroupId": 2,
+    "UnlockStep": 4,
+    "ConsumeId": 2009,
+    "ConsumeAlternativeId": 1215
+  },
+  {
+    "Version": "260110.1.0",
+    "Id": 12,
+    "GroupId": 2,
+    "UnlockStep": 5,
+    "ConsumeId": 2010,
+    "ConsumeAlternativeId": 1215
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 13,
+    "GroupId": 3,
+    "UnlockStep": 0,
+    "ConsumeId": 0,
+    "ConsumeAlternativeId": 0
+  },
+  {
+    "Version": "260110.1.0",
+    "Id": 14,
+    "GroupId": 3,
+    "UnlockStep": 1,
+    "ConsumeId": 2011,
+    "ConsumeAlternativeId": 1215
+  },
+  {
+    "Version": "260110.1.0",
+    "Id": 15,
+    "GroupId": 3,
+    "UnlockStep": 2,
+    "ConsumeId": 2012,
+    "ConsumeAlternativeId": 1215
+  },
+  {
+    "Version": "260110.1.0",
+    "Id": 16,
+    "GroupId": 3,
+    "UnlockStep": 3,
+    "ConsumeId": 2013,
+    "ConsumeAlternativeId": 1215
+  },
+  {
+    "Version": "260110.1.0",
+    "Id": 17,
+    "GroupId": 3,
+    "UnlockStep": 4,
+    "ConsumeId": 2014,
+    "ConsumeAlternativeId": 1215
+  },
+  {
+    "Version": "260110.1.0",
+    "Id": 18,
+    "GroupId": 3,
+    "UnlockStep": 5,
+    "ConsumeId": 2015,
+    "ConsumeAlternativeId": 1215
+  }
+]

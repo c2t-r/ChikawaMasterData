@@ -1,0 +1,93 @@
+[
+  {
+    "Version": "260330.1.0",
+    "Id": 1,
+    "StatusType": "Attack",
+    "MaxLevel": 150000,
+    "ConsumeId": 13001,
+    "StatusEnhanceCostRangeGroupId": 1,
+    "ContentLockId": 28,
+    "NameTextKey": 983381112,
+    "AssetId": 1,
+    "SortOrder": 1,
+    "Tier": 3
+  },
+  {
+    "Version": "260330.1.0",
+    "Id": 3,
+    "StatusType": "Health",
+    "MaxLevel": 150000,
+    "ConsumeId": 13003,
+    "StatusEnhanceCostRangeGroupId": 1,
+    "ContentLockId": 30,
+    "NameTextKey": -1282983344,
+    "AssetId": 3,
+    "SortOrder": 3,
+    "Tier": 3
+  },
+  {
+    "Version": "260330.1.0",
+    "Id": 4,
+    "StatusType": "HealthRecover",
+    "MaxLevel": 150000,
+    "ConsumeId": 13004,
+    "StatusEnhanceCostRangeGroupId": 1,
+    "ContentLockId": 31,
+    "NameTextKey": -656203595,
+    "AssetId": 4,
+    "SortOrder": 4,
+    "Tier": 3
+  },
+  {
+    "Version": "250612.1.0",
+    "Id": 5,
+    "StatusType": "CriticalRate",
+    "MaxLevel": 1000,
+    "ConsumeId": 13005,
+    "StatusEnhanceCostRangeGroupId": 2,
+    "ContentLockId": 32,
+    "NameTextKey": -530127865,
+    "AssetId": 5,
+    "SortOrder": 5,
+    "Tier": 2
+  },
+  {
+    "Version": "260330.1.0",
+    "Id": 6,
+    "StatusType": "CriticalDamage",
+    "MaxLevel": 150000,
+    "ConsumeId": 13006,
+    "StatusEnhanceCostRangeGroupId": 3,
+    "ContentLockId": 33,
+    "NameTextKey": -2133464776,
+    "AssetId": 6,
+    "SortOrder": 6,
+    "Tier": 2
+  },
+  {
+    "Version": "260330.1.0",
+    "Id": 8,
+    "StatusType": "AdvancedAttack",
+    "MaxLevel": 21000,
+    "ConsumeId": 13007,
+    "StatusEnhanceCostRangeGroupId": 4,
+    "ContentLockId": 63,
+    "NameTextKey": 1087758365,
+    "AssetId": 8,
+    "SortOrder": 8,
+    "Tier": 2
+  },
+  {
+    "Version": "250612.1.0",
+    "Id": 12,
+    "StatusType": "MobDamageRate",
+    "MaxLevel": 1000,
+    "ConsumeId": 13007,
+    "StatusEnhanceCostRangeGroupId": 4,
+    "ContentLockId": 64,
+    "NameTextKey": -1484767492,
+    "AssetId": 12,
+    "SortOrder": 12,
+    "Tier": 2
+  }
+]

@@ -1,0 +1,389 @@
+[
+  {
+    "Version": "250330.1.0",
+    "Id": 1,
+    "LimitCount": 2,
+    "ResetType": "daily",
+    "ResetDayOfMonth": 0,
+    "ResetDayOfWeek": "-",
+    "ResetHourJST": 15
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 2,
+    "LimitCount": 2,
+    "ResetType": "daily",
+    "ResetDayOfMonth": 0,
+    "ResetDayOfWeek": "-",
+    "ResetHourJST": 15
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 3,
+    "LimitCount": 1,
+    "ResetType": "daily",
+    "ResetDayOfMonth": 0,
+    "ResetDayOfWeek": "-",
+    "ResetHourJST": 15
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 4,
+    "LimitCount": 3,
+    "ResetType": "daily",
+    "ResetDayOfMonth": 0,
+    "ResetDayOfWeek": "-",
+    "ResetHourJST": 15
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 5,
+    "LimitCount": 0,
+    "ResetType": "not reset",
+    "ResetDayOfMonth": 0,
+    "ResetDayOfWeek": "-",
+    "ResetHourJST": 15
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 6,
+    "LimitCount": 0,
+    "ResetType": "not reset",
+    "ResetDayOfMonth": 0,
+    "ResetDayOfWeek": "-",
+    "ResetHourJST": 15
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 7,
+    "LimitCount": 0,
+    "ResetType": "not reset",
+    "ResetDayOfMonth": 0,
+    "ResetDayOfWeek": "-",
+    "ResetHourJST": 15
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 8,
+    "LimitCount": 1,
+    "ResetType": "daily",
+    "ResetDayOfMonth": 0,
+    "ResetDayOfWeek": "-",
+    "ResetHourJST": 15
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 9,
+    "LimitCount": 2,
+    "ResetType": "daily",
+    "ResetDayOfMonth": 0,
+    "ResetDayOfWeek": "-",
+    "ResetHourJST": 15
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 101,
+    "LimitCount": 1,
+    "ResetType": "daily",
+    "ResetDayOfMonth": 0,
+    "ResetDayOfWeek": "-",
+    "ResetHourJST": 15
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 102,
+    "LimitCount": 2,
+    "ResetType": "daily",
+    "ResetDayOfMonth": 0,
+    "ResetDayOfWeek": "-",
+    "ResetHourJST": 15
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 103,
+    "LimitCount": 2,
+    "ResetType": "daily",
+    "ResetDayOfMonth": 0,
+    "ResetDayOfWeek": "-",
+    "ResetHourJST": 15
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 104,
+    "LimitCount": 2,
+    "ResetType": "daily",
+    "ResetDayOfMonth": 0,
+    "ResetDayOfWeek": "-",
+    "ResetHourJST": 15
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 105,
+    "LimitCount": 2,
+    "ResetType": "daily",
+    "ResetDayOfMonth": 0,
+    "ResetDayOfWeek": "-",
+    "ResetHourJST": 15
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 106,
+    "LimitCount": 2,
+    "ResetType": "daily",
+    "ResetDayOfMonth": 0,
+    "ResetDayOfWeek": "-",
+    "ResetHourJST": 15
+  },
+  {
+    "Version": "250350.1.0",
+    "Id": 107,
+    "LimitCount": 2,
+    "ResetType": "daily",
+    "ResetDayOfMonth": 0,
+    "ResetDayOfWeek": "-",
+    "ResetHourJST": 15
+  },
+  {
+    "Version": "250350.1.0",
+    "Id": 108,
+    "LimitCount": 2,
+    "ResetType": "daily",
+    "ResetDayOfMonth": 0,
+    "ResetDayOfWeek": "-",
+    "ResetHourJST": 15
+  },
+  {
+    "Version": "250410.1.0",
+    "Id": 109,
+    "LimitCount": 2,
+    "ResetType": "daily",
+    "ResetDayOfMonth": 0,
+    "ResetDayOfWeek": "-",
+    "ResetHourJST": 15
+  },
+  {
+    "Version": "250440.1.0",
+    "Id": 110,
+    "LimitCount": 2,
+    "ResetType": "daily",
+    "ResetDayOfMonth": 0,
+    "ResetDayOfWeek": "-",
+    "ResetHourJST": 15
+  },
+  {
+    "Version": "250450.1.0",
+    "Id": 111,
+    "LimitCount": 2,
+    "ResetType": "daily",
+    "ResetDayOfMonth": 0,
+    "ResetDayOfWeek": "-",
+    "ResetHourJST": 15
+  },
+  {
+    "Version": "250530.1.0",
+    "Id": 112,
+    "LimitCount": 2,
+    "ResetType": "daily",
+    "ResetDayOfMonth": 0,
+    "ResetDayOfWeek": "-",
+    "ResetHourJST": 15
+  },
+  {
+    "Version": "250550.1.0",
+    "Id": 113,
+    "LimitCount": 2,
+    "ResetType": "daily",
+    "ResetDayOfMonth": 0,
+    "ResetDayOfWeek": "-",
+    "ResetHourJST": 15
+  },
+  {
+    "Version": "250610.1.0",
+    "Id": 114,
+    "LimitCount": 2,
+    "ResetType": "daily",
+    "ResetDayOfMonth": 0,
+    "ResetDayOfWeek": "-",
+    "ResetHourJST": 15
+  },
+  {
+    "Version": "250630.1.0",
+    "Id": 115,
+    "LimitCount": 2,
+    "ResetType": "daily",
+    "ResetDayOfMonth": 0,
+    "ResetDayOfWeek": "-",
+    "ResetHourJST": 15
+  },
+  {
+    "Version": "250710.1.0",
+    "Id": 116,
+    "LimitCount": 2,
+    "ResetType": "daily",
+    "ResetDayOfMonth": 0,
+    "ResetDayOfWeek": "-",
+    "ResetHourJST": 15
+  },
+  {
+    "Version": "250730.1.0",
+    "Id": 117,
+    "LimitCount": 2,
+    "ResetType": "daily",
+    "ResetDayOfMonth": 0,
+    "ResetDayOfWeek": "-",
+    "ResetHourJST": 15
+  },
+  {
+    "Version": "250720.1.0",
+    "Id": 118,
+    "LimitCount": 1,
+    "ResetType": "daily",
+    "ResetDayOfMonth": 0,
+    "ResetDayOfWeek": "-",
+    "ResetHourJST": 15
+  },
+  {
+    "Version": "260410.1.0",
+    "Id": 119,
+    "LimitCount": 1,
+    "ResetType": "daily",
+    "ResetDayOfMonth": 0,
+    "ResetDayOfWeek": "-",
+    "ResetHourJST": 15
+  },
+  {
+    "Version": "250810.1.0",
+    "Id": 1011,
+    "LimitCount": 2,
+    "ResetType": "daily",
+    "ResetDayOfMonth": 0,
+    "ResetDayOfWeek": "-",
+    "ResetHourJST": 15
+  },
+  {
+    "Version": "250820.1.0",
+    "Id": 1012,
+    "LimitCount": 2,
+    "ResetType": "daily",
+    "ResetDayOfMonth": 0,
+    "ResetDayOfWeek": "-",
+    "ResetHourJST": 15
+  },
+  {
+    "Version": "250910.1.0",
+    "Id": 1013,
+    "LimitCount": 2,
+    "ResetType": "daily",
+    "ResetDayOfMonth": 0,
+    "ResetDayOfWeek": "-",
+    "ResetHourJST": 15
+  },
+  {
+    "Version": "250930.1.0",
+    "Id": 1014,
+    "LimitCount": 2,
+    "ResetType": "daily",
+    "ResetDayOfMonth": 0,
+    "ResetDayOfWeek": "-",
+    "ResetHourJST": 15
+  },
+  {
+    "Version": "251010.1.0",
+    "Id": 1015,
+    "LimitCount": 1,
+    "ResetType": "daily",
+    "ResetDayOfMonth": 0,
+    "ResetDayOfWeek": "-",
+    "ResetHourJST": 15
+  },
+  {
+    "Version": "251030.1.0",
+    "Id": 1017,
+    "LimitCount": 1,
+    "ResetType": "daily",
+    "ResetDayOfMonth": 0,
+    "ResetDayOfWeek": "-",
+    "ResetHourJST": 15
+  },
+  {
+    "Version": "251110.1.0",
+    "Id": 1018,
+    "LimitCount": 1,
+    "ResetType": "daily",
+    "ResetDayOfMonth": 0,
+    "ResetDayOfWeek": "-",
+    "ResetHourJST": 15
+  },
+  {
+    "Version": "251210.1.0",
+    "Id": 1019,
+    "LimitCount": 1,
+    "ResetType": "daily",
+    "ResetDayOfMonth": 0,
+    "ResetDayOfWeek": "-",
+    "ResetHourJST": 15
+  },
+  {
+    "Version": "251230.1.0",
+    "Id": 1020,
+    "LimitCount": 1,
+    "ResetType": "daily",
+    "ResetDayOfMonth": 0,
+    "ResetDayOfWeek": "-",
+    "ResetHourJST": 15
+  },
+  {
+    "Version": "260110.1.0",
+    "Id": 1021,
+    "LimitCount": 1,
+    "ResetType": "daily",
+    "ResetDayOfMonth": 0,
+    "ResetDayOfWeek": "-",
+    "ResetHourJST": 15
+  },
+  {
+    "Version": "260210.1.0",
+    "Id": 1022,
+    "LimitCount": 1,
+    "ResetType": "daily",
+    "ResetDayOfMonth": 0,
+    "ResetDayOfWeek": "-",
+    "ResetHourJST": 15
+  },
+  {
+    "Version": "260230.1.0",
+    "Id": 1023,
+    "LimitCount": 1,
+    "ResetType": "daily",
+    "ResetDayOfMonth": 0,
+    "ResetDayOfWeek": "-",
+    "ResetHourJST": 15
+  },
+  {
+    "Version": "260310.1.0",
+    "Id": 1024,
+    "LimitCount": 1,
+    "ResetType": "daily",
+    "ResetDayOfMonth": 0,
+    "ResetDayOfWeek": "-",
+    "ResetHourJST": 15
+  },
+  {
+    "Version": "260330.1.0",
+    "Id": 1025,
+    "LimitCount": 1,
+    "ResetType": "daily",
+    "ResetDayOfMonth": 0,
+    "ResetDayOfWeek": "-",
+    "ResetHourJST": 15
+  },
+  {
+    "Version": "260410.1.0",
+    "Id": 1026,
+    "LimitCount": 1,
+    "ResetType": "daily",
+    "ResetDayOfMonth": 0,
+    "ResetDayOfWeek": "-",
+    "ResetHourJST": 15
+  }
+]

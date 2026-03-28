@@ -1,0 +1,1458 @@
+[
+  {
+    "Version": "250330.1.0",
+    "Id": 1,
+    "StudyId": 1,
+    "Level": 1,
+    "ConsumeGroupId": 10101,
+    "RequiredMinutes": 1
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 2,
+    "StudyId": 2,
+    "Level": 1,
+    "ConsumeGroupId": 10201,
+    "RequiredMinutes": 4
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 3,
+    "StudyId": 2,
+    "Level": 2,
+    "ConsumeGroupId": 10202,
+    "RequiredMinutes": 8
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 4,
+    "StudyId": 2,
+    "Level": 3,
+    "ConsumeGroupId": 10203,
+    "RequiredMinutes": 16
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 5,
+    "StudyId": 2,
+    "Level": 4,
+    "ConsumeGroupId": 10204,
+    "RequiredMinutes": 32
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 6,
+    "StudyId": 2,
+    "Level": 5,
+    "ConsumeGroupId": 10205,
+    "RequiredMinutes": 64
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 7,
+    "StudyId": 3,
+    "Level": 1,
+    "ConsumeGroupId": 10301,
+    "RequiredMinutes": 4
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 8,
+    "StudyId": 3,
+    "Level": 2,
+    "ConsumeGroupId": 10302,
+    "RequiredMinutes": 5
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 9,
+    "StudyId": 4,
+    "Level": 1,
+    "ConsumeGroupId": 10401,
+    "RequiredMinutes": 10
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 10,
+    "StudyId": 4,
+    "Level": 2,
+    "ConsumeGroupId": 10402,
+    "RequiredMinutes": 20
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 11,
+    "StudyId": 4,
+    "Level": 3,
+    "ConsumeGroupId": 10403,
+    "RequiredMinutes": 40
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 12,
+    "StudyId": 4,
+    "Level": 4,
+    "ConsumeGroupId": 10404,
+    "RequiredMinutes": 80
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 13,
+    "StudyId": 4,
+    "Level": 5,
+    "ConsumeGroupId": 10405,
+    "RequiredMinutes": 160
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 14,
+    "StudyId": 5,
+    "Level": 1,
+    "ConsumeGroupId": 10501,
+    "RequiredMinutes": 10
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 15,
+    "StudyId": 5,
+    "Level": 2,
+    "ConsumeGroupId": 10502,
+    "RequiredMinutes": 20
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 16,
+    "StudyId": 5,
+    "Level": 3,
+    "ConsumeGroupId": 10503,
+    "RequiredMinutes": 40
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 17,
+    "StudyId": 5,
+    "Level": 4,
+    "ConsumeGroupId": 10504,
+    "RequiredMinutes": 80
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 18,
+    "StudyId": 5,
+    "Level": 5,
+    "ConsumeGroupId": 10505,
+    "RequiredMinutes": 160
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 19,
+    "StudyId": 6,
+    "Level": 1,
+    "ConsumeGroupId": 10601,
+    "RequiredMinutes": 10
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 20,
+    "StudyId": 6,
+    "Level": 2,
+    "ConsumeGroupId": 10602,
+    "RequiredMinutes": 20
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 21,
+    "StudyId": 7,
+    "Level": 1,
+    "ConsumeGroupId": 10701,
+    "RequiredMinutes": 20
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 22,
+    "StudyId": 7,
+    "Level": 2,
+    "ConsumeGroupId": 10702,
+    "RequiredMinutes": 40
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 23,
+    "StudyId": 7,
+    "Level": 3,
+    "ConsumeGroupId": 10703,
+    "RequiredMinutes": 80
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 24,
+    "StudyId": 7,
+    "Level": 4,
+    "ConsumeGroupId": 10704,
+    "RequiredMinutes": 160
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 25,
+    "StudyId": 7,
+    "Level": 5,
+    "ConsumeGroupId": 10705,
+    "RequiredMinutes": 320
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 26,
+    "StudyId": 8,
+    "Level": 1,
+    "ConsumeGroupId": 10801,
+    "RequiredMinutes": 480
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 27,
+    "StudyId": 9,
+    "Level": 1,
+    "ConsumeGroupId": 10901,
+    "RequiredMinutes": 40
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 28,
+    "StudyId": 9,
+    "Level": 2,
+    "ConsumeGroupId": 10902,
+    "RequiredMinutes": 80
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 29,
+    "StudyId": 9,
+    "Level": 3,
+    "ConsumeGroupId": 10903,
+    "RequiredMinutes": 160
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 30,
+    "StudyId": 9,
+    "Level": 4,
+    "ConsumeGroupId": 10904,
+    "RequiredMinutes": 320
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 31,
+    "StudyId": 9,
+    "Level": 5,
+    "ConsumeGroupId": 10905,
+    "RequiredMinutes": 640
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 32,
+    "StudyId": 10,
+    "Level": 1,
+    "ConsumeGroupId": 11001,
+    "RequiredMinutes": 25
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 33,
+    "StudyId": 10,
+    "Level": 2,
+    "ConsumeGroupId": 11002,
+    "RequiredMinutes": 50
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 34,
+    "StudyId": 10,
+    "Level": 3,
+    "ConsumeGroupId": 11003,
+    "RequiredMinutes": 100
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 35,
+    "StudyId": 10,
+    "Level": 4,
+    "ConsumeGroupId": 11004,
+    "RequiredMinutes": 200
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 36,
+    "StudyId": 10,
+    "Level": 5,
+    "ConsumeGroupId": 11005,
+    "RequiredMinutes": 400
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 37,
+    "StudyId": 11,
+    "Level": 1,
+    "ConsumeGroupId": 11101,
+    "RequiredMinutes": 45
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 38,
+    "StudyId": 11,
+    "Level": 2,
+    "ConsumeGroupId": 11102,
+    "RequiredMinutes": 90
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 39,
+    "StudyId": 11,
+    "Level": 3,
+    "ConsumeGroupId": 11103,
+    "RequiredMinutes": 180
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 40,
+    "StudyId": 11,
+    "Level": 4,
+    "ConsumeGroupId": 11104,
+    "RequiredMinutes": 360
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 41,
+    "StudyId": 11,
+    "Level": 5,
+    "ConsumeGroupId": 11105,
+    "RequiredMinutes": 720
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 42,
+    "StudyId": 12,
+    "Level": 1,
+    "ConsumeGroupId": 11201,
+    "RequiredMinutes": 45
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 43,
+    "StudyId": 12,
+    "Level": 2,
+    "ConsumeGroupId": 11202,
+    "RequiredMinutes": 90
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 44,
+    "StudyId": 12,
+    "Level": 3,
+    "ConsumeGroupId": 11203,
+    "RequiredMinutes": 180
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 45,
+    "StudyId": 12,
+    "Level": 4,
+    "ConsumeGroupId": 11204,
+    "RequiredMinutes": 360
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 46,
+    "StudyId": 12,
+    "Level": 5,
+    "ConsumeGroupId": 11205,
+    "RequiredMinutes": 720
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 47,
+    "StudyId": 13,
+    "Level": 1,
+    "ConsumeGroupId": 11301,
+    "RequiredMinutes": 90
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 48,
+    "StudyId": 13,
+    "Level": 2,
+    "ConsumeGroupId": 11302,
+    "RequiredMinutes": 117
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 49,
+    "StudyId": 13,
+    "Level": 3,
+    "ConsumeGroupId": 11303,
+    "RequiredMinutes": 152
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 50,
+    "StudyId": 13,
+    "Level": 4,
+    "ConsumeGroupId": 11304,
+    "RequiredMinutes": 198
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 51,
+    "StudyId": 13,
+    "Level": 5,
+    "ConsumeGroupId": 11305,
+    "RequiredMinutes": 257
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 52,
+    "StudyId": 13,
+    "Level": 6,
+    "ConsumeGroupId": 11306,
+    "RequiredMinutes": 334
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 53,
+    "StudyId": 13,
+    "Level": 7,
+    "ConsumeGroupId": 11307,
+    "RequiredMinutes": 434
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 54,
+    "StudyId": 13,
+    "Level": 8,
+    "ConsumeGroupId": 11308,
+    "RequiredMinutes": 565
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 55,
+    "StudyId": 13,
+    "Level": 9,
+    "ConsumeGroupId": 11309,
+    "RequiredMinutes": 734
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 56,
+    "StudyId": 13,
+    "Level": 10,
+    "ConsumeGroupId": 11310,
+    "RequiredMinutes": 954
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 57,
+    "StudyId": 14,
+    "Level": 1,
+    "ConsumeGroupId": 11401,
+    "RequiredMinutes": 900
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 58,
+    "StudyId": 15,
+    "Level": 1,
+    "ConsumeGroupId": 11501,
+    "RequiredMinutes": 1440
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 59,
+    "StudyId": 15,
+    "Level": 2,
+    "ConsumeGroupId": 11502,
+    "RequiredMinutes": 2880
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 60,
+    "StudyId": 15,
+    "Level": 3,
+    "ConsumeGroupId": 11503,
+    "RequiredMinutes": 5760
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 61,
+    "StudyId": 15,
+    "Level": 4,
+    "ConsumeGroupId": 11504,
+    "RequiredMinutes": 11520
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 62,
+    "StudyId": 16,
+    "Level": 1,
+    "ConsumeGroupId": 11601,
+    "RequiredMinutes": 90
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 63,
+    "StudyId": 16,
+    "Level": 2,
+    "ConsumeGroupId": 11602,
+    "RequiredMinutes": 180
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 64,
+    "StudyId": 16,
+    "Level": 3,
+    "ConsumeGroupId": 11603,
+    "RequiredMinutes": 360
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 65,
+    "StudyId": 16,
+    "Level": 4,
+    "ConsumeGroupId": 11604,
+    "RequiredMinutes": 720
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 66,
+    "StudyId": 16,
+    "Level": 5,
+    "ConsumeGroupId": 11605,
+    "RequiredMinutes": 1440
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 67,
+    "StudyId": 16,
+    "Level": 6,
+    "ConsumeGroupId": 11606,
+    "RequiredMinutes": 2880
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 68,
+    "StudyId": 16,
+    "Level": 7,
+    "ConsumeGroupId": 11607,
+    "RequiredMinutes": 5760
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 69,
+    "StudyId": 16,
+    "Level": 8,
+    "ConsumeGroupId": 11608,
+    "RequiredMinutes": 11520
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 70,
+    "StudyId": 17,
+    "Level": 1,
+    "ConsumeGroupId": 11701,
+    "RequiredMinutes": 120
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 71,
+    "StudyId": 17,
+    "Level": 2,
+    "ConsumeGroupId": 11702,
+    "RequiredMinutes": 240
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 72,
+    "StudyId": 17,
+    "Level": 3,
+    "ConsumeGroupId": 11703,
+    "RequiredMinutes": 480
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 73,
+    "StudyId": 17,
+    "Level": 4,
+    "ConsumeGroupId": 11704,
+    "RequiredMinutes": 960
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 74,
+    "StudyId": 17,
+    "Level": 5,
+    "ConsumeGroupId": 11705,
+    "RequiredMinutes": 1920
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 75,
+    "StudyId": 18,
+    "Level": 1,
+    "ConsumeGroupId": 11801,
+    "RequiredMinutes": 12000
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 76,
+    "StudyId": 19,
+    "Level": 1,
+    "ConsumeGroupId": 11901,
+    "RequiredMinutes": 1000
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 77,
+    "StudyId": 19,
+    "Level": 2,
+    "ConsumeGroupId": 11902,
+    "RequiredMinutes": 1300
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 78,
+    "StudyId": 19,
+    "Level": 3,
+    "ConsumeGroupId": 11903,
+    "RequiredMinutes": 1690
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 79,
+    "StudyId": 19,
+    "Level": 4,
+    "ConsumeGroupId": 11904,
+    "RequiredMinutes": 2197
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 80,
+    "StudyId": 19,
+    "Level": 5,
+    "ConsumeGroupId": 11905,
+    "RequiredMinutes": 2856
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 81,
+    "StudyId": 19,
+    "Level": 6,
+    "ConsumeGroupId": 11906,
+    "RequiredMinutes": 3713
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 82,
+    "StudyId": 19,
+    "Level": 7,
+    "ConsumeGroupId": 11907,
+    "RequiredMinutes": 4827
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 83,
+    "StudyId": 19,
+    "Level": 8,
+    "ConsumeGroupId": 11908,
+    "RequiredMinutes": 6275
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 84,
+    "StudyId": 19,
+    "Level": 9,
+    "ConsumeGroupId": 11909,
+    "RequiredMinutes": 8157
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 85,
+    "StudyId": 19,
+    "Level": 10,
+    "ConsumeGroupId": 11910,
+    "RequiredMinutes": 10604
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 86,
+    "StudyId": 20,
+    "Level": 1,
+    "ConsumeGroupId": 12001,
+    "RequiredMinutes": 1000
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 87,
+    "StudyId": 20,
+    "Level": 2,
+    "ConsumeGroupId": 12002,
+    "RequiredMinutes": 2000
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 88,
+    "StudyId": 20,
+    "Level": 3,
+    "ConsumeGroupId": 12003,
+    "RequiredMinutes": 4000
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 89,
+    "StudyId": 20,
+    "Level": 4,
+    "ConsumeGroupId": 12004,
+    "RequiredMinutes": 8000
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 90,
+    "StudyId": 20,
+    "Level": 5,
+    "ConsumeGroupId": 12005,
+    "RequiredMinutes": 16000
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 91,
+    "StudyId": 21,
+    "Level": 1,
+    "ConsumeGroupId": 12101,
+    "RequiredMinutes": 500
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 92,
+    "StudyId": 21,
+    "Level": 2,
+    "ConsumeGroupId": 12102,
+    "RequiredMinutes": 650
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 93,
+    "StudyId": 21,
+    "Level": 3,
+    "ConsumeGroupId": 12103,
+    "RequiredMinutes": 845
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 94,
+    "StudyId": 21,
+    "Level": 4,
+    "ConsumeGroupId": 12104,
+    "RequiredMinutes": 1098
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 95,
+    "StudyId": 21,
+    "Level": 5,
+    "ConsumeGroupId": 12105,
+    "RequiredMinutes": 1428
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 96,
+    "StudyId": 21,
+    "Level": 6,
+    "ConsumeGroupId": 12106,
+    "RequiredMinutes": 1856
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 97,
+    "StudyId": 21,
+    "Level": 7,
+    "ConsumeGroupId": 12107,
+    "RequiredMinutes": 2413
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 98,
+    "StudyId": 21,
+    "Level": 8,
+    "ConsumeGroupId": 12108,
+    "RequiredMinutes": 3137
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 99,
+    "StudyId": 21,
+    "Level": 9,
+    "ConsumeGroupId": 12109,
+    "RequiredMinutes": 4079
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 100,
+    "StudyId": 21,
+    "Level": 10,
+    "ConsumeGroupId": 12110,
+    "RequiredMinutes": 5302
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 101,
+    "StudyId": 22,
+    "Level": 1,
+    "ConsumeGroupId": 12201,
+    "RequiredMinutes": 500
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 102,
+    "StudyId": 22,
+    "Level": 2,
+    "ConsumeGroupId": 12202,
+    "RequiredMinutes": 650
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 103,
+    "StudyId": 22,
+    "Level": 3,
+    "ConsumeGroupId": 12203,
+    "RequiredMinutes": 845
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 104,
+    "StudyId": 22,
+    "Level": 4,
+    "ConsumeGroupId": 12204,
+    "RequiredMinutes": 1098
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 105,
+    "StudyId": 22,
+    "Level": 5,
+    "ConsumeGroupId": 12205,
+    "RequiredMinutes": 1428
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 106,
+    "StudyId": 22,
+    "Level": 6,
+    "ConsumeGroupId": 12206,
+    "RequiredMinutes": 1856
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 107,
+    "StudyId": 22,
+    "Level": 7,
+    "ConsumeGroupId": 12207,
+    "RequiredMinutes": 2413
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 108,
+    "StudyId": 22,
+    "Level": 8,
+    "ConsumeGroupId": 12208,
+    "RequiredMinutes": 3137
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 109,
+    "StudyId": 22,
+    "Level": 9,
+    "ConsumeGroupId": 12209,
+    "RequiredMinutes": 4079
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 110,
+    "StudyId": 22,
+    "Level": 10,
+    "ConsumeGroupId": 12210,
+    "RequiredMinutes": 5302
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 111,
+    "StudyId": 23,
+    "Level": 1,
+    "ConsumeGroupId": 12301,
+    "RequiredMinutes": 1000
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 112,
+    "StudyId": 23,
+    "Level": 2,
+    "ConsumeGroupId": 12302,
+    "RequiredMinutes": 2000
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 113,
+    "StudyId": 23,
+    "Level": 3,
+    "ConsumeGroupId": 12303,
+    "RequiredMinutes": 4000
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 114,
+    "StudyId": 23,
+    "Level": 4,
+    "ConsumeGroupId": 12304,
+    "RequiredMinutes": 8000
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 115,
+    "StudyId": 23,
+    "Level": 5,
+    "ConsumeGroupId": 12305,
+    "RequiredMinutes": 16000
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 116,
+    "StudyId": 23,
+    "Level": 6,
+    "ConsumeGroupId": 12306,
+    "RequiredMinutes": 32000
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 117,
+    "StudyId": 23,
+    "Level": 7,
+    "ConsumeGroupId": 12307,
+    "RequiredMinutes": 64000
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 118,
+    "StudyId": 23,
+    "Level": 8,
+    "ConsumeGroupId": 12308,
+    "RequiredMinutes": 128000
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 131,
+    "StudyId": 24,
+    "Level": 1,
+    "ConsumeGroupId": 12401,
+    "RequiredMinutes": 1000
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 132,
+    "StudyId": 24,
+    "Level": 2,
+    "ConsumeGroupId": 12402,
+    "RequiredMinutes": 2000
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 133,
+    "StudyId": 24,
+    "Level": 3,
+    "ConsumeGroupId": 12403,
+    "RequiredMinutes": 4000
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 134,
+    "StudyId": 24,
+    "Level": 4,
+    "ConsumeGroupId": 12404,
+    "RequiredMinutes": 8000
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 135,
+    "StudyId": 24,
+    "Level": 5,
+    "ConsumeGroupId": 12405,
+    "RequiredMinutes": 16000
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 136,
+    "StudyId": 24,
+    "Level": 6,
+    "ConsumeGroupId": 12406,
+    "RequiredMinutes": 32000
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 137,
+    "StudyId": 24,
+    "Level": 7,
+    "ConsumeGroupId": 12407,
+    "RequiredMinutes": 64000
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 138,
+    "StudyId": 24,
+    "Level": 8,
+    "ConsumeGroupId": 12408,
+    "RequiredMinutes": 128000
+  },
+  {
+    "Version": "251130.1.0",
+    "Id": 139,
+    "StudyId": 25,
+    "Level": 1,
+    "ConsumeGroupId": 312501,
+    "RequiredMinutes": 18000
+  },
+  {
+    "Version": "251130.1.0",
+    "Id": 140,
+    "StudyId": 26,
+    "Level": 1,
+    "ConsumeGroupId": 312601,
+    "RequiredMinutes": 4000
+  },
+  {
+    "Version": "251130.1.0",
+    "Id": 141,
+    "StudyId": 26,
+    "Level": 2,
+    "ConsumeGroupId": 312602,
+    "RequiredMinutes": 8000
+  },
+  {
+    "Version": "251130.1.0",
+    "Id": 142,
+    "StudyId": 26,
+    "Level": 3,
+    "ConsumeGroupId": 312603,
+    "RequiredMinutes": 16000
+  },
+  {
+    "Version": "251130.1.0",
+    "Id": 143,
+    "StudyId": 26,
+    "Level": 4,
+    "ConsumeGroupId": 312604,
+    "RequiredMinutes": 32000
+  },
+  {
+    "Version": "251130.1.0",
+    "Id": 144,
+    "StudyId": 27,
+    "Level": 1,
+    "ConsumeGroupId": 312701,
+    "RequiredMinutes": 250
+  },
+  {
+    "Version": "251130.1.0",
+    "Id": 145,
+    "StudyId": 27,
+    "Level": 2,
+    "ConsumeGroupId": 312702,
+    "RequiredMinutes": 500
+  },
+  {
+    "Version": "251130.1.0",
+    "Id": 146,
+    "StudyId": 27,
+    "Level": 3,
+    "ConsumeGroupId": 312703,
+    "RequiredMinutes": 1000
+  },
+  {
+    "Version": "251130.1.0",
+    "Id": 147,
+    "StudyId": 27,
+    "Level": 4,
+    "ConsumeGroupId": 312704,
+    "RequiredMinutes": 2000
+  },
+  {
+    "Version": "251130.1.0",
+    "Id": 148,
+    "StudyId": 27,
+    "Level": 5,
+    "ConsumeGroupId": 312705,
+    "RequiredMinutes": 4000
+  },
+  {
+    "Version": "251130.1.0",
+    "Id": 149,
+    "StudyId": 27,
+    "Level": 6,
+    "ConsumeGroupId": 312706,
+    "RequiredMinutes": 8000
+  },
+  {
+    "Version": "251130.1.0",
+    "Id": 150,
+    "StudyId": 27,
+    "Level": 7,
+    "ConsumeGroupId": 312707,
+    "RequiredMinutes": 16000
+  },
+  {
+    "Version": "251130.1.0",
+    "Id": 151,
+    "StudyId": 27,
+    "Level": 8,
+    "ConsumeGroupId": 312708,
+    "RequiredMinutes": 32000
+  },
+  {
+    "Version": "251130.1.0",
+    "Id": 152,
+    "StudyId": 27,
+    "Level": 9,
+    "ConsumeGroupId": 312709,
+    "RequiredMinutes": 64000
+  },
+  {
+    "Version": "251130.1.0",
+    "Id": 153,
+    "StudyId": 27,
+    "Level": 10,
+    "ConsumeGroupId": 312710,
+    "RequiredMinutes": 128000
+  },
+  {
+    "Version": "251130.1.0",
+    "Id": 154,
+    "StudyId": 28,
+    "Level": 1,
+    "ConsumeGroupId": 312801,
+    "RequiredMinutes": 250
+  },
+  {
+    "Version": "251130.1.0",
+    "Id": 155,
+    "StudyId": 28,
+    "Level": 2,
+    "ConsumeGroupId": 312802,
+    "RequiredMinutes": 500
+  },
+  {
+    "Version": "251130.1.0",
+    "Id": 156,
+    "StudyId": 28,
+    "Level": 3,
+    "ConsumeGroupId": 312803,
+    "RequiredMinutes": 1000
+  },
+  {
+    "Version": "251130.1.0",
+    "Id": 157,
+    "StudyId": 28,
+    "Level": 4,
+    "ConsumeGroupId": 312804,
+    "RequiredMinutes": 2000
+  },
+  {
+    "Version": "251130.1.0",
+    "Id": 158,
+    "StudyId": 28,
+    "Level": 5,
+    "ConsumeGroupId": 312805,
+    "RequiredMinutes": 4000
+  },
+  {
+    "Version": "251130.1.0",
+    "Id": 159,
+    "StudyId": 28,
+    "Level": 6,
+    "ConsumeGroupId": 312806,
+    "RequiredMinutes": 8000
+  },
+  {
+    "Version": "251130.1.0",
+    "Id": 160,
+    "StudyId": 28,
+    "Level": 7,
+    "ConsumeGroupId": 312807,
+    "RequiredMinutes": 16000
+  },
+  {
+    "Version": "251130.1.0",
+    "Id": 161,
+    "StudyId": 28,
+    "Level": 8,
+    "ConsumeGroupId": 312808,
+    "RequiredMinutes": 32000
+  },
+  {
+    "Version": "251130.1.0",
+    "Id": 162,
+    "StudyId": 28,
+    "Level": 9,
+    "ConsumeGroupId": 312809,
+    "RequiredMinutes": 64000
+  },
+  {
+    "Version": "251130.1.0",
+    "Id": 163,
+    "StudyId": 28,
+    "Level": 10,
+    "ConsumeGroupId": 312810,
+    "RequiredMinutes": 128000
+  },
+  {
+    "Version": "251130.1.0",
+    "Id": 164,
+    "StudyId": 29,
+    "Level": 1,
+    "ConsumeGroupId": 312901,
+    "RequiredMinutes": 18000
+  },
+  {
+    "Version": "251130.1.0",
+    "Id": 165,
+    "StudyId": 30,
+    "Level": 1,
+    "ConsumeGroupId": 313001,
+    "RequiredMinutes": 250
+  },
+  {
+    "Version": "251130.1.0",
+    "Id": 166,
+    "StudyId": 30,
+    "Level": 2,
+    "ConsumeGroupId": 313002,
+    "RequiredMinutes": 500
+  },
+  {
+    "Version": "251130.1.0",
+    "Id": 167,
+    "StudyId": 30,
+    "Level": 3,
+    "ConsumeGroupId": 313003,
+    "RequiredMinutes": 1000
+  },
+  {
+    "Version": "251130.1.0",
+    "Id": 168,
+    "StudyId": 30,
+    "Level": 4,
+    "ConsumeGroupId": 313004,
+    "RequiredMinutes": 2000
+  },
+  {
+    "Version": "251130.1.0",
+    "Id": 169,
+    "StudyId": 30,
+    "Level": 5,
+    "ConsumeGroupId": 313005,
+    "RequiredMinutes": 4000
+  },
+  {
+    "Version": "251130.1.0",
+    "Id": 170,
+    "StudyId": 30,
+    "Level": 6,
+    "ConsumeGroupId": 313006,
+    "RequiredMinutes": 8000
+  },
+  {
+    "Version": "251130.1.0",
+    "Id": 171,
+    "StudyId": 30,
+    "Level": 7,
+    "ConsumeGroupId": 313007,
+    "RequiredMinutes": 16000
+  },
+  {
+    "Version": "251130.1.0",
+    "Id": 172,
+    "StudyId": 30,
+    "Level": 8,
+    "ConsumeGroupId": 313008,
+    "RequiredMinutes": 32000
+  },
+  {
+    "Version": "251130.1.0",
+    "Id": 173,
+    "StudyId": 30,
+    "Level": 9,
+    "ConsumeGroupId": 313009,
+    "RequiredMinutes": 64000
+  },
+  {
+    "Version": "251130.1.0",
+    "Id": 174,
+    "StudyId": 30,
+    "Level": 10,
+    "ConsumeGroupId": 313010,
+    "RequiredMinutes": 128000
+  },
+  {
+    "Version": "251130.1.0",
+    "Id": 175,
+    "StudyId": 31,
+    "Level": 1,
+    "ConsumeGroupId": 313101,
+    "RequiredMinutes": 250
+  },
+  {
+    "Version": "251130.1.0",
+    "Id": 176,
+    "StudyId": 31,
+    "Level": 2,
+    "ConsumeGroupId": 313102,
+    "RequiredMinutes": 500
+  },
+  {
+    "Version": "251130.1.0",
+    "Id": 177,
+    "StudyId": 31,
+    "Level": 3,
+    "ConsumeGroupId": 313103,
+    "RequiredMinutes": 1000
+  },
+  {
+    "Version": "251130.1.0",
+    "Id": 178,
+    "StudyId": 31,
+    "Level": 4,
+    "ConsumeGroupId": 313104,
+    "RequiredMinutes": 2000
+  },
+  {
+    "Version": "251130.1.0",
+    "Id": 179,
+    "StudyId": 31,
+    "Level": 5,
+    "ConsumeGroupId": 313105,
+    "RequiredMinutes": 4000
+  },
+  {
+    "Version": "251130.1.0",
+    "Id": 180,
+    "StudyId": 31,
+    "Level": 6,
+    "ConsumeGroupId": 313106,
+    "RequiredMinutes": 8000
+  },
+  {
+    "Version": "251130.1.0",
+    "Id": 181,
+    "StudyId": 31,
+    "Level": 7,
+    "ConsumeGroupId": 313107,
+    "RequiredMinutes": 16000
+  },
+  {
+    "Version": "251130.1.0",
+    "Id": 182,
+    "StudyId": 31,
+    "Level": 8,
+    "ConsumeGroupId": 313108,
+    "RequiredMinutes": 32000
+  },
+  {
+    "Version": "251130.1.0",
+    "Id": 183,
+    "StudyId": 31,
+    "Level": 9,
+    "ConsumeGroupId": 313109,
+    "RequiredMinutes": 64000
+  },
+  {
+    "Version": "251130.1.0",
+    "Id": 184,
+    "StudyId": 31,
+    "Level": 10,
+    "ConsumeGroupId": 313110,
+    "RequiredMinutes": 128000
+  },
+  {
+    "Version": "251130.1.0",
+    "Id": 185,
+    "StudyId": 32,
+    "Level": 1,
+    "ConsumeGroupId": 313201,
+    "RequiredMinutes": 250
+  },
+  {
+    "Version": "251130.1.0",
+    "Id": 186,
+    "StudyId": 32,
+    "Level": 2,
+    "ConsumeGroupId": 313202,
+    "RequiredMinutes": 500
+  },
+  {
+    "Version": "251130.1.0",
+    "Id": 187,
+    "StudyId": 32,
+    "Level": 3,
+    "ConsumeGroupId": 313203,
+    "RequiredMinutes": 1000
+  },
+  {
+    "Version": "251130.1.0",
+    "Id": 188,
+    "StudyId": 32,
+    "Level": 4,
+    "ConsumeGroupId": 313204,
+    "RequiredMinutes": 2000
+  },
+  {
+    "Version": "251130.1.0",
+    "Id": 189,
+    "StudyId": 32,
+    "Level": 5,
+    "ConsumeGroupId": 313205,
+    "RequiredMinutes": 4000
+  },
+  {
+    "Version": "251130.1.0",
+    "Id": 190,
+    "StudyId": 32,
+    "Level": 6,
+    "ConsumeGroupId": 313206,
+    "RequiredMinutes": 8000
+  },
+  {
+    "Version": "251130.1.0",
+    "Id": 191,
+    "StudyId": 32,
+    "Level": 7,
+    "ConsumeGroupId": 313207,
+    "RequiredMinutes": 16000
+  },
+  {
+    "Version": "251130.1.0",
+    "Id": 192,
+    "StudyId": 32,
+    "Level": 8,
+    "ConsumeGroupId": 313208,
+    "RequiredMinutes": 32000
+  },
+  {
+    "Version": "251130.1.0",
+    "Id": 193,
+    "StudyId": 32,
+    "Level": 9,
+    "ConsumeGroupId": 313209,
+    "RequiredMinutes": 64000
+  },
+  {
+    "Version": "251130.1.0",
+    "Id": 194,
+    "StudyId": 32,
+    "Level": 10,
+    "ConsumeGroupId": 313210,
+    "RequiredMinutes": 128000
+  }
+]

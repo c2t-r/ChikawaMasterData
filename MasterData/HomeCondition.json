@@ -1,0 +1,37 @@
+[
+  {
+    "Version": "250330.1.0",
+    "Id": 1,
+    "ConditionCategory": "TimeZone",
+    "Value": 1,
+    "ComparisonOperatorType": "Equal"
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 2,
+    "ConditionCategory": "TimeZone",
+    "Value": 2,
+    "ComparisonOperatorType": "Equal"
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 3,
+    "ConditionCategory": "TimeZone",
+    "Value": 3,
+    "ComparisonOperatorType": "Equal"
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 4,
+    "ConditionCategory": "TimeZone",
+    "Value": 4,
+    "ComparisonOperatorType": "Equal"
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 5,
+    "ConditionCategory": "TimeZone",
+    "Value": 5,
+    "ComparisonOperatorType": "Equal"
+  }
+]

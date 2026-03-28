@@ -1,0 +1,714 @@
+[
+  {
+    "Version": "250330.1.0",
+    "Id": 31001,
+    "ViewConditionId": 0,
+    "ContentLockId": 2,
+    "DisplayBannerId": 1,
+    "BackgroundType": "Armor",
+    "NameTextKey": -1980525825,
+    "GachaIconIds": [
+      1,
+      2
+    ],
+    "GachaPrizeGroupId": 1,
+    "TopGachaDrawGroupRelationId": 1,
+    "ResultGachaDrawGroupRelationId": 2,
+    "GachaExperienceGroupId": 5,
+    "AdRewardId": 8,
+    "ProbabilityAttentionTextKey": -612960492,
+    "DateTermId": 0
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 31002,
+    "ViewConditionId": 0,
+    "ContentLockId": 44,
+    "DisplayBannerId": 2,
+    "BackgroundType": "Assist",
+    "NameTextKey": 101551355,
+    "GachaIconIds": [
+      3
+    ],
+    "GachaPrizeGroupId": 2,
+    "TopGachaDrawGroupRelationId": 3,
+    "ResultGachaDrawGroupRelationId": 4,
+    "GachaExperienceGroupId": 5,
+    "AdRewardId": 9,
+    "ProbabilityAttentionTextKey": -612960492,
+    "DateTermId": 0
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 31003,
+    "ViewConditionId": 0,
+    "ContentLockId": 0,
+    "DisplayBannerId": 11,
+    "BackgroundType": "Mix4",
+    "NameTextKey": 1057822006,
+    "GachaIconIds": [
+      1,
+      2,
+      3
+    ],
+    "GachaPrizeGroupId": 3,
+    "TopGachaDrawGroupRelationId": 5,
+    "ResultGachaDrawGroupRelationId": 6,
+    "GachaExperienceGroupId": 0,
+    "AdRewardId": 0,
+    "ProbabilityAttentionTextKey": -612960492,
+    "DateTermId": 0
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 31004,
+    "ViewConditionId": 0,
+    "ContentLockId": 0,
+    "DisplayBannerId": 12,
+    "BackgroundType": "Mix5",
+    "NameTextKey": 1208624544,
+    "GachaIconIds": [
+      1,
+      2,
+      3
+    ],
+    "GachaPrizeGroupId": 4,
+    "TopGachaDrawGroupRelationId": 7,
+    "ResultGachaDrawGroupRelationId": 8,
+    "GachaExperienceGroupId": 0,
+    "AdRewardId": 0,
+    "ProbabilityAttentionTextKey": -612960492,
+    "DateTermId": 0
+  },
+  {
+    "Version": "260115.1.0",
+    "Id": 32001,
+    "ViewConditionId": 3200100,
+    "ContentLockId": 2,
+    "DisplayBannerId": 101,
+    "BackgroundType": "PaidArmor",
+    "NameTextKey": 473330679,
+    "GachaIconIds": [
+      1,
+      2
+    ],
+    "GachaPrizeGroupId": 101,
+    "TopGachaDrawGroupRelationId": 9,
+    "ResultGachaDrawGroupRelationId": 10,
+    "GachaExperienceGroupId": 0,
+    "AdRewardId": 0,
+    "ProbabilityAttentionTextKey": -2034578695,
+    "DateTermId": 0
+  },
+  {
+    "Version": "260115.1.0",
+    "Id": 32002,
+    "ViewConditionId": 3200200,
+    "ContentLockId": 44,
+    "DisplayBannerId": 102,
+    "BackgroundType": "PaidAssist",
+    "NameTextKey": -2059460019,
+    "GachaIconIds": [
+      3
+    ],
+    "GachaPrizeGroupId": 102,
+    "TopGachaDrawGroupRelationId": 11,
+    "ResultGachaDrawGroupRelationId": 12,
+    "GachaExperienceGroupId": 0,
+    "AdRewardId": 0,
+    "ProbabilityAttentionTextKey": -612960492,
+    "DateTermId": 0
+  },
+  {
+    "Version": "260115.1.0",
+    "Id": 32003,
+    "ViewConditionId": 3200300,
+    "ContentLockId": 44,
+    "DisplayBannerId": 102,
+    "BackgroundType": "PaidAssist",
+    "NameTextKey": -2059460019,
+    "GachaIconIds": [
+      3
+    ],
+    "GachaPrizeGroupId": 102,
+    "TopGachaDrawGroupRelationId": 13,
+    "ResultGachaDrawGroupRelationId": 14,
+    "GachaExperienceGroupId": 0,
+    "AdRewardId": 0,
+    "ProbabilityAttentionTextKey": -612960492,
+    "DateTermId": 0
+  },
+  {
+    "Version": "260115.1.0",
+    "Id": 32004,
+    "ViewConditionId": 3200400,
+    "ContentLockId": 44,
+    "DisplayBannerId": 102,
+    "BackgroundType": "PaidAssist",
+    "NameTextKey": -2059460019,
+    "GachaIconIds": [
+      3
+    ],
+    "GachaPrizeGroupId": 102,
+    "TopGachaDrawGroupRelationId": 15,
+    "ResultGachaDrawGroupRelationId": 16,
+    "GachaExperienceGroupId": 0,
+    "AdRewardId": 0,
+    "ProbabilityAttentionTextKey": -612960492,
+    "DateTermId": 0
+  },
+  {
+    "Version": "260130.1.0",
+    "Id": 32005,
+    "ViewConditionId": 3200500,
+    "ContentLockId": 2,
+    "DisplayBannerId": 101,
+    "BackgroundType": "PaidArmor",
+    "NameTextKey": -231206181,
+    "GachaIconIds": [
+      1,
+      2
+    ],
+    "GachaPrizeGroupId": 103,
+    "TopGachaDrawGroupRelationId": 17,
+    "ResultGachaDrawGroupRelationId": 18,
+    "GachaExperienceGroupId": 0,
+    "AdRewardId": 0,
+    "ProbabilityAttentionTextKey": -612960492,
+    "DateTermId": 0
+  },
+  {
+    "Version": "260230.1.0",
+    "Id": 32006,
+    "ViewConditionId": 3200600,
+    "ContentLockId": 2,
+    "DisplayBannerId": 101,
+    "BackgroundType": "PaidArmor",
+    "NameTextKey": 1818003320,
+    "GachaIconIds": [
+      1,
+      2
+    ],
+    "GachaPrizeGroupId": 104,
+    "TopGachaDrawGroupRelationId": 19,
+    "ResultGachaDrawGroupRelationId": 20,
+    "GachaExperienceGroupId": 0,
+    "AdRewardId": 0,
+    "ProbabilityAttentionTextKey": -612960492,
+    "DateTermId": 0
+  },
+  {
+    "Version": "260230.1.0",
+    "Id": 32007,
+    "ViewConditionId": 3200700,
+    "ContentLockId": 44,
+    "DisplayBannerId": 102,
+    "BackgroundType": "PaidAssist",
+    "NameTextKey": 458995694,
+    "GachaIconIds": [
+      3
+    ],
+    "GachaPrizeGroupId": 105,
+    "TopGachaDrawGroupRelationId": 21,
+    "ResultGachaDrawGroupRelationId": 22,
+    "GachaExperienceGroupId": 0,
+    "AdRewardId": 0,
+    "ProbabilityAttentionTextKey": -962534739,
+    "DateTermId": 0
+  },
+  {
+    "Version": "260330.1.0",
+    "Id": 32008,
+    "ViewConditionId": 3200800,
+    "ContentLockId": 44,
+    "DisplayBannerId": 102,
+    "BackgroundType": "PaidAssist",
+    "NameTextKey": -2108496300,
+    "GachaIconIds": [
+      3
+    ],
+    "GachaPrizeGroupId": 106,
+    "TopGachaDrawGroupRelationId": 23,
+    "ResultGachaDrawGroupRelationId": 0,
+    "GachaExperienceGroupId": 0,
+    "AdRewardId": 0,
+    "ProbabilityAttentionTextKey": -612960492,
+    "DateTermId": 0
+  },
+  {
+    "Version": "260330.1.0",
+    "Id": 32009,
+    "ViewConditionId": 3200900,
+    "ContentLockId": 44,
+    "DisplayBannerId": 102,
+    "BackgroundType": "PaidAssist",
+    "NameTextKey": -2108496300,
+    "GachaIconIds": [
+      3
+    ],
+    "GachaPrizeGroupId": 106,
+    "TopGachaDrawGroupRelationId": 24,
+    "ResultGachaDrawGroupRelationId": 0,
+    "GachaExperienceGroupId": 0,
+    "AdRewardId": 0,
+    "ProbabilityAttentionTextKey": -612960492,
+    "DateTermId": 0
+  },
+  {
+    "Version": "260330.1.0",
+    "Id": 32010,
+    "ViewConditionId": 3201000,
+    "ContentLockId": 44,
+    "DisplayBannerId": 102,
+    "BackgroundType": "PaidAssist",
+    "NameTextKey": -2108496300,
+    "GachaIconIds": [
+      3
+    ],
+    "GachaPrizeGroupId": 106,
+    "TopGachaDrawGroupRelationId": 25,
+    "ResultGachaDrawGroupRelationId": 0,
+    "GachaExperienceGroupId": 0,
+    "AdRewardId": 0,
+    "ProbabilityAttentionTextKey": -612960492,
+    "DateTermId": 0
+  },
+  {
+    "Version": "260330.1.0",
+    "Id": 32011,
+    "ViewConditionId": 3201100,
+    "ContentLockId": 44,
+    "DisplayBannerId": 102,
+    "BackgroundType": "PaidAssist",
+    "NameTextKey": -2108496300,
+    "GachaIconIds": [
+      3
+    ],
+    "GachaPrizeGroupId": 106,
+    "TopGachaDrawGroupRelationId": 26,
+    "ResultGachaDrawGroupRelationId": 0,
+    "GachaExperienceGroupId": 0,
+    "AdRewardId": 0,
+    "ProbabilityAttentionTextKey": -612960492,
+    "DateTermId": 0
+  },
+  {
+    "Version": "260330.1.0",
+    "Id": 32012,
+    "ViewConditionId": 3201200,
+    "ContentLockId": 44,
+    "DisplayBannerId": 102,
+    "BackgroundType": "PaidAssist",
+    "NameTextKey": -2108496300,
+    "GachaIconIds": [
+      3
+    ],
+    "GachaPrizeGroupId": 106,
+    "TopGachaDrawGroupRelationId": 27,
+    "ResultGachaDrawGroupRelationId": 0,
+    "GachaExperienceGroupId": 0,
+    "AdRewardId": 0,
+    "ProbabilityAttentionTextKey": -612960492,
+    "DateTermId": 0
+  },
+  {
+    "Version": "260330.1.0",
+    "Id": 32013,
+    "ViewConditionId": 3201300,
+    "ContentLockId": 44,
+    "DisplayBannerId": 102,
+    "BackgroundType": "PaidAssist",
+    "NameTextKey": -2108496300,
+    "GachaIconIds": [
+      3
+    ],
+    "GachaPrizeGroupId": 106,
+    "TopGachaDrawGroupRelationId": 28,
+    "ResultGachaDrawGroupRelationId": 0,
+    "GachaExperienceGroupId": 0,
+    "AdRewardId": 0,
+    "ProbabilityAttentionTextKey": -612960492,
+    "DateTermId": 0
+  },
+  {
+    "Version": "260330.1.0",
+    "Id": 32014,
+    "ViewConditionId": 3201400,
+    "ContentLockId": 44,
+    "DisplayBannerId": 102,
+    "BackgroundType": "PaidAssist",
+    "NameTextKey": -2108496300,
+    "GachaIconIds": [
+      3
+    ],
+    "GachaPrizeGroupId": 106,
+    "TopGachaDrawGroupRelationId": 29,
+    "ResultGachaDrawGroupRelationId": 0,
+    "GachaExperienceGroupId": 0,
+    "AdRewardId": 0,
+    "ProbabilityAttentionTextKey": -612960492,
+    "DateTermId": 0
+  },
+  {
+    "Version": "260330.1.0",
+    "Id": 32015,
+    "ViewConditionId": 3201500,
+    "ContentLockId": 44,
+    "DisplayBannerId": 2,
+    "BackgroundType": "Assist",
+    "NameTextKey": -178923838,
+    "GachaIconIds": [
+      3
+    ],
+    "GachaPrizeGroupId": 107,
+    "TopGachaDrawGroupRelationId": 30,
+    "ResultGachaDrawGroupRelationId": 0,
+    "GachaExperienceGroupId": 0,
+    "AdRewardId": 0,
+    "ProbabilityAttentionTextKey": -612960492,
+    "DateTermId": 0
+  },
+  {
+    "Version": "260330.1.0",
+    "Id": 32016,
+    "ViewConditionId": 3201600,
+    "ContentLockId": 44,
+    "DisplayBannerId": 2,
+    "BackgroundType": "Assist",
+    "NameTextKey": -178923838,
+    "GachaIconIds": [
+      3
+    ],
+    "GachaPrizeGroupId": 107,
+    "TopGachaDrawGroupRelationId": 31,
+    "ResultGachaDrawGroupRelationId": 0,
+    "GachaExperienceGroupId": 0,
+    "AdRewardId": 0,
+    "ProbabilityAttentionTextKey": -612960492,
+    "DateTermId": 0
+  },
+  {
+    "Version": "260330.1.0",
+    "Id": 32017,
+    "ViewConditionId": 3201700,
+    "ContentLockId": 44,
+    "DisplayBannerId": 2,
+    "BackgroundType": "Assist",
+    "NameTextKey": -178923838,
+    "GachaIconIds": [
+      3
+    ],
+    "GachaPrizeGroupId": 107,
+    "TopGachaDrawGroupRelationId": 32,
+    "ResultGachaDrawGroupRelationId": 0,
+    "GachaExperienceGroupId": 0,
+    "AdRewardId": 0,
+    "ProbabilityAttentionTextKey": -612960492,
+    "DateTermId": 0
+  },
+  {
+    "Version": "260330.1.0",
+    "Id": 32018,
+    "ViewConditionId": 3201800,
+    "ContentLockId": 44,
+    "DisplayBannerId": 2,
+    "BackgroundType": "Assist",
+    "NameTextKey": -178923838,
+    "GachaIconIds": [
+      3
+    ],
+    "GachaPrizeGroupId": 107,
+    "TopGachaDrawGroupRelationId": 33,
+    "ResultGachaDrawGroupRelationId": 0,
+    "GachaExperienceGroupId": 0,
+    "AdRewardId": 0,
+    "ProbabilityAttentionTextKey": -612960492,
+    "DateTermId": 0
+  },
+  {
+    "Version": "260330.1.0",
+    "Id": 32019,
+    "ViewConditionId": 3201900,
+    "ContentLockId": 44,
+    "DisplayBannerId": 2,
+    "BackgroundType": "Assist",
+    "NameTextKey": -178923838,
+    "GachaIconIds": [
+      3
+    ],
+    "GachaPrizeGroupId": 107,
+    "TopGachaDrawGroupRelationId": 34,
+    "ResultGachaDrawGroupRelationId": 0,
+    "GachaExperienceGroupId": 0,
+    "AdRewardId": 0,
+    "ProbabilityAttentionTextKey": -612960492,
+    "DateTermId": 0
+  },
+  {
+    "Version": "260330.1.0",
+    "Id": 32020,
+    "ViewConditionId": 3202000,
+    "ContentLockId": 44,
+    "DisplayBannerId": 2,
+    "BackgroundType": "Assist",
+    "NameTextKey": -178923838,
+    "GachaIconIds": [
+      3
+    ],
+    "GachaPrizeGroupId": 107,
+    "TopGachaDrawGroupRelationId": 35,
+    "ResultGachaDrawGroupRelationId": 0,
+    "GachaExperienceGroupId": 0,
+    "AdRewardId": 0,
+    "ProbabilityAttentionTextKey": -612960492,
+    "DateTermId": 0
+  },
+  {
+    "Version": "260330.1.0",
+    "Id": 32021,
+    "ViewConditionId": 3202100,
+    "ContentLockId": 44,
+    "DisplayBannerId": 2,
+    "BackgroundType": "Assist",
+    "NameTextKey": -178923838,
+    "GachaIconIds": [
+      3
+    ],
+    "GachaPrizeGroupId": 107,
+    "TopGachaDrawGroupRelationId": 36,
+    "ResultGachaDrawGroupRelationId": 0,
+    "GachaExperienceGroupId": 0,
+    "AdRewardId": 0,
+    "ProbabilityAttentionTextKey": -612960492,
+    "DateTermId": 0
+  },
+  {
+    "Version": "260410.1.0",
+    "Id": 32022,
+    "ViewConditionId": 3202200,
+    "ContentLockId": 44,
+    "DisplayBannerId": 102,
+    "BackgroundType": "PaidAssist",
+    "NameTextKey": 1709886291,
+    "GachaIconIds": [
+      3
+    ],
+    "GachaPrizeGroupId": 108,
+    "TopGachaDrawGroupRelationId": 42,
+    "ResultGachaDrawGroupRelationId": 43,
+    "GachaExperienceGroupId": 0,
+    "AdRewardId": 0,
+    "ProbabilityAttentionTextKey": -612960492,
+    "DateTermId": 0
+  },
+  {
+    "Version": "260410.1.0",
+    "Id": 32023,
+    "ViewConditionId": 3202300,
+    "ContentLockId": 44,
+    "DisplayBannerId": 102,
+    "BackgroundType": "PaidAssist",
+    "NameTextKey": 1709886291,
+    "GachaIconIds": [
+      3
+    ],
+    "GachaPrizeGroupId": 108,
+    "TopGachaDrawGroupRelationId": 44,
+    "ResultGachaDrawGroupRelationId": 45,
+    "GachaExperienceGroupId": 0,
+    "AdRewardId": 0,
+    "ProbabilityAttentionTextKey": -612960492,
+    "DateTermId": 0
+  },
+  {
+    "Version": "260410.1.0",
+    "Id": 32024,
+    "ViewConditionId": 3202400,
+    "ContentLockId": 44,
+    "DisplayBannerId": 102,
+    "BackgroundType": "PaidAssist",
+    "NameTextKey": 1709886291,
+    "GachaIconIds": [
+      3
+    ],
+    "GachaPrizeGroupId": 108,
+    "TopGachaDrawGroupRelationId": 46,
+    "ResultGachaDrawGroupRelationId": 47,
+    "GachaExperienceGroupId": 0,
+    "AdRewardId": 0,
+    "ProbabilityAttentionTextKey": -612960492,
+    "DateTermId": 0
+  },
+  {
+    "Version": "260410.1.0",
+    "Id": 32025,
+    "ViewConditionId": 3202500,
+    "ContentLockId": 44,
+    "DisplayBannerId": 102,
+    "BackgroundType": "PaidAssist",
+    "NameTextKey": 1709886291,
+    "GachaIconIds": [
+      3
+    ],
+    "GachaPrizeGroupId": 108,
+    "TopGachaDrawGroupRelationId": 48,
+    "ResultGachaDrawGroupRelationId": 49,
+    "GachaExperienceGroupId": 0,
+    "AdRewardId": 0,
+    "ProbabilityAttentionTextKey": -612960492,
+    "DateTermId": 0
+  },
+  {
+    "Version": "260410.1.0",
+    "Id": 32026,
+    "ViewConditionId": 3202600,
+    "ContentLockId": 44,
+    "DisplayBannerId": 102,
+    "BackgroundType": "PaidAssist",
+    "NameTextKey": 1709886291,
+    "GachaIconIds": [
+      3
+    ],
+    "GachaPrizeGroupId": 108,
+    "TopGachaDrawGroupRelationId": 50,
+    "ResultGachaDrawGroupRelationId": 51,
+    "GachaExperienceGroupId": 0,
+    "AdRewardId": 0,
+    "ProbabilityAttentionTextKey": -612960492,
+    "DateTermId": 0
+  },
+  {
+    "Version": "260410.1.0",
+    "Id": 32027,
+    "ViewConditionId": 3202700,
+    "ContentLockId": 44,
+    "DisplayBannerId": 102,
+    "BackgroundType": "PaidAssist",
+    "NameTextKey": 1709886291,
+    "GachaIconIds": [
+      3
+    ],
+    "GachaPrizeGroupId": 108,
+    "TopGachaDrawGroupRelationId": 52,
+    "ResultGachaDrawGroupRelationId": 53,
+    "GachaExperienceGroupId": 0,
+    "AdRewardId": 0,
+    "ProbabilityAttentionTextKey": -612960492,
+    "DateTermId": 0
+  },
+  {
+    "Version": "260410.1.0",
+    "Id": 32028,
+    "ViewConditionId": 3202800,
+    "ContentLockId": 44,
+    "DisplayBannerId": 102,
+    "BackgroundType": "PaidAssist",
+    "NameTextKey": 1709886291,
+    "GachaIconIds": [
+      3
+    ],
+    "GachaPrizeGroupId": 108,
+    "TopGachaDrawGroupRelationId": 54,
+    "ResultGachaDrawGroupRelationId": 55,
+    "GachaExperienceGroupId": 0,
+    "AdRewardId": 0,
+    "ProbabilityAttentionTextKey": -612960492,
+    "DateTermId": 0
+  },
+  {
+    "Version": "260410.1.0",
+    "Id": 33001,
+    "ViewConditionId": 0,
+    "ContentLockId": 82,
+    "DisplayBannerId": 4,
+    "BackgroundType": "AGroupKeyholder",
+    "NameTextKey": 1394436086,
+    "GachaIconIds": [
+      4
+    ],
+    "GachaPrizeGroupId": 5,
+    "TopGachaDrawGroupRelationId": 39,
+    "ResultGachaDrawGroupRelationId": 40,
+    "GachaExperienceGroupId": 0,
+    "AdRewardId": 0,
+    "ProbabilityAttentionTextKey": -612960492,
+    "DateTermId": 0
+  },
+  {
+    "Version": "260410.1.0",
+    "Id": 33004,
+    "ViewConditionId": 0,
+    "ContentLockId": 82,
+    "DisplayBannerId": 3,
+    "BackgroundType": "BGroupKeyholder",
+    "NameTextKey": -904645044,
+    "GachaIconIds": [
+      4
+    ],
+    "GachaPrizeGroupId": 6,
+    "TopGachaDrawGroupRelationId": 58,
+    "ResultGachaDrawGroupRelationId": 59,
+    "GachaExperienceGroupId": 0,
+    "AdRewardId": 0,
+    "ProbabilityAttentionTextKey": -612960492,
+    "DateTermId": 0
+  },
+  {
+    "Version": "260410.1.0",
+    "Id": 33002,
+    "ViewConditionId": 3300200,
+    "ContentLockId": 44,
+    "DisplayBannerId": 2,
+    "BackgroundType": "PaidAssist",
+    "NameTextKey": 317586373,
+    "GachaIconIds": [
+      3
+    ],
+    "GachaPrizeGroupId": 201,
+    "TopGachaDrawGroupRelationId": 41,
+    "ResultGachaDrawGroupRelationId": 0,
+    "GachaExperienceGroupId": 0,
+    "AdRewardId": 0,
+    "ProbabilityAttentionTextKey": -612960492,
+    "DateTermId": 0
+  },
+  {
+    "Version": "260410.1.0",
+    "Id": 33003,
+    "ViewConditionId": 3300300,
+    "ContentLockId": 2,
+    "DisplayBannerId": 101,
+    "BackgroundType": "PaidArmor",
+    "NameTextKey": 473330679,
+    "GachaIconIds": [
+      1,
+      2
+    ],
+    "GachaPrizeGroupId": 202,
+    "TopGachaDrawGroupRelationId": 56,
+    "ResultGachaDrawGroupRelationId": 57,
+    "GachaExperienceGroupId": 0,
+    "AdRewardId": 0,
+    "ProbabilityAttentionTextKey": -266601315,
+    "DateTermId": 0
+  },
+  {
+    "Version": "260410.1.0",
+    "Id": 33005,
+    "ViewConditionId": 3300500,
+    "ContentLockId": 82,
+    "DisplayBannerId": 103,
+    "BackgroundType": "PaidAGroupKeyholder",
+    "NameTextKey": 921326280,
+    "GachaIconIds": [
+      4
+    ],
+    "GachaPrizeGroupId": 7,
+    "TopGachaDrawGroupRelationId": 60,
+    "ResultGachaDrawGroupRelationId": 61,
+    "GachaExperienceGroupId": 0,
+    "AdRewardId": 0,
+    "ProbabilityAttentionTextKey": -612960492,
+    "DateTermId": 0
+  }
+]

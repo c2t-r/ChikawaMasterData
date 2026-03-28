@@ -1,0 +1,51 @@
+[
+  {
+    "Version": "260410.1.0",
+    "Id": 1,
+    "NameTextKey": -1693678648,
+    "SortOrder": 10,
+    "TapAreaType": "Default"
+  },
+  {
+    "Version": "260410.1.0",
+    "Id": 2,
+    "NameTextKey": 33935986,
+    "SortOrder": 20,
+    "TapAreaType": "Circle"
+  },
+  {
+    "Version": "260410.1.0",
+    "Id": 3,
+    "NameTextKey": 1963123428,
+    "SortOrder": 30,
+    "TapAreaType": "Default"
+  },
+  {
+    "Version": "260410.1.0",
+    "Id": 4,
+    "NameTextKey": -345606329,
+    "SortOrder": 40,
+    "TapAreaType": "Default"
+  },
+  {
+    "Version": "260410.1.0",
+    "Id": 5,
+    "NameTextKey": -1671346223,
+    "SortOrder": 50,
+    "TapAreaType": "Default"
+  },
+  {
+    "Version": "260410.1.0",
+    "Id": 6,
+    "NameTextKey": 90707563,
+    "SortOrder": 60,
+    "TapAreaType": "Default"
+  },
+  {
+    "Version": "260410.1.0",
+    "Id": 7,
+    "NameTextKey": 1919887101,
+    "SortOrder": 70,
+    "TapAreaType": "Default"
+  }
+]

@@ -1,0 +1,142 @@
+[
+  {
+    "Version": "250330.1.0",
+    "Id": 1,
+    "GroupId": 101,
+    "WeedingStageChunkId": 101,
+    "Weight": 100
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 2,
+    "GroupId": 101,
+    "WeedingStageChunkId": 102,
+    "Weight": 100
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 3,
+    "GroupId": 101,
+    "WeedingStageChunkId": 103,
+    "Weight": 100
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 4,
+    "GroupId": 102,
+    "WeedingStageChunkId": 104,
+    "Weight": 100
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 5,
+    "GroupId": 102,
+    "WeedingStageChunkId": 105,
+    "Weight": 100
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 6,
+    "GroupId": 102,
+    "WeedingStageChunkId": 106,
+    "Weight": 100
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 7,
+    "GroupId": 201,
+    "WeedingStageChunkId": 201,
+    "Weight": 100
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 8,
+    "GroupId": 201,
+    "WeedingStageChunkId": 202,
+    "Weight": 100
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 9,
+    "GroupId": 201,
+    "WeedingStageChunkId": 203,
+    "Weight": 100
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 10,
+    "GroupId": 202,
+    "WeedingStageChunkId": 204,
+    "Weight": 100
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 11,
+    "GroupId": 202,
+    "WeedingStageChunkId": 205,
+    "Weight": 100
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 12,
+    "GroupId": 202,
+    "WeedingStageChunkId": 206,
+    "Weight": 100
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 13,
+    "GroupId": 301,
+    "WeedingStageChunkId": 301,
+    "Weight": 100
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 14,
+    "GroupId": 301,
+    "WeedingStageChunkId": 302,
+    "Weight": 100
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 15,
+    "GroupId": 302,
+    "WeedingStageChunkId": 303,
+    "Weight": 100
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 16,
+    "GroupId": 302,
+    "WeedingStageChunkId": 304,
+    "Weight": 100
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 17,
+    "GroupId": 302,
+    "WeedingStageChunkId": 305,
+    "Weight": 100
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 18,
+    "GroupId": 401,
+    "WeedingStageChunkId": 401,
+    "Weight": 100
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 19,
+    "GroupId": 401,
+    "WeedingStageChunkId": 402,
+    "Weight": 100
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 20,
+    "GroupId": 401,
+    "WeedingStageChunkId": 403,
+    "Weight": 100
+  }
+]

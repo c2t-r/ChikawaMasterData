@@ -1,0 +1,452 @@
+[
+  {
+    "Version": "250350.1.0",
+    "Id": 1,
+    "LeagueTierId": 1,
+    "Ranking": 1,
+    "RewardGroupId": 2101000,
+    "Promote": true,
+    "Demote": false
+  },
+  {
+    "Version": "250350.1.0",
+    "Id": 2,
+    "LeagueTierId": 1,
+    "Ranking": 2,
+    "RewardGroupId": 2101100,
+    "Promote": true,
+    "Demote": false
+  },
+  {
+    "Version": "250350.1.0",
+    "Id": 3,
+    "LeagueTierId": 1,
+    "Ranking": 3,
+    "RewardGroupId": 2101200,
+    "Promote": true,
+    "Demote": false
+  },
+  {
+    "Version": "250350.1.0",
+    "Id": 4,
+    "LeagueTierId": 1,
+    "Ranking": 4,
+    "RewardGroupId": 2101300,
+    "Promote": true,
+    "Demote": false
+  },
+  {
+    "Version": "250350.1.0",
+    "Id": 5,
+    "LeagueTierId": 1,
+    "Ranking": 5,
+    "RewardGroupId": 2101400,
+    "Promote": true,
+    "Demote": false
+  },
+  {
+    "Version": "250350.1.0",
+    "Id": 6,
+    "LeagueTierId": 1,
+    "Ranking": 6,
+    "RewardGroupId": 2101500,
+    "Promote": false,
+    "Demote": false
+  },
+  {
+    "Version": "250350.1.0",
+    "Id": 7,
+    "LeagueTierId": 1,
+    "Ranking": 7,
+    "RewardGroupId": 2101600,
+    "Promote": false,
+    "Demote": false
+  },
+  {
+    "Version": "250350.1.0",
+    "Id": 8,
+    "LeagueTierId": 1,
+    "Ranking": 8,
+    "RewardGroupId": 2101700,
+    "Promote": false,
+    "Demote": false
+  },
+  {
+    "Version": "250350.1.0",
+    "Id": 9,
+    "LeagueTierId": 1,
+    "Ranking": 9,
+    "RewardGroupId": 2101800,
+    "Promote": false,
+    "Demote": false
+  },
+  {
+    "Version": "250350.1.0",
+    "Id": 10,
+    "LeagueTierId": 1,
+    "Ranking": 10,
+    "RewardGroupId": 2101900,
+    "Promote": false,
+    "Demote": false
+  },
+  {
+    "Version": "250350.1.0",
+    "Id": 11,
+    "LeagueTierId": 2,
+    "Ranking": 1,
+    "RewardGroupId": 2102000,
+    "Promote": true,
+    "Demote": false
+  },
+  {
+    "Version": "250350.1.0",
+    "Id": 12,
+    "LeagueTierId": 2,
+    "Ranking": 2,
+    "RewardGroupId": 2102100,
+    "Promote": true,
+    "Demote": false
+  },
+  {
+    "Version": "250350.1.0",
+    "Id": 13,
+    "LeagueTierId": 2,
+    "Ranking": 3,
+    "RewardGroupId": 2102200,
+    "Promote": true,
+    "Demote": false
+  },
+  {
+    "Version": "250350.1.0",
+    "Id": 14,
+    "LeagueTierId": 2,
+    "Ranking": 4,
+    "RewardGroupId": 2102300,
+    "Promote": true,
+    "Demote": false
+  },
+  {
+    "Version": "250350.1.0",
+    "Id": 15,
+    "LeagueTierId": 2,
+    "Ranking": 5,
+    "RewardGroupId": 2102400,
+    "Promote": false,
+    "Demote": false
+  },
+  {
+    "Version": "250350.1.0",
+    "Id": 16,
+    "LeagueTierId": 2,
+    "Ranking": 6,
+    "RewardGroupId": 2102500,
+    "Promote": false,
+    "Demote": false
+  },
+  {
+    "Version": "250350.1.0",
+    "Id": 17,
+    "LeagueTierId": 2,
+    "Ranking": 7,
+    "RewardGroupId": 2102600,
+    "Promote": false,
+    "Demote": false
+  },
+  {
+    "Version": "250350.1.0",
+    "Id": 18,
+    "LeagueTierId": 2,
+    "Ranking": 8,
+    "RewardGroupId": 2102700,
+    "Promote": false,
+    "Demote": true
+  },
+  {
+    "Version": "250350.1.0",
+    "Id": 19,
+    "LeagueTierId": 2,
+    "Ranking": 9,
+    "RewardGroupId": 2102800,
+    "Promote": false,
+    "Demote": true
+  },
+  {
+    "Version": "250350.1.0",
+    "Id": 20,
+    "LeagueTierId": 2,
+    "Ranking": 10,
+    "RewardGroupId": 2102900,
+    "Promote": false,
+    "Demote": true
+  },
+  {
+    "Version": "250350.1.0",
+    "Id": 21,
+    "LeagueTierId": 3,
+    "Ranking": 1,
+    "RewardGroupId": 2103000,
+    "Promote": true,
+    "Demote": false
+  },
+  {
+    "Version": "250350.1.0",
+    "Id": 22,
+    "LeagueTierId": 3,
+    "Ranking": 2,
+    "RewardGroupId": 2103100,
+    "Promote": true,
+    "Demote": false
+  },
+  {
+    "Version": "250350.1.0",
+    "Id": 23,
+    "LeagueTierId": 3,
+    "Ranking": 3,
+    "RewardGroupId": 2103200,
+    "Promote": true,
+    "Demote": false
+  },
+  {
+    "Version": "250350.1.0",
+    "Id": 24,
+    "LeagueTierId": 3,
+    "Ranking": 4,
+    "RewardGroupId": 2103300,
+    "Promote": false,
+    "Demote": false
+  },
+  {
+    "Version": "250350.1.0",
+    "Id": 25,
+    "LeagueTierId": 3,
+    "Ranking": 5,
+    "RewardGroupId": 2103400,
+    "Promote": false,
+    "Demote": false
+  },
+  {
+    "Version": "250350.1.0",
+    "Id": 26,
+    "LeagueTierId": 3,
+    "Ranking": 6,
+    "RewardGroupId": 2103500,
+    "Promote": false,
+    "Demote": false
+  },
+  {
+    "Version": "250350.1.0",
+    "Id": 27,
+    "LeagueTierId": 3,
+    "Ranking": 7,
+    "RewardGroupId": 2103600,
+    "Promote": false,
+    "Demote": false
+  },
+  {
+    "Version": "250350.1.0",
+    "Id": 28,
+    "LeagueTierId": 3,
+    "Ranking": 8,
+    "RewardGroupId": 2103700,
+    "Promote": false,
+    "Demote": true
+  },
+  {
+    "Version": "250350.1.0",
+    "Id": 29,
+    "LeagueTierId": 3,
+    "Ranking": 9,
+    "RewardGroupId": 2103800,
+    "Promote": false,
+    "Demote": true
+  },
+  {
+    "Version": "250350.1.0",
+    "Id": 30,
+    "LeagueTierId": 3,
+    "Ranking": 10,
+    "RewardGroupId": 2103900,
+    "Promote": false,
+    "Demote": true
+  },
+  {
+    "Version": "250350.1.0",
+    "Id": 31,
+    "LeagueTierId": 4,
+    "Ranking": 1,
+    "RewardGroupId": 2104000,
+    "Promote": true,
+    "Demote": false
+  },
+  {
+    "Version": "250350.1.0",
+    "Id": 32,
+    "LeagueTierId": 4,
+    "Ranking": 2,
+    "RewardGroupId": 2104100,
+    "Promote": true,
+    "Demote": false
+  },
+  {
+    "Version": "250350.1.0",
+    "Id": 33,
+    "LeagueTierId": 4,
+    "Ranking": 3,
+    "RewardGroupId": 2104200,
+    "Promote": true,
+    "Demote": false
+  },
+  {
+    "Version": "250350.1.0",
+    "Id": 34,
+    "LeagueTierId": 4,
+    "Ranking": 4,
+    "RewardGroupId": 2104300,
+    "Promote": false,
+    "Demote": false
+  },
+  {
+    "Version": "250350.1.0",
+    "Id": 35,
+    "LeagueTierId": 4,
+    "Ranking": 5,
+    "RewardGroupId": 2104400,
+    "Promote": false,
+    "Demote": false
+  },
+  {
+    "Version": "250350.1.0",
+    "Id": 36,
+    "LeagueTierId": 4,
+    "Ranking": 6,
+    "RewardGroupId": 2104500,
+    "Promote": false,
+    "Demote": false
+  },
+  {
+    "Version": "250350.1.0",
+    "Id": 37,
+    "LeagueTierId": 4,
+    "Ranking": 7,
+    "RewardGroupId": 2104600,
+    "Promote": false,
+    "Demote": true
+  },
+  {
+    "Version": "250350.1.0",
+    "Id": 38,
+    "LeagueTierId": 4,
+    "Ranking": 8,
+    "RewardGroupId": 2104700,
+    "Promote": false,
+    "Demote": true
+  },
+  {
+    "Version": "250350.1.0",
+    "Id": 39,
+    "LeagueTierId": 4,
+    "Ranking": 9,
+    "RewardGroupId": 2104800,
+    "Promote": false,
+    "Demote": true
+  },
+  {
+    "Version": "250350.1.0",
+    "Id": 40,
+    "LeagueTierId": 4,
+    "Ranking": 10,
+    "RewardGroupId": 2104900,
+    "Promote": false,
+    "Demote": true
+  },
+  {
+    "Version": "250350.1.0",
+    "Id": 41,
+    "LeagueTierId": 5,
+    "Ranking": 1,
+    "RewardGroupId": 2105000,
+    "Promote": false,
+    "Demote": false
+  },
+  {
+    "Version": "250350.1.0",
+    "Id": 42,
+    "LeagueTierId": 5,
+    "Ranking": 2,
+    "RewardGroupId": 2105100,
+    "Promote": false,
+    "Demote": false
+  },
+  {
+    "Version": "250350.1.0",
+    "Id": 43,
+    "LeagueTierId": 5,
+    "Ranking": 3,
+    "RewardGroupId": 2105200,
+    "Promote": false,
+    "Demote": false
+  },
+  {
+    "Version": "250350.1.0",
+    "Id": 44,
+    "LeagueTierId": 5,
+    "Ranking": 4,
+    "RewardGroupId": 2105300,
+    "Promote": false,
+    "Demote": false
+  },
+  {
+    "Version": "250350.1.0",
+    "Id": 45,
+    "LeagueTierId": 5,
+    "Ranking": 5,
+    "RewardGroupId": 2105400,
+    "Promote": false,
+    "Demote": false
+  },
+  {
+    "Version": "250350.1.0",
+    "Id": 46,
+    "LeagueTierId": 5,
+    "Ranking": 6,
+    "RewardGroupId": 2105500,
+    "Promote": false,
+    "Demote": true
+  },
+  {
+    "Version": "250350.1.0",
+    "Id": 47,
+    "LeagueTierId": 5,
+    "Ranking": 7,
+    "RewardGroupId": 2105600,
+    "Promote": false,
+    "Demote": true
+  },
+  {
+    "Version": "250350.1.0",
+    "Id": 48,
+    "LeagueTierId": 5,
+    "Ranking": 8,
+    "RewardGroupId": 2105700,
+    "Promote": false,
+    "Demote": true
+  },
+  {
+    "Version": "250350.1.0",
+    "Id": 49,
+    "LeagueTierId": 5,
+    "Ranking": 9,
+    "RewardGroupId": 2105800,
+    "Promote": false,
+    "Demote": true
+  },
+  {
+    "Version": "250350.1.0",
+    "Id": 50,
+    "LeagueTierId": 5,
+    "Ranking": 10,
+    "RewardGroupId": 2105900,
+    "Promote": false,
+    "Demote": true
+  }
+]

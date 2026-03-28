@@ -1,0 +1,20 @@
+[
+  {
+    "Version": "250330.1.0",
+    "Id": 1,
+    "Level": 1,
+    "EnhanceConsumeId": 0
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 2,
+    "Level": 2,
+    "EnhanceConsumeId": 19
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 3,
+    "Level": 3,
+    "EnhanceConsumeId": 20
+  }
+]

@@ -1,0 +1,202 @@
+[
+  {
+    "Version": "250330.1.0",
+    "Id": 101,
+    "GroupId": 1,
+    "StartLevel": 2,
+    "EndLevel": 3,
+    "Coefficient": 1.25
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 102,
+    "GroupId": 1,
+    "StartLevel": 4,
+    "EndLevel": 4,
+    "Coefficient": 1.600000023841858
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 103,
+    "GroupId": 1,
+    "StartLevel": 5,
+    "EndLevel": 5,
+    "Coefficient": 2.0
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 104,
+    "GroupId": 1,
+    "StartLevel": 6,
+    "EndLevel": 1000,
+    "Coefficient": 1.0180000066757202
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 105,
+    "GroupId": 1,
+    "StartLevel": 1001,
+    "EndLevel": 10000,
+    "Coefficient": 1.0080000162124634
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 106,
+    "GroupId": 1,
+    "StartLevel": 10001,
+    "EndLevel": 90000,
+    "Coefficient": 1.0049999952316284
+  },
+  {
+    "Version": "251210.1.0",
+    "Id": 107,
+    "GroupId": 1,
+    "StartLevel": 90001,
+    "EndLevel": 120000,
+    "Coefficient": 1.0049999952316284
+  },
+  {
+    "Version": "260330.1.0",
+    "Id": 108,
+    "GroupId": 1,
+    "StartLevel": 120001,
+    "EndLevel": 150000,
+    "Coefficient": 1.0045000314712524
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 201,
+    "GroupId": 2,
+    "StartLevel": 2,
+    "EndLevel": 100,
+    "Coefficient": 1.0700000524520874
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 202,
+    "GroupId": 2,
+    "StartLevel": 101,
+    "EndLevel": 500,
+    "Coefficient": 1.0410000085830688
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 203,
+    "GroupId": 2,
+    "StartLevel": 501,
+    "EndLevel": 1000,
+    "Coefficient": 1.031999945640564
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 301,
+    "GroupId": 3,
+    "StartLevel": 2,
+    "EndLevel": 1000,
+    "Coefficient": 1.0019999742507935
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 302,
+    "GroupId": 3,
+    "StartLevel": 1001,
+    "EndLevel": 2500,
+    "Coefficient": 1.0049999952316284
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 303,
+    "GroupId": 3,
+    "StartLevel": 2501,
+    "EndLevel": 4000,
+    "Coefficient": 1.00600004196167
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 304,
+    "GroupId": 3,
+    "StartLevel": 4001,
+    "EndLevel": 7000,
+    "Coefficient": 1.0049999952316284
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 305,
+    "GroupId": 3,
+    "StartLevel": 7001,
+    "EndLevel": 10000,
+    "Coefficient": 1.0080000162124634
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 306,
+    "GroupId": 3,
+    "StartLevel": 10001,
+    "EndLevel": 90000,
+    "Coefficient": 1.0049999952316284
+  },
+  {
+    "Version": "251210.1.0",
+    "Id": 307,
+    "GroupId": 3,
+    "StartLevel": 90001,
+    "EndLevel": 120000,
+    "Coefficient": 1.0049999952316284
+  },
+  {
+    "Version": "260330.1.0",
+    "Id": 308,
+    "GroupId": 3,
+    "StartLevel": 120001,
+    "EndLevel": 150000,
+    "Coefficient": 1.0045000314712524
+  },
+  {
+    "Version": "250612.1.0",
+    "Id": 401,
+    "GroupId": 4,
+    "StartLevel": 2,
+    "EndLevel": 50,
+    "Coefficient": 59.599998474121094
+  },
+  {
+    "Version": "250612.1.0",
+    "Id": 402,
+    "GroupId": 4,
+    "StartLevel": 51,
+    "EndLevel": 300,
+    "Coefficient": 1.062000036239624
+  },
+  {
+    "Version": "250612.1.0",
+    "Id": 403,
+    "GroupId": 4,
+    "StartLevel": 301,
+    "EndLevel": 3000,
+    "Coefficient": 1.0509999990463257
+  },
+  {
+    "Version": "250612.1.0",
+    "Id": 404,
+    "GroupId": 4,
+    "StartLevel": 3001,
+    "EndLevel": 10000,
+    "Coefficient": 1.0199999809265137
+  },
+  {
+    "Version": "251210.1.0",
+    "Id": 405,
+    "GroupId": 4,
+    "StartLevel": 10001,
+    "EndLevel": 16000,
+    "Coefficient": 1.0199999809265137
+  },
+  {
+    "Version": "260330.1.0",
+    "Id": 406,
+    "GroupId": 4,
+    "StartLevel": 16001,
+    "EndLevel": 20000,
+    "Coefficient": 1.0199999809265137
+  }
+]

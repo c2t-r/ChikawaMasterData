@@ -1,0 +1,47 @@
+[
+  {
+    "Version": "250330.1.0",
+    "Id": 1,
+    "Index": 1,
+    "ProfileAchievementType": "MainHunt",
+    "LabelTextKey": 438915876,
+    "Value": 0,
+    "EvaluateConditionId": 0
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 2,
+    "Index": 2,
+    "ProfileAchievementType": "SubHunt",
+    "LabelTextKey": -622494567,
+    "Value": 1,
+    "EvaluateConditionId": 2010110
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 3,
+    "Index": 3,
+    "ProfileAchievementType": "SubHunt",
+    "LabelTextKey": 1139551523,
+    "Value": 2,
+    "EvaluateConditionId": 3010010
+  },
+  {
+    "Version": "250725.1.0",
+    "Id": 4,
+    "Index": 4,
+    "ProfileAchievementType": "SubHunt",
+    "LabelTextKey": 887823797,
+    "Value": 13,
+    "EvaluateConditionId": 2040101
+  },
+  {
+    "Version": "260410.1.0",
+    "Id": 5,
+    "Index": 5,
+    "ProfileAchievementType": "SubHunt",
+    "LabelTextKey": -1433434090,
+    "Value": 14,
+    "EvaluateConditionId": 2050101
+  }
+]

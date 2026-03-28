@@ -1,0 +1,44 @@
+[
+  {
+    "Version": "250330.1.0",
+    "Id": 1,
+    "AssetId": 1,
+    "OffsetX": 0.5,
+    "OffsetY": 1.0
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 101,
+    "AssetId": 101,
+    "OffsetX": 0.5,
+    "OffsetY": 2.0
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 201,
+    "AssetId": 201,
+    "OffsetX": -0.5,
+    "OffsetY": 1.0
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 301,
+    "AssetId": 301,
+    "OffsetX": -0.5,
+    "OffsetY": 2.0
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 501,
+    "AssetId": 501,
+    "OffsetX": -0.5,
+    "OffsetY": 1.0
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 601,
+    "AssetId": 601,
+    "OffsetX": -0.5,
+    "OffsetY": 1.0
+  }
+]

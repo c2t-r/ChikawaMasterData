@@ -1,0 +1,266 @@
+[
+  {
+    "Version": "250710.1.0",
+    "Id": 1,
+    "BackgroundId": 1,
+    "BgmId": 10101
+  },
+  {
+    "Version": "250710.1.0",
+    "Id": 2,
+    "BackgroundId": 2,
+    "BgmId": 10101
+  },
+  {
+    "Version": "250710.1.0",
+    "Id": 3,
+    "BackgroundId": 3,
+    "BgmId": 10101
+  },
+  {
+    "Version": "250710.1.0",
+    "Id": 11,
+    "BackgroundId": 11,
+    "BgmId": 10102
+  },
+  {
+    "Version": "250710.1.0",
+    "Id": 12,
+    "BackgroundId": 12,
+    "BgmId": 10102
+  },
+  {
+    "Version": "250710.1.0",
+    "Id": 13,
+    "BackgroundId": 13,
+    "BgmId": 10102
+  },
+  {
+    "Version": "250710.1.0",
+    "Id": 21,
+    "BackgroundId": 21,
+    "BgmId": 10104
+  },
+  {
+    "Version": "250710.1.0",
+    "Id": 31,
+    "BackgroundId": 31,
+    "BgmId": 10105
+  },
+  {
+    "Version": "250710.1.0",
+    "Id": 41,
+    "BackgroundId": 41,
+    "BgmId": 10103
+  },
+  {
+    "Version": "250710.1.0",
+    "Id": 42,
+    "BackgroundId": 42,
+    "BgmId": 10103
+  },
+  {
+    "Version": "250710.1.0",
+    "Id": 43,
+    "BackgroundId": 43,
+    "BgmId": 10103
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 100,
+    "BackgroundId": 3,
+    "BgmId": 10007
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 101,
+    "BackgroundId": 11,
+    "BgmId": 10007
+  },
+  {
+    "Version": "250725.1.0",
+    "Id": 102,
+    "BackgroundId": 2,
+    "BgmId": 10007
+  },
+  {
+    "Version": "250710.1.0",
+    "Id": 200,
+    "BackgroundId": 1,
+    "BgmId": 10007
+  },
+  {
+    "Version": "250350.1.0",
+    "Id": 201,
+    "BackgroundId": 1,
+    "BgmId": 10009
+  },
+  {
+    "Version": "250410.1.0",
+    "Id": 202,
+    "BackgroundId": 11,
+    "BgmId": 10009
+  },
+  {
+    "Version": "250440.1.0",
+    "Id": 203,
+    "BackgroundId": 13,
+    "BgmId": 10009
+  },
+  {
+    "Version": "250450.1.0",
+    "Id": 204,
+    "BackgroundId": 3,
+    "BgmId": 10009
+  },
+  {
+    "Version": "250530.1.0",
+    "Id": 205,
+    "BackgroundId": 41,
+    "BgmId": 10009
+  },
+  {
+    "Version": "250550.1.0",
+    "Id": 206,
+    "BackgroundId": 1,
+    "BgmId": 10009
+  },
+  {
+    "Version": "250610.1.0",
+    "Id": 207,
+    "BackgroundId": 13,
+    "BgmId": 10009
+  },
+  {
+    "Version": "250630.1.0",
+    "Id": 208,
+    "BackgroundId": 3,
+    "BgmId": 10009
+  },
+  {
+    "Version": "250710.1.0",
+    "Id": 209,
+    "BackgroundId": 41,
+    "BgmId": 10014
+  },
+  {
+    "Version": "250730.1.0",
+    "Id": 210,
+    "BackgroundId": 1,
+    "BgmId": 10014
+  },
+  {
+    "Version": "250612.1.0",
+    "Id": 999,
+    "BackgroundId": 99,
+    "BgmId": 10013
+  },
+  {
+    "Version": "250810.1.0",
+    "Id": 1011,
+    "BackgroundId": 1,
+    "BgmId": 10015
+  },
+  {
+    "Version": "250820.1.0",
+    "Id": 1012,
+    "BackgroundId": 41,
+    "BgmId": 10015
+  },
+  {
+    "Version": "250910.1.0",
+    "Id": 1013,
+    "BackgroundId": 11,
+    "BgmId": 10016
+  },
+  {
+    "Version": "250930.1.0",
+    "Id": 1014,
+    "BackgroundId": 1,
+    "BgmId": 10016
+  },
+  {
+    "Version": "251010.1.0",
+    "Id": 1015,
+    "BackgroundId": 2001,
+    "BgmId": 10018
+  },
+  {
+    "Version": "251010.1.0",
+    "Id": 1016,
+    "BackgroundId": 2002,
+    "BgmId": 10019
+  },
+  {
+    "Version": "251030.1.0",
+    "Id": 1017,
+    "BackgroundId": 13,
+    "BgmId": 10007
+  },
+  {
+    "Version": "251110.1.0",
+    "Id": 1018,
+    "BackgroundId": 3,
+    "BgmId": 10007
+  },
+  {
+    "Version": "251210.1.0",
+    "Id": 1019,
+    "BackgroundId": 31,
+    "BgmId": 10007
+  },
+  {
+    "Version": "251230.1.0",
+    "Id": 1020,
+    "BackgroundId": 3,
+    "BgmId": 10007
+  },
+  {
+    "Version": "260110.1.0",
+    "Id": 1021,
+    "BackgroundId": 41,
+    "BgmId": 10007
+  },
+  {
+    "Version": "260210.1.0",
+    "Id": 1022,
+    "BackgroundId": 1,
+    "BgmId": 10007
+  },
+  {
+    "Version": "260230.1.0",
+    "Id": 1023,
+    "BackgroundId": 11,
+    "BgmId": 10007
+  },
+  {
+    "Version": "260310.1.0",
+    "Id": 1024,
+    "BackgroundId": 41,
+    "BgmId": 10007
+  },
+  {
+    "Version": "260330.1.0",
+    "Id": 1025,
+    "BackgroundId": 1,
+    "BgmId": 10007
+  },
+  {
+    "Version": "260410.1.0",
+    "Id": 103,
+    "BackgroundId": 13,
+    "BgmId": 10007
+  },
+  {
+    "Version": "260410.1.0",
+    "Id": 1026,
+    "BackgroundId": 2011,
+    "BgmId": 10007
+  },
+  {
+    "Version": "260410.1.0",
+    "Id": 1027,
+    "BackgroundId": 2012,
+    "BgmId": 10026
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "Version": "250330.1.0",
+    "Id": 1,
+    "Index": 1,
+    "ConditionId": 1
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 2,
+    "Index": 1,
+    "ConditionId": 1
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 3,
+    "Index": 1,
+    "ConditionId": 1
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 4,
+    "Index": 1,
+    "ConditionId": 1
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 5,
+    "Index": 1,
+    "ConditionId": 1
+  },
+  {
+    "Version": "260110.1.0",
+    "Id": 31011,
+    "Index": 1,
+    "ConditionId": 31011
+  },
+  {
+    "Version": "260410.1.0",
+    "Id": 35014,
+    "Index": 1,
+    "ConditionId": 35014
+  }
+]

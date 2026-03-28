@@ -1,0 +1,11 @@
+[
+  {
+    "Version": "250330.1.0",
+    "Id": 1,
+    "ResourceItemId": 301,
+    "RecoverIntervalMinutes": 15,
+    "RecoverValue": 1,
+    "InitialCapacity": 60,
+    "MaxCapacity": 99999
+  }
+]

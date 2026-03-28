@@ -1,0 +1,38 @@
+[
+  {
+    "Version": "250720.1.0",
+    "Id": 1,
+    "ContentsProgressType": "WeedingProgress",
+    "TargetValue": "0"
+  },
+  {
+    "Version": "250720.1.0",
+    "Id": 2,
+    "ContentsProgressType": "CookingKitchenLevel",
+    "TargetValue": "0"
+  },
+  {
+    "Version": "250720.1.0",
+    "Id": 3,
+    "ContentsProgressType": "CookingMenuLevel",
+    "TargetValue": "0"
+  },
+  {
+    "Version": "250720.1.0",
+    "Id": 4,
+    "ContentsProgressType": "CostumeLevel",
+    "TargetValue": "0"
+  },
+  {
+    "Version": "250720.1.0",
+    "Id": 5,
+    "ContentsProgressType": "CostumeCount",
+    "TargetValue": "100"
+  },
+  {
+    "Version": "250720.1.0",
+    "Id": 6,
+    "ContentsProgressType": "CostumeCount",
+    "TargetValue": "200"
+  }
+]

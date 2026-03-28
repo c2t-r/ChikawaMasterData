@@ -1,0 +1,86 @@
+[
+  {
+    "Version": "0.1.0",
+    "Id": 1,
+    "SizeType": "LL",
+    "CharacterAssetId": 1001005,
+    "BackGroundColorEntryId": "unique/shop/roof_base_shop_limited"
+  },
+  {
+    "Version": "0.1.0",
+    "Id": 2,
+    "SizeType": "LL",
+    "CharacterAssetId": 1003005,
+    "BackGroundColorEntryId": "unique/shop/roof_base_gacha"
+  },
+  {
+    "Version": "0.4.0",
+    "Id": 1001005,
+    "SizeType": "LL",
+    "CharacterAssetId": 1001005,
+    "BackGroundColorEntryId": "common/chara/chiikawa"
+  },
+  {
+    "Version": "0.4.0",
+    "Id": 1002005,
+    "SizeType": "LL",
+    "CharacterAssetId": 1002005,
+    "BackGroundColorEntryId": "common/chara/chiikawa"
+  },
+  {
+    "Version": "0.4.0",
+    "Id": 1003005,
+    "SizeType": "LL",
+    "CharacterAssetId": 1003005,
+    "BackGroundColorEntryId": "common/chara/hachiware"
+  },
+  {
+    "Version": "0.4.0",
+    "Id": 1001002,
+    "SizeType": "LL",
+    "CharacterAssetId": 1001002,
+    "BackGroundColorEntryId": "common/chara/chiikawa"
+  },
+  {
+    "Version": "0.4.0",
+    "Id": 1002002,
+    "SizeType": "LL",
+    "CharacterAssetId": 1002002,
+    "BackGroundColorEntryId": "common/chara/chiikawa"
+  },
+  {
+    "Version": "0.4.0",
+    "Id": 1003002,
+    "SizeType": "LL",
+    "CharacterAssetId": 1003002,
+    "BackGroundColorEntryId": "common/chara/hachiware"
+  },
+  {
+    "Version": "0.4.0",
+    "Id": 1004002,
+    "SizeType": "LL",
+    "CharacterAssetId": 1004001,
+    "BackGroundColorEntryId": "common/chara/chiikawa"
+  },
+  {
+    "Version": "0.4.0",
+    "Id": 1005002,
+    "SizeType": "LL",
+    "CharacterAssetId": 1005001,
+    "BackGroundColorEntryId": "common/chara/chiikawa"
+  },
+  {
+    "Version": "0.4.0",
+    "Id": 1006002,
+    "SizeType": "LL",
+    "CharacterAssetId": 1006001,
+    "BackGroundColorEntryId": "common/chara/chiikawa"
+  },
+  {
+    "Version": "0.4.0",
+    "Id": 1007002,
+    "SizeType": "LL",
+    "CharacterAssetId": 1007001,
+    "BackGroundColorEntryId": "common/chara/chiikawa"
+  }
+]

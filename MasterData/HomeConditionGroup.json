@@ -1,0 +1,37 @@
+[
+  {
+    "Version": "250330.1.0",
+    "Id": 101,
+    "ConditionGroupId": 1,
+    "ConditionId": 1,
+    "ConditionOperatorType": "End"
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 201,
+    "ConditionGroupId": 2,
+    "ConditionId": 2,
+    "ConditionOperatorType": "End"
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 301,
+    "ConditionGroupId": 3,
+    "ConditionId": 3,
+    "ConditionOperatorType": "End"
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 401,
+    "ConditionGroupId": 4,
+    "ConditionId": 4,
+    "ConditionOperatorType": "End"
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 501,
+    "ConditionGroupId": 5,
+    "ConditionId": 5,
+    "ConditionOperatorType": "End"
+  }
+]

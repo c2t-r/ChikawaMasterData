@@ -1,0 +1,1899 @@
+[
+  {
+    "Version": "250850.1.0",
+    "Id": 100011,
+    "Type": "Item",
+    "TypeId": 1,
+    "TypeAnimationId": 11
+  },
+  {
+    "Version": "250850.1.0",
+    "Id": 100012,
+    "Type": "Item",
+    "TypeId": 1,
+    "TypeAnimationId": 12
+  },
+  {
+    "Version": "250850.1.0",
+    "Id": 100021,
+    "Type": "Item",
+    "TypeId": 2,
+    "TypeAnimationId": 21
+  },
+  {
+    "Version": "250850.1.0",
+    "Id": 100022,
+    "Type": "Item",
+    "TypeId": 2,
+    "TypeAnimationId": 22
+  },
+  {
+    "Version": "250850.1.0",
+    "Id": 100031,
+    "Type": "Item",
+    "TypeId": 3,
+    "TypeAnimationId": 31
+  },
+  {
+    "Version": "250850.1.0",
+    "Id": 100041,
+    "Type": "Item",
+    "TypeId": 4,
+    "TypeAnimationId": 41
+  },
+  {
+    "Version": "250850.1.0",
+    "Id": 100042,
+    "Type": "Item",
+    "TypeId": 4,
+    "TypeAnimationId": 42
+  },
+  {
+    "Version": "250850.1.0",
+    "Id": 100043,
+    "Type": "Item",
+    "TypeId": 4,
+    "TypeAnimationId": 43
+  },
+  {
+    "Version": "250850.1.0",
+    "Id": 100051,
+    "Type": "Item",
+    "TypeId": 5,
+    "TypeAnimationId": 51
+  },
+  {
+    "Version": "250850.1.0",
+    "Id": 100052,
+    "Type": "Item",
+    "TypeId": 5,
+    "TypeAnimationId": 52
+  },
+  {
+    "Version": "250850.1.0",
+    "Id": 100061,
+    "Type": "Item",
+    "TypeId": 6,
+    "TypeAnimationId": 61
+  },
+  {
+    "Version": "250850.1.0",
+    "Id": 100062,
+    "Type": "Item",
+    "TypeId": 6,
+    "TypeAnimationId": 62
+  },
+  {
+    "Version": "250850.1.0",
+    "Id": 100071,
+    "Type": "Item",
+    "TypeId": 7,
+    "TypeAnimationId": 71
+  },
+  {
+    "Version": "250850.1.0",
+    "Id": 100072,
+    "Type": "Item",
+    "TypeId": 7,
+    "TypeAnimationId": 72
+  },
+  {
+    "Version": "250850.1.0",
+    "Id": 100081,
+    "Type": "Item",
+    "TypeId": 8,
+    "TypeAnimationId": 81
+  },
+  {
+    "Version": "250850.1.0",
+    "Id": 100082,
+    "Type": "Item",
+    "TypeId": 8,
+    "TypeAnimationId": 82
+  },
+  {
+    "Version": "250850.1.0",
+    "Id": 100091,
+    "Type": "Item",
+    "TypeId": 9,
+    "TypeAnimationId": 91
+  },
+  {
+    "Version": "250850.1.0",
+    "Id": 100092,
+    "Type": "Item",
+    "TypeId": 9,
+    "TypeAnimationId": 92
+  },
+  {
+    "Version": "250850.1.0",
+    "Id": 100093,
+    "Type": "Item",
+    "TypeId": 9,
+    "TypeAnimationId": 93
+  },
+  {
+    "Version": "250850.1.0",
+    "Id": 100101,
+    "Type": "Item",
+    "TypeId": 10,
+    "TypeAnimationId": 101
+  },
+  {
+    "Version": "250850.1.0",
+    "Id": 100111,
+    "Type": "Item",
+    "TypeId": 11,
+    "TypeAnimationId": 111
+  },
+  {
+    "Version": "250850.1.0",
+    "Id": 100121,
+    "Type": "Item",
+    "TypeId": 12,
+    "TypeAnimationId": 121
+  },
+  {
+    "Version": "250850.1.0",
+    "Id": 100122,
+    "Type": "Item",
+    "TypeId": 12,
+    "TypeAnimationId": 122
+  },
+  {
+    "Version": "250850.1.0",
+    "Id": 100131,
+    "Type": "Item",
+    "TypeId": 13,
+    "TypeAnimationId": 131
+  },
+  {
+    "Version": "250850.1.0",
+    "Id": 100132,
+    "Type": "Item",
+    "TypeId": 13,
+    "TypeAnimationId": 132
+  },
+  {
+    "Version": "250850.1.0",
+    "Id": 100133,
+    "Type": "Item",
+    "TypeId": 13,
+    "TypeAnimationId": 133
+  },
+  {
+    "Version": "250850.1.0",
+    "Id": 100141,
+    "Type": "Item",
+    "TypeId": 14,
+    "TypeAnimationId": 141
+  },
+  {
+    "Version": "250850.1.0",
+    "Id": 100142,
+    "Type": "Item",
+    "TypeId": 14,
+    "TypeAnimationId": 142
+  },
+  {
+    "Version": "250850.1.0",
+    "Id": 100151,
+    "Type": "Item",
+    "TypeId": 15,
+    "TypeAnimationId": 151
+  },
+  {
+    "Version": "250850.1.0",
+    "Id": 100152,
+    "Type": "Item",
+    "TypeId": 15,
+    "TypeAnimationId": 152
+  },
+  {
+    "Version": "250850.1.0",
+    "Id": 100161,
+    "Type": "Item",
+    "TypeId": 16,
+    "TypeAnimationId": 161
+  },
+  {
+    "Version": "250850.1.0",
+    "Id": 100162,
+    "Type": "Item",
+    "TypeId": 16,
+    "TypeAnimationId": 162
+  },
+  {
+    "Version": "250850.1.0",
+    "Id": 100163,
+    "Type": "Item",
+    "TypeId": 16,
+    "TypeAnimationId": 163
+  },
+  {
+    "Version": "250850.1.0",
+    "Id": 100171,
+    "Type": "Item",
+    "TypeId": 17,
+    "TypeAnimationId": 171
+  },
+  {
+    "Version": "250850.1.0",
+    "Id": 100181,
+    "Type": "Item",
+    "TypeId": 18,
+    "TypeAnimationId": 181
+  },
+  {
+    "Version": "250850.1.0",
+    "Id": 100191,
+    "Type": "Item",
+    "TypeId": 19,
+    "TypeAnimationId": 191
+  },
+  {
+    "Version": "250850.1.0",
+    "Id": 100201,
+    "Type": "Item",
+    "TypeId": 20,
+    "TypeAnimationId": 201
+  },
+  {
+    "Version": "250850.1.0",
+    "Id": 100202,
+    "Type": "Item",
+    "TypeId": 20,
+    "TypeAnimationId": 202
+  },
+  {
+    "Version": "250850.1.0",
+    "Id": 100211,
+    "Type": "Item",
+    "TypeId": 21,
+    "TypeAnimationId": 211
+  },
+  {
+    "Version": "250850.1.0",
+    "Id": 100212,
+    "Type": "Item",
+    "TypeId": 21,
+    "TypeAnimationId": 212
+  },
+  {
+    "Version": "250850.1.0",
+    "Id": 100221,
+    "Type": "Item",
+    "TypeId": 22,
+    "TypeAnimationId": 221
+  },
+  {
+    "Version": "250850.1.0",
+    "Id": 100222,
+    "Type": "Item",
+    "TypeId": 22,
+    "TypeAnimationId": 222
+  },
+  {
+    "Version": "250850.1.0",
+    "Id": 100231,
+    "Type": "Item",
+    "TypeId": 23,
+    "TypeAnimationId": 231
+  },
+  {
+    "Version": "250850.1.0",
+    "Id": 100232,
+    "Type": "Item",
+    "TypeId": 23,
+    "TypeAnimationId": 232
+  },
+  {
+    "Version": "250850.1.0",
+    "Id": 100251,
+    "Type": "Item",
+    "TypeId": 25,
+    "TypeAnimationId": 251
+  },
+  {
+    "Version": "250850.1.0",
+    "Id": 100252,
+    "Type": "Item",
+    "TypeId": 25,
+    "TypeAnimationId": 252
+  },
+  {
+    "Version": "250850.1.0",
+    "Id": 100253,
+    "Type": "Item",
+    "TypeId": 25,
+    "TypeAnimationId": 253
+  },
+  {
+    "Version": "250850.1.0",
+    "Id": 100261,
+    "Type": "Item",
+    "TypeId": 26,
+    "TypeAnimationId": 261
+  },
+  {
+    "Version": "250850.1.0",
+    "Id": 100262,
+    "Type": "Item",
+    "TypeId": 26,
+    "TypeAnimationId": 262
+  },
+  {
+    "Version": "250850.1.0",
+    "Id": 100263,
+    "Type": "Item",
+    "TypeId": 26,
+    "TypeAnimationId": 263
+  },
+  {
+    "Version": "250850.1.0",
+    "Id": 100271,
+    "Type": "Item",
+    "TypeId": 27,
+    "TypeAnimationId": 271
+  },
+  {
+    "Version": "250850.1.0",
+    "Id": 100272,
+    "Type": "Item",
+    "TypeId": 27,
+    "TypeAnimationId": 272
+  },
+  {
+    "Version": "250850.1.0",
+    "Id": 100273,
+    "Type": "Item",
+    "TypeId": 27,
+    "TypeAnimationId": 273
+  },
+  {
+    "Version": "250850.1.0",
+    "Id": 100281,
+    "Type": "Item",
+    "TypeId": 28,
+    "TypeAnimationId": 281
+  },
+  {
+    "Version": "250850.1.0",
+    "Id": 100282,
+    "Type": "Item",
+    "TypeId": 28,
+    "TypeAnimationId": 282
+  },
+  {
+    "Version": "250850.1.0",
+    "Id": 100283,
+    "Type": "Item",
+    "TypeId": 28,
+    "TypeAnimationId": 283
+  },
+  {
+    "Version": "250850.1.0",
+    "Id": 100291,
+    "Type": "Item",
+    "TypeId": 29,
+    "TypeAnimationId": 291
+  },
+  {
+    "Version": "250850.1.0",
+    "Id": 100292,
+    "Type": "Item",
+    "TypeId": 29,
+    "TypeAnimationId": 292
+  },
+  {
+    "Version": "250850.1.0",
+    "Id": 100293,
+    "Type": "Item",
+    "TypeId": 29,
+    "TypeAnimationId": 293
+  },
+  {
+    "Version": "250850.1.0",
+    "Id": 100301,
+    "Type": "Item",
+    "TypeId": 30,
+    "TypeAnimationId": 301
+  },
+  {
+    "Version": "250850.1.0",
+    "Id": 100302,
+    "Type": "Item",
+    "TypeId": 30,
+    "TypeAnimationId": 302
+  },
+  {
+    "Version": "250850.1.0",
+    "Id": 100303,
+    "Type": "Item",
+    "TypeId": 30,
+    "TypeAnimationId": 303
+  },
+  {
+    "Version": "250850.1.0",
+    "Id": 100311,
+    "Type": "Item",
+    "TypeId": 31,
+    "TypeAnimationId": 311
+  },
+  {
+    "Version": "250850.1.0",
+    "Id": 100312,
+    "Type": "Item",
+    "TypeId": 31,
+    "TypeAnimationId": 312
+  },
+  {
+    "Version": "250850.1.0",
+    "Id": 100313,
+    "Type": "Item",
+    "TypeId": 31,
+    "TypeAnimationId": 313
+  },
+  {
+    "Version": "250850.1.0",
+    "Id": 100321,
+    "Type": "Item",
+    "TypeId": 32,
+    "TypeAnimationId": 321
+  },
+  {
+    "Version": "250850.1.0",
+    "Id": 100322,
+    "Type": "Item",
+    "TypeId": 32,
+    "TypeAnimationId": 322
+  },
+  {
+    "Version": "250850.1.0",
+    "Id": 100323,
+    "Type": "Item",
+    "TypeId": 32,
+    "TypeAnimationId": 323
+  },
+  {
+    "Version": "250850.1.0",
+    "Id": 100331,
+    "Type": "Item",
+    "TypeId": 33,
+    "TypeAnimationId": 331
+  },
+  {
+    "Version": "250850.1.0",
+    "Id": 100341,
+    "Type": "Item",
+    "TypeId": 34,
+    "TypeAnimationId": 341
+  },
+  {
+    "Version": "250850.1.0",
+    "Id": 100342,
+    "Type": "Item",
+    "TypeId": 34,
+    "TypeAnimationId": 342
+  },
+  {
+    "Version": "250850.1.0",
+    "Id": 100343,
+    "Type": "Item",
+    "TypeId": 34,
+    "TypeAnimationId": 343
+  },
+  {
+    "Version": "250850.1.0",
+    "Id": 100351,
+    "Type": "Item",
+    "TypeId": 35,
+    "TypeAnimationId": 351
+  },
+  {
+    "Version": "250850.1.0",
+    "Id": 100371,
+    "Type": "Item",
+    "TypeId": 37,
+    "TypeAnimationId": 371
+  },
+  {
+    "Version": "250850.1.0",
+    "Id": 100372,
+    "Type": "Item",
+    "TypeId": 37,
+    "TypeAnimationId": 372
+  },
+  {
+    "Version": "250850.1.0",
+    "Id": 100373,
+    "Type": "Item",
+    "TypeId": 37,
+    "TypeAnimationId": 373
+  },
+  {
+    "Version": "250850.1.0",
+    "Id": 100381,
+    "Type": "Item",
+    "TypeId": 38,
+    "TypeAnimationId": 381
+  },
+  {
+    "Version": "250850.1.0",
+    "Id": 100382,
+    "Type": "Item",
+    "TypeId": 38,
+    "TypeAnimationId": 382
+  },
+  {
+    "Version": "250850.1.0",
+    "Id": 100383,
+    "Type": "Item",
+    "TypeId": 38,
+    "TypeAnimationId": 383
+  },
+  {
+    "Version": "250850.1.0",
+    "Id": 100391,
+    "Type": "Item",
+    "TypeId": 39,
+    "TypeAnimationId": 391
+  },
+  {
+    "Version": "250850.1.0",
+    "Id": 100392,
+    "Type": "Item",
+    "TypeId": 39,
+    "TypeAnimationId": 392
+  },
+  {
+    "Version": "250850.1.0",
+    "Id": 100393,
+    "Type": "Item",
+    "TypeId": 39,
+    "TypeAnimationId": 393
+  },
+  {
+    "Version": "250850.1.0",
+    "Id": 100411,
+    "Type": "Item",
+    "TypeId": 41,
+    "TypeAnimationId": 411
+  },
+  {
+    "Version": "250850.1.0",
+    "Id": 100412,
+    "Type": "Item",
+    "TypeId": 41,
+    "TypeAnimationId": 412
+  },
+  {
+    "Version": "250850.1.0",
+    "Id": 100413,
+    "Type": "Item",
+    "TypeId": 41,
+    "TypeAnimationId": 413
+  },
+  {
+    "Version": "250850.1.0",
+    "Id": 100421,
+    "Type": "Item",
+    "TypeId": 42,
+    "TypeAnimationId": 421
+  },
+  {
+    "Version": "250850.1.0",
+    "Id": 100422,
+    "Type": "Item",
+    "TypeId": 42,
+    "TypeAnimationId": 422
+  },
+  {
+    "Version": "250850.1.0",
+    "Id": 100431,
+    "Type": "Item",
+    "TypeId": 43,
+    "TypeAnimationId": 431
+  },
+  {
+    "Version": "250850.1.0",
+    "Id": 100432,
+    "Type": "Item",
+    "TypeId": 43,
+    "TypeAnimationId": 432
+  },
+  {
+    "Version": "250850.1.0",
+    "Id": 100441,
+    "Type": "Item",
+    "TypeId": 44,
+    "TypeAnimationId": 441
+  },
+  {
+    "Version": "250850.1.0",
+    "Id": 100442,
+    "Type": "Item",
+    "TypeId": 44,
+    "TypeAnimationId": 442
+  },
+  {
+    "Version": "250850.1.0",
+    "Id": 100443,
+    "Type": "Item",
+    "TypeId": 44,
+    "TypeAnimationId": 443
+  },
+  {
+    "Version": "250850.1.0",
+    "Id": 100451,
+    "Type": "Item",
+    "TypeId": 45,
+    "TypeAnimationId": 451
+  },
+  {
+    "Version": "250850.1.0",
+    "Id": 100452,
+    "Type": "Item",
+    "TypeId": 45,
+    "TypeAnimationId": 452
+  },
+  {
+    "Version": "250850.1.0",
+    "Id": 100453,
+    "Type": "Item",
+    "TypeId": 45,
+    "TypeAnimationId": 453
+  },
+  {
+    "Version": "250850.1.0",
+    "Id": 100461,
+    "Type": "Item",
+    "TypeId": 46,
+    "TypeAnimationId": 461
+  },
+  {
+    "Version": "250850.1.0",
+    "Id": 100462,
+    "Type": "Item",
+    "TypeId": 46,
+    "TypeAnimationId": 462
+  },
+  {
+    "Version": "250850.1.0",
+    "Id": 100463,
+    "Type": "Item",
+    "TypeId": 46,
+    "TypeAnimationId": 463
+  },
+  {
+    "Version": "250850.1.0",
+    "Id": 100471,
+    "Type": "Item",
+    "TypeId": 47,
+    "TypeAnimationId": 471
+  },
+  {
+    "Version": "250850.1.0",
+    "Id": 100472,
+    "Type": "Item",
+    "TypeId": 47,
+    "TypeAnimationId": 472
+  },
+  {
+    "Version": "250850.1.0",
+    "Id": 100481,
+    "Type": "Item",
+    "TypeId": 48,
+    "TypeAnimationId": 481
+  },
+  {
+    "Version": "250850.1.0",
+    "Id": 100482,
+    "Type": "Item",
+    "TypeId": 48,
+    "TypeAnimationId": 482
+  },
+  {
+    "Version": "250850.1.0",
+    "Id": 100491,
+    "Type": "Item",
+    "TypeId": 49,
+    "TypeAnimationId": 491
+  },
+  {
+    "Version": "250850.1.0",
+    "Id": 100492,
+    "Type": "Item",
+    "TypeId": 49,
+    "TypeAnimationId": 492
+  },
+  {
+    "Version": "250850.1.0",
+    "Id": 100493,
+    "Type": "Item",
+    "TypeId": 49,
+    "TypeAnimationId": 493
+  },
+  {
+    "Version": "250850.1.0",
+    "Id": 100501,
+    "Type": "Item",
+    "TypeId": 50,
+    "TypeAnimationId": 501
+  },
+  {
+    "Version": "250850.1.0",
+    "Id": 100502,
+    "Type": "Item",
+    "TypeId": 50,
+    "TypeAnimationId": 502
+  },
+  {
+    "Version": "250850.1.0",
+    "Id": 100503,
+    "Type": "Item",
+    "TypeId": 50,
+    "TypeAnimationId": 503
+  },
+  {
+    "Version": "250850.1.0",
+    "Id": 100511,
+    "Type": "Item",
+    "TypeId": 51,
+    "TypeAnimationId": 511
+  },
+  {
+    "Version": "250850.1.0",
+    "Id": 100512,
+    "Type": "Item",
+    "TypeId": 51,
+    "TypeAnimationId": 512
+  },
+  {
+    "Version": "250850.1.0",
+    "Id": 100513,
+    "Type": "Item",
+    "TypeId": 51,
+    "TypeAnimationId": 513
+  },
+  {
+    "Version": "250850.1.0",
+    "Id": 100521,
+    "Type": "Item",
+    "TypeId": 52,
+    "TypeAnimationId": 521
+  },
+  {
+    "Version": "250850.1.0",
+    "Id": 100522,
+    "Type": "Item",
+    "TypeId": 52,
+    "TypeAnimationId": 522
+  },
+  {
+    "Version": "250850.1.0",
+    "Id": 100531,
+    "Type": "Item",
+    "TypeId": 53,
+    "TypeAnimationId": 531
+  },
+  {
+    "Version": "250850.1.0",
+    "Id": 100532,
+    "Type": "Item",
+    "TypeId": 53,
+    "TypeAnimationId": 532
+  },
+  {
+    "Version": "250850.1.0",
+    "Id": 100541,
+    "Type": "Item",
+    "TypeId": 54,
+    "TypeAnimationId": 541
+  },
+  {
+    "Version": "250850.1.0",
+    "Id": 100542,
+    "Type": "Item",
+    "TypeId": 54,
+    "TypeAnimationId": 542
+  },
+  {
+    "Version": "250850.1.0",
+    "Id": 100551,
+    "Type": "Item",
+    "TypeId": 55,
+    "TypeAnimationId": 551
+  },
+  {
+    "Version": "250850.1.0",
+    "Id": 100552,
+    "Type": "Item",
+    "TypeId": 55,
+    "TypeAnimationId": 552
+  },
+  {
+    "Version": "250850.1.0",
+    "Id": 100553,
+    "Type": "Item",
+    "TypeId": 55,
+    "TypeAnimationId": 553
+  },
+  {
+    "Version": "250850.1.0",
+    "Id": 100561,
+    "Type": "Item",
+    "TypeId": 56,
+    "TypeAnimationId": 561
+  },
+  {
+    "Version": "250850.1.0",
+    "Id": 100562,
+    "Type": "Item",
+    "TypeId": 56,
+    "TypeAnimationId": 562
+  },
+  {
+    "Version": "250850.1.0",
+    "Id": 100563,
+    "Type": "Item",
+    "TypeId": 56,
+    "TypeAnimationId": 563
+  },
+  {
+    "Version": "250850.1.0",
+    "Id": 100571,
+    "Type": "Item",
+    "TypeId": 57,
+    "TypeAnimationId": 571
+  },
+  {
+    "Version": "250850.1.0",
+    "Id": 100572,
+    "Type": "Item",
+    "TypeId": 57,
+    "TypeAnimationId": 572
+  },
+  {
+    "Version": "250850.1.0",
+    "Id": 100573,
+    "Type": "Item",
+    "TypeId": 57,
+    "TypeAnimationId": 573
+  },
+  {
+    "Version": "250850.1.0",
+    "Id": 100581,
+    "Type": "Item",
+    "TypeId": 58,
+    "TypeAnimationId": 581
+  },
+  {
+    "Version": "250850.1.0",
+    "Id": 100582,
+    "Type": "Item",
+    "TypeId": 58,
+    "TypeAnimationId": 582
+  },
+  {
+    "Version": "250850.1.0",
+    "Id": 100591,
+    "Type": "Item",
+    "TypeId": 59,
+    "TypeAnimationId": 591
+  },
+  {
+    "Version": "250850.1.0",
+    "Id": 100592,
+    "Type": "Item",
+    "TypeId": 59,
+    "TypeAnimationId": 592
+  },
+  {
+    "Version": "250850.1.0",
+    "Id": 100593,
+    "Type": "Item",
+    "TypeId": 59,
+    "TypeAnimationId": 593
+  },
+  {
+    "Version": "250850.1.0",
+    "Id": 100601,
+    "Type": "Item",
+    "TypeId": 60,
+    "TypeAnimationId": 601
+  },
+  {
+    "Version": "250850.1.0",
+    "Id": 100602,
+    "Type": "Item",
+    "TypeId": 60,
+    "TypeAnimationId": 602
+  },
+  {
+    "Version": "250850.1.0",
+    "Id": 100603,
+    "Type": "Item",
+    "TypeId": 60,
+    "TypeAnimationId": 603
+  },
+  {
+    "Version": "250850.1.0",
+    "Id": 100611,
+    "Type": "Item",
+    "TypeId": 61,
+    "TypeAnimationId": 611
+  },
+  {
+    "Version": "250850.1.0",
+    "Id": 100612,
+    "Type": "Item",
+    "TypeId": 61,
+    "TypeAnimationId": 612
+  },
+  {
+    "Version": "250850.1.0",
+    "Id": 100613,
+    "Type": "Item",
+    "TypeId": 61,
+    "TypeAnimationId": 613
+  },
+  {
+    "Version": "250850.1.0",
+    "Id": 100621,
+    "Type": "Item",
+    "TypeId": 62,
+    "TypeAnimationId": 621
+  },
+  {
+    "Version": "250850.1.0",
+    "Id": 100622,
+    "Type": "Item",
+    "TypeId": 62,
+    "TypeAnimationId": 622
+  },
+  {
+    "Version": "250850.1.0",
+    "Id": 100631,
+    "Type": "Item",
+    "TypeId": 63,
+    "TypeAnimationId": 631
+  },
+  {
+    "Version": "250850.1.0",
+    "Id": 100632,
+    "Type": "Item",
+    "TypeId": 63,
+    "TypeAnimationId": 632
+  },
+  {
+    "Version": "250850.1.0",
+    "Id": 100641,
+    "Type": "Item",
+    "TypeId": 64,
+    "TypeAnimationId": 641
+  },
+  {
+    "Version": "250850.1.0",
+    "Id": 100642,
+    "Type": "Item",
+    "TypeId": 64,
+    "TypeAnimationId": 642
+  },
+  {
+    "Version": "250850.1.0",
+    "Id": 100651,
+    "Type": "Item",
+    "TypeId": 65,
+    "TypeAnimationId": 651
+  },
+  {
+    "Version": "250850.1.0",
+    "Id": 100652,
+    "Type": "Item",
+    "TypeId": 65,
+    "TypeAnimationId": 652
+  },
+  {
+    "Version": "250850.1.0",
+    "Id": 100661,
+    "Type": "Item",
+    "TypeId": 66,
+    "TypeAnimationId": 661
+  },
+  {
+    "Version": "250850.1.0",
+    "Id": 100662,
+    "Type": "Item",
+    "TypeId": 66,
+    "TypeAnimationId": 662
+  },
+  {
+    "Version": "250850.1.0",
+    "Id": 100663,
+    "Type": "Item",
+    "TypeId": 66,
+    "TypeAnimationId": 663
+  },
+  {
+    "Version": "250930.1.0",
+    "Id": 100671,
+    "Type": "Item",
+    "TypeId": 67,
+    "TypeAnimationId": 671
+  },
+  {
+    "Version": "250930.1.0",
+    "Id": 100672,
+    "Type": "Item",
+    "TypeId": 67,
+    "TypeAnimationId": 672
+  },
+  {
+    "Version": "250930.1.0",
+    "Id": 100673,
+    "Type": "Item",
+    "TypeId": 67,
+    "TypeAnimationId": 673
+  },
+  {
+    "Version": "250930.1.0",
+    "Id": 100681,
+    "Type": "Item",
+    "TypeId": 68,
+    "TypeAnimationId": 681
+  },
+  {
+    "Version": "250930.1.0",
+    "Id": 100682,
+    "Type": "Item",
+    "TypeId": 68,
+    "TypeAnimationId": 682
+  },
+  {
+    "Version": "250910.1.0",
+    "Id": 100691,
+    "Type": "Item",
+    "TypeId": 69,
+    "TypeAnimationId": 691
+  },
+  {
+    "Version": "250910.1.0",
+    "Id": 100692,
+    "Type": "Item",
+    "TypeId": 69,
+    "TypeAnimationId": 692
+  },
+  {
+    "Version": "250910.1.0",
+    "Id": 100701,
+    "Type": "Item",
+    "TypeId": 70,
+    "TypeAnimationId": 701
+  },
+  {
+    "Version": "250910.1.0",
+    "Id": 100702,
+    "Type": "Item",
+    "TypeId": 70,
+    "TypeAnimationId": 702
+  },
+  {
+    "Version": "250910.1.0",
+    "Id": 100703,
+    "Type": "Item",
+    "TypeId": 70,
+    "TypeAnimationId": 703
+  },
+  {
+    "Version": "251010.1.0",
+    "Id": 100711,
+    "Type": "Item",
+    "TypeId": 71,
+    "TypeAnimationId": 711
+  },
+  {
+    "Version": "251010.1.0",
+    "Id": 100712,
+    "Type": "Item",
+    "TypeId": 71,
+    "TypeAnimationId": 712
+  },
+  {
+    "Version": "251010.1.0",
+    "Id": 100713,
+    "Type": "Item",
+    "TypeId": 71,
+    "TypeAnimationId": 713
+  },
+  {
+    "Version": "251020.1.0",
+    "Id": 100721,
+    "Type": "Item",
+    "TypeId": 72,
+    "TypeAnimationId": 721
+  },
+  {
+    "Version": "251020.1.0",
+    "Id": 100722,
+    "Type": "Item",
+    "TypeId": 72,
+    "TypeAnimationId": 722
+  },
+  {
+    "Version": "251020.1.0",
+    "Id": 100723,
+    "Type": "Item",
+    "TypeId": 72,
+    "TypeAnimationId": 723
+  },
+  {
+    "Version": "251010.1.0",
+    "Id": 100731,
+    "Type": "Item",
+    "TypeId": 73,
+    "TypeAnimationId": 731
+  },
+  {
+    "Version": "251010.1.0",
+    "Id": 100732,
+    "Type": "Item",
+    "TypeId": 73,
+    "TypeAnimationId": 732
+  },
+  {
+    "Version": "251010.1.0",
+    "Id": 100741,
+    "Type": "Item",
+    "TypeId": 74,
+    "TypeAnimationId": 741
+  },
+  {
+    "Version": "251010.1.0",
+    "Id": 100742,
+    "Type": "Item",
+    "TypeId": 74,
+    "TypeAnimationId": 742
+  },
+  {
+    "Version": "251010.1.0",
+    "Id": 100743,
+    "Type": "Item",
+    "TypeId": 74,
+    "TypeAnimationId": 743
+  },
+  {
+    "Version": "251110.1.0",
+    "Id": 100751,
+    "Type": "Item",
+    "TypeId": 75,
+    "TypeAnimationId": 751
+  },
+  {
+    "Version": "251110.1.0",
+    "Id": 100752,
+    "Type": "Item",
+    "TypeId": 75,
+    "TypeAnimationId": 752
+  },
+  {
+    "Version": "251110.1.0",
+    "Id": 100753,
+    "Type": "Item",
+    "TypeId": 75,
+    "TypeAnimationId": 753
+  },
+  {
+    "Version": "251030.1.0",
+    "Id": 100761,
+    "Type": "Item",
+    "TypeId": 76,
+    "TypeAnimationId": 761
+  },
+  {
+    "Version": "251030.1.0",
+    "Id": 100762,
+    "Type": "Item",
+    "TypeId": 76,
+    "TypeAnimationId": 762
+  },
+  {
+    "Version": "251110.1.0",
+    "Id": 100771,
+    "Type": "Item",
+    "TypeId": 77,
+    "TypeAnimationId": 771
+  },
+  {
+    "Version": "251110.1.0",
+    "Id": 100772,
+    "Type": "Item",
+    "TypeId": 77,
+    "TypeAnimationId": 772
+  },
+  {
+    "Version": "251110.1.0",
+    "Id": 100781,
+    "Type": "Item",
+    "TypeId": 78,
+    "TypeAnimationId": 781
+  },
+  {
+    "Version": "251110.1.0",
+    "Id": 100782,
+    "Type": "Item",
+    "TypeId": 78,
+    "TypeAnimationId": 782
+  },
+  {
+    "Version": "251110.1.0",
+    "Id": 100783,
+    "Type": "Item",
+    "TypeId": 78,
+    "TypeAnimationId": 783
+  },
+  {
+    "Version": "251230.1.0",
+    "Id": 100791,
+    "Type": "Item",
+    "TypeId": 79,
+    "TypeAnimationId": 791
+  },
+  {
+    "Version": "251230.1.0",
+    "Id": 100792,
+    "Type": "Item",
+    "TypeId": 79,
+    "TypeAnimationId": 792
+  },
+  {
+    "Version": "251230.1.0",
+    "Id": 100793,
+    "Type": "Item",
+    "TypeId": 79,
+    "TypeAnimationId": 793
+  },
+  {
+    "Version": "251230.1.0",
+    "Id": 100801,
+    "Type": "Item",
+    "TypeId": 80,
+    "TypeAnimationId": 801
+  },
+  {
+    "Version": "251230.1.0",
+    "Id": 100802,
+    "Type": "Item",
+    "TypeId": 80,
+    "TypeAnimationId": 802
+  },
+  {
+    "Version": "251210.1.0",
+    "Id": 100811,
+    "Type": "Item",
+    "TypeId": 81,
+    "TypeAnimationId": 811
+  },
+  {
+    "Version": "251210.1.0",
+    "Id": 100812,
+    "Type": "Item",
+    "TypeId": 81,
+    "TypeAnimationId": 812
+  },
+  {
+    "Version": "251210.1.0",
+    "Id": 100821,
+    "Type": "Item",
+    "TypeId": 82,
+    "TypeAnimationId": 821
+  },
+  {
+    "Version": "251210.1.0",
+    "Id": 100822,
+    "Type": "Item",
+    "TypeId": 82,
+    "TypeAnimationId": 822
+  },
+  {
+    "Version": "251210.1.0",
+    "Id": 100823,
+    "Type": "Item",
+    "TypeId": 82,
+    "TypeAnimationId": 823
+  },
+  {
+    "Version": "260130.1.0",
+    "Id": 100831,
+    "Type": "Item",
+    "TypeId": 83,
+    "TypeAnimationId": 831
+  },
+  {
+    "Version": "260130.1.0",
+    "Id": 100832,
+    "Type": "Item",
+    "TypeId": 83,
+    "TypeAnimationId": 832
+  },
+  {
+    "Version": "260130.1.0",
+    "Id": 100833,
+    "Type": "Item",
+    "TypeId": 83,
+    "TypeAnimationId": 833
+  },
+  {
+    "Version": "260110.1.0",
+    "Id": 100841,
+    "Type": "Item",
+    "TypeId": 84,
+    "TypeAnimationId": 841
+  },
+  {
+    "Version": "260110.1.0",
+    "Id": 100842,
+    "Type": "Item",
+    "TypeId": 84,
+    "TypeAnimationId": 842
+  },
+  {
+    "Version": "260130.1.0",
+    "Id": 100851,
+    "Type": "Item",
+    "TypeId": 85,
+    "TypeAnimationId": 851
+  },
+  {
+    "Version": "260130.1.0",
+    "Id": 100852,
+    "Type": "Item",
+    "TypeId": 85,
+    "TypeAnimationId": 852
+  },
+  {
+    "Version": "260110.1.0",
+    "Id": 100861,
+    "Type": "Item",
+    "TypeId": 86,
+    "TypeAnimationId": 861
+  },
+  {
+    "Version": "260110.1.0",
+    "Id": 100862,
+    "Type": "Item",
+    "TypeId": 86,
+    "TypeAnimationId": 862
+  },
+  {
+    "Version": "260110.1.0",
+    "Id": 100863,
+    "Type": "Item",
+    "TypeId": 86,
+    "TypeAnimationId": 863
+  },
+  {
+    "Version": "260130.1.0",
+    "Id": 100871,
+    "Type": "Item",
+    "TypeId": 87,
+    "TypeAnimationId": 871
+  },
+  {
+    "Version": "260230.1.0",
+    "Id": 100881,
+    "Type": "Item",
+    "TypeId": 88,
+    "TypeAnimationId": 881
+  },
+  {
+    "Version": "260230.1.0",
+    "Id": 100882,
+    "Type": "Item",
+    "TypeId": 88,
+    "TypeAnimationId": 882
+  },
+  {
+    "Version": "260210.1.0",
+    "Id": 100891,
+    "Type": "Item",
+    "TypeId": 89,
+    "TypeAnimationId": 891
+  },
+  {
+    "Version": "260210.1.0",
+    "Id": 100892,
+    "Type": "Item",
+    "TypeId": 89,
+    "TypeAnimationId": 892
+  },
+  {
+    "Version": "260230.1.0",
+    "Id": 100901,
+    "Type": "Item",
+    "TypeId": 90,
+    "TypeAnimationId": 901
+  },
+  {
+    "Version": "260230.1.0",
+    "Id": 100902,
+    "Type": "Item",
+    "TypeId": 90,
+    "TypeAnimationId": 902
+  },
+  {
+    "Version": "260210.1.0",
+    "Id": 100911,
+    "Type": "Item",
+    "TypeId": 91,
+    "TypeAnimationId": 911
+  },
+  {
+    "Version": "260210.1.0",
+    "Id": 100912,
+    "Type": "Item",
+    "TypeId": 91,
+    "TypeAnimationId": 912
+  },
+  {
+    "Version": "260330.1.0",
+    "Id": 100921,
+    "Type": "Item",
+    "TypeId": 92,
+    "TypeAnimationId": 921
+  },
+  {
+    "Version": "260330.1.0",
+    "Id": 100922,
+    "Type": "Item",
+    "TypeId": 92,
+    "TypeAnimationId": 922
+  },
+  {
+    "Version": "260310.1.0",
+    "Id": 100931,
+    "Type": "Item",
+    "TypeId": 93,
+    "TypeAnimationId": 931
+  },
+  {
+    "Version": "260310.1.0",
+    "Id": 100932,
+    "Type": "Item",
+    "TypeId": 93,
+    "TypeAnimationId": 932
+  },
+  {
+    "Version": "260330.1.0",
+    "Id": 100941,
+    "Type": "Item",
+    "TypeId": 94,
+    "TypeAnimationId": 941
+  },
+  {
+    "Version": "260330.1.0",
+    "Id": 100942,
+    "Type": "Item",
+    "TypeId": 94,
+    "TypeAnimationId": 942
+  },
+  {
+    "Version": "260310.1.0",
+    "Id": 100951,
+    "Type": "Item",
+    "TypeId": 95,
+    "TypeAnimationId": 951
+  },
+  {
+    "Version": "260310.1.0",
+    "Id": 100952,
+    "Type": "Item",
+    "TypeId": 95,
+    "TypeAnimationId": 952
+  },
+  {
+    "Version": "260410.1.0",
+    "Id": 100961,
+    "Type": "Item",
+    "TypeId": 96,
+    "TypeAnimationId": 961
+  },
+  {
+    "Version": "260410.1.0",
+    "Id": 100962,
+    "Type": "Item",
+    "TypeId": 96,
+    "TypeAnimationId": 962
+  },
+  {
+    "Version": "260410.1.0",
+    "Id": 100963,
+    "Type": "Item",
+    "TypeId": 96,
+    "TypeAnimationId": 963
+  },
+  {
+    "Version": "260410.1.0",
+    "Id": 100991,
+    "Type": "Item",
+    "TypeId": 99,
+    "TypeAnimationId": 991
+  },
+  {
+    "Version": "260410.1.0",
+    "Id": 100992,
+    "Type": "Item",
+    "TypeId": 99,
+    "TypeAnimationId": 992
+  },
+  {
+    "Version": "260410.1.0",
+    "Id": 101001,
+    "Type": "Item",
+    "TypeId": 100,
+    "TypeAnimationId": 1001
+  },
+  {
+    "Version": "250850.1.0",
+    "Id": 210011,
+    "Type": "Character",
+    "TypeId": 1001,
+    "TypeAnimationId": 10011
+  },
+  {
+    "Version": "250850.1.0",
+    "Id": 210012,
+    "Type": "Character",
+    "TypeId": 1001,
+    "TypeAnimationId": 10012
+  },
+  {
+    "Version": "250850.1.0",
+    "Id": 210013,
+    "Type": "Character",
+    "TypeId": 1001,
+    "TypeAnimationId": 10013
+  },
+  {
+    "Version": "250850.1.0",
+    "Id": 210014,
+    "Type": "Character",
+    "TypeId": 1001,
+    "TypeAnimationId": 10014
+  },
+  {
+    "Version": "250850.1.0",
+    "Id": 210021,
+    "Type": "Character",
+    "TypeId": 1002,
+    "TypeAnimationId": 10021
+  },
+  {
+    "Version": "250850.1.0",
+    "Id": 210022,
+    "Type": "Character",
+    "TypeId": 1002,
+    "TypeAnimationId": 10022
+  },
+  {
+    "Version": "250850.1.0",
+    "Id": 210023,
+    "Type": "Character",
+    "TypeId": 1002,
+    "TypeAnimationId": 10023
+  },
+  {
+    "Version": "250850.1.0",
+    "Id": 210024,
+    "Type": "Character",
+    "TypeId": 1002,
+    "TypeAnimationId": 10024
+  },
+  {
+    "Version": "250850.1.0",
+    "Id": 210031,
+    "Type": "Character",
+    "TypeId": 1003,
+    "TypeAnimationId": 10031
+  },
+  {
+    "Version": "250850.1.0",
+    "Id": 210032,
+    "Type": "Character",
+    "TypeId": 1003,
+    "TypeAnimationId": 10032
+  },
+  {
+    "Version": "250850.1.0",
+    "Id": 210033,
+    "Type": "Character",
+    "TypeId": 1003,
+    "TypeAnimationId": 10033
+  },
+  {
+    "Version": "250850.1.0",
+    "Id": 210034,
+    "Type": "Character",
+    "TypeId": 1003,
+    "TypeAnimationId": 10034
+  },
+  {
+    "Version": "250850.1.0",
+    "Id": 210041,
+    "Type": "Character",
+    "TypeId": 1004,
+    "TypeAnimationId": 10041
+  },
+  {
+    "Version": "250850.1.0",
+    "Id": 210042,
+    "Type": "Character",
+    "TypeId": 1004,
+    "TypeAnimationId": 10042
+  },
+  {
+    "Version": "250850.1.0",
+    "Id": 210043,
+    "Type": "Character",
+    "TypeId": 1004,
+    "TypeAnimationId": 10043
+  },
+  {
+    "Version": "250850.1.0",
+    "Id": 210044,
+    "Type": "Character",
+    "TypeId": 1004,
+    "TypeAnimationId": 10044
+  },
+  {
+    "Version": "250850.1.0",
+    "Id": 210051,
+    "Type": "Character",
+    "TypeId": 1005,
+    "TypeAnimationId": 10051
+  },
+  {
+    "Version": "250850.1.0",
+    "Id": 210052,
+    "Type": "Character",
+    "TypeId": 1005,
+    "TypeAnimationId": 10052
+  },
+  {
+    "Version": "250850.1.0",
+    "Id": 210053,
+    "Type": "Character",
+    "TypeId": 1005,
+    "TypeAnimationId": 10053
+  },
+  {
+    "Version": "250850.1.0",
+    "Id": 210054,
+    "Type": "Character",
+    "TypeId": 1005,
+    "TypeAnimationId": 10054
+  },
+  {
+    "Version": "250850.1.0",
+    "Id": 210061,
+    "Type": "Character",
+    "TypeId": 1006,
+    "TypeAnimationId": 10061
+  },
+  {
+    "Version": "250850.1.0",
+    "Id": 210062,
+    "Type": "Character",
+    "TypeId": 1006,
+    "TypeAnimationId": 10062
+  },
+  {
+    "Version": "250850.1.0",
+    "Id": 210063,
+    "Type": "Character",
+    "TypeId": 1006,
+    "TypeAnimationId": 10063
+  },
+  {
+    "Version": "250850.1.0",
+    "Id": 210064,
+    "Type": "Character",
+    "TypeId": 1006,
+    "TypeAnimationId": 10064
+  },
+  {
+    "Version": "250850.1.0",
+    "Id": 210071,
+    "Type": "Character",
+    "TypeId": 1007,
+    "TypeAnimationId": 10071
+  },
+  {
+    "Version": "250850.1.0",
+    "Id": 210072,
+    "Type": "Character",
+    "TypeId": 1007,
+    "TypeAnimationId": 10072
+  },
+  {
+    "Version": "250850.1.0",
+    "Id": 210073,
+    "Type": "Character",
+    "TypeId": 1007,
+    "TypeAnimationId": 10073
+  },
+  {
+    "Version": "250850.1.0",
+    "Id": 210074,
+    "Type": "Character",
+    "TypeId": 1007,
+    "TypeAnimationId": 10074
+  },
+  {
+    "Version": "250850.1.0",
+    "Id": 230011,
+    "Type": "Character",
+    "TypeId": 3001,
+    "TypeAnimationId": 30011
+  },
+  {
+    "Version": "250850.1.0",
+    "Id": 230021,
+    "Type": "Character",
+    "TypeId": 3002,
+    "TypeAnimationId": 30021
+  },
+  {
+    "Version": "250850.1.0",
+    "Id": 230031,
+    "Type": "Character",
+    "TypeId": 3003,
+    "TypeAnimationId": 30031
+  },
+  {
+    "Version": "250850.1.0",
+    "Id": 230041,
+    "Type": "Character",
+    "TypeId": 3004,
+    "TypeAnimationId": 30041
+  },
+  {
+    "Version": "250850.1.0",
+    "Id": 230051,
+    "Type": "Character",
+    "TypeId": 3005,
+    "TypeAnimationId": 30051
+  },
+  {
+    "Version": "250850.1.0",
+    "Id": 230061,
+    "Type": "Character",
+    "TypeId": 3006,
+    "TypeAnimationId": 30061
+  },
+  {
+    "Version": "250850.1.0",
+    "Id": 230071,
+    "Type": "Character",
+    "TypeId": 3007,
+    "TypeAnimationId": 30071
+  },
+  {
+    "Version": "250850.1.0",
+    "Id": 230081,
+    "Type": "Character",
+    "TypeId": 3008,
+    "TypeAnimationId": 30081
+  },
+  {
+    "Version": "250850.1.0",
+    "Id": 230091,
+    "Type": "Character",
+    "TypeId": 3009,
+    "TypeAnimationId": 30091
+  },
+  {
+    "Version": "250850.1.0",
+    "Id": 230111,
+    "Type": "Character",
+    "TypeId": 3011,
+    "TypeAnimationId": 30111
+  },
+  {
+    "Version": "250850.1.0",
+    "Id": 230121,
+    "Type": "Character",
+    "TypeId": 3012,
+    "TypeAnimationId": 30121
+  },
+  {
+    "Version": "250850.1.0",
+    "Id": 230131,
+    "Type": "Character",
+    "TypeId": 3013,
+    "TypeAnimationId": 30131
+  },
+  {
+    "Version": "250850.1.0",
+    "Id": 230141,
+    "Type": "Character",
+    "TypeId": 3014,
+    "TypeAnimationId": 30141
+  },
+  {
+    "Version": "250850.1.0",
+    "Id": 230151,
+    "Type": "Character",
+    "TypeId": 3015,
+    "TypeAnimationId": 30151
+  },
+  {
+    "Version": "250850.1.0",
+    "Id": 230161,
+    "Type": "Character",
+    "TypeId": 3016,
+    "TypeAnimationId": 30161
+  },
+  {
+    "Version": "250850.1.0",
+    "Id": 230171,
+    "Type": "Character",
+    "TypeId": 3017,
+    "TypeAnimationId": 30171
+  },
+  {
+    "Version": "250850.1.0",
+    "Id": 230181,
+    "Type": "Character",
+    "TypeId": 3018,
+    "TypeAnimationId": 30181
+  },
+  {
+    "Version": "250850.1.0",
+    "Id": 230191,
+    "Type": "Character",
+    "TypeId": 3019,
+    "TypeAnimationId": 30191
+  },
+  {
+    "Version": "250850.1.0",
+    "Id": 230201,
+    "Type": "Character",
+    "TypeId": 3020,
+    "TypeAnimationId": 30201
+  },
+  {
+    "Version": "250850.1.0",
+    "Id": 230211,
+    "Type": "Character",
+    "TypeId": 3021,
+    "TypeAnimationId": 30211
+  },
+  {
+    "Version": "250850.1.0",
+    "Id": 230221,
+    "Type": "Character",
+    "TypeId": 3022,
+    "TypeAnimationId": 30221
+  }
+]

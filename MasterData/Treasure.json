@@ -1,0 +1,440 @@
+[
+  {
+    "Version": "250720.1.0",
+    "Id": 1001,
+    "GroupId": 1,
+    "NameLabelTextKey": -331537883,
+    "AssetId": 1001,
+    "PossessionEffectIds": [
+      101,
+      102
+    ],
+    "EquipEffectIds": [
+      111
+    ],
+    "TreasureExperienceId": 1,
+    "ConsumeId": 3001,
+    "Rarity": "UltraRare",
+    "OrderNo": 1,
+    "RewardRelationId": 90001001
+  },
+  {
+    "Version": "250720.1.0",
+    "Id": 1002,
+    "GroupId": 1,
+    "NameLabelTextKey": 1966371743,
+    "AssetId": 1002,
+    "PossessionEffectIds": [
+      101,
+      102
+    ],
+    "EquipEffectIds": [
+      121
+    ],
+    "TreasureExperienceId": 1,
+    "ConsumeId": 3001,
+    "Rarity": "UltraRare",
+    "OrderNo": 2,
+    "RewardRelationId": 90001002
+  },
+  {
+    "Version": "250720.1.0",
+    "Id": 1003,
+    "GroupId": 1,
+    "NameLabelTextKey": 36913929,
+    "AssetId": 1003,
+    "PossessionEffectIds": [
+      101,
+      102
+    ],
+    "EquipEffectIds": [
+      131
+    ],
+    "TreasureExperienceId": 1,
+    "ConsumeId": 3001,
+    "Rarity": "UltraRare",
+    "OrderNo": 3,
+    "RewardRelationId": 90001003
+  },
+  {
+    "Version": "250720.1.0",
+    "Id": 1004,
+    "GroupId": 1,
+    "NameLabelTextKey": -1671965014,
+    "AssetId": 1005,
+    "PossessionEffectIds": [
+      101,
+      102
+    ],
+    "EquipEffectIds": [
+      141
+    ],
+    "TreasureExperienceId": 1,
+    "ConsumeId": 3001,
+    "Rarity": "UltraRare",
+    "OrderNo": 4,
+    "RewardRelationId": 90001004
+  },
+  {
+    "Version": "250720.1.0",
+    "Id": 1005,
+    "GroupId": 1,
+    "NameLabelTextKey": -347019716,
+    "AssetId": 1004,
+    "PossessionEffectIds": [
+      101,
+      102
+    ],
+    "EquipEffectIds": [
+      151
+    ],
+    "TreasureExperienceId": 1,
+    "ConsumeId": 3001,
+    "Rarity": "UltraRare",
+    "OrderNo": 5,
+    "RewardRelationId": 90001005
+  },
+  {
+    "Version": "250720.1.0",
+    "Id": 1006,
+    "GroupId": 1,
+    "NameLabelTextKey": 1918482310,
+    "AssetId": 1006,
+    "PossessionEffectIds": [
+      101,
+      102
+    ],
+    "EquipEffectIds": [
+      161
+    ],
+    "TreasureExperienceId": 1,
+    "ConsumeId": 3001,
+    "Rarity": "UltraRare",
+    "OrderNo": 6,
+    "RewardRelationId": 90001006
+  },
+  {
+    "Version": "250720.1.0",
+    "Id": 1007,
+    "GroupId": 1,
+    "NameLabelTextKey": 90081040,
+    "AssetId": 1007,
+    "PossessionEffectIds": [
+      101,
+      102
+    ],
+    "EquipEffectIds": [
+      171
+    ],
+    "TreasureExperienceId": 1,
+    "ConsumeId": 3001,
+    "Rarity": "UltraRare",
+    "OrderNo": 7,
+    "RewardRelationId": 90001007
+  },
+  {
+    "Version": "250720.1.0",
+    "Id": 2001,
+    "GroupId": 2,
+    "NameLabelTextKey": -24605237,
+    "AssetId": 2001,
+    "PossessionEffectIds": [
+      201,
+      202
+    ],
+    "EquipEffectIds": [
+      211
+    ],
+    "TreasureExperienceId": 2,
+    "ConsumeId": 3002,
+    "Rarity": "UltraRare",
+    "OrderNo": 1,
+    "RewardRelationId": 90002001
+  },
+  {
+    "Version": "250720.1.0",
+    "Id": 2002,
+    "GroupId": 2,
+    "NameLabelTextKey": 1736563825,
+    "AssetId": 2002,
+    "PossessionEffectIds": [
+      201,
+      202
+    ],
+    "EquipEffectIds": [
+      221
+    ],
+    "TreasureExperienceId": 2,
+    "ConsumeId": 3002,
+    "Rarity": "UltraRare",
+    "OrderNo": 2,
+    "RewardRelationId": 90002002
+  },
+  {
+    "Version": "250720.1.0",
+    "Id": 2003,
+    "GroupId": 2,
+    "NameLabelTextKey": 277277927,
+    "AssetId": 2003,
+    "PossessionEffectIds": [
+      201,
+      202
+    ],
+    "EquipEffectIds": [
+      231
+    ],
+    "TreasureExperienceId": 2,
+    "ConsumeId": 3002,
+    "Rarity": "UltraRare",
+    "OrderNo": 3,
+    "RewardRelationId": 90002003
+  },
+  {
+    "Version": "250720.1.0",
+    "Id": 2004,
+    "GroupId": 2,
+    "NameLabelTextKey": -1897760444,
+    "AssetId": 2004,
+    "PossessionEffectIds": [
+      201,
+      202
+    ],
+    "EquipEffectIds": [
+      241
+    ],
+    "TreasureExperienceId": 2,
+    "ConsumeId": 3002,
+    "Rarity": "UltraRare",
+    "OrderNo": 4,
+    "RewardRelationId": 90002004
+  },
+  {
+    "Version": "250720.1.0",
+    "Id": 3001,
+    "GroupId": 3,
+    "NameLabelTextKey": 1177873070,
+    "AssetId": 3001,
+    "PossessionEffectIds": [
+      301,
+      302
+    ],
+    "EquipEffectIds": [
+      311
+    ],
+    "TreasureExperienceId": 3,
+    "ConsumeId": 3003,
+    "Rarity": "UltraRare",
+    "OrderNo": 1,
+    "RewardRelationId": 90003001
+  },
+  {
+    "Version": "250720.1.0",
+    "Id": 3002,
+    "GroupId": 3,
+    "NameLabelTextKey": -549602540,
+    "AssetId": 3002,
+    "PossessionEffectIds": [
+      301,
+      302
+    ],
+    "EquipEffectIds": [
+      321
+    ],
+    "TreasureExperienceId": 3,
+    "ConsumeId": 3003,
+    "Rarity": "UltraRare",
+    "OrderNo": 2,
+    "RewardRelationId": 90003002
+  },
+  {
+    "Version": "250720.1.0",
+    "Id": 3003,
+    "GroupId": 3,
+    "NameLabelTextKey": -1472558206,
+    "AssetId": 3003,
+    "PossessionEffectIds": [
+      301,
+      302
+    ],
+    "EquipEffectIds": [
+      331
+    ],
+    "TreasureExperienceId": 3,
+    "ConsumeId": 3003,
+    "Rarity": "UltraRare",
+    "OrderNo": 3,
+    "RewardRelationId": 90003003
+  },
+  {
+    "Version": "250720.1.0",
+    "Id": 3004,
+    "GroupId": 3,
+    "NameLabelTextKey": 912137761,
+    "AssetId": 3004,
+    "PossessionEffectIds": [
+      301,
+      302
+    ],
+    "EquipEffectIds": [
+      341
+    ],
+    "TreasureExperienceId": 3,
+    "ConsumeId": 3003,
+    "Rarity": "UltraRare",
+    "OrderNo": 4,
+    "RewardRelationId": 90003004
+  },
+  {
+    "Version": "250720.1.0",
+    "Id": 4001,
+    "GroupId": 4,
+    "NameLabelTextKey": -605826537,
+    "AssetId": 4001,
+    "PossessionEffectIds": [
+      401,
+      402
+    ],
+    "EquipEffectIds": [
+      411
+    ],
+    "TreasureExperienceId": 4,
+    "ConsumeId": 3004,
+    "Rarity": "UltraRare",
+    "OrderNo": 1,
+    "RewardRelationId": 90004001
+  },
+  {
+    "Version": "250720.1.0",
+    "Id": 4002,
+    "GroupId": 4,
+    "NameLabelTextKey": 1122665389,
+    "AssetId": 4002,
+    "PossessionEffectIds": [
+      401,
+      402
+    ],
+    "EquipEffectIds": [
+      421
+    ],
+    "TreasureExperienceId": 4,
+    "ConsumeId": 3004,
+    "Rarity": "UltraRare",
+    "OrderNo": 2,
+    "RewardRelationId": 90004002
+  },
+  {
+    "Version": "250720.1.0",
+    "Id": 4003,
+    "GroupId": 4,
+    "NameLabelTextKey": 904770363,
+    "AssetId": 4003,
+    "PossessionEffectIds": [
+      401,
+      402
+    ],
+    "EquipEffectIds": [
+      431
+    ],
+    "TreasureExperienceId": 4,
+    "ConsumeId": 3004,
+    "Rarity": "UltraRare",
+    "OrderNo": 3,
+    "RewardRelationId": 90004003
+  },
+  {
+    "Version": "250720.1.0",
+    "Id": 4004,
+    "GroupId": 4,
+    "NameLabelTextKey": -1417075048,
+    "AssetId": 4004,
+    "PossessionEffectIds": [
+      401,
+      402
+    ],
+    "EquipEffectIds": [
+      441
+    ],
+    "TreasureExperienceId": 4,
+    "ConsumeId": 3004,
+    "Rarity": "UltraRare",
+    "OrderNo": 4,
+    "RewardRelationId": 90004004
+  },
+  {
+    "Version": "250720.1.0",
+    "Id": 5001,
+    "GroupId": 5,
+    "NameLabelTextKey": 1667216754,
+    "AssetId": 5001,
+    "PossessionEffectIds": [
+      501,
+      502
+    ],
+    "EquipEffectIds": [
+      511,
+      512
+    ],
+    "TreasureExperienceId": 5,
+    "ConsumeId": 3005,
+    "Rarity": "UltraRare",
+    "OrderNo": 1,
+    "RewardRelationId": 90005001
+  },
+  {
+    "Version": "250720.1.0",
+    "Id": 5002,
+    "GroupId": 5,
+    "NameLabelTextKey": -94968632,
+    "AssetId": 5002,
+    "PossessionEffectIds": [
+      501,
+      502
+    ],
+    "EquipEffectIds": [
+      521
+    ],
+    "TreasureExperienceId": 5,
+    "ConsumeId": 3005,
+    "Rarity": "UltraRare",
+    "OrderNo": 2,
+    "RewardRelationId": 90005002
+  },
+  {
+    "Version": "250720.1.0",
+    "Id": 5003,
+    "GroupId": 5,
+    "NameLabelTextKey": -1924017058,
+    "AssetId": 5003,
+    "PossessionEffectIds": [
+      501,
+      502
+    ],
+    "EquipEffectIds": [
+      531
+    ],
+    "TreasureExperienceId": 5,
+    "ConsumeId": 3005,
+    "Rarity": "UltraRare",
+    "OrderNo": 3,
+    "RewardRelationId": 90005003
+  },
+  {
+    "Version": "250720.1.0",
+    "Id": 5004,
+    "GroupId": 5,
+    "NameLabelTextKey": 322257405,
+    "AssetId": 5004,
+    "PossessionEffectIds": [
+      501,
+      502
+    ],
+    "EquipEffectIds": [
+      541
+    ],
+    "TreasureExperienceId": 5,
+    "ConsumeId": 3005,
+    "Rarity": "UltraRare",
+    "OrderNo": 4,
+    "RewardRelationId": 90005004
+  }
+]

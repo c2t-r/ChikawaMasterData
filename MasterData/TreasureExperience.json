@@ -1,0 +1,42 @@
+[
+  {
+    "Version": "250720.1.0",
+    "Id": 1,
+    "ExperienceGroupId": 91,
+    "InitialMaxLevel": 100,
+    "EnhanceConsumeIdPerExperience": 27,
+    "TreasurePromotionGroupId": 1
+  },
+  {
+    "Version": "250720.1.0",
+    "Id": 2,
+    "ExperienceGroupId": 92,
+    "InitialMaxLevel": 100,
+    "EnhanceConsumeIdPerExperience": 27,
+    "TreasurePromotionGroupId": 1
+  },
+  {
+    "Version": "250720.1.0",
+    "Id": 3,
+    "ExperienceGroupId": 93,
+    "InitialMaxLevel": 100,
+    "EnhanceConsumeIdPerExperience": 27,
+    "TreasurePromotionGroupId": 1
+  },
+  {
+    "Version": "250720.1.0",
+    "Id": 4,
+    "ExperienceGroupId": 94,
+    "InitialMaxLevel": 100,
+    "EnhanceConsumeIdPerExperience": 27,
+    "TreasurePromotionGroupId": 1
+  },
+  {
+    "Version": "250720.1.0",
+    "Id": 5,
+    "ExperienceGroupId": 95,
+    "InitialMaxLevel": 100,
+    "EnhanceConsumeIdPerExperience": 27,
+    "TreasurePromotionGroupId": 1
+  }
+]

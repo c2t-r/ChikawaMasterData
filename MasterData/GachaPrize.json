@@ -1,0 +1,362 @@
+[
+  {
+    "Version": "250330.1.0",
+    "Id": 1,
+    "GroupId": 1,
+    "PrizeRelationTableGroupId": 1,
+    "Level": 1,
+    "ViewMaxRarity": "Normal"
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 2,
+    "GroupId": 1,
+    "PrizeRelationTableGroupId": 2,
+    "Level": 2,
+    "ViewMaxRarity": "NormalRare"
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 3,
+    "GroupId": 1,
+    "PrizeRelationTableGroupId": 3,
+    "Level": 3,
+    "ViewMaxRarity": "Rare"
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 4,
+    "GroupId": 1,
+    "PrizeRelationTableGroupId": 4,
+    "Level": 4,
+    "ViewMaxRarity": "SuperRare"
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 5,
+    "GroupId": 1,
+    "PrizeRelationTableGroupId": 5,
+    "Level": 5,
+    "ViewMaxRarity": "HyperRare"
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 6,
+    "GroupId": 1,
+    "PrizeRelationTableGroupId": 6,
+    "Level": 6,
+    "ViewMaxRarity": "UltraRare"
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 7,
+    "GroupId": 1,
+    "PrizeRelationTableGroupId": 7,
+    "Level": 7,
+    "ViewMaxRarity": "LegendRare"
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 8,
+    "GroupId": 1,
+    "PrizeRelationTableGroupId": 8,
+    "Level": 8,
+    "ViewMaxRarity": "LegendRare"
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 9,
+    "GroupId": 1,
+    "PrizeRelationTableGroupId": 9,
+    "Level": 9,
+    "ViewMaxRarity": "LegendRare"
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 10,
+    "GroupId": 1,
+    "PrizeRelationTableGroupId": 10,
+    "Level": 10,
+    "ViewMaxRarity": "LegendRare"
+  },
+  {
+    "Version": "260115.1.0",
+    "Id": 23,
+    "GroupId": 1,
+    "PrizeRelationTableGroupId": 26,
+    "Level": 11,
+    "ViewMaxRarity": "LegendRare"
+  },
+  {
+    "Version": "260115.1.0",
+    "Id": 24,
+    "GroupId": 1,
+    "PrizeRelationTableGroupId": 27,
+    "Level": 12,
+    "ViewMaxRarity": "LegendRare"
+  },
+  {
+    "Version": "260115.1.0",
+    "Id": 25,
+    "GroupId": 1,
+    "PrizeRelationTableGroupId": 28,
+    "Level": 13,
+    "ViewMaxRarity": "LegendRare"
+  },
+  {
+    "Version": "260115.1.0",
+    "Id": 26,
+    "GroupId": 1,
+    "PrizeRelationTableGroupId": 29,
+    "Level": 14,
+    "ViewMaxRarity": "LegendRare"
+  },
+  {
+    "Version": "260115.1.0",
+    "Id": 27,
+    "GroupId": 1,
+    "PrizeRelationTableGroupId": 30,
+    "Level": 15,
+    "ViewMaxRarity": "LegendRare"
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 11,
+    "GroupId": 2,
+    "PrizeRelationTableGroupId": 11,
+    "Level": 1,
+    "ViewMaxRarity": "Normal"
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 12,
+    "GroupId": 2,
+    "PrizeRelationTableGroupId": 12,
+    "Level": 2,
+    "ViewMaxRarity": "NormalRare"
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 13,
+    "GroupId": 2,
+    "PrizeRelationTableGroupId": 13,
+    "Level": 3,
+    "ViewMaxRarity": "Rare"
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 14,
+    "GroupId": 2,
+    "PrizeRelationTableGroupId": 14,
+    "Level": 4,
+    "ViewMaxRarity": "SuperRare"
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 15,
+    "GroupId": 2,
+    "PrizeRelationTableGroupId": 15,
+    "Level": 5,
+    "ViewMaxRarity": "HyperRare"
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 16,
+    "GroupId": 2,
+    "PrizeRelationTableGroupId": 16,
+    "Level": 6,
+    "ViewMaxRarity": "UltraRare"
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 17,
+    "GroupId": 2,
+    "PrizeRelationTableGroupId": 17,
+    "Level": 7,
+    "ViewMaxRarity": "LegendRare"
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 18,
+    "GroupId": 2,
+    "PrizeRelationTableGroupId": 18,
+    "Level": 8,
+    "ViewMaxRarity": "LegendRare"
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 19,
+    "GroupId": 2,
+    "PrizeRelationTableGroupId": 19,
+    "Level": 9,
+    "ViewMaxRarity": "LegendRare"
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 20,
+    "GroupId": 2,
+    "PrizeRelationTableGroupId": 20,
+    "Level": 10,
+    "ViewMaxRarity": "LegendRare"
+  },
+  {
+    "Version": "260115.1.0",
+    "Id": 28,
+    "GroupId": 2,
+    "PrizeRelationTableGroupId": 31,
+    "Level": 11,
+    "ViewMaxRarity": "LegendRare"
+  },
+  {
+    "Version": "260115.1.0",
+    "Id": 29,
+    "GroupId": 2,
+    "PrizeRelationTableGroupId": 32,
+    "Level": 12,
+    "ViewMaxRarity": "LegendRare"
+  },
+  {
+    "Version": "260115.1.0",
+    "Id": 30,
+    "GroupId": 2,
+    "PrizeRelationTableGroupId": 33,
+    "Level": 13,
+    "ViewMaxRarity": "LegendRare"
+  },
+  {
+    "Version": "260115.1.0",
+    "Id": 31,
+    "GroupId": 2,
+    "PrizeRelationTableGroupId": 34,
+    "Level": 14,
+    "ViewMaxRarity": "LegendRare"
+  },
+  {
+    "Version": "260115.1.0",
+    "Id": 32,
+    "GroupId": 2,
+    "PrizeRelationTableGroupId": 35,
+    "Level": 15,
+    "ViewMaxRarity": "LegendRare"
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 21,
+    "GroupId": 3,
+    "PrizeRelationTableGroupId": 22,
+    "Level": 0,
+    "ViewMaxRarity": "SuperRare"
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 22,
+    "GroupId": 4,
+    "PrizeRelationTableGroupId": 24,
+    "Level": 0,
+    "ViewMaxRarity": "HyperRare"
+  },
+  {
+    "Version": "260115.1.0",
+    "Id": 33,
+    "GroupId": 101,
+    "PrizeRelationTableGroupId": 101,
+    "Level": 0,
+    "ViewMaxRarity": "LegendRare"
+  },
+  {
+    "Version": "260115.1.0",
+    "Id": 34,
+    "GroupId": 102,
+    "PrizeRelationTableGroupId": 102,
+    "Level": 0,
+    "ViewMaxRarity": "LegendRare"
+  },
+  {
+    "Version": "260130.1.0",
+    "Id": 35,
+    "GroupId": 103,
+    "PrizeRelationTableGroupId": 103,
+    "Level": 0,
+    "ViewMaxRarity": "LegendRare"
+  },
+  {
+    "Version": "260230.1.0",
+    "Id": 36,
+    "GroupId": 104,
+    "PrizeRelationTableGroupId": 104,
+    "Level": 0,
+    "ViewMaxRarity": "LegendRare"
+  },
+  {
+    "Version": "260230.1.0",
+    "Id": 37,
+    "GroupId": 105,
+    "PrizeRelationTableGroupId": 105,
+    "Level": 0,
+    "ViewMaxRarity": "LegendRare"
+  },
+  {
+    "Version": "260330.1.0",
+    "Id": 38,
+    "GroupId": 106,
+    "PrizeRelationTableGroupId": 106,
+    "Level": 0,
+    "ViewMaxRarity": "LegendRare"
+  },
+  {
+    "Version": "260330.1.0",
+    "Id": 39,
+    "GroupId": 107,
+    "PrizeRelationTableGroupId": 107,
+    "Level": 0,
+    "ViewMaxRarity": "LegendRare"
+  },
+  {
+    "Version": "260410.1.0",
+    "Id": 40,
+    "GroupId": 108,
+    "PrizeRelationTableGroupId": 108,
+    "Level": 0,
+    "ViewMaxRarity": "LegendRare"
+  },
+  {
+    "Version": "260410.1.0",
+    "Id": 41,
+    "GroupId": 5,
+    "PrizeRelationTableGroupId": 200,
+    "Level": 0,
+    "ViewMaxRarity": "SuperRare"
+  },
+  {
+    "Version": "260410.1.0",
+    "Id": 44,
+    "GroupId": 6,
+    "PrizeRelationTableGroupId": 203,
+    "Level": 0,
+    "ViewMaxRarity": "SuperRare"
+  },
+  {
+    "Version": "260410.1.0",
+    "Id": 42,
+    "GroupId": 201,
+    "PrizeRelationTableGroupId": 201,
+    "Level": 0,
+    "ViewMaxRarity": "LegendRare"
+  },
+  {
+    "Version": "260410.1.0",
+    "Id": 43,
+    "GroupId": 202,
+    "PrizeRelationTableGroupId": 202,
+    "Level": 0,
+    "ViewMaxRarity": "LegendRare"
+  },
+  {
+    "Version": "260410.1.0",
+    "Id": 45,
+    "GroupId": 7,
+    "PrizeRelationTableGroupId": 204,
+    "Level": 0,
+    "ViewMaxRarity": "HyperRare"
+  }
+]

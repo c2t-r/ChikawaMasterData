@@ -1,0 +1,1402 @@
+[
+  {
+    "Version": "250350.1.0",
+    "Id": 1,
+    "GroupId": 1,
+    "ConditionTextKey": -55583884,
+    "ConditionType": "CostumePossession",
+    "ConditionMasterId": 31001,
+    "ConditionValue": 0,
+    "Rate": 200
+  },
+  {
+    "Version": "250350.1.0",
+    "Id": 2,
+    "GroupId": 1,
+    "ConditionTextKey": 1705413326,
+    "ConditionType": "CostumePossession",
+    "ConditionMasterId": 32001,
+    "ConditionValue": 0,
+    "Rate": 200
+  },
+  {
+    "Version": "250350.1.0",
+    "Id": 3,
+    "GroupId": 1,
+    "ConditionTextKey": 312588888,
+    "ConditionType": "CostumePossession",
+    "ConditionMasterId": 33001,
+    "ConditionValue": 0,
+    "Rate": 200
+  },
+  {
+    "Version": "250350.1.0",
+    "Id": 4,
+    "GroupId": 1,
+    "ConditionTextKey": -71164051,
+    "ConditionType": "CostumePossession",
+    "ConditionMasterId": 35001,
+    "ConditionValue": 0,
+    "Rate": 200
+  },
+  {
+    "Version": "250350.1.0",
+    "Id": 5,
+    "GroupId": 1,
+    "ConditionTextKey": 1657491159,
+    "ConditionType": "CostumePossession",
+    "ConditionMasterId": 36001,
+    "ConditionValue": 0,
+    "Rate": 200
+  },
+  {
+    "Version": "250410.1.0",
+    "Id": 6,
+    "GroupId": 2,
+    "ConditionTextKey": -1933234181,
+    "ConditionType": "CostumePossession",
+    "ConditionMasterId": 34001,
+    "ConditionValue": 0,
+    "Rate": 200
+  },
+  {
+    "Version": "250410.1.0",
+    "Id": 7,
+    "GroupId": 2,
+    "ConditionTextKey": 365723201,
+    "ConditionType": "CostumePossession",
+    "ConditionMasterId": 37001,
+    "ConditionValue": 0,
+    "Rate": 200
+  },
+  {
+    "Version": "250410.1.0",
+    "Id": 8,
+    "GroupId": 2,
+    "ConditionTextKey": -55583884,
+    "ConditionType": "CostumePossession",
+    "ConditionMasterId": 31001,
+    "ConditionValue": 0,
+    "Rate": 50
+  },
+  {
+    "Version": "250410.1.0",
+    "Id": 9,
+    "GroupId": 2,
+    "ConditionTextKey": 1705413326,
+    "ConditionType": "CostumePossession",
+    "ConditionMasterId": 32001,
+    "ConditionValue": 0,
+    "Rate": 50
+  },
+  {
+    "Version": "250410.1.0",
+    "Id": 10,
+    "GroupId": 2,
+    "ConditionTextKey": 312588888,
+    "ConditionType": "CostumePossession",
+    "ConditionMasterId": 33001,
+    "ConditionValue": 0,
+    "Rate": 50
+  },
+  {
+    "Version": "250410.1.0",
+    "Id": 11,
+    "GroupId": 2,
+    "ConditionTextKey": -71164051,
+    "ConditionType": "CostumePossession",
+    "ConditionMasterId": 35001,
+    "ConditionValue": 0,
+    "Rate": 50
+  },
+  {
+    "Version": "250410.1.0",
+    "Id": 12,
+    "GroupId": 2,
+    "ConditionTextKey": 1657491159,
+    "ConditionType": "CostumePossession",
+    "ConditionMasterId": 36001,
+    "ConditionValue": 0,
+    "Rate": 50
+  },
+  {
+    "Version": "250440.1.0",
+    "Id": 13,
+    "GroupId": 3,
+    "ConditionTextKey": 1519219597,
+    "ConditionType": "CostumePossession",
+    "ConditionMasterId": 31002,
+    "ConditionValue": 0,
+    "Rate": 200
+  },
+  {
+    "Version": "250440.1.0",
+    "Id": 14,
+    "GroupId": 3,
+    "ConditionTextKey": -1014750665,
+    "ConditionType": "CostumePossession",
+    "ConditionMasterId": 32002,
+    "ConditionValue": 0,
+    "Rate": 200
+  },
+  {
+    "Version": "250440.1.0",
+    "Id": 15,
+    "GroupId": 3,
+    "ConditionTextKey": 719816450,
+    "ConditionType": "CostumePossession",
+    "ConditionMasterId": 34002,
+    "ConditionValue": 0,
+    "Rate": 200
+  },
+  {
+    "Version": "250440.1.0",
+    "Id": 16,
+    "GroupId": 3,
+    "ConditionTextKey": -1276193096,
+    "ConditionType": "CostumePossession",
+    "ConditionMasterId": 37002,
+    "ConditionValue": 0,
+    "Rate": 200
+  },
+  {
+    "Version": "250450.1.0",
+    "Id": 17,
+    "GroupId": 4,
+    "ConditionTextKey": -1266478431,
+    "ConditionType": "CostumePossession",
+    "ConditionMasterId": 33002,
+    "ConditionValue": 0,
+    "Rate": 200
+  },
+  {
+    "Version": "250450.1.0",
+    "Id": 18,
+    "GroupId": 4,
+    "ConditionTextKey": 1575008148,
+    "ConditionType": "CostumePossession",
+    "ConditionMasterId": 35002,
+    "ConditionValue": 0,
+    "Rate": 200
+  },
+  {
+    "Version": "250450.1.0",
+    "Id": 19,
+    "GroupId": 4,
+    "ConditionTextKey": -991304146,
+    "ConditionType": "CostumePossession",
+    "ConditionMasterId": 36002,
+    "ConditionValue": 0,
+    "Rate": 200
+  },
+  {
+    "Version": "250450.1.0",
+    "Id": 20,
+    "GroupId": 4,
+    "ConditionTextKey": 1519219597,
+    "ConditionType": "CostumePossession",
+    "ConditionMasterId": 31002,
+    "ConditionValue": 0,
+    "Rate": 50
+  },
+  {
+    "Version": "250450.1.0",
+    "Id": 21,
+    "GroupId": 4,
+    "ConditionTextKey": -1014750665,
+    "ConditionType": "CostumePossession",
+    "ConditionMasterId": 32002,
+    "ConditionValue": 0,
+    "Rate": 50
+  },
+  {
+    "Version": "250450.1.0",
+    "Id": 22,
+    "GroupId": 4,
+    "ConditionTextKey": 719816450,
+    "ConditionType": "CostumePossession",
+    "ConditionMasterId": 34002,
+    "ConditionValue": 0,
+    "Rate": 50
+  },
+  {
+    "Version": "250450.1.0",
+    "Id": 23,
+    "GroupId": 4,
+    "ConditionTextKey": -1276193096,
+    "ConditionType": "CostumePossession",
+    "ConditionMasterId": 37002,
+    "ConditionValue": 0,
+    "Rate": 50
+  },
+  {
+    "Version": "250610.1.0",
+    "Id": 24,
+    "GroupId": 7,
+    "ConditionTextKey": -1794792763,
+    "ConditionType": "CostumePossession",
+    "ConditionMasterId": 31004,
+    "ConditionValue": 0,
+    "Rate": 200
+  },
+  {
+    "Version": "250610.1.0",
+    "Id": 25,
+    "GroupId": 7,
+    "ConditionTextKey": 202175359,
+    "ConditionType": "CostumePossession",
+    "ConditionMasterId": 32004,
+    "ConditionValue": 0,
+    "Rate": 200
+  },
+  {
+    "Version": "250610.1.0",
+    "Id": 26,
+    "GroupId": 7,
+    "ConditionTextKey": -445688246,
+    "ConditionType": "CostumePossession",
+    "ConditionMasterId": 34004,
+    "ConditionValue": 0,
+    "Rate": 200
+  },
+  {
+    "Version": "250610.1.0",
+    "Id": 27,
+    "GroupId": 7,
+    "ConditionTextKey": 190920550,
+    "ConditionType": "CostumePossession",
+    "ConditionMasterId": 36004,
+    "ConditionValue": 0,
+    "Rate": 200
+  },
+  {
+    "Version": "250630.1.0",
+    "Id": 28,
+    "GroupId": 8,
+    "ConditionTextKey": 2064368617,
+    "ConditionType": "CostumePossession",
+    "ConditionMasterId": 33004,
+    "ConditionValue": 0,
+    "Rate": 200
+  },
+  {
+    "Version": "250630.1.0",
+    "Id": 29,
+    "GroupId": 8,
+    "ConditionTextKey": -1838651684,
+    "ConditionType": "CostumePossession",
+    "ConditionMasterId": 35004,
+    "ConditionValue": 0,
+    "Rate": 200
+  },
+  {
+    "Version": "250630.1.0",
+    "Id": 30,
+    "GroupId": 8,
+    "ConditionTextKey": 2087061488,
+    "ConditionType": "CostumePossession",
+    "ConditionMasterId": 37004,
+    "ConditionValue": 0,
+    "Rate": 200
+  },
+  {
+    "Version": "250630.1.0",
+    "Id": 31,
+    "GroupId": 8,
+    "ConditionTextKey": -1794792763,
+    "ConditionType": "CostumePossession",
+    "ConditionMasterId": 31004,
+    "ConditionValue": 0,
+    "Rate": 50
+  },
+  {
+    "Version": "250630.1.0",
+    "Id": 32,
+    "GroupId": 8,
+    "ConditionTextKey": 202175359,
+    "ConditionType": "CostumePossession",
+    "ConditionMasterId": 32004,
+    "ConditionValue": 0,
+    "Rate": 50
+  },
+  {
+    "Version": "250630.1.0",
+    "Id": 33,
+    "GroupId": 8,
+    "ConditionTextKey": -445688246,
+    "ConditionType": "CostumePossession",
+    "ConditionMasterId": 34004,
+    "ConditionValue": 0,
+    "Rate": 50
+  },
+  {
+    "Version": "250630.1.0",
+    "Id": 34,
+    "GroupId": 8,
+    "ConditionTextKey": 190920550,
+    "ConditionType": "CostumePossession",
+    "ConditionMasterId": 36004,
+    "ConditionValue": 0,
+    "Rate": 50
+  },
+  {
+    "Version": "250530.1.0",
+    "Id": 35,
+    "GroupId": 5,
+    "ConditionTextKey": -707338055,
+    "ConditionType": "CostumePossession",
+    "ConditionMasterId": 31003,
+    "ConditionValue": 0,
+    "Rate": 200
+  },
+  {
+    "Version": "250530.1.0",
+    "Id": 36,
+    "GroupId": 5,
+    "ConditionTextKey": 1004044693,
+    "ConditionType": "CostumePossession",
+    "ConditionMasterId": 33003,
+    "ConditionValue": 0,
+    "Rate": 200
+  },
+  {
+    "Version": "250530.1.0",
+    "Id": 37,
+    "GroupId": 5,
+    "ConditionTextKey": 1269986586,
+    "ConditionType": "CostumePossession",
+    "ConditionMasterId": 36003,
+    "ConditionValue": 0,
+    "Rate": 200
+  },
+  {
+    "Version": "250530.1.0",
+    "Id": 38,
+    "GroupId": 5,
+    "ConditionTextKey": 1018512780,
+    "ConditionType": "CostumePossession",
+    "ConditionMasterId": 37003,
+    "ConditionValue": 0,
+    "Rate": 200
+  },
+  {
+    "Version": "250550.1.0",
+    "Id": 39,
+    "GroupId": 6,
+    "ConditionTextKey": 1289728259,
+    "ConditionType": "CostumePossession",
+    "ConditionMasterId": 32003,
+    "ConditionValue": 0,
+    "Rate": 200
+  },
+  {
+    "Version": "250550.1.0",
+    "Id": 40,
+    "GroupId": 6,
+    "ConditionTextKey": -759487328,
+    "ConditionType": "CostumePossession",
+    "ConditionMasterId": 35003,
+    "ConditionValue": 0,
+    "Rate": 200
+  },
+  {
+    "Version": "250550.1.0",
+    "Id": 41,
+    "GroupId": 6,
+    "ConditionTextKey": -1514400714,
+    "ConditionType": "CostumePossession",
+    "ConditionMasterId": 34003,
+    "ConditionValue": 0,
+    "Rate": 200
+  },
+  {
+    "Version": "250550.1.0",
+    "Id": 42,
+    "GroupId": 6,
+    "ConditionTextKey": -707338055,
+    "ConditionType": "CostumePossession",
+    "ConditionMasterId": 31003,
+    "ConditionValue": 0,
+    "Rate": 50
+  },
+  {
+    "Version": "250550.1.0",
+    "Id": 43,
+    "GroupId": 6,
+    "ConditionTextKey": 1004044693,
+    "ConditionType": "CostumePossession",
+    "ConditionMasterId": 33003,
+    "ConditionValue": 0,
+    "Rate": 50
+  },
+  {
+    "Version": "250550.1.0",
+    "Id": 44,
+    "GroupId": 6,
+    "ConditionTextKey": 1269986586,
+    "ConditionType": "CostumePossession",
+    "ConditionMasterId": 36003,
+    "ConditionValue": 0,
+    "Rate": 50
+  },
+  {
+    "Version": "250550.1.0",
+    "Id": 45,
+    "GroupId": 6,
+    "ConditionTextKey": 1018512780,
+    "ConditionType": "CostumePossession",
+    "ConditionMasterId": 37003,
+    "ConditionValue": 0,
+    "Rate": 50
+  },
+  {
+    "Version": "250710.1.0",
+    "Id": 46,
+    "GroupId": 9,
+    "ConditionTextKey": 2014166624,
+    "ConditionType": "CostumePossession",
+    "ConditionMasterId": 31005,
+    "ConditionValue": 0,
+    "Rate": 200
+  },
+  {
+    "Version": "250710.1.0",
+    "Id": 47,
+    "GroupId": 9,
+    "ConditionTextKey": -1778131124,
+    "ConditionType": "CostumePossession",
+    "ConditionMasterId": 33005,
+    "ConditionValue": 0,
+    "Rate": 200
+  },
+  {
+    "Version": "250710.1.0",
+    "Id": 48,
+    "GroupId": 9,
+    "ConditionTextKey": 2137029241,
+    "ConditionType": "CostumePossession",
+    "ConditionMasterId": 35005,
+    "ConditionValue": 0,
+    "Rate": 200
+  },
+  {
+    "Version": "250710.1.0",
+    "Id": 49,
+    "GroupId": 9,
+    "ConditionTextKey": -1855055019,
+    "ConditionType": "CostumePossession",
+    "ConditionMasterId": 37005,
+    "ConditionValue": 0,
+    "Rate": 200
+  },
+  {
+    "Version": "250730.1.0",
+    "Id": 50,
+    "GroupId": 10,
+    "ConditionTextKey": -519770150,
+    "ConditionType": "CostumePossession",
+    "ConditionMasterId": 32005,
+    "ConditionValue": 0,
+    "Rate": 200
+  },
+  {
+    "Version": "250730.1.0",
+    "Id": 51,
+    "GroupId": 10,
+    "ConditionTextKey": 140987119,
+    "ConditionType": "CostumePossession",
+    "ConditionMasterId": 34005,
+    "ConditionValue": 0,
+    "Rate": 200
+  },
+  {
+    "Version": "250730.1.0",
+    "Id": 52,
+    "GroupId": 10,
+    "ConditionTextKey": -429315133,
+    "ConditionType": "CostumePossession",
+    "ConditionMasterId": 36005,
+    "ConditionValue": 0,
+    "Rate": 200
+  },
+  {
+    "Version": "250730.1.0",
+    "Id": 53,
+    "GroupId": 10,
+    "ConditionTextKey": 2014166624,
+    "ConditionType": "CostumePossession",
+    "ConditionMasterId": 31005,
+    "ConditionValue": 0,
+    "Rate": 50
+  },
+  {
+    "Version": "250730.1.0",
+    "Id": 54,
+    "GroupId": 10,
+    "ConditionTextKey": -1778131124,
+    "ConditionType": "CostumePossession",
+    "ConditionMasterId": 33005,
+    "ConditionValue": 0,
+    "Rate": 50
+  },
+  {
+    "Version": "250730.1.0",
+    "Id": 55,
+    "GroupId": 10,
+    "ConditionTextKey": 2137029241,
+    "ConditionType": "CostumePossession",
+    "ConditionMasterId": 35005,
+    "ConditionValue": 0,
+    "Rate": 50
+  },
+  {
+    "Version": "250730.1.0",
+    "Id": 56,
+    "GroupId": 10,
+    "ConditionTextKey": -1855055019,
+    "ConditionType": "CostumePossession",
+    "ConditionMasterId": 37005,
+    "ConditionValue": 0,
+    "Rate": 50
+  },
+  {
+    "Version": "250810.1.0",
+    "Id": 1101,
+    "GroupId": 1011,
+    "ConditionTextKey": 1182127919,
+    "ConditionType": "CostumePossession",
+    "ConditionMasterId": 31006,
+    "ConditionValue": 0,
+    "Rate": 200
+  },
+  {
+    "Version": "250810.1.0",
+    "Id": 1102,
+    "GroupId": 1011,
+    "ConditionTextKey": -545487211,
+    "ConditionType": "CostumePossession",
+    "ConditionMasterId": 32006,
+    "ConditionValue": 0,
+    "Rate": 200
+  },
+  {
+    "Version": "250810.1.0",
+    "Id": 1103,
+    "GroupId": 1011,
+    "ConditionTextKey": -669957492,
+    "ConditionType": "CostumePossession",
+    "ConditionMasterId": 36006,
+    "ConditionValue": 0,
+    "Rate": 200
+  },
+  {
+    "Version": "250810.1.0",
+    "Id": 1104,
+    "GroupId": 1011,
+    "ConditionTextKey": -1357483494,
+    "ConditionType": "CostumePossession",
+    "ConditionMasterId": 37006,
+    "ConditionValue": 0,
+    "Rate": 200
+  },
+  {
+    "Version": "250810.1.0",
+    "Id": 1201,
+    "GroupId": 1012,
+    "ConditionTextKey": -1468287485,
+    "ConditionType": "CostumePossession",
+    "ConditionMasterId": 33006,
+    "ConditionValue": 0,
+    "Rate": 200
+  },
+  {
+    "Version": "250820.1.0",
+    "Id": 1202,
+    "GroupId": 1012,
+    "ConditionTextKey": 1092096822,
+    "ConditionType": "CostumePossession",
+    "ConditionMasterId": 35006,
+    "ConditionValue": 0,
+    "Rate": 200
+  },
+  {
+    "Version": "250820.1.0",
+    "Id": 1203,
+    "GroupId": 1012,
+    "ConditionTextKey": 908010400,
+    "ConditionType": "CostumePossession",
+    "ConditionMasterId": 34006,
+    "ConditionValue": 0,
+    "Rate": 200
+  },
+  {
+    "Version": "250820.1.0",
+    "Id": 1204,
+    "GroupId": 1012,
+    "ConditionTextKey": 1182127919,
+    "ConditionType": "CostumePossession",
+    "ConditionMasterId": 31006,
+    "ConditionValue": 0,
+    "Rate": 50
+  },
+  {
+    "Version": "250820.1.0",
+    "Id": 1205,
+    "GroupId": 1012,
+    "ConditionTextKey": -545487211,
+    "ConditionType": "CostumePossession",
+    "ConditionMasterId": 32006,
+    "ConditionValue": 0,
+    "Rate": 50
+  },
+  {
+    "Version": "250820.1.0",
+    "Id": 1206,
+    "GroupId": 1012,
+    "ConditionTextKey": -669957492,
+    "ConditionType": "CostumePossession",
+    "ConditionMasterId": 36006,
+    "ConditionValue": 0,
+    "Rate": 50
+  },
+  {
+    "Version": "250820.1.0",
+    "Id": 1207,
+    "GroupId": 1012,
+    "ConditionTextKey": -1357483494,
+    "ConditionType": "CostumePossession",
+    "ConditionMasterId": 37006,
+    "ConditionValue": 0,
+    "Rate": 50
+  },
+  {
+    "Version": "250910.1.0",
+    "Id": 1301,
+    "GroupId": 1013,
+    "ConditionTextKey": -1107560399,
+    "ConditionType": "CostumePossession",
+    "ConditionMasterId": 31007,
+    "ConditionValue": 0,
+    "Rate": 200
+  },
+  {
+    "Version": "250910.1.0",
+    "Id": 1302,
+    "GroupId": 1013,
+    "ConditionTextKey": 1408604445,
+    "ConditionType": "CostumePossession",
+    "ConditionMasterId": 33007,
+    "ConditionValue": 0,
+    "Rate": 200
+  },
+  {
+    "Version": "250910.1.0",
+    "Id": 1303,
+    "GroupId": 1013,
+    "ConditionTextKey": -846132034,
+    "ConditionType": "CostumePossession",
+    "ConditionMasterId": 34007,
+    "ConditionValue": 0,
+    "Rate": 200
+  },
+  {
+    "Version": "250910.1.0",
+    "Id": 1304,
+    "GroupId": 1013,
+    "ConditionTextKey": 1419271428,
+    "ConditionType": "CostumePossession",
+    "ConditionMasterId": 37007,
+    "ConditionValue": 0,
+    "Rate": 200
+  },
+  {
+    "Version": "250930.1.0",
+    "Id": 1401,
+    "GroupId": 1014,
+    "ConditionTextKey": 619882891,
+    "ConditionType": "CostumePossession",
+    "ConditionMasterId": 32007,
+    "ConditionValue": 0,
+    "Rate": 200
+  },
+  {
+    "Version": "250930.1.0",
+    "Id": 1402,
+    "GroupId": 1014,
+    "ConditionTextKey": -1164559320,
+    "ConditionType": "CostumePossession",
+    "ConditionMasterId": 35007,
+    "ConditionValue": 0,
+    "Rate": 200
+  },
+  {
+    "Version": "250930.1.0",
+    "Id": 1403,
+    "GroupId": 1014,
+    "ConditionTextKey": 597650834,
+    "ConditionType": "CostumePossession",
+    "ConditionMasterId": 36007,
+    "ConditionValue": 0,
+    "Rate": 200
+  },
+  {
+    "Version": "250930.1.0",
+    "Id": 1404,
+    "GroupId": 1014,
+    "ConditionTextKey": -1107560399,
+    "ConditionType": "CostumePossession",
+    "ConditionMasterId": 31007,
+    "ConditionValue": 0,
+    "Rate": 50
+  },
+  {
+    "Version": "250930.1.0",
+    "Id": 1405,
+    "GroupId": 1014,
+    "ConditionTextKey": 1408604445,
+    "ConditionType": "CostumePossession",
+    "ConditionMasterId": 33007,
+    "ConditionValue": 0,
+    "Rate": 50
+  },
+  {
+    "Version": "250930.1.0",
+    "Id": 1406,
+    "GroupId": 1014,
+    "ConditionTextKey": -846132034,
+    "ConditionType": "CostumePossession",
+    "ConditionMasterId": 34007,
+    "ConditionValue": 0,
+    "Rate": 50
+  },
+  {
+    "Version": "250930.1.0",
+    "Id": 1407,
+    "GroupId": 1014,
+    "ConditionTextKey": 1419271428,
+    "ConditionType": "CostumePossession",
+    "ConditionMasterId": 37007,
+    "ConditionValue": 0,
+    "Rate": 50
+  },
+  {
+    "Version": "251010.1.0",
+    "Id": 1501,
+    "GroupId": 1015,
+    "ConditionTextKey": -1108635310,
+    "ConditionType": "CostumePossession",
+    "ConditionMasterId": 31008,
+    "ConditionValue": 0,
+    "Rate": 200
+  },
+  {
+    "Version": "251010.1.0",
+    "Id": 1502,
+    "GroupId": 1015,
+    "ConditionTextKey": 618840296,
+    "ConditionType": "CostumePossession",
+    "ConditionMasterId": 32008,
+    "ConditionValue": 0,
+    "Rate": 200
+  },
+  {
+    "Version": "251020.1.0",
+    "Id": 1601,
+    "GroupId": 1015,
+    "ConditionTextKey": 1407578238,
+    "ConditionType": "CostumePossession",
+    "ConditionMasterId": 33008,
+    "ConditionValue": 0,
+    "Rate": 200
+  },
+  {
+    "Version": "251020.1.0",
+    "Id": 1602,
+    "GroupId": 1015,
+    "ConditionTextKey": -1165601461,
+    "ConditionType": "CostumePossession",
+    "ConditionMasterId": 35008,
+    "ConditionValue": 0,
+    "Rate": 200
+  },
+  {
+    "Version": "251020.1.0",
+    "Id": 1603,
+    "GroupId": 1015,
+    "ConditionTextKey": -847157795,
+    "ConditionType": "CostumePossession",
+    "ConditionMasterId": 34008,
+    "ConditionValue": 0,
+    "Rate": 200
+  },
+  {
+    "Version": "251010.1.0",
+    "Id": 1503,
+    "GroupId": 1015,
+    "ConditionTextKey": 596575473,
+    "ConditionType": "CostumePossession",
+    "ConditionMasterId": 36008,
+    "ConditionValue": 0,
+    "Rate": 200
+  },
+  {
+    "Version": "251010.1.0",
+    "Id": 1504,
+    "GroupId": 1015,
+    "ConditionTextKey": 1418212455,
+    "ConditionType": "CostumePossession",
+    "ConditionMasterId": 37008,
+    "ConditionValue": 0,
+    "Rate": 200
+  },
+  {
+    "Version": "251030.1.0",
+    "Id": 1701,
+    "GroupId": 1017,
+    "ConditionTextKey": 1507043371,
+    "ConditionType": "CostumePossession",
+    "ConditionMasterId": 31009,
+    "ConditionValue": 0,
+    "Rate": 200
+  },
+  {
+    "Version": "251030.1.0",
+    "Id": 1702,
+    "GroupId": 1017,
+    "ConditionTextKey": -1210201849,
+    "ConditionType": "CostumePossession",
+    "ConditionMasterId": 33009,
+    "ConditionValue": 0,
+    "Rate": 200
+  },
+  {
+    "Version": "251030.1.0",
+    "Id": 1703,
+    "GroupId": 1017,
+    "ConditionTextKey": -944292472,
+    "ConditionType": "CostumePossession",
+    "ConditionMasterId": 36009,
+    "ConditionValue": 0,
+    "Rate": 200
+  },
+  {
+    "Version": "251030.1.0",
+    "Id": 1704,
+    "GroupId": 1017,
+    "ConditionTextKey": -1330639586,
+    "ConditionType": "CostumePossession",
+    "ConditionMasterId": 37009,
+    "ConditionValue": 0,
+    "Rate": 200
+  },
+  {
+    "Version": "251110.1.0",
+    "Id": 1801,
+    "GroupId": 1018,
+    "ConditionTextKey": -1059391087,
+    "ConditionType": "CostumePossession",
+    "ConditionMasterId": 32009,
+    "ConditionValue": 0,
+    "Rate": 200
+  },
+  {
+    "Version": "251110.1.0",
+    "Id": 1802,
+    "GroupId": 1018,
+    "ConditionTextKey": 1589537842,
+    "ConditionType": "CostumePossession",
+    "ConditionMasterId": 35009,
+    "ConditionValue": 0,
+    "Rate": 200
+  },
+  {
+    "Version": "251110.1.0",
+    "Id": 1803,
+    "GroupId": 1018,
+    "ConditionTextKey": 700013732,
+    "ConditionType": "CostumePossession",
+    "ConditionMasterId": 34009,
+    "ConditionValue": 0,
+    "Rate": 200
+  },
+  {
+    "Version": "251110.1.0",
+    "Id": 1804,
+    "GroupId": 1018,
+    "ConditionTextKey": 1507043371,
+    "ConditionType": "CostumePossession",
+    "ConditionMasterId": 31009,
+    "ConditionValue": 0,
+    "Rate": 50
+  },
+  {
+    "Version": "251110.1.0",
+    "Id": 1805,
+    "GroupId": 1018,
+    "ConditionTextKey": -1210201849,
+    "ConditionType": "CostumePossession",
+    "ConditionMasterId": 33009,
+    "ConditionValue": 0,
+    "Rate": 50
+  },
+  {
+    "Version": "251110.1.0",
+    "Id": 1806,
+    "GroupId": 1018,
+    "ConditionTextKey": -944292472,
+    "ConditionType": "CostumePossession",
+    "ConditionMasterId": 36009,
+    "ConditionValue": 0,
+    "Rate": 50
+  },
+  {
+    "Version": "251110.1.0",
+    "Id": 1807,
+    "GroupId": 1018,
+    "ConditionTextKey": -1330639586,
+    "ConditionType": "CostumePossession",
+    "ConditionMasterId": 37009,
+    "ConditionValue": 0,
+    "Rate": 50
+  },
+  {
+    "Version": "251210.1.0",
+    "Id": 1901,
+    "GroupId": 1019,
+    "ConditionTextKey": -1832702577,
+    "ConditionType": "CostumePossession",
+    "ConditionMasterId": 31010,
+    "ConditionValue": 0,
+    "Rate": 200
+  },
+  {
+    "Version": "251210.1.0",
+    "Id": 1902,
+    "GroupId": 1019,
+    "ConditionTextKey": 197819445,
+    "ConditionType": "CostumePossession",
+    "ConditionMasterId": 32010,
+    "ConditionValue": 0,
+    "Rate": 200
+  },
+  {
+    "Version": "251210.1.0",
+    "Id": 1903,
+    "GroupId": 1019,
+    "ConditionTextKey": -1783699050,
+    "ConditionType": "CostumePossession",
+    "ConditionMasterId": 35010,
+    "ConditionValue": 0,
+    "Rate": 200
+  },
+  {
+    "Version": "251210.1.0",
+    "Id": 1904,
+    "GroupId": 1019,
+    "ConditionTextKey": 212318252,
+    "ConditionType": "CostumePossession",
+    "ConditionMasterId": 36010,
+    "ConditionValue": 0,
+    "Rate": 200
+  },
+  {
+    "Version": "251230.1.0",
+    "Id": 2001,
+    "GroupId": 1020,
+    "ConditionTextKey": 2093829283,
+    "ConditionType": "CostumePossession",
+    "ConditionMasterId": 33010,
+    "ConditionValue": 0,
+    "Rate": 200
+  },
+  {
+    "Version": "251230.1.0",
+    "Id": 2002,
+    "GroupId": 1020,
+    "ConditionTextKey": -492185344,
+    "ConditionType": "CostumePossession",
+    "ConditionMasterId": 34010,
+    "ConditionValue": 0,
+    "Rate": 200
+  },
+  {
+    "Version": "251230.1.0",
+    "Id": 2003,
+    "GroupId": 1020,
+    "ConditionTextKey": 2074118330,
+    "ConditionType": "CostumePossession",
+    "ConditionMasterId": 37010,
+    "ConditionValue": 0,
+    "Rate": 200
+  },
+  {
+    "Version": "251230.1.0",
+    "Id": 2004,
+    "GroupId": 1020,
+    "ConditionTextKey": -1832702577,
+    "ConditionType": "CostumePossession",
+    "ConditionMasterId": 31010,
+    "ConditionValue": 0,
+    "Rate": 50
+  },
+  {
+    "Version": "251230.1.0",
+    "Id": 2005,
+    "GroupId": 1020,
+    "ConditionTextKey": 197819445,
+    "ConditionType": "CostumePossession",
+    "ConditionMasterId": 32010,
+    "ConditionValue": 0,
+    "Rate": 50
+  },
+  {
+    "Version": "251230.1.0",
+    "Id": 2006,
+    "GroupId": 1020,
+    "ConditionTextKey": -1783699050,
+    "ConditionType": "CostumePossession",
+    "ConditionMasterId": 35010,
+    "ConditionValue": 0,
+    "Rate": 50
+  },
+  {
+    "Version": "251230.1.0",
+    "Id": 2007,
+    "GroupId": 1020,
+    "ConditionTextKey": 212318252,
+    "ConditionType": "CostumePossession",
+    "ConditionMasterId": 36010,
+    "ConditionValue": 0,
+    "Rate": 50
+  },
+  {
+    "Version": "260110.1.0",
+    "Id": 2101,
+    "GroupId": 1021,
+    "ConditionTextKey": -254136410,
+    "ConditionType": "CostumePossession",
+    "ConditionMasterId": 31011,
+    "ConditionValue": 0,
+    "Rate": 200
+  },
+  {
+    "Version": "260110.1.0",
+    "Id": 2102,
+    "GroupId": 1021,
+    "ConditionTextKey": 1775468060,
+    "ConditionType": "CostumePossession",
+    "ConditionMasterId": 32011,
+    "ConditionValue": 0,
+    "Rate": 200
+  },
+  {
+    "Version": "260110.1.0",
+    "Id": 2103,
+    "GroupId": 1021,
+    "ConditionTextKey": 517230218,
+    "ConditionType": "CostumePossession",
+    "ConditionMasterId": 33011,
+    "ConditionValue": 0,
+    "Rate": 200
+  },
+  {
+    "Version": "260110.1.0",
+    "Id": 2104,
+    "GroupId": 1021,
+    "ConditionTextKey": -138941505,
+    "ConditionType": "CostumePossession",
+    "ConditionMasterId": 35011,
+    "ConditionValue": 0,
+    "Rate": 200
+  },
+  {
+    "Version": "260110.1.0",
+    "Id": 2105,
+    "GroupId": 1021,
+    "ConditionTextKey": -2135893207,
+    "ConditionType": "CostumePossession",
+    "ConditionMasterId": 34011,
+    "ConditionValue": 0,
+    "Rate": 200
+  },
+  {
+    "Version": "260110.1.0",
+    "Id": 2106,
+    "GroupId": 1021,
+    "ConditionTextKey": 1857993221,
+    "ConditionType": "CostumePossession",
+    "ConditionMasterId": 36011,
+    "ConditionValue": 0,
+    "Rate": 200
+  },
+  {
+    "Version": "260110.1.0",
+    "Id": 2107,
+    "GroupId": 1021,
+    "ConditionTextKey": 431590035,
+    "ConditionType": "CostumePossession",
+    "ConditionMasterId": 37011,
+    "ConditionValue": 0,
+    "Rate": 200
+  },
+  {
+    "Version": "260210.1.0",
+    "Id": 2201,
+    "GroupId": 1022,
+    "ConditionTextKey": 988287971,
+    "ConditionType": "CostumePossession",
+    "ConditionMasterId": 31012,
+    "ConditionValue": 0,
+    "Rate": 200
+  },
+  {
+    "Version": "260210.1.0",
+    "Id": 2202,
+    "GroupId": 1022,
+    "ConditionTextKey": -1545518503,
+    "ConditionType": "CostumePossession",
+    "ConditionMasterId": 32012,
+    "ConditionValue": 0,
+    "Rate": 200
+  },
+  {
+    "Version": "260210.1.0",
+    "Id": 2203,
+    "GroupId": 1022,
+    "ConditionTextKey": -1534294464,
+    "ConditionType": "CostumePossession",
+    "ConditionMasterId": 36012,
+    "ConditionValue": 0,
+    "Rate": 200
+  },
+  {
+    "Version": "260210.1.0",
+    "Id": 2204,
+    "GroupId": 1022,
+    "ConditionTextKey": -745818410,
+    "ConditionType": "CostumePossession",
+    "ConditionMasterId": 37012,
+    "ConditionValue": 0,
+    "Rate": 200
+  },
+  {
+    "Version": "260230.1.0",
+    "Id": 2301,
+    "GroupId": 1023,
+    "ConditionTextKey": -723094833,
+    "ConditionType": "CostumePossession",
+    "ConditionMasterId": 33012,
+    "ConditionValue": 0,
+    "Rate": 200
+  },
+  {
+    "Version": "260230.1.0",
+    "Id": 2302,
+    "GroupId": 1023,
+    "ConditionTextKey": 1032181754,
+    "ConditionType": "CostumePossession",
+    "ConditionMasterId": 35012,
+    "ConditionValue": 0,
+    "Rate": 200
+  },
+  {
+    "Version": "260230.1.0",
+    "Id": 2303,
+    "GroupId": 1023,
+    "ConditionTextKey": 1250092908,
+    "ConditionType": "CostumePossession",
+    "ConditionMasterId": 34012,
+    "ConditionValue": 0,
+    "Rate": 200
+  },
+  {
+    "Version": "260230.1.0",
+    "Id": 2304,
+    "GroupId": 1023,
+    "ConditionTextKey": 988287971,
+    "ConditionType": "CostumePossession",
+    "ConditionMasterId": 31012,
+    "ConditionValue": 0,
+    "Rate": 50
+  },
+  {
+    "Version": "260230.1.0",
+    "Id": 2305,
+    "GroupId": 1023,
+    "ConditionTextKey": -1545518503,
+    "ConditionType": "CostumePossession",
+    "ConditionMasterId": 32012,
+    "ConditionValue": 0,
+    "Rate": 50
+  },
+  {
+    "Version": "260230.1.0",
+    "Id": 2306,
+    "GroupId": 1023,
+    "ConditionTextKey": -1534294464,
+    "ConditionType": "CostumePossession",
+    "ConditionMasterId": 36012,
+    "ConditionValue": 0,
+    "Rate": 50
+  },
+  {
+    "Version": "260230.1.0",
+    "Id": 2307,
+    "GroupId": 1023,
+    "ConditionTextKey": -745818410,
+    "ConditionType": "CostumePossession",
+    "ConditionMasterId": 37012,
+    "ConditionValue": 0,
+    "Rate": 50
+  },
+  {
+    "Version": "260310.1.0",
+    "Id": 2401,
+    "GroupId": 1024,
+    "ConditionTextKey": -1993767873,
+    "ConditionType": "CostumePossession",
+    "ConditionMasterId": 31013,
+    "ConditionValue": 0,
+    "Rate": 200
+  },
+  {
+    "Version": "260310.1.0",
+    "Id": 2402,
+    "GroupId": 1024,
+    "ConditionTextKey": 270587269,
+    "ConditionType": "CostumePossession",
+    "ConditionMasterId": 32013,
+    "ConditionValue": 0,
+    "Rate": 200
+  },
+  {
+    "Version": "260310.1.0",
+    "Id": 2403,
+    "GroupId": 1024,
+    "ConditionTextKey": -113020752,
+    "ConditionType": "CostumePossession",
+    "ConditionMasterId": 34013,
+    "ConditionValue": 0,
+    "Rate": 200
+  },
+  {
+    "Version": "260310.1.0",
+    "Id": 2404,
+    "GroupId": 1024,
+    "ConditionTextKey": 1615470858,
+    "ConditionType": "CostumePossession",
+    "ConditionMasterId": 37013,
+    "ConditionValue": 0,
+    "Rate": 200
+  },
+  {
+    "Version": "260330.1.0",
+    "Id": 2501,
+    "GroupId": 1025,
+    "ConditionTextKey": 1730667795,
+    "ConditionType": "CostumePossession",
+    "ConditionMasterId": 33013,
+    "ConditionValue": 0,
+    "Rate": 200
+  },
+  {
+    "Version": "260330.1.0",
+    "Id": 2502,
+    "GroupId": 1025,
+    "ConditionTextKey": -1908129754,
+    "ConditionType": "CostumePossession",
+    "ConditionMasterId": 35013,
+    "ConditionValue": 0,
+    "Rate": 200
+  },
+  {
+    "Version": "260330.1.0",
+    "Id": 2503,
+    "GroupId": 1025,
+    "ConditionTextKey": 390926748,
+    "ConditionType": "CostumePossession",
+    "ConditionMasterId": 36013,
+    "ConditionValue": 0,
+    "Rate": 200
+  },
+  {
+    "Version": "260330.1.0",
+    "Id": 2504,
+    "GroupId": 1025,
+    "ConditionTextKey": -1993767873,
+    "ConditionType": "CostumePossession",
+    "ConditionMasterId": 31013,
+    "ConditionValue": 0,
+    "Rate": 50
+  },
+  {
+    "Version": "260330.1.0",
+    "Id": 2505,
+    "GroupId": 1025,
+    "ConditionTextKey": 270587269,
+    "ConditionType": "CostumePossession",
+    "ConditionMasterId": 32013,
+    "ConditionValue": 0,
+    "Rate": 50
+  },
+  {
+    "Version": "260330.1.0",
+    "Id": 2506,
+    "GroupId": 1025,
+    "ConditionTextKey": -113020752,
+    "ConditionType": "CostumePossession",
+    "ConditionMasterId": 34013,
+    "ConditionValue": 0,
+    "Rate": 50
+  },
+  {
+    "Version": "260330.1.0",
+    "Id": 2507,
+    "GroupId": 1025,
+    "ConditionTextKey": 1615470858,
+    "ConditionType": "CostumePossession",
+    "ConditionMasterId": 37013,
+    "ConditionValue": 0,
+    "Rate": 50
+  },
+  {
+    "Version": "260410.1.0",
+    "Id": 2601,
+    "GroupId": 1026,
+    "ConditionTextKey": -2013572570,
+    "ConditionType": "CostumePossession",
+    "ConditionMasterId": 31014,
+    "ConditionValue": 0,
+    "Rate": 200
+  },
+  {
+    "Version": "260410.1.0",
+    "Id": 2602,
+    "GroupId": 1026,
+    "ConditionTextKey": 1777677066,
+    "ConditionType": "CostumePossession",
+    "ConditionMasterId": 33014,
+    "ConditionValue": 0,
+    "Rate": 200
+  },
+  {
+    "Version": "260410.1.0",
+    "Id": 2603,
+    "GroupId": 1026,
+    "ConditionTextKey": -2137614785,
+    "ConditionType": "CostumePossession",
+    "ConditionMasterId": 35014,
+    "ConditionValue": 0,
+    "Rate": 200
+  },
+  {
+    "Version": "260410.1.0",
+    "Id": 2604,
+    "GroupId": 1026,
+    "ConditionTextKey": 1855518483,
+    "ConditionType": "CostumePossession",
+    "ConditionMasterId": 37014,
+    "ConditionValue": 0,
+    "Rate": 200
+  }
+]

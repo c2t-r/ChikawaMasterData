@@ -1,0 +1,42 @@
+[
+  {
+    "Version": "250850.1.0",
+    "Id": 1,
+    "Number": 1,
+    "IsOther": false,
+    "IsNone": false,
+    "Weight": 40
+  },
+  {
+    "Version": "250850.1.0",
+    "Id": 2,
+    "Number": 2,
+    "IsOther": false,
+    "IsNone": false,
+    "Weight": 30
+  },
+  {
+    "Version": "250850.1.0",
+    "Id": 3,
+    "Number": 3,
+    "IsOther": false,
+    "IsNone": false,
+    "Weight": 20
+  },
+  {
+    "Version": "250850.1.0",
+    "Id": 4,
+    "Number": 4,
+    "IsOther": true,
+    "IsNone": false,
+    "Weight": 5
+  },
+  {
+    "Version": "250850.1.0",
+    "Id": 5,
+    "Number": 5,
+    "IsOther": false,
+    "IsNone": true,
+    "Weight": 5
+  }
+]

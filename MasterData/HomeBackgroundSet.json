@@ -1,0 +1,155 @@
+[
+  {
+    "Version": "250330.1.0",
+    "Id": 1,
+    "ViewConditionId": 0,
+    "Type": "Indoor",
+    "SizeId": 1,
+    "NameTextKey": 750570264,
+    "Rarity": "SuperRare"
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 2,
+    "ViewConditionId": 0,
+    "Type": "Outdoor",
+    "SizeId": 2,
+    "NameTextKey": -1246389598,
+    "Rarity": "SuperRare"
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 3,
+    "ViewConditionId": 0,
+    "Type": "Outdoor",
+    "SizeId": 2,
+    "NameTextKey": -1028478412,
+    "Rarity": "SuperRare"
+  },
+  {
+    "Version": "250350.1.0",
+    "Id": 1001,
+    "ViewConditionId": 2503508,
+    "Type": "Outdoor",
+    "SizeId": 2,
+    "NameTextKey": -769667041,
+    "Rarity": "HyperRare"
+  },
+  {
+    "Version": "250440.1.0",
+    "Id": 1002,
+    "ViewConditionId": 2504407,
+    "Type": "Outdoor",
+    "SizeId": 2,
+    "NameTextKey": 1259766181,
+    "Rarity": "HyperRare"
+  },
+  {
+    "Version": "250530.1.0",
+    "Id": 1003,
+    "ViewConditionId": 2505302,
+    "Type": "Outdoor",
+    "SizeId": 2,
+    "NameTextKey": 1007792435,
+    "Rarity": "HyperRare"
+  },
+  {
+    "Version": "250610.1.0",
+    "Id": 1004,
+    "ViewConditionId": 2506102,
+    "Type": "Outdoor",
+    "SizeId": 2,
+    "NameTextKey": -1569381232,
+    "Rarity": "HyperRare"
+  },
+  {
+    "Version": "250710.1.0",
+    "Id": 1005,
+    "ViewConditionId": 2507001,
+    "Type": "Indoor",
+    "SizeId": 3,
+    "NameTextKey": -713944058,
+    "Rarity": "HyperRare"
+  },
+  {
+    "Version": "250810.1.0",
+    "Id": 1006,
+    "ViewConditionId": 2508105,
+    "Type": "Outdoor",
+    "SizeId": 2,
+    "NameTextKey": 1283147196,
+    "Rarity": "HyperRare"
+  },
+  {
+    "Version": "250910.1.0",
+    "Id": 1007,
+    "ViewConditionId": 2509102,
+    "Type": "Outdoor",
+    "SizeId": 2,
+    "NameTextKey": 998012202,
+    "Rarity": "HyperRare"
+  },
+  {
+    "Version": "251010.1.0",
+    "Id": 1008,
+    "ViewConditionId": 2510101,
+    "Type": "Outdoor",
+    "SizeId": 2,
+    "NameTextKey": -1413257029,
+    "Rarity": "HyperRare"
+  },
+  {
+    "Version": "251030.1.0",
+    "Id": 1009,
+    "ViewConditionId": 2510302,
+    "Type": "Outdoor",
+    "SizeId": 2,
+    "NameTextKey": -591112147,
+    "Rarity": "HyperRare"
+  },
+  {
+    "Version": "251210.1.0",
+    "Id": 1010,
+    "ViewConditionId": 2512101,
+    "Type": "Outdoor",
+    "SizeId": 2,
+    "NameTextKey": -1140600376,
+    "Rarity": "HyperRare"
+  },
+  {
+    "Version": "260110.1.0",
+    "Id": 1011,
+    "ViewConditionId": 2601101,
+    "Type": "Outdoor",
+    "SizeId": 2,
+    "NameTextKey": -888872610,
+    "Rarity": "HyperRare"
+  },
+  {
+    "Version": "260210.1.0",
+    "Id": 1012,
+    "ViewConditionId": 2602101,
+    "Type": "Outdoor",
+    "SizeId": 2,
+    "NameTextKey": 1376628964,
+    "Rarity": "HyperRare"
+  },
+  {
+    "Version": "260310.1.0",
+    "Id": 1013,
+    "ViewConditionId": 2603101,
+    "Type": "Outdoor",
+    "SizeId": 2,
+    "NameTextKey": 621445234,
+    "Rarity": "HyperRare"
+  },
+  {
+    "Version": "260410.1.0",
+    "Id": 1014,
+    "ViewConditionId": 2604101,
+    "Type": "Outdoor",
+    "SizeId": 2,
+    "NameTextKey": -1150413359,
+    "Rarity": "HyperRare"
+  }
+]

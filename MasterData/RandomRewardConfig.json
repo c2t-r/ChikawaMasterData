@@ -1,0 +1,10 @@
+[
+  {
+    "Version": "250330.1.0",
+    "Id": 1,
+    "WaitSecond": 180,
+    "LoopSecond": 18,
+    "RoundTripSecond": 22,
+    "RewardCountInDay": 5
+  }
+]

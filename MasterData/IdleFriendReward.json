@@ -1,0 +1,16 @@
+[
+  {
+    "Version": "260110.1.0",
+    "Id": 1,
+    "Count": 0,
+    "IdleRewardId": 2,
+    "Rate": 1.0
+  },
+  {
+    "Version": "260110.1.0",
+    "Id": 2,
+    "Count": 1,
+    "IdleRewardId": 2,
+    "Rate": 10.0
+  }
+]

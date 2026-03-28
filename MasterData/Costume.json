@@ -1,0 +1,4646 @@
+[
+  {
+    "Version": "250330.1.0",
+    "Id": 11001,
+    "CharacterId": 1,
+    "ViewConditionId": 0,
+    "LabelTextKey": -104179365,
+    "TagIds": [
+      14,
+      1001
+    ],
+    "UniqueHuntSkillId": 11001,
+    "AttackRateLevelRagneGroupId": 1,
+    "AttackSpeedLevelRagneGroupId": 1,
+    "AttackSpeedType": "Normal",
+    "AssetId": 1001001,
+    "EncountSpeechBalloonId": 1,
+    "WinSpeechBalloonId": 201,
+    "LoseSpeechBalloonId": 301,
+    "EventZone": {
+      "x": 0.0,
+      "y": 0.0,
+      "width": 0.0,
+      "height": 0.0
+    },
+    "BodyZone": {
+      "x": 0.0,
+      "y": 0.0,
+      "width": 1.0,
+      "height": 1.0
+    },
+    "SkillCoefficient": 1.0,
+    "CostumePossessionEffectIds": [
+      110011,
+      110012,
+      110013,
+      110014,
+      110015
+    ],
+    "PromotionCostumePossessionEffectId": 110016,
+    "CostumeRarityId": 1,
+    "SortOrder": 1,
+    "DetailLabelTextKey": 860863496
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 12001,
+    "CharacterId": 2,
+    "ViewConditionId": 0,
+    "LabelTextKey": -104179365,
+    "TagIds": [
+      13,
+      1001
+    ],
+    "UniqueHuntSkillId": 12001,
+    "AttackRateLevelRagneGroupId": 1,
+    "AttackSpeedLevelRagneGroupId": 1,
+    "AttackSpeedType": "Normal",
+    "AssetId": 1002001,
+    "EncountSpeechBalloonId": 1,
+    "WinSpeechBalloonId": 201,
+    "LoseSpeechBalloonId": 301,
+    "EventZone": {
+      "x": 0.0,
+      "y": 0.0,
+      "width": 0.0,
+      "height": 0.0
+    },
+    "BodyZone": {
+      "x": 0.0,
+      "y": 0.0,
+      "width": 1.0,
+      "height": 1.0
+    },
+    "SkillCoefficient": 1.0,
+    "CostumePossessionEffectIds": [
+      120011,
+      120012,
+      120013,
+      120014,
+      120015
+    ],
+    "PromotionCostumePossessionEffectId": 120016,
+    "CostumeRarityId": 1,
+    "SortOrder": 2,
+    "DetailLabelTextKey": 570037222
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 13001,
+    "CharacterId": 3,
+    "ViewConditionId": 0,
+    "LabelTextKey": -104179365,
+    "TagIds": [
+      12,
+      1001
+    ],
+    "UniqueHuntSkillId": 13001,
+    "AttackRateLevelRagneGroupId": 1,
+    "AttackSpeedLevelRagneGroupId": 1,
+    "AttackSpeedType": "Normal",
+    "AssetId": 1003001,
+    "EncountSpeechBalloonId": 1,
+    "WinSpeechBalloonId": 201,
+    "LoseSpeechBalloonId": 301,
+    "EventZone": {
+      "x": 0.0,
+      "y": 0.0,
+      "width": 0.0,
+      "height": 0.0
+    },
+    "BodyZone": {
+      "x": 0.0,
+      "y": 0.0,
+      "width": 1.0,
+      "height": 1.0
+    },
+    "SkillCoefficient": 1.0,
+    "CostumePossessionEffectIds": [
+      130011,
+      130012,
+      130013,
+      130014,
+      130015
+    ],
+    "PromotionCostumePossessionEffectId": 130016,
+    "CostumeRarityId": 1,
+    "SortOrder": 3,
+    "DetailLabelTextKey": -1723435901
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 14001,
+    "CharacterId": 4,
+    "ViewConditionId": 0,
+    "LabelTextKey": -104179365,
+    "TagIds": [
+      16,
+      1001
+    ],
+    "UniqueHuntSkillId": 14001,
+    "AttackRateLevelRagneGroupId": 1,
+    "AttackSpeedLevelRagneGroupId": 1,
+    "AttackSpeedType": "Normal",
+    "AssetId": 1004001,
+    "EncountSpeechBalloonId": 1,
+    "WinSpeechBalloonId": 201,
+    "LoseSpeechBalloonId": 301,
+    "EventZone": {
+      "x": 0.0,
+      "y": 0.0,
+      "width": 0.0,
+      "height": 0.0
+    },
+    "BodyZone": {
+      "x": 0.0,
+      "y": 0.0,
+      "width": 1.0,
+      "height": 1.0
+    },
+    "SkillCoefficient": 1.0,
+    "CostumePossessionEffectIds": [
+      140011,
+      140012,
+      140013,
+      140014,
+      140015
+    ],
+    "PromotionCostumePossessionEffectId": 140016,
+    "CostumeRarityId": 1,
+    "SortOrder": 5,
+    "DetailLabelTextKey": 76631098
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 15001,
+    "CharacterId": 5,
+    "ViewConditionId": 0,
+    "LabelTextKey": -104179365,
+    "TagIds": [
+      11,
+      1001
+    ],
+    "UniqueHuntSkillId": 15001,
+    "AttackRateLevelRagneGroupId": 1,
+    "AttackSpeedLevelRagneGroupId": 1,
+    "AttackSpeedType": "Normal",
+    "AssetId": 1005001,
+    "EncountSpeechBalloonId": 1,
+    "WinSpeechBalloonId": 201,
+    "LoseSpeechBalloonId": 301,
+    "EventZone": {
+      "x": 0.0,
+      "y": 0.0,
+      "width": 0.0,
+      "height": 0.0
+    },
+    "BodyZone": {
+      "x": 0.0,
+      "y": 0.0,
+      "width": 1.0,
+      "height": 1.0
+    },
+    "SkillCoefficient": 1.0,
+    "CostumePossessionEffectIds": [
+      150011,
+      150012,
+      150013,
+      150014,
+      150015
+    ],
+    "PromotionCostumePossessionEffectId": 150016,
+    "CostumeRarityId": 1,
+    "SortOrder": 4,
+    "DetailLabelTextKey": -1137890465
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 16001,
+    "CharacterId": 6,
+    "ViewConditionId": 0,
+    "LabelTextKey": -104179365,
+    "TagIds": [
+      15,
+      1001
+    ],
+    "UniqueHuntSkillId": 16001,
+    "AttackRateLevelRagneGroupId": 1,
+    "AttackSpeedLevelRagneGroupId": 1,
+    "AttackSpeedType": "Fast",
+    "AssetId": 1006001,
+    "EncountSpeechBalloonId": 1,
+    "WinSpeechBalloonId": 201,
+    "LoseSpeechBalloonId": 301,
+    "EventZone": {
+      "x": 0.0,
+      "y": 0.0,
+      "width": 0.0,
+      "height": 0.0
+    },
+    "BodyZone": {
+      "x": 0.0,
+      "y": 0.0,
+      "width": 1.0,
+      "height": 1.0
+    },
+    "SkillCoefficient": 1.0,
+    "CostumePossessionEffectIds": [
+      160011,
+      160012,
+      160013,
+      160014,
+      160015
+    ],
+    "PromotionCostumePossessionEffectId": 160016,
+    "CostumeRarityId": 1,
+    "SortOrder": 6,
+    "DetailLabelTextKey": -1365736271
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 17001,
+    "CharacterId": 7,
+    "ViewConditionId": 0,
+    "LabelTextKey": -104179365,
+    "TagIds": [
+      13,
+      1001
+    ],
+    "UniqueHuntSkillId": 17001,
+    "AttackRateLevelRagneGroupId": 1,
+    "AttackSpeedLevelRagneGroupId": 1,
+    "AttackSpeedType": "VerySlow",
+    "AssetId": 1007001,
+    "EncountSpeechBalloonId": 1,
+    "WinSpeechBalloonId": 201,
+    "LoseSpeechBalloonId": 301,
+    "EventZone": {
+      "x": 0.0,
+      "y": 0.0,
+      "width": 0.0,
+      "height": 0.0
+    },
+    "BodyZone": {
+      "x": 0.0,
+      "y": 0.0,
+      "width": 1.0,
+      "height": 1.0
+    },
+    "SkillCoefficient": 1.0,
+    "CostumePossessionEffectIds": [
+      170011,
+      170012,
+      170013,
+      170014,
+      170015
+    ],
+    "PromotionCostumePossessionEffectId": 170016,
+    "CostumeRarityId": 1,
+    "SortOrder": 7,
+    "DetailLabelTextKey": 371516372
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 21001,
+    "CharacterId": 1,
+    "ViewConditionId": 0,
+    "LabelTextKey": -22569662,
+    "TagIds": [
+      16,
+      1002
+    ],
+    "UniqueHuntSkillId": 21001,
+    "AttackRateLevelRagneGroupId": 2,
+    "AttackSpeedLevelRagneGroupId": 1,
+    "AttackSpeedType": "Normal",
+    "AssetId": 1001005,
+    "EncountSpeechBalloonId": 1,
+    "WinSpeechBalloonId": 201,
+    "LoseSpeechBalloonId": 301,
+    "EventZone": {
+      "x": 0.0,
+      "y": 0.0,
+      "width": 0.0,
+      "height": 0.0
+    },
+    "BodyZone": {
+      "x": 0.0,
+      "y": 0.0,
+      "width": 1.0,
+      "height": 1.0
+    },
+    "SkillCoefficient": 1.0,
+    "CostumePossessionEffectIds": [
+      210011,
+      210012,
+      210013,
+      210014,
+      210015
+    ],
+    "PromotionCostumePossessionEffectId": 210016,
+    "CostumeRarityId": 2,
+    "SortOrder": 11,
+    "DetailLabelTextKey": 1961871064
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 22001,
+    "CharacterId": 2,
+    "ViewConditionId": 0,
+    "LabelTextKey": -22569662,
+    "TagIds": [
+      15,
+      1002
+    ],
+    "UniqueHuntSkillId": 22001,
+    "AttackRateLevelRagneGroupId": 2,
+    "AttackSpeedLevelRagneGroupId": 1,
+    "AttackSpeedType": "Normal",
+    "AssetId": 1002005,
+    "EncountSpeechBalloonId": 1,
+    "WinSpeechBalloonId": 201,
+    "LoseSpeechBalloonId": 301,
+    "EventZone": {
+      "x": 0.0,
+      "y": 0.0,
+      "width": 0.0,
+      "height": 0.0
+    },
+    "BodyZone": {
+      "x": 0.0,
+      "y": 0.0,
+      "width": 1.0,
+      "height": 1.0
+    },
+    "SkillCoefficient": 1.0,
+    "CostumePossessionEffectIds": [
+      220011,
+      220012,
+      220013,
+      220014,
+      220015
+    ],
+    "PromotionCostumePossessionEffectId": 220016,
+    "CostumeRarityId": 2,
+    "SortOrder": 12,
+    "DetailLabelTextKey": 1717201206
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 23001,
+    "CharacterId": 3,
+    "ViewConditionId": 0,
+    "LabelTextKey": -22569662,
+    "TagIds": [
+      11,
+      1002
+    ],
+    "UniqueHuntSkillId": 23001,
+    "AttackRateLevelRagneGroupId": 2,
+    "AttackSpeedLevelRagneGroupId": 1,
+    "AttackSpeedType": "Slow",
+    "AssetId": 1003005,
+    "EncountSpeechBalloonId": 1,
+    "WinSpeechBalloonId": 201,
+    "LoseSpeechBalloonId": 301,
+    "EventZone": {
+      "x": 0.0,
+      "y": 0.0,
+      "width": 0.0,
+      "height": 0.0
+    },
+    "BodyZone": {
+      "x": 0.0,
+      "y": 0.0,
+      "width": 1.0,
+      "height": 1.0
+    },
+    "SkillCoefficient": 1.0,
+    "CostumePossessionEffectIds": [
+      230011,
+      230012,
+      230013,
+      230014,
+      230015
+    ],
+    "PromotionCostumePossessionEffectId": 230016,
+    "CostumeRarityId": 2,
+    "SortOrder": 13,
+    "DetailLabelTextKey": -555348397
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 31001,
+    "CharacterId": 1,
+    "ViewConditionId": 2501505,
+    "LabelTextKey": 1623394529,
+    "TagIds": [
+      15,
+      1003
+    ],
+    "UniqueHuntSkillId": 31001,
+    "AttackRateLevelRagneGroupId": 3,
+    "AttackSpeedLevelRagneGroupId": 1,
+    "AttackSpeedType": "Normal",
+    "AssetId": 1001002,
+    "EncountSpeechBalloonId": 1,
+    "WinSpeechBalloonId": 201,
+    "LoseSpeechBalloonId": 301,
+    "EventZone": {
+      "x": 0.0,
+      "y": 0.0,
+      "width": 0.0,
+      "height": 0.0
+    },
+    "BodyZone": {
+      "x": 0.0,
+      "y": 0.0,
+      "width": 1.0,
+      "height": 1.0
+    },
+    "SkillCoefficient": 1.0,
+    "CostumePossessionEffectIds": [
+      310011,
+      310012,
+      310013,
+      310014,
+      310015
+    ],
+    "PromotionCostumePossessionEffectId": 310016,
+    "CostumeRarityId": 3,
+    "SortOrder": 101,
+    "DetailLabelTextKey": 1234169704
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 32001,
+    "CharacterId": 2,
+    "ViewConditionId": 2501505,
+    "LabelTextKey": 1623394529,
+    "TagIds": [
+      14,
+      1003
+    ],
+    "UniqueHuntSkillId": 32001,
+    "AttackRateLevelRagneGroupId": 3,
+    "AttackSpeedLevelRagneGroupId": 1,
+    "AttackSpeedType": "Normal",
+    "AssetId": 1002002,
+    "EncountSpeechBalloonId": 1,
+    "WinSpeechBalloonId": 201,
+    "LoseSpeechBalloonId": 301,
+    "EventZone": {
+      "x": 0.0,
+      "y": 0.0,
+      "width": 0.0,
+      "height": 0.0
+    },
+    "BodyZone": {
+      "x": 0.0,
+      "y": 0.0,
+      "width": 1.0,
+      "height": 1.0
+    },
+    "SkillCoefficient": 1.0,
+    "CostumePossessionEffectIds": [
+      320011,
+      320012,
+      320013,
+      320014,
+      320015
+    ],
+    "PromotionCostumePossessionEffectId": 320016,
+    "CostumeRarityId": 3,
+    "SortOrder": 102,
+    "DetailLabelTextKey": 1530544262
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 33001,
+    "CharacterId": 3,
+    "ViewConditionId": 2501505,
+    "LabelTextKey": 1623394529,
+    "TagIds": [
+      13,
+      1003
+    ],
+    "UniqueHuntSkillId": 33001,
+    "AttackRateLevelRagneGroupId": 3,
+    "AttackSpeedLevelRagneGroupId": 1,
+    "AttackSpeedType": "Normal",
+    "AssetId": 1003002,
+    "EncountSpeechBalloonId": 1,
+    "WinSpeechBalloonId": 201,
+    "LoseSpeechBalloonId": 301,
+    "EventZone": {
+      "x": 0.0,
+      "y": 0.0,
+      "width": 0.0,
+      "height": 0.0
+    },
+    "BodyZone": {
+      "x": 0.0,
+      "y": 0.0,
+      "width": 1.0,
+      "height": 1.0
+    },
+    "SkillCoefficient": 1.0,
+    "CostumePossessionEffectIds": [
+      330011,
+      330012,
+      330013,
+      330014,
+      330015
+    ],
+    "PromotionCostumePossessionEffectId": 330016,
+    "CostumeRarityId": 3,
+    "SortOrder": 103,
+    "DetailLabelTextKey": -477747229
+  },
+  {
+    "Version": "250410.1.0",
+    "Id": 34001,
+    "CharacterId": 4,
+    "ViewConditionId": 2503505,
+    "LabelTextKey": 1623394529,
+    "TagIds": [
+      11,
+      1003
+    ],
+    "UniqueHuntSkillId": 34001,
+    "AttackRateLevelRagneGroupId": 3,
+    "AttackSpeedLevelRagneGroupId": 1,
+    "AttackSpeedType": "Normal",
+    "AssetId": 1004002,
+    "EncountSpeechBalloonId": 1,
+    "WinSpeechBalloonId": 201,
+    "LoseSpeechBalloonId": 301,
+    "EventZone": {
+      "x": 0.0,
+      "y": 0.0,
+      "width": 0.0,
+      "height": 0.0
+    },
+    "BodyZone": {
+      "x": 0.0,
+      "y": 0.0,
+      "width": 1.0,
+      "height": 1.0
+    },
+    "SkillCoefficient": 1.0,
+    "CostumePossessionEffectIds": [
+      340011,
+      340012,
+      340013,
+      340014,
+      340015
+    ],
+    "PromotionCostumePossessionEffectId": 340016,
+    "CostumeRarityId": 3,
+    "SortOrder": 105,
+    "DetailLabelTextKey": 2119245658
+  },
+  {
+    "Version": "250350.1.0",
+    "Id": 35001,
+    "CharacterId": 5,
+    "ViewConditionId": 2503504,
+    "LabelTextKey": 1623394529,
+    "TagIds": [
+      12,
+      1003
+    ],
+    "UniqueHuntSkillId": 35001,
+    "AttackRateLevelRagneGroupId": 3,
+    "AttackSpeedLevelRagneGroupId": 1,
+    "AttackSpeedType": "Normal",
+    "AssetId": 1005002,
+    "EncountSpeechBalloonId": 1,
+    "WinSpeechBalloonId": 201,
+    "LoseSpeechBalloonId": 301,
+    "EventZone": {
+      "x": 0.0,
+      "y": 0.0,
+      "width": 0.0,
+      "height": 0.0
+    },
+    "BodyZone": {
+      "x": 0.0,
+      "y": 0.0,
+      "width": 1.0,
+      "height": 1.0
+    },
+    "SkillCoefficient": 1.0,
+    "CostumePossessionEffectIds": [
+      350011,
+      350012,
+      350013,
+      350014,
+      350015
+    ],
+    "PromotionCostumePossessionEffectId": 350016,
+    "CostumeRarityId": 3,
+    "SortOrder": 104,
+    "DetailLabelTextKey": -957515713
+  },
+  {
+    "Version": "250350.1.0",
+    "Id": 36001,
+    "CharacterId": 6,
+    "ViewConditionId": 2503504,
+    "LabelTextKey": 1623394529,
+    "TagIds": [
+      16,
+      1003
+    ],
+    "UniqueHuntSkillId": 36001,
+    "AttackRateLevelRagneGroupId": 3,
+    "AttackSpeedLevelRagneGroupId": 1,
+    "AttackSpeedType": "Fast",
+    "AssetId": 1006002,
+    "EncountSpeechBalloonId": 1,
+    "WinSpeechBalloonId": 201,
+    "LoseSpeechBalloonId": 301,
+    "EventZone": {
+      "x": 0.0,
+      "y": 0.0,
+      "width": 0.0,
+      "height": 0.0
+    },
+    "BodyZone": {
+      "x": 0.0,
+      "y": 0.0,
+      "width": 1.0,
+      "height": 1.0
+    },
+    "SkillCoefficient": 1.0,
+    "CostumePossessionEffectIds": [
+      360011,
+      360012,
+      360013,
+      360014,
+      360015
+    ],
+    "PromotionCostumePossessionEffectId": 360016,
+    "CostumeRarityId": 3,
+    "SortOrder": 106,
+    "DetailLabelTextKey": -732375087
+  },
+  {
+    "Version": "250410.1.0",
+    "Id": 37001,
+    "CharacterId": 7,
+    "ViewConditionId": 2503505,
+    "LabelTextKey": 1623394529,
+    "TagIds": [
+      14,
+      1003
+    ],
+    "UniqueHuntSkillId": 37001,
+    "AttackRateLevelRagneGroupId": 3,
+    "AttackSpeedLevelRagneGroupId": 1,
+    "AttackSpeedType": "VerySlow",
+    "AssetId": 1007002,
+    "EncountSpeechBalloonId": 1,
+    "WinSpeechBalloonId": 201,
+    "LoseSpeechBalloonId": 301,
+    "EventZone": {
+      "x": 0.0,
+      "y": 0.0,
+      "width": 0.0,
+      "height": 0.0
+    },
+    "BodyZone": {
+      "x": 0.0,
+      "y": 0.0,
+      "width": 1.0,
+      "height": 1.0
+    },
+    "SkillCoefficient": 1.0,
+    "CostumePossessionEffectIds": [
+      370011,
+      370012,
+      370013,
+      370014,
+      370015
+    ],
+    "PromotionCostumePossessionEffectId": 370016,
+    "CostumeRarityId": 3,
+    "SortOrder": 107,
+    "DetailLabelTextKey": 1826926772
+  },
+  {
+    "Version": "250440.1.0",
+    "Id": 31002,
+    "CharacterId": 1,
+    "ViewConditionId": 2504404,
+    "LabelTextKey": 398735479,
+    "TagIds": [
+      11,
+      1004
+    ],
+    "UniqueHuntSkillId": 31002,
+    "AttackRateLevelRagneGroupId": 6,
+    "AttackSpeedLevelRagneGroupId": 1,
+    "AttackSpeedType": "Normal",
+    "AssetId": 1001003,
+    "EncountSpeechBalloonId": 1,
+    "WinSpeechBalloonId": 201,
+    "LoseSpeechBalloonId": 301,
+    "EventZone": {
+      "x": 0.0,
+      "y": 0.0,
+      "width": 0.0,
+      "height": 0.0
+    },
+    "BodyZone": {
+      "x": 0.0,
+      "y": 0.0,
+      "width": 1.0,
+      "height": 1.0
+    },
+    "SkillCoefficient": 1.0,
+    "CostumePossessionEffectIds": [
+      310021,
+      310022,
+      310023,
+      310024,
+      310025
+    ],
+    "PromotionCostumePossessionEffectId": 310026,
+    "CostumeRarityId": 3,
+    "SortOrder": 111,
+    "DetailLabelTextKey": -796475694
+  },
+  {
+    "Version": "250440.1.0",
+    "Id": 32002,
+    "CharacterId": 2,
+    "ViewConditionId": 2504404,
+    "LabelTextKey": 398735479,
+    "TagIds": [
+      12,
+      1004
+    ],
+    "UniqueHuntSkillId": 32002,
+    "AttackRateLevelRagneGroupId": 6,
+    "AttackSpeedLevelRagneGroupId": 1,
+    "AttackSpeedType": "Normal",
+    "AssetId": 1002003,
+    "EncountSpeechBalloonId": 1,
+    "WinSpeechBalloonId": 201,
+    "LoseSpeechBalloonId": 301,
+    "EventZone": {
+      "x": 0.0,
+      "y": 0.0,
+      "width": 0.0,
+      "height": 0.0
+    },
+    "BodyZone": {
+      "x": 0.0,
+      "y": 0.0,
+      "width": 1.0,
+      "height": 1.0
+    },
+    "SkillCoefficient": 1.0,
+    "CostumePossessionEffectIds": [
+      320021,
+      320022,
+      320023,
+      320024,
+      320025
+    ],
+    "PromotionCostumePossessionEffectId": 320026,
+    "CostumeRarityId": 3,
+    "SortOrder": 112,
+    "DetailLabelTextKey": -1036840644
+  },
+  {
+    "Version": "250450.1.0",
+    "Id": 33002,
+    "CharacterId": 3,
+    "ViewConditionId": 2504504,
+    "LabelTextKey": 398735479,
+    "TagIds": [
+      15,
+      1004
+    ],
+    "UniqueHuntSkillId": 33002,
+    "AttackRateLevelRagneGroupId": 6,
+    "AttackSpeedLevelRagneGroupId": 1,
+    "AttackSpeedType": "Normal",
+    "AssetId": 1003003,
+    "EncountSpeechBalloonId": 1,
+    "WinSpeechBalloonId": 201,
+    "LoseSpeechBalloonId": 301,
+    "EventZone": {
+      "x": 0.0,
+      "y": 0.0,
+      "width": 0.0,
+      "height": 0.0
+    },
+    "BodyZone": {
+      "x": 0.0,
+      "y": 0.0,
+      "width": 1.0,
+      "height": 1.0
+    },
+    "SkillCoefficient": 1.0,
+    "CostumePossessionEffectIds": [
+      330021,
+      330022,
+      330023,
+      330024,
+      330025
+    ],
+    "PromotionCostumePossessionEffectId": 330026,
+    "CostumeRarityId": 3,
+    "SortOrder": 113,
+    "DetailLabelTextKey": 2056222297
+  },
+  {
+    "Version": "250440.1.0",
+    "Id": 34002,
+    "CharacterId": 4,
+    "ViewConditionId": 2504404,
+    "LabelTextKey": 398735479,
+    "TagIds": [
+      14,
+      1004
+    ],
+    "UniqueHuntSkillId": 34002,
+    "AttackRateLevelRagneGroupId": 6,
+    "AttackSpeedLevelRagneGroupId": 1,
+    "AttackSpeedType": "Normal",
+    "AssetId": 1004003,
+    "EncountSpeechBalloonId": 1,
+    "WinSpeechBalloonId": 201,
+    "LoseSpeechBalloonId": 301,
+    "EventZone": {
+      "x": 0.0,
+      "y": 0.0,
+      "width": 0.0,
+      "height": 0.0
+    },
+    "BodyZone": {
+      "x": 0.0,
+      "y": 0.0,
+      "width": 1.0,
+      "height": 1.0
+    },
+    "SkillCoefficient": 1.0,
+    "CostumePossessionEffectIds": [
+      340021,
+      340022,
+      340023,
+      340024,
+      340025
+    ],
+    "PromotionCostumePossessionEffectId": 340026,
+    "CostumeRarityId": 3,
+    "SortOrder": 115,
+    "DetailLabelTextKey": -413643040
+  },
+  {
+    "Version": "250450.1.0",
+    "Id": 35002,
+    "CharacterId": 5,
+    "ViewConditionId": 2504504,
+    "LabelTextKey": 398735479,
+    "TagIds": [
+      13,
+      1004
+    ],
+    "UniqueHuntSkillId": 35002,
+    "AttackRateLevelRagneGroupId": 6,
+    "AttackSpeedLevelRagneGroupId": 1,
+    "AttackSpeedType": "Normal",
+    "AssetId": 1005003,
+    "EncountSpeechBalloonId": 1,
+    "WinSpeechBalloonId": 201,
+    "LoseSpeechBalloonId": 301,
+    "EventZone": {
+      "x": 0.0,
+      "y": 0.0,
+      "width": 0.0,
+      "height": 0.0
+    },
+    "BodyZone": {
+      "x": 0.0,
+      "y": 0.0,
+      "width": 1.0,
+      "height": 1.0
+    },
+    "SkillCoefficient": 1.0,
+    "CostumePossessionEffectIds": [
+      350021,
+      350022,
+      350023,
+      350024,
+      350025
+    ],
+    "PromotionCostumePossessionEffectId": 350026,
+    "CostumeRarityId": 3,
+    "SortOrder": 114,
+    "DetailLabelTextKey": 1608788357
+  },
+  {
+    "Version": "250450.1.0",
+    "Id": 36002,
+    "CharacterId": 6,
+    "ViewConditionId": 2504504,
+    "LabelTextKey": 398735479,
+    "TagIds": [
+      11,
+      1004
+    ],
+    "UniqueHuntSkillId": 36002,
+    "AttackRateLevelRagneGroupId": 6,
+    "AttackSpeedLevelRagneGroupId": 1,
+    "AttackSpeedType": "Fast",
+    "AssetId": 1006003,
+    "EncountSpeechBalloonId": 1,
+    "WinSpeechBalloonId": 201,
+    "LoseSpeechBalloonId": 301,
+    "EventZone": {
+      "x": 0.0,
+      "y": 0.0,
+      "width": 0.0,
+      "height": 0.0
+    },
+    "BodyZone": {
+      "x": 0.0,
+      "y": 0.0,
+      "width": 1.0,
+      "height": 1.0
+    },
+    "SkillCoefficient": 1.0,
+    "CostumePossessionEffectIds": [
+      360021,
+      360022,
+      360023,
+      360024,
+      360025
+    ],
+    "PromotionCostumePossessionEffectId": 360026,
+    "CostumeRarityId": 3,
+    "SortOrder": 116,
+    "DetailLabelTextKey": 1297188459
+  },
+  {
+    "Version": "250440.1.0",
+    "Id": 37002,
+    "CharacterId": 7,
+    "ViewConditionId": 2504404,
+    "LabelTextKey": 398735479,
+    "TagIds": [
+      16,
+      1004
+    ],
+    "UniqueHuntSkillId": 37002,
+    "AttackRateLevelRagneGroupId": 4,
+    "AttackSpeedLevelRagneGroupId": 1,
+    "AttackSpeedType": "VerySlow",
+    "AssetId": 1007003,
+    "EncountSpeechBalloonId": 1,
+    "WinSpeechBalloonId": 201,
+    "LoseSpeechBalloonId": 301,
+    "EventZone": {
+      "x": 0.0,
+      "y": 0.0,
+      "width": 0.0,
+      "height": 0.0
+    },
+    "BodyZone": {
+      "x": 0.0,
+      "y": 0.0,
+      "width": 1.0,
+      "height": 1.0
+    },
+    "SkillCoefficient": 1.0,
+    "CostumePossessionEffectIds": [
+      370021,
+      370022,
+      370023,
+      370024,
+      370025
+    ],
+    "PromotionCostumePossessionEffectId": 370026,
+    "CostumeRarityId": 3,
+    "SortOrder": 117,
+    "DetailLabelTextKey": -168959730
+  },
+  {
+    "Version": "250530.1.0",
+    "Id": 31003,
+    "CharacterId": 1,
+    "ViewConditionId": 2505304,
+    "LabelTextKey": -1985958444,
+    "TagIds": [
+      12,
+      1005
+    ],
+    "UniqueHuntSkillId": 31003,
+    "AttackRateLevelRagneGroupId": 5,
+    "AttackSpeedLevelRagneGroupId": 1,
+    "AttackSpeedType": "Normal",
+    "AssetId": 1001004,
+    "EncountSpeechBalloonId": 1,
+    "WinSpeechBalloonId": 201,
+    "LoseSpeechBalloonId": 301,
+    "EventZone": {
+      "x": 0.0,
+      "y": 0.0,
+      "width": 0.0,
+      "height": 0.0
+    },
+    "BodyZone": {
+      "x": 0.0,
+      "y": 0.0,
+      "width": 1.0,
+      "height": 1.0
+    },
+    "SkillCoefficient": 1.0,
+    "CostumePossessionEffectIds": [
+      310031,
+      310032,
+      310033,
+      310034,
+      310035
+    ],
+    "PromotionCostumePossessionEffectId": 310036,
+    "CostumeRarityId": 3,
+    "SortOrder": 121,
+    "DetailLabelTextKey": -1484681660
+  },
+  {
+    "Version": "250550.1.0",
+    "Id": 32003,
+    "CharacterId": 2,
+    "ViewConditionId": 2505504,
+    "LabelTextKey": -1985958444,
+    "TagIds": [
+      16,
+      1005
+    ],
+    "UniqueHuntSkillId": 32003,
+    "AttackRateLevelRagneGroupId": 7,
+    "AttackSpeedLevelRagneGroupId": 1,
+    "AttackSpeedType": "Normal",
+    "AssetId": 1002004,
+    "EncountSpeechBalloonId": 1,
+    "WinSpeechBalloonId": 201,
+    "LoseSpeechBalloonId": 301,
+    "EventZone": {
+      "x": 0.0,
+      "y": 0.0,
+      "width": 0.0,
+      "height": 0.0
+    },
+    "BodyZone": {
+      "x": 0.0,
+      "y": 0.0,
+      "width": 1.0,
+      "height": 1.0
+    },
+    "SkillCoefficient": 1.0,
+    "CostumePossessionEffectIds": [
+      320031,
+      320032,
+      320033,
+      320034,
+      320035
+    ],
+    "PromotionCostumePossessionEffectId": 320036,
+    "CostumeRarityId": 3,
+    "SortOrder": 122,
+    "DetailLabelTextKey": -1254874710
+  },
+  {
+    "Version": "250530.1.0",
+    "Id": 33003,
+    "CharacterId": 3,
+    "ViewConditionId": 2505304,
+    "LabelTextKey": -1985958444,
+    "TagIds": [
+      16,
+      1005
+    ],
+    "UniqueHuntSkillId": 33003,
+    "AttackRateLevelRagneGroupId": 7,
+    "AttackSpeedLevelRagneGroupId": 1,
+    "AttackSpeedType": "Normal",
+    "AssetId": 1003004,
+    "EncountSpeechBalloonId": 1,
+    "WinSpeechBalloonId": 201,
+    "LoseSpeechBalloonId": 301,
+    "EventZone": {
+      "x": 0.0,
+      "y": 0.0,
+      "width": 0.0,
+      "height": 0.0
+    },
+    "BodyZone": {
+      "x": 0.0,
+      "y": 0.0,
+      "width": 1.0,
+      "height": 1.0
+    },
+    "SkillCoefficient": 1.0,
+    "CostumePossessionEffectIds": [
+      330031,
+      330032,
+      330033,
+      330034,
+      330035
+    ],
+    "PromotionCostumePossessionEffectId": 330036,
+    "CostumeRarityId": 3,
+    "SortOrder": 123,
+    "DetailLabelTextKey": 227034831
+  },
+  {
+    "Version": "250550.1.0",
+    "Id": 34003,
+    "CharacterId": 4,
+    "ViewConditionId": 2505504,
+    "LabelTextKey": -1985958444,
+    "TagIds": [
+      15,
+      1005
+    ],
+    "UniqueHuntSkillId": 34003,
+    "AttackRateLevelRagneGroupId": 7,
+    "AttackSpeedLevelRagneGroupId": 1,
+    "AttackSpeedType": "Normal",
+    "AssetId": 1004004,
+    "EncountSpeechBalloonId": 1,
+    "WinSpeechBalloonId": 201,
+    "LoseSpeechBalloonId": 301,
+    "EventZone": {
+      "x": 0.0,
+      "y": 0.0,
+      "width": 0.0,
+      "height": 0.0
+    },
+    "BodyZone": {
+      "x": 0.0,
+      "y": 0.0,
+      "width": 1.0,
+      "height": 1.0
+    },
+    "SkillCoefficient": 1.0,
+    "CostumePossessionEffectIds": [
+      340031,
+      340032,
+      340033,
+      340034,
+      340035
+    ],
+    "PromotionCostumePossessionEffectId": 340036,
+    "CostumeRarityId": 3,
+    "SortOrder": 125,
+    "DetailLabelTextKey": -1872789898
+  },
+  {
+    "Version": "250550.1.0",
+    "Id": 35003,
+    "CharacterId": 5,
+    "ViewConditionId": 2505504,
+    "LabelTextKey": -1985958444,
+    "TagIds": [
+      14,
+      1005
+    ],
+    "UniqueHuntSkillId": 35003,
+    "AttackRateLevelRagneGroupId": 7,
+    "AttackSpeedLevelRagneGroupId": 1,
+    "AttackSpeedType": "Normal",
+    "AssetId": 1005004,
+    "EncountSpeechBalloonId": 1,
+    "WinSpeechBalloonId": 201,
+    "LoseSpeechBalloonId": 301,
+    "EventZone": {
+      "x": 0.0,
+      "y": 0.0,
+      "width": 0.0,
+      "height": 0.0
+    },
+    "BodyZone": {
+      "x": 0.0,
+      "y": 0.0,
+      "width": 1.0,
+      "height": 1.0
+    },
+    "SkillCoefficient": 1.0,
+    "CostumePossessionEffectIds": [
+      350031,
+      350032,
+      350033,
+      350034,
+      350035
+    ],
+    "PromotionCostumePossessionEffectId": 350036,
+    "CostumeRarityId": 3,
+    "SortOrder": 124,
+    "DetailLabelTextKey": 685971731
+  },
+  {
+    "Version": "250530.1.0",
+    "Id": 36003,
+    "CharacterId": 6,
+    "ViewConditionId": 2505304,
+    "LabelTextKey": -1985958444,
+    "TagIds": [
+      13,
+      1005
+    ],
+    "UniqueHuntSkillId": 36003,
+    "AttackRateLevelRagneGroupId": 7,
+    "AttackSpeedLevelRagneGroupId": 1,
+    "AttackSpeedType": "Fast",
+    "AssetId": 1006004,
+    "EncountSpeechBalloonId": 1,
+    "WinSpeechBalloonId": 201,
+    "LoseSpeechBalloonId": 301,
+    "EventZone": {
+      "x": 0.0,
+      "y": 0.0,
+      "width": 0.0,
+      "height": 0.0
+    },
+    "BodyZone": {
+      "x": 0.0,
+      "y": 0.0,
+      "width": 1.0,
+      "height": 1.0
+    },
+    "SkillCoefficient": 1.0,
+    "CostumePossessionEffectIds": [
+      360031,
+      360032,
+      360033,
+      360034,
+      360035
+    ],
+    "PromotionCostumePossessionEffectId": 360036,
+    "CostumeRarityId": 3,
+    "SortOrder": 126,
+    "DetailLabelTextKey": 978761469
+  },
+  {
+    "Version": "250530.1.0",
+    "Id": 37003,
+    "CharacterId": 7,
+    "ViewConditionId": 2505304,
+    "LabelTextKey": -1985958444,
+    "TagIds": [
+      11,
+      1005
+    ],
+    "UniqueHuntSkillId": 37003,
+    "AttackRateLevelRagneGroupId": 7,
+    "AttackSpeedLevelRagneGroupId": 1,
+    "AttackSpeedType": "VerySlow",
+    "AssetId": 1007004,
+    "EncountSpeechBalloonId": 1,
+    "WinSpeechBalloonId": 201,
+    "LoseSpeechBalloonId": 301,
+    "EventZone": {
+      "x": 0.0,
+      "y": 0.0,
+      "width": 0.0,
+      "height": 0.0
+    },
+    "BodyZone": {
+      "x": 0.0,
+      "y": 0.0,
+      "width": 1.0,
+      "height": 1.0
+    },
+    "SkillCoefficient": 1.0,
+    "CostumePossessionEffectIds": [
+      370031,
+      370032,
+      370033,
+      370034,
+      370035
+    ],
+    "PromotionCostumePossessionEffectId": 370036,
+    "CostumeRarityId": 3,
+    "SortOrder": 127,
+    "DetailLabelTextKey": -2098540136
+  },
+  {
+    "Version": "250610.1.0",
+    "Id": 31004,
+    "CharacterId": 1,
+    "ViewConditionId": 2506102,
+    "LabelTextKey": 1739508984,
+    "TagIds": [
+      13,
+      1006
+    ],
+    "UniqueHuntSkillId": 31004,
+    "AttackRateLevelRagneGroupId": 8,
+    "AttackSpeedLevelRagneGroupId": 1,
+    "AttackSpeedType": "Normal",
+    "AssetId": 1001006,
+    "EncountSpeechBalloonId": 1,
+    "WinSpeechBalloonId": 201,
+    "LoseSpeechBalloonId": 301,
+    "EventZone": {
+      "x": 0.0,
+      "y": 0.0,
+      "width": 0.0,
+      "height": 0.0
+    },
+    "BodyZone": {
+      "x": 0.0,
+      "y": 0.0,
+      "width": 1.0,
+      "height": 1.0
+    },
+    "SkillCoefficient": 1.0,
+    "CostumePossessionEffectIds": [
+      310041,
+      310042,
+      310043,
+      310044,
+      310045
+    ],
+    "PromotionCostumePossessionEffectId": 310046,
+    "CostumeRarityId": 3,
+    "SortOrder": 131,
+    "DetailLabelTextKey": 971316199
+  },
+  {
+    "Version": "250610.1.0",
+    "Id": 32004,
+    "CharacterId": 2,
+    "ViewConditionId": 2506102,
+    "LabelTextKey": 1739508984,
+    "TagIds": [
+      11,
+      1006
+    ],
+    "UniqueHuntSkillId": 32004,
+    "AttackRateLevelRagneGroupId": 3,
+    "AttackSpeedLevelRagneGroupId": 1,
+    "AttackSpeedType": "Normal",
+    "AssetId": 1002006,
+    "EncountSpeechBalloonId": 1,
+    "WinSpeechBalloonId": 201,
+    "LoseSpeechBalloonId": 301,
+    "EventZone": {
+      "x": 0.0,
+      "y": 0.0,
+      "width": 0.0,
+      "height": 0.0
+    },
+    "BodyZone": {
+      "x": 0.0,
+      "y": 0.0,
+      "width": 1.0,
+      "height": 1.0
+    },
+    "SkillCoefficient": 1.0,
+    "CostumePossessionEffectIds": [
+      320041,
+      320042,
+      320043,
+      320044,
+      320045
+    ],
+    "PromotionCostumePossessionEffectId": 320046,
+    "CostumeRarityId": 3,
+    "SortOrder": 132,
+    "DetailLabelTextKey": 726709257
+  },
+  {
+    "Version": "250630.1.0",
+    "Id": 33004,
+    "CharacterId": 3,
+    "ViewConditionId": 2506302,
+    "LabelTextKey": 1739508984,
+    "TagIds": [
+      14,
+      1006
+    ],
+    "UniqueHuntSkillId": 33004,
+    "AttackRateLevelRagneGroupId": 8,
+    "AttackSpeedLevelRagneGroupId": 1,
+    "AttackSpeedType": "Normal",
+    "AssetId": 1003006,
+    "EncountSpeechBalloonId": 1,
+    "WinSpeechBalloonId": 201,
+    "LoseSpeechBalloonId": 301,
+    "EventZone": {
+      "x": 0.0,
+      "y": 0.0,
+      "width": 0.0,
+      "height": 0.0
+    },
+    "BodyZone": {
+      "x": 0.0,
+      "y": 0.0,
+      "width": 1.0,
+      "height": 1.0
+    },
+    "SkillCoefficient": 1.0,
+    "CostumePossessionEffectIds": [
+      330041,
+      330042,
+      330043,
+      330044,
+      330045
+    ],
+    "PromotionCostumePossessionEffectId": 330046,
+    "CostumeRarityId": 3,
+    "SortOrder": 133,
+    "DetailLabelTextKey": -1813195924
+  },
+  {
+    "Version": "250610.1.0",
+    "Id": 34004,
+    "CharacterId": 4,
+    "ViewConditionId": 2506102,
+    "LabelTextKey": 1739508984,
+    "TagIds": [
+      12,
+      1006
+    ],
+    "UniqueHuntSkillId": 34004,
+    "AttackRateLevelRagneGroupId": 8,
+    "AttackSpeedLevelRagneGroupId": 1,
+    "AttackSpeedType": "Normal",
+    "AssetId": 1004006,
+    "EncountSpeechBalloonId": 1,
+    "WinSpeechBalloonId": 201,
+    "LoseSpeechBalloonId": 301,
+    "EventZone": {
+      "x": 0.0,
+      "y": 0.0,
+      "width": 0.0,
+      "height": 0.0
+    },
+    "BodyZone": {
+      "x": 0.0,
+      "y": 0.0,
+      "width": 1.0,
+      "height": 1.0
+    },
+    "SkillCoefficient": 1.0,
+    "CostumePossessionEffectIds": [
+      340041,
+      340042,
+      340043,
+      340044,
+      340045
+    ],
+    "PromotionCostumePossessionEffectId": 340046,
+    "CostumeRarityId": 3,
+    "SortOrder": 135,
+    "DetailLabelTextKey": 238808021
+  },
+  {
+    "Version": "250630.1.0",
+    "Id": 35004,
+    "CharacterId": 5,
+    "ViewConditionId": 2506302,
+    "LabelTextKey": 1739508984,
+    "TagIds": [
+      16,
+      1006
+    ],
+    "UniqueHuntSkillId": 35004,
+    "AttackRateLevelRagneGroupId": 8,
+    "AttackSpeedLevelRagneGroupId": 1,
+    "AttackSpeedType": "Normal",
+    "AssetId": 1005006,
+    "EncountSpeechBalloonId": 1,
+    "WinSpeechBalloonId": 201,
+    "LoseSpeechBalloonId": 301,
+    "EventZone": {
+      "x": 0.0,
+      "y": 0.0,
+      "width": 0.0,
+      "height": 0.0
+    },
+    "BodyZone": {
+      "x": 0.0,
+      "y": 0.0,
+      "width": 1.0,
+      "height": 1.0
+    },
+    "SkillCoefficient": 1.0,
+    "CostumePossessionEffectIds": [
+      350041,
+      350042,
+      350043,
+      350044,
+      350045
+    ],
+    "PromotionCostumePossessionEffectId": 350046,
+    "CostumeRarityId": 3,
+    "SortOrder": 134,
+    "DetailLabelTextKey": -1232630608
+  },
+  {
+    "Version": "250610.1.0",
+    "Id": 36004,
+    "CharacterId": 6,
+    "ViewConditionId": 2506102,
+    "LabelTextKey": 1739508984,
+    "TagIds": [
+      12,
+      1006
+    ],
+    "UniqueHuntSkillId": 36004,
+    "AttackRateLevelRagneGroupId": 8,
+    "AttackSpeedLevelRagneGroupId": 1,
+    "AttackSpeedType": "Fast",
+    "AssetId": 1006006,
+    "EncountSpeechBalloonId": 1,
+    "WinSpeechBalloonId": 201,
+    "LoseSpeechBalloonId": 301,
+    "EventZone": {
+      "x": 0.0,
+      "y": 0.0,
+      "width": 0.0,
+      "height": 0.0
+    },
+    "BodyZone": {
+      "x": 0.0,
+      "y": 0.0,
+      "width": 1.0,
+      "height": 1.0
+    },
+    "SkillCoefficient": 1.0,
+    "CostumePossessionEffectIds": [
+      360041,
+      360042,
+      360043,
+      360044,
+      360045
+    ],
+    "PromotionCostumePossessionEffectId": 360046,
+    "CostumeRarityId": 3,
+    "SortOrder": 136,
+    "DetailLabelTextKey": -1540218018
+  },
+  {
+    "Version": "250630.1.0",
+    "Id": 37004,
+    "CharacterId": 7,
+    "ViewConditionId": 2506302,
+    "LabelTextKey": 1739508984,
+    "TagIds": [
+      15,
+      1006
+    ],
+    "UniqueHuntSkillId": 37004,
+    "AttackRateLevelRagneGroupId": 8,
+    "AttackSpeedLevelRagneGroupId": 1,
+    "AttackSpeedType": "VerySlow",
+    "AssetId": 1007006,
+    "EncountSpeechBalloonId": 1,
+    "WinSpeechBalloonId": 201,
+    "LoseSpeechBalloonId": 301,
+    "EventZone": {
+      "x": 0.0,
+      "y": 0.0,
+      "width": 0.0,
+      "height": 0.0
+    },
+    "BodyZone": {
+      "x": 0.0,
+      "y": 0.0,
+      "width": 1.0,
+      "height": 1.0
+    },
+    "SkillCoefficient": 1.0,
+    "CostumePossessionEffectIds": [
+      370041,
+      370042,
+      370043,
+      370044,
+      370045
+    ],
+    "PromotionCostumePossessionEffectId": 370046,
+    "CostumeRarityId": 3,
+    "SortOrder": 137,
+    "DetailLabelTextKey": 479085627
+  },
+  {
+    "Version": "250710.1.0",
+    "Id": 31005,
+    "CharacterId": 1,
+    "ViewConditionId": 72005110,
+    "LabelTextKey": 279575662,
+    "TagIds": [
+      11,
+      1007
+    ],
+    "UniqueHuntSkillId": 31005,
+    "AttackRateLevelRagneGroupId": 9,
+    "AttackSpeedLevelRagneGroupId": 1,
+    "AttackSpeedType": "Normal",
+    "AssetId": 1001008,
+    "EncountSpeechBalloonId": 1,
+    "WinSpeechBalloonId": 201,
+    "LoseSpeechBalloonId": 301,
+    "EventZone": {
+      "x": 0.0,
+      "y": 0.0,
+      "width": 0.0,
+      "height": 0.0
+    },
+    "BodyZone": {
+      "x": 0.0,
+      "y": 0.0,
+      "width": 1.0,
+      "height": 1.0
+    },
+    "SkillCoefficient": 1.0,
+    "CostumePossessionEffectIds": [
+      310051,
+      310052,
+      310053,
+      310054,
+      310055
+    ],
+    "PromotionCostumePossessionEffectId": 310056,
+    "CostumeRarityId": 3,
+    "SortOrder": 141,
+    "DetailLabelTextKey": 1323445105
+  },
+  {
+    "Version": "250730.1.0",
+    "Id": 32005,
+    "CharacterId": 2,
+    "ViewConditionId": 72005210,
+    "LabelTextKey": 279575662,
+    "TagIds": [
+      12,
+      1007
+    ],
+    "UniqueHuntSkillId": 32005,
+    "AttackRateLevelRagneGroupId": 9,
+    "AttackSpeedLevelRagneGroupId": 1,
+    "AttackSpeedType": "Normal",
+    "AssetId": 1002008,
+    "EncountSpeechBalloonId": 1,
+    "WinSpeechBalloonId": 201,
+    "LoseSpeechBalloonId": 301,
+    "EventZone": {
+      "x": 0.0,
+      "y": 0.0,
+      "width": 0.0,
+      "height": 0.0
+    },
+    "BodyZone": {
+      "x": 0.0,
+      "y": 0.0,
+      "width": 1.0,
+      "height": 1.0
+    },
+    "SkillCoefficient": 1.0,
+    "CostumePossessionEffectIds": [
+      320051,
+      320052,
+      320053,
+      320054,
+      320055
+    ],
+    "PromotionCostumePossessionEffectId": 320056,
+    "CostumeRarityId": 3,
+    "SortOrder": 142,
+    "DetailLabelTextKey": 1549239455
+  },
+  {
+    "Version": "250710.1.0",
+    "Id": 33005,
+    "CharacterId": 3,
+    "ViewConditionId": 72005110,
+    "LabelTextKey": 279575662,
+    "TagIds": [
+      13,
+      1007
+    ],
+    "UniqueHuntSkillId": 33005,
+    "AttackRateLevelRagneGroupId": 9,
+    "AttackSpeedLevelRagneGroupId": 1,
+    "AttackSpeedType": "Normal",
+    "AssetId": 1003008,
+    "EncountSpeechBalloonId": 1,
+    "WinSpeechBalloonId": 201,
+    "LoseSpeechBalloonId": 301,
+    "EventZone": {
+      "x": 0.0,
+      "y": 0.0,
+      "width": 0.0,
+      "height": 0.0
+    },
+    "BodyZone": {
+      "x": 0.0,
+      "y": 0.0,
+      "width": 1.0,
+      "height": 1.0
+    },
+    "SkillCoefficient": 1.0,
+    "CostumePossessionEffectIds": [
+      330051,
+      330052,
+      330053,
+      330054,
+      330055
+    ],
+    "PromotionCostumePossessionEffectId": 330056,
+    "CostumeRarityId": 3,
+    "SortOrder": 143,
+    "DetailLabelTextKey": -454302726
+  },
+  {
+    "Version": "250730.1.0",
+    "Id": 34005,
+    "CharacterId": 4,
+    "ViewConditionId": 72005210,
+    "LabelTextKey": 279575662,
+    "TagIds": [
+      13,
+      1007
+    ],
+    "UniqueHuntSkillId": 34005,
+    "AttackRateLevelRagneGroupId": 9,
+    "AttackSpeedLevelRagneGroupId": 1,
+    "AttackSpeedType": "Normal",
+    "AssetId": 1004008,
+    "EncountSpeechBalloonId": 1,
+    "WinSpeechBalloonId": 201,
+    "LoseSpeechBalloonId": 301,
+    "EventZone": {
+      "x": 0.0,
+      "y": 0.0,
+      "width": 0.0,
+      "height": 0.0
+    },
+    "BodyZone": {
+      "x": 0.0,
+      "y": 0.0,
+      "width": 1.0,
+      "height": 1.0
+    },
+    "SkillCoefficient": 1.0,
+    "CostumePossessionEffectIds": [
+      340051,
+      340052,
+      340053,
+      340054,
+      340055
+    ],
+    "PromotionCostumePossessionEffectId": 340056,
+    "CostumeRarityId": 3,
+    "SortOrder": 145,
+    "DetailLabelTextKey": 2034031427
+  },
+  {
+    "Version": "250710.1.0",
+    "Id": 35005,
+    "CharacterId": 5,
+    "ViewConditionId": 72005110,
+    "LabelTextKey": 279575662,
+    "TagIds": [
+      15,
+      1007
+    ],
+    "UniqueHuntSkillId": 35005,
+    "AttackRateLevelRagneGroupId": 6,
+    "AttackSpeedLevelRagneGroupId": 1,
+    "AttackSpeedType": "Normal",
+    "AssetId": 1005008,
+    "EncountSpeechBalloonId": 1,
+    "WinSpeechBalloonId": 201,
+    "LoseSpeechBalloonId": 301,
+    "EventZone": {
+      "x": 0.0,
+      "y": 0.0,
+      "width": 0.0,
+      "height": 0.0
+    },
+    "BodyZone": {
+      "x": 0.0,
+      "y": 0.0,
+      "width": 1.0,
+      "height": 1.0
+    },
+    "SkillCoefficient": 1.0,
+    "CostumePossessionEffectIds": [
+      350051,
+      350052,
+      350053,
+      350054,
+      350055
+    ],
+    "PromotionCostumePossessionEffectId": 350056,
+    "CostumeRarityId": 3,
+    "SortOrder": 144,
+    "DetailLabelTextKey": -1048527834
+  },
+  {
+    "Version": "250730.1.0",
+    "Id": 36005,
+    "CharacterId": 6,
+    "ViewConditionId": 72005210,
+    "LabelTextKey": 279575662,
+    "TagIds": [
+      14,
+      1007
+    ],
+    "UniqueHuntSkillId": 36005,
+    "AttackRateLevelRagneGroupId": 9,
+    "AttackSpeedLevelRagneGroupId": 1,
+    "AttackSpeedType": "Fast",
+    "AssetId": 1006008,
+    "EncountSpeechBalloonId": 1,
+    "WinSpeechBalloonId": 201,
+    "LoseSpeechBalloonId": 301,
+    "EventZone": {
+      "x": 0.0,
+      "y": 0.0,
+      "width": 0.0,
+      "height": 0.0
+    },
+    "BodyZone": {
+      "x": 0.0,
+      "y": 0.0,
+      "width": 1.0,
+      "height": 1.0
+    },
+    "SkillCoefficient": 1.0,
+    "CostumePossessionEffectIds": [
+      360051,
+      360052,
+      360053,
+      360054,
+      360055
+    ],
+    "PromotionCostumePossessionEffectId": 360056,
+    "CostumeRarityId": 3,
+    "SortOrder": 146,
+    "DetailLabelTextKey": -751496248
+  },
+  {
+    "Version": "250710.1.0",
+    "Id": 37005,
+    "CharacterId": 7,
+    "ViewConditionId": 72005110,
+    "LabelTextKey": 279575662,
+    "TagIds": [
+      12,
+      1007
+    ],
+    "UniqueHuntSkillId": 37005,
+    "AttackRateLevelRagneGroupId": 9,
+    "AttackSpeedLevelRagneGroupId": 1,
+    "AttackSpeedType": "VerySlow",
+    "AssetId": 1007008,
+    "EncountSpeechBalloonId": 1,
+    "WinSpeechBalloonId": 201,
+    "LoseSpeechBalloonId": 301,
+    "EventZone": {
+      "x": 0.0,
+      "y": 0.0,
+      "width": 0.0,
+      "height": 0.0
+    },
+    "BodyZone": {
+      "x": 0.0,
+      "y": 0.0,
+      "width": 1.0,
+      "height": 1.0
+    },
+    "SkillCoefficient": 1.0,
+    "CostumePossessionEffectIds": [
+      370051,
+      370052,
+      370053,
+      370054,
+      370055
+    ],
+    "PromotionCostumePossessionEffectId": 370056,
+    "CostumeRarityId": 3,
+    "SortOrder": 147,
+    "DetailLabelTextKey": 1804170413
+  },
+  {
+    "Version": "250810.1.0",
+    "Id": 31006,
+    "CharacterId": 1,
+    "ViewConditionId": 72006110,
+    "LabelTextKey": -2145984001,
+    "TagIds": [
+      12,
+      1008
+    ],
+    "UniqueHuntSkillId": 31006,
+    "AttackRateLevelRagneGroupId": 10,
+    "AttackSpeedLevelRagneGroupId": 1,
+    "AttackSpeedType": "Normal",
+    "AssetId": 1001009,
+    "EncountSpeechBalloonId": 1,
+    "WinSpeechBalloonId": 201,
+    "LoseSpeechBalloonId": 301,
+    "EventZone": {
+      "x": 0.0,
+      "y": 0.0,
+      "width": 0.0,
+      "height": 0.0
+    },
+    "BodyZone": {
+      "x": 0.0,
+      "y": 0.0,
+      "width": 1.0,
+      "height": 1.0
+    },
+    "SkillCoefficient": 1.0,
+    "CostumePossessionEffectIds": [
+      310061,
+      310062,
+      310063,
+      310064,
+      310065
+    ],
+    "PromotionCostumePossessionEffectId": 310066,
+    "CostumeRarityId": 3,
+    "SortOrder": 151,
+    "DetailLabelTextKey": -672433461
+  },
+  {
+    "Version": "250810.1.0",
+    "Id": 32006,
+    "CharacterId": 2,
+    "ViewConditionId": 72006110,
+    "LabelTextKey": -2145984001,
+    "TagIds": [
+      13,
+      1008
+    ],
+    "UniqueHuntSkillId": 32006,
+    "AttackRateLevelRagneGroupId": 10,
+    "AttackSpeedLevelRagneGroupId": 1,
+    "AttackSpeedType": "Normal",
+    "AssetId": 1002009,
+    "EncountSpeechBalloonId": 1,
+    "WinSpeechBalloonId": 201,
+    "LoseSpeechBalloonId": 301,
+    "EventZone": {
+      "x": 0.0,
+      "y": 0.0,
+      "width": 0.0,
+      "height": 0.0
+    },
+    "BodyZone": {
+      "x": 0.0,
+      "y": 0.0,
+      "width": 1.0,
+      "height": 1.0
+    },
+    "SkillCoefficient": 1.0,
+    "CostumePossessionEffectIds": [
+      320061,
+      320062,
+      320063,
+      320064,
+      320065
+    ],
+    "PromotionCostumePossessionEffectId": 320066,
+    "CostumeRarityId": 3,
+    "SortOrder": 152,
+    "DetailLabelTextKey": -983640795
+  },
+  {
+    "Version": "250820.1.0",
+    "Id": 33006,
+    "CharacterId": 3,
+    "ViewConditionId": 72006210,
+    "LabelTextKey": -2145984001,
+    "TagIds": [
+      14,
+      1008
+    ],
+    "UniqueHuntSkillId": 33006,
+    "AttackRateLevelRagneGroupId": 10,
+    "AttackSpeedLevelRagneGroupId": 1,
+    "AttackSpeedType": "Normal",
+    "AssetId": 1003009,
+    "EncountSpeechBalloonId": 1,
+    "WinSpeechBalloonId": 201,
+    "LoseSpeechBalloonId": 301,
+    "EventZone": {
+      "x": 0.0,
+      "y": 0.0,
+      "width": 0.0,
+      "height": 0.0
+    },
+    "BodyZone": {
+      "x": 0.0,
+      "y": 0.0,
+      "width": 1.0,
+      "height": 1.0
+    },
+    "SkillCoefficient": 1.0,
+    "CostumePossessionEffectIds": [
+      330061,
+      330062,
+      330063,
+      330064,
+      330065
+    ],
+    "PromotionCostumePossessionEffectId": 330066,
+    "CostumeRarityId": 3,
+    "SortOrder": 153,
+    "DetailLabelTextKey": 2112008768
+  },
+  {
+    "Version": "250820.1.0",
+    "Id": 34006,
+    "CharacterId": 4,
+    "ViewConditionId": 72006210,
+    "LabelTextKey": -2145984001,
+    "TagIds": [
+      14,
+      1008
+    ],
+    "UniqueHuntSkillId": 34006,
+    "AttackRateLevelRagneGroupId": 10,
+    "AttackSpeedLevelRagneGroupId": 1,
+    "AttackSpeedType": "Normal",
+    "AssetId": 1004009,
+    "EncountSpeechBalloonId": 1,
+    "WinSpeechBalloonId": 201,
+    "LoseSpeechBalloonId": 301,
+    "EventZone": {
+      "x": 0.0,
+      "y": 0.0,
+      "width": 0.0,
+      "height": 0.0
+    },
+    "BodyZone": {
+      "x": 0.0,
+      "y": 0.0,
+      "width": 1.0,
+      "height": 1.0
+    },
+    "SkillCoefficient": 1.0,
+    "CostumePossessionEffectIds": [
+      340061,
+      340062,
+      340063,
+      340064,
+      340065
+    ],
+    "PromotionCostumePossessionEffectId": 340066,
+    "CostumeRarityId": 3,
+    "SortOrder": 155,
+    "DetailLabelTextKey": -533361927
+  },
+  {
+    "Version": "250820.1.0",
+    "Id": 35006,
+    "CharacterId": 5,
+    "ViewConditionId": 72006210,
+    "LabelTextKey": -2145984001,
+    "TagIds": [
+      15,
+      1008
+    ],
+    "UniqueHuntSkillId": 35006,
+    "AttackRateLevelRagneGroupId": 10,
+    "AttackSpeedLevelRagneGroupId": 1,
+    "AttackSpeedType": "Normal",
+    "AssetId": 1005009,
+    "EncountSpeechBalloonId": 1,
+    "WinSpeechBalloonId": 201,
+    "LoseSpeechBalloonId": 301,
+    "EventZone": {
+      "x": 0.0,
+      "y": 0.0,
+      "width": 0.0,
+      "height": 0.0
+    },
+    "BodyZone": {
+      "x": 0.0,
+      "y": 0.0,
+      "width": 1.0,
+      "height": 1.0
+    },
+    "SkillCoefficient": 1.0,
+    "CostumePossessionEffectIds": [
+      350061,
+      350062,
+      350063,
+      350064,
+      350065
+    ],
+    "PromotionCostumePossessionEffectId": 350066,
+    "CostumeRarityId": 3,
+    "SortOrder": 154,
+    "DetailLabelTextKey": 1485434268
+  },
+  {
+    "Version": "250810.1.0",
+    "Id": 36006,
+    "CharacterId": 6,
+    "ViewConditionId": 72006110,
+    "LabelTextKey": -2145984001,
+    "TagIds": [
+      16,
+      1008
+    ],
+    "UniqueHuntSkillId": 36006,
+    "AttackRateLevelRagneGroupId": 7,
+    "AttackSpeedLevelRagneGroupId": 1,
+    "AttackSpeedType": "Fast",
+    "AssetId": 1006009,
+    "EncountSpeechBalloonId": 1,
+    "WinSpeechBalloonId": 201,
+    "LoseSpeechBalloonId": 301,
+    "EventZone": {
+      "x": 0.0,
+      "y": 0.0,
+      "width": 0.0,
+      "height": 0.0
+    },
+    "BodyZone": {
+      "x": 0.0,
+      "y": 0.0,
+      "width": 1.0,
+      "height": 1.0
+    },
+    "SkillCoefficient": 1.0,
+    "CostumePossessionEffectIds": [
+      360061,
+      360062,
+      360063,
+      360064,
+      360065
+    ],
+    "PromotionCostumePossessionEffectId": 360066,
+    "CostumeRarityId": 3,
+    "SortOrder": 156,
+    "DetailLabelTextKey": 1245463154
+  },
+  {
+    "Version": "250810.1.0",
+    "Id": 37006,
+    "CharacterId": 7,
+    "ViewConditionId": 72006110,
+    "LabelTextKey": -2145984001,
+    "TagIds": [
+      11,
+      1008
+    ],
+    "UniqueHuntSkillId": 37006,
+    "AttackRateLevelRagneGroupId": 10,
+    "AttackSpeedLevelRagneGroupId": 1,
+    "AttackSpeedType": "VerySlow",
+    "AssetId": 1007009,
+    "EncountSpeechBalloonId": 1,
+    "WinSpeechBalloonId": 201,
+    "LoseSpeechBalloonId": 301,
+    "EventZone": {
+      "x": 0.0,
+      "y": 0.0,
+      "width": 0.0,
+      "height": 0.0
+    },
+    "BodyZone": {
+      "x": 0.0,
+      "y": 0.0,
+      "width": 1.0,
+      "height": 1.0
+    },
+    "SkillCoefficient": 1.0,
+    "CostumePossessionEffectIds": [
+      370061,
+      370062,
+      370063,
+      370064,
+      370065
+    ],
+    "PromotionCostumePossessionEffectId": 370066,
+    "CostumeRarityId": 3,
+    "SortOrder": 157,
+    "DetailLabelTextKey": -226482921
+  },
+  {
+    "Version": "250910.1.0",
+    "Id": 31007,
+    "CharacterId": 1,
+    "ViewConditionId": 12509101,
+    "LabelTextKey": -149827223,
+    "TagIds": [
+      13,
+      1009
+    ],
+    "UniqueHuntSkillId": 31007,
+    "AttackRateLevelRagneGroupId": 11,
+    "AttackSpeedLevelRagneGroupId": 1,
+    "AttackSpeedType": "Normal",
+    "AssetId": 1001010,
+    "EncountSpeechBalloonId": 1,
+    "WinSpeechBalloonId": 201,
+    "LoseSpeechBalloonId": 301,
+    "EventZone": {
+      "x": 0.0,
+      "y": 0.0,
+      "width": 0.0,
+      "height": 0.0
+    },
+    "BodyZone": {
+      "x": 0.0,
+      "y": 0.0,
+      "width": 1.0,
+      "height": 1.0
+    },
+    "SkillCoefficient": 3.0,
+    "CostumePossessionEffectIds": [
+      310071,
+      310072,
+      310073,
+      310074,
+      310075
+    ],
+    "PromotionCostumePossessionEffectId": 310076,
+    "CostumeRarityId": 3,
+    "SortOrder": 161,
+    "DetailLabelTextKey": -1595127203
+  },
+  {
+    "Version": "250930.1.0",
+    "Id": 32007,
+    "CharacterId": 2,
+    "ViewConditionId": 12509301,
+    "LabelTextKey": -149827223,
+    "TagIds": [
+      14,
+      1009
+    ],
+    "UniqueHuntSkillId": 32007,
+    "AttackRateLevelRagneGroupId": 11,
+    "AttackSpeedLevelRagneGroupId": 1,
+    "AttackSpeedType": "Normal",
+    "AssetId": 1002010,
+    "EncountSpeechBalloonId": 1,
+    "WinSpeechBalloonId": 201,
+    "LoseSpeechBalloonId": 301,
+    "EventZone": {
+      "x": 0.0,
+      "y": 0.0,
+      "width": 0.0,
+      "height": 0.0
+    },
+    "BodyZone": {
+      "x": 0.0,
+      "y": 0.0,
+      "width": 1.0,
+      "height": 1.0
+    },
+    "SkillCoefficient": 3.0,
+    "CostumePossessionEffectIds": [
+      320071,
+      320072,
+      320073,
+      320074,
+      320075
+    ],
+    "PromotionCostumePossessionEffectId": 320076,
+    "CostumeRarityId": 3,
+    "SortOrder": 162,
+    "DetailLabelTextKey": -1302731341
+  },
+  {
+    "Version": "250910.1.0",
+    "Id": 33007,
+    "CharacterId": 3,
+    "ViewConditionId": 12509101,
+    "LabelTextKey": -149827223,
+    "TagIds": [
+      15,
+      1009
+    ],
+    "UniqueHuntSkillId": 33007,
+    "AttackRateLevelRagneGroupId": 11,
+    "AttackSpeedLevelRagneGroupId": 1,
+    "AttackSpeedType": "Normal",
+    "AssetId": 1003010,
+    "EncountSpeechBalloonId": 1,
+    "WinSpeechBalloonId": 201,
+    "LoseSpeechBalloonId": 301,
+    "EventZone": {
+      "x": 0.0,
+      "y": 0.0,
+      "width": 0.0,
+      "height": 0.0
+    },
+    "BodyZone": {
+      "x": 0.0,
+      "y": 0.0,
+      "width": 1.0,
+      "height": 1.0
+    },
+    "SkillCoefficient": 1.0,
+    "CostumePossessionEffectIds": [
+      330071,
+      330072,
+      330073,
+      330074,
+      330075
+    ],
+    "PromotionCostumePossessionEffectId": 330076,
+    "CostumeRarityId": 3,
+    "SortOrder": 163,
+    "DetailLabelTextKey": 182813398
+  },
+  {
+    "Version": "250910.1.0",
+    "Id": 34007,
+    "CharacterId": 4,
+    "ViewConditionId": 12509101,
+    "LabelTextKey": -149827223,
+    "TagIds": [
+      16,
+      1009
+    ],
+    "UniqueHuntSkillId": 34007,
+    "AttackRateLevelRagneGroupId": 8,
+    "AttackSpeedLevelRagneGroupId": 1,
+    "AttackSpeedType": "Normal",
+    "AssetId": 1004010,
+    "EncountSpeechBalloonId": 1,
+    "WinSpeechBalloonId": 201,
+    "LoseSpeechBalloonId": 301,
+    "EventZone": {
+      "x": 0.0,
+      "y": 0.0,
+      "width": 0.0,
+      "height": 0.0
+    },
+    "BodyZone": {
+      "x": 0.0,
+      "y": 0.0,
+      "width": 1.0,
+      "height": 1.0
+    },
+    "SkillCoefficient": 1.2000000476837158,
+    "CostumePossessionEffectIds": [
+      340071,
+      340072,
+      340073,
+      340074,
+      340075
+    ],
+    "PromotionCostumePossessionEffectId": 340076,
+    "CostumeRarityId": 3,
+    "SortOrder": 165,
+    "DetailLabelTextKey": -1758283153
+  },
+  {
+    "Version": "250930.1.0",
+    "Id": 35007,
+    "CharacterId": 5,
+    "ViewConditionId": 12509301,
+    "LabelTextKey": -149827223,
+    "TagIds": [
+      11,
+      1009
+    ],
+    "UniqueHuntSkillId": 35007,
+    "AttackRateLevelRagneGroupId": 11,
+    "AttackSpeedLevelRagneGroupId": 1,
+    "AttackSpeedType": "Normal",
+    "AssetId": 1005010,
+    "EncountSpeechBalloonId": 1,
+    "WinSpeechBalloonId": 201,
+    "LoseSpeechBalloonId": 301,
+    "EventZone": {
+      "x": 0.0,
+      "y": 0.0,
+      "width": 0.0,
+      "height": 0.0
+    },
+    "BodyZone": {
+      "x": 0.0,
+      "y": 0.0,
+      "width": 1.0,
+      "height": 1.0
+    },
+    "SkillCoefficient": 1.0,
+    "CostumePossessionEffectIds": [
+      350071,
+      350072,
+      350073,
+      350074,
+      350075
+    ],
+    "PromotionCostumePossessionEffectId": 350076,
+    "CostumeRarityId": 3,
+    "SortOrder": 164,
+    "DetailLabelTextKey": 797891850
+  },
+  {
+    "Version": "250930.1.0",
+    "Id": 36007,
+    "CharacterId": 6,
+    "ViewConditionId": 12509301,
+    "LabelTextKey": -149827223,
+    "TagIds": [
+      12,
+      1009
+    ],
+    "UniqueHuntSkillId": 36007,
+    "AttackRateLevelRagneGroupId": 11,
+    "AttackSpeedLevelRagneGroupId": 1,
+    "AttackSpeedType": "Fast",
+    "AssetId": 1006010,
+    "EncountSpeechBalloonId": 1,
+    "WinSpeechBalloonId": 201,
+    "LoseSpeechBalloonId": 301,
+    "EventZone": {
+      "x": 0.0,
+      "y": 0.0,
+      "width": 0.0,
+      "height": 0.0
+    },
+    "BodyZone": {
+      "x": 0.0,
+      "y": 0.0,
+      "width": 1.0,
+      "height": 1.0
+    },
+    "SkillCoefficient": 1.0,
+    "CostumePossessionEffectIds": [
+      360071,
+      360072,
+      360073,
+      360074,
+      360075
+    ],
+    "PromotionCostumePossessionEffectId": 360076,
+    "CostumeRarityId": 3,
+    "SortOrder": 166,
+    "DetailLabelTextKey": 1027306212
+  },
+  {
+    "Version": "250910.1.0",
+    "Id": 37007,
+    "CharacterId": 7,
+    "ViewConditionId": 12509101,
+    "LabelTextKey": -149827223,
+    "TagIds": [
+      13,
+      1009
+    ],
+    "UniqueHuntSkillId": 37007,
+    "AttackRateLevelRagneGroupId": 11,
+    "AttackSpeedLevelRagneGroupId": 1,
+    "AttackSpeedType": "VerySlow",
+    "AssetId": 1007010,
+    "EncountSpeechBalloonId": 1,
+    "WinSpeechBalloonId": 201,
+    "LoseSpeechBalloonId": 301,
+    "EventZone": {
+      "x": 0.0,
+      "y": 0.0,
+      "width": 0.0,
+      "height": 0.0
+    },
+    "BodyZone": {
+      "x": 0.0,
+      "y": 0.0,
+      "width": 1.0,
+      "height": 1.0
+    },
+    "SkillCoefficient": 1.0,
+    "CostumePossessionEffectIds": [
+      370071,
+      370072,
+      370073,
+      370074,
+      370075
+    ],
+    "PromotionCostumePossessionEffectId": 370076,
+    "CostumeRarityId": 3,
+    "SortOrder": 167,
+    "DetailLabelTextKey": -2054744703
+  },
+  {
+    "Version": "251010.1.0",
+    "Id": 31008,
+    "CharacterId": 1,
+    "ViewConditionId": 12510101,
+    "LabelTextKey": -1747560308,
+    "TagIds": [
+      15,
+      1010
+    ],
+    "UniqueHuntSkillId": 31008,
+    "AttackRateLevelRagneGroupId": 9,
+    "AttackSpeedLevelRagneGroupId": 1,
+    "AttackSpeedType": "Normal",
+    "AssetId": 1001011,
+    "EncountSpeechBalloonId": 1,
+    "WinSpeechBalloonId": 201,
+    "LoseSpeechBalloonId": 301,
+    "EventZone": {
+      "x": 0.0,
+      "y": 0.0,
+      "width": 0.0,
+      "height": 0.0
+    },
+    "BodyZone": {
+      "x": 0.0,
+      "y": 0.0,
+      "width": 1.0,
+      "height": 1.0
+    },
+    "SkillCoefficient": 1.399999976158142,
+    "CostumePossessionEffectIds": [
+      310081,
+      310082,
+      310083,
+      310084,
+      310085
+    ],
+    "PromotionCostumePossessionEffectId": 310086,
+    "CostumeRarityId": 3,
+    "SortOrder": 171,
+    "DetailLabelTextKey": 810768332
+  },
+  {
+    "Version": "251010.1.0",
+    "Id": 32008,
+    "CharacterId": 2,
+    "ViewConditionId": 12510101,
+    "LabelTextKey": -1747560308,
+    "TagIds": [
+      16,
+      1010
+    ],
+    "UniqueHuntSkillId": 32008,
+    "AttackRateLevelRagneGroupId": 12,
+    "AttackSpeedLevelRagneGroupId": 1,
+    "AttackSpeedType": "Normal",
+    "AssetId": 1002011,
+    "EncountSpeechBalloonId": 1,
+    "WinSpeechBalloonId": 201,
+    "LoseSpeechBalloonId": 301,
+    "EventZone": {
+      "x": 0.0,
+      "y": 0.0,
+      "width": 0.0,
+      "height": 0.0
+    },
+    "BodyZone": {
+      "x": 0.0,
+      "y": 0.0,
+      "width": 1.0,
+      "height": 1.0
+    },
+    "SkillCoefficient": 1.7999999523162842,
+    "CostumePossessionEffectIds": [
+      320081,
+      320082,
+      320083,
+      320084,
+      320085
+    ],
+    "PromotionCostumePossessionEffectId": 320086,
+    "CostumeRarityId": 3,
+    "SortOrder": 172,
+    "DetailLabelTextKey": 585562146
+  },
+  {
+    "Version": "251020.1.0",
+    "Id": 33008,
+    "CharacterId": 3,
+    "ViewConditionId": 12510201,
+    "LabelTextKey": -1747560308,
+    "TagIds": [
+      11,
+      1010
+    ],
+    "UniqueHuntSkillId": 33008,
+    "AttackRateLevelRagneGroupId": 12,
+    "AttackSpeedLevelRagneGroupId": 1,
+    "AttackSpeedType": "Normal",
+    "AssetId": 1003011,
+    "EncountSpeechBalloonId": 1,
+    "WinSpeechBalloonId": 201,
+    "LoseSpeechBalloonId": 301,
+    "EventZone": {
+      "x": 0.0,
+      "y": 0.0,
+      "width": 0.0,
+      "height": 0.0
+    },
+    "BodyZone": {
+      "x": 0.0,
+      "y": 0.0,
+      "width": 1.0,
+      "height": 1.0
+    },
+    "SkillCoefficient": 3.0,
+    "CostumePossessionEffectIds": [
+      330081,
+      330082,
+      330083,
+      330084,
+      330085
+    ],
+    "PromotionCostumePossessionEffectId": 330086,
+    "CostumeRarityId": 3,
+    "SortOrder": 173,
+    "DetailLabelTextKey": -1705337017
+  },
+  {
+    "Version": "251020.1.0",
+    "Id": 34008,
+    "CharacterId": 4,
+    "ViewConditionId": 12510201,
+    "LabelTextKey": -1747560308,
+    "TagIds": [
+      12,
+      1010
+    ],
+    "UniqueHuntSkillId": 34008,
+    "AttackRateLevelRagneGroupId": 12,
+    "AttackSpeedLevelRagneGroupId": 1,
+    "AttackSpeedType": "Normal",
+    "AssetId": 1004011,
+    "EncountSpeechBalloonId": 1,
+    "WinSpeechBalloonId": 201,
+    "LoseSpeechBalloonId": 301,
+    "EventZone": {
+      "x": 0.0,
+      "y": 0.0,
+      "width": 0.0,
+      "height": 0.0
+    },
+    "BodyZone": {
+      "x": 0.0,
+      "y": 0.0,
+      "width": 1.0,
+      "height": 1.0
+    },
+    "SkillCoefficient": 1.7999999523162842,
+    "CostumePossessionEffectIds": [
+      340081,
+      340082,
+      340083,
+      340084,
+      340085
+    ],
+    "PromotionCostumePossessionEffectId": 340086,
+    "CostumeRarityId": 3,
+    "SortOrder": 175,
+    "DetailLabelTextKey": 126724094
+  },
+  {
+    "Version": "251020.1.0",
+    "Id": 35008,
+    "CharacterId": 5,
+    "ViewConditionId": 12510201,
+    "LabelTextKey": -1747560308,
+    "TagIds": [
+      14,
+      1010
+    ],
+    "UniqueHuntSkillId": 35008,
+    "AttackRateLevelRagneGroupId": 12,
+    "AttackSpeedLevelRagneGroupId": 1,
+    "AttackSpeedType": "Normal",
+    "AssetId": 1005011,
+    "EncountSpeechBalloonId": 1,
+    "WinSpeechBalloonId": 201,
+    "LoseSpeechBalloonId": 301,
+    "EventZone": {
+      "x": 0.0,
+      "y": 0.0,
+      "width": 0.0,
+      "height": 0.0
+    },
+    "BodyZone": {
+      "x": 0.0,
+      "y": 0.0,
+      "width": 1.0,
+      "height": 1.0
+    },
+    "SkillCoefficient": 1.7999999523162842,
+    "CostumePossessionEffectIds": [
+      350081,
+      350082,
+      350083,
+      350084,
+      350085
+    ],
+    "PromotionCostumePossessionEffectId": 350086,
+    "CostumeRarityId": 3,
+    "SortOrder": 174,
+    "DetailLabelTextKey": -1087258469
+  },
+  {
+    "Version": "251010.1.0",
+    "Id": 36008,
+    "CharacterId": 6,
+    "ViewConditionId": 12510101,
+    "LabelTextKey": -1747560308,
+    "TagIds": [
+      15,
+      1010
+    ],
+    "UniqueHuntSkillId": 36008,
+    "AttackRateLevelRagneGroupId": 12,
+    "AttackSpeedLevelRagneGroupId": 1,
+    "AttackSpeedType": "Fast",
+    "AssetId": 1006011,
+    "EncountSpeechBalloonId": 1,
+    "WinSpeechBalloonId": 201,
+    "LoseSpeechBalloonId": 301,
+    "EventZone": {
+      "x": 0.0,
+      "y": 0.0,
+      "width": 0.0,
+      "height": 0.0
+    },
+    "BodyZone": {
+      "x": 0.0,
+      "y": 0.0,
+      "width": 1.0,
+      "height": 1.0
+    },
+    "SkillCoefficient": 1.399999976158142,
+    "CostumePossessionEffectIds": [
+      360081,
+      360082,
+      360083,
+      360084,
+      360085
+    ],
+    "PromotionCostumePossessionEffectId": 360086,
+    "CostumeRarityId": 3,
+    "SortOrder": 176,
+    "DetailLabelTextKey": -1383829643
+  },
+  {
+    "Version": "251010.1.0",
+    "Id": 37008,
+    "CharacterId": 7,
+    "ViewConditionId": 12510101,
+    "LabelTextKey": -1747560308,
+    "TagIds": [
+      16,
+      1010
+    ],
+    "UniqueHuntSkillId": 37008,
+    "AttackRateLevelRagneGroupId": 12,
+    "AttackSpeedLevelRagneGroupId": 1,
+    "AttackSpeedType": "VerySlow",
+    "AssetId": 1007011,
+    "EncountSpeechBalloonId": 1,
+    "WinSpeechBalloonId": 201,
+    "LoseSpeechBalloonId": 301,
+    "EventZone": {
+      "x": 0.0,
+      "y": 0.0,
+      "width": 0.0,
+      "height": 0.0
+    },
+    "BodyZone": {
+      "x": 0.0,
+      "y": 0.0,
+      "width": 1.0,
+      "height": 1.0
+    },
+    "SkillCoefficient": 1.399999976158142,
+    "CostumePossessionEffectIds": [
+      370081,
+      370082,
+      370083,
+      370084,
+      370085
+    ],
+    "PromotionCostumePossessionEffectId": 370086,
+    "CostumeRarityId": 3,
+    "SortOrder": 177,
+    "DetailLabelTextKey": 355993616
+  },
+  {
+    "Version": "251010.1.0",
+    "Id": 21002,
+    "CharacterId": 1,
+    "ViewConditionId": 12510101,
+    "LabelTextKey": -523147238,
+    "TagIds": [
+      14,
+      1011
+    ],
+    "UniqueHuntSkillId": 21002,
+    "AttackRateLevelRagneGroupId": 21,
+    "AttackSpeedLevelRagneGroupId": 1,
+    "AttackSpeedType": "Normal",
+    "AssetId": 1001015,
+    "EncountSpeechBalloonId": 1,
+    "WinSpeechBalloonId": 201,
+    "LoseSpeechBalloonId": 301,
+    "EventZone": {
+      "x": 0.0,
+      "y": 0.0,
+      "width": 0.0,
+      "height": 0.0
+    },
+    "BodyZone": {
+      "x": 0.0,
+      "y": 0.0,
+      "width": 1.0,
+      "height": 1.0
+    },
+    "SkillCoefficient": 1.600000023841858,
+    "CostumePossessionEffectIds": [
+      210021,
+      210022,
+      210023,
+      210024,
+      210025
+    ],
+    "PromotionCostumePossessionEffectId": 210026,
+    "CostumeRarityId": 2,
+    "SortOrder": 21,
+    "DetailLabelTextKey": -303655070
+  },
+  {
+    "Version": "251010.1.0",
+    "Id": 22002,
+    "CharacterId": 2,
+    "ViewConditionId": 12510101,
+    "LabelTextKey": -523147238,
+    "TagIds": [
+      15,
+      1011
+    ],
+    "UniqueHuntSkillId": 22002,
+    "AttackRateLevelRagneGroupId": 21,
+    "AttackSpeedLevelRagneGroupId": 1,
+    "AttackSpeedType": "Normal",
+    "AssetId": 1002015,
+    "EncountSpeechBalloonId": 1,
+    "WinSpeechBalloonId": 201,
+    "LoseSpeechBalloonId": 301,
+    "EventZone": {
+      "x": 0.0,
+      "y": 0.0,
+      "width": 0.0,
+      "height": 0.0
+    },
+    "BodyZone": {
+      "x": 0.0,
+      "y": 0.0,
+      "width": 1.0,
+      "height": 1.0
+    },
+    "SkillCoefficient": 1.600000023841858,
+    "CostumePossessionEffectIds": [
+      220021,
+      220022,
+      220023,
+      220024,
+      220025
+    ],
+    "PromotionCostumePossessionEffectId": 220026,
+    "CostumeRarityId": 2,
+    "SortOrder": 22,
+    "DetailLabelTextKey": -11323252
+  },
+  {
+    "Version": "251010.1.0",
+    "Id": 23002,
+    "CharacterId": 3,
+    "ViewConditionId": 12510101,
+    "LabelTextKey": -523147238,
+    "TagIds": [
+      16,
+      1011
+    ],
+    "UniqueHuntSkillId": 23002,
+    "AttackRateLevelRagneGroupId": 21,
+    "AttackSpeedLevelRagneGroupId": 1,
+    "AttackSpeedType": "Normal",
+    "AssetId": 1003015,
+    "EncountSpeechBalloonId": 1,
+    "WinSpeechBalloonId": 201,
+    "LoseSpeechBalloonId": 301,
+    "EventZone": {
+      "x": 0.0,
+      "y": 0.0,
+      "width": 0.0,
+      "height": 0.0
+    },
+    "BodyZone": {
+      "x": 0.0,
+      "y": 0.0,
+      "width": 1.0,
+      "height": 1.0
+    },
+    "SkillCoefficient": 1.600000023841858,
+    "CostumePossessionEffectIds": [
+      230021,
+      230022,
+      230023,
+      230024,
+      230025
+    ],
+    "PromotionCostumePossessionEffectId": 230026,
+    "CostumeRarityId": 2,
+    "SortOrder": 23,
+    "DetailLabelTextKey": 1206869993
+  },
+  {
+    "Version": "251030.1.0",
+    "Id": 31009,
+    "CharacterId": 1,
+    "ViewConditionId": 12510301,
+    "LabelTextKey": 2044213664,
+    "TagIds": [
+      13,
+      1012
+    ],
+    "UniqueHuntSkillId": 31009,
+    "AttackRateLevelRagneGroupId": 13,
+    "AttackSpeedLevelRagneGroupId": 1,
+    "AttackSpeedType": "Normal",
+    "AssetId": 1001012,
+    "EncountSpeechBalloonId": 1,
+    "WinSpeechBalloonId": 201,
+    "LoseSpeechBalloonId": 301,
+    "EventZone": {
+      "x": 0.0,
+      "y": 0.0,
+      "width": 0.0,
+      "height": 0.0
+    },
+    "BodyZone": {
+      "x": 0.0,
+      "y": 0.0,
+      "width": 1.0,
+      "height": 1.0
+    },
+    "SkillCoefficient": 1.0,
+    "CostumePossessionEffectIds": [
+      310091,
+      310092,
+      310093,
+      310094,
+      310095
+    ],
+    "PromotionCostumePossessionEffectId": 310096,
+    "CostumeRarityId": 3,
+    "SortOrder": 178,
+    "DetailLabelTextKey": 1196713818
+  },
+  {
+    "Version": "251110.1.0",
+    "Id": 32009,
+    "CharacterId": 2,
+    "ViewConditionId": 12511101,
+    "LabelTextKey": 2044213664,
+    "TagIds": [
+      11,
+      1012
+    ],
+    "UniqueHuntSkillId": 32009,
+    "AttackRateLevelRagneGroupId": 13,
+    "AttackSpeedLevelRagneGroupId": 1,
+    "AttackSpeedType": "Normal",
+    "AssetId": 1002012,
+    "EncountSpeechBalloonId": 1,
+    "WinSpeechBalloonId": 201,
+    "LoseSpeechBalloonId": 301,
+    "EventZone": {
+      "x": 0.0,
+      "y": 0.0,
+      "width": 0.0,
+      "height": 0.0
+    },
+    "BodyZone": {
+      "x": 0.0,
+      "y": 0.0,
+      "width": 1.0,
+      "height": 1.0
+    },
+    "SkillCoefficient": 1.0,
+    "CostumePossessionEffectIds": [
+      320091,
+      320092,
+      320093,
+      320094,
+      320095
+    ],
+    "PromotionCostumePossessionEffectId": 320096,
+    "CostumeRarityId": 3,
+    "SortOrder": 179,
+    "DetailLabelTextKey": 1440860340
+  },
+  {
+    "Version": "251030.1.0",
+    "Id": 33009,
+    "CharacterId": 3,
+    "ViewConditionId": 12510301,
+    "LabelTextKey": 2044213664,
+    "TagIds": [
+      12,
+      1012
+    ],
+    "UniqueHuntSkillId": 33009,
+    "AttackRateLevelRagneGroupId": 10,
+    "AttackSpeedLevelRagneGroupId": 1,
+    "AttackSpeedType": "Normal",
+    "AssetId": 1003012,
+    "EncountSpeechBalloonId": 1,
+    "WinSpeechBalloonId": 201,
+    "LoseSpeechBalloonId": 301,
+    "EventZone": {
+      "x": 0.0,
+      "y": 0.0,
+      "width": 0.0,
+      "height": 0.0
+    },
+    "BodyZone": {
+      "x": 0.0,
+      "y": 0.0,
+      "width": 1.0,
+      "height": 1.0
+    },
+    "SkillCoefficient": 1.0,
+    "CostumePossessionEffectIds": [
+      330091,
+      330092,
+      330093,
+      330094,
+      330095
+    ],
+    "PromotionCostumePossessionEffectId": 330096,
+    "CostumeRarityId": 3,
+    "SortOrder": 180,
+    "DetailLabelTextKey": -312627247
+  },
+  {
+    "Version": "251110.1.0",
+    "Id": 34009,
+    "CharacterId": 4,
+    "ViewConditionId": 12511101,
+    "LabelTextKey": 2044213664,
+    "TagIds": [
+      14,
+      1012
+    ],
+    "UniqueHuntSkillId": 34009,
+    "AttackRateLevelRagneGroupId": 13,
+    "AttackSpeedLevelRagneGroupId": 1,
+    "AttackSpeedType": "Normal",
+    "AssetId": 1004012,
+    "EncountSpeechBalloonId": 1,
+    "WinSpeechBalloonId": 201,
+    "LoseSpeechBalloonId": 301,
+    "EventZone": {
+      "x": 0.0,
+      "y": 0.0,
+      "width": 0.0,
+      "height": 0.0
+    },
+    "BodyZone": {
+      "x": 0.0,
+      "y": 0.0,
+      "width": 1.0,
+      "height": 1.0
+    },
+    "SkillCoefficient": 3.0,
+    "CostumePossessionEffectIds": [
+      340091,
+      340092,
+      340093,
+      340094,
+      340095
+    ],
+    "PromotionCostumePossessionEffectId": 340096,
+    "CostumeRarityId": 3,
+    "SortOrder": 182,
+    "DetailLabelTextKey": 1888130920
+  },
+  {
+    "Version": "251110.1.0",
+    "Id": 35009,
+    "CharacterId": 5,
+    "ViewConditionId": 12511101,
+    "LabelTextKey": 2044213664,
+    "TagIds": [
+      13,
+      1012
+    ],
+    "UniqueHuntSkillId": 35009,
+    "AttackRateLevelRagneGroupId": 13,
+    "AttackSpeedLevelRagneGroupId": 1,
+    "AttackSpeedType": "Normal",
+    "AssetId": 1005012,
+    "EncountSpeechBalloonId": 1,
+    "WinSpeechBalloonId": 201,
+    "LoseSpeechBalloonId": 301,
+    "EventZone": {
+      "x": 0.0,
+      "y": 0.0,
+      "width": 0.0,
+      "height": 0.0
+    },
+    "BodyZone": {
+      "x": 0.0,
+      "y": 0.0,
+      "width": 1.0,
+      "height": 1.0
+    },
+    "SkillCoefficient": 1.7999999523162842,
+    "CostumePossessionEffectIds": [
+      350091,
+      350092,
+      350093,
+      350094,
+      350095
+    ],
+    "PromotionCostumePossessionEffectId": 350096,
+    "CostumeRarityId": 3,
+    "SortOrder": 181,
+    "DetailLabelTextKey": -935923699
+  },
+  {
+    "Version": "251030.1.0",
+    "Id": 36009,
+    "CharacterId": 6,
+    "ViewConditionId": 12510301,
+    "LabelTextKey": 2044213664,
+    "TagIds": [
+      16,
+      1012
+    ],
+    "UniqueHuntSkillId": 36009,
+    "AttackRateLevelRagneGroupId": 13,
+    "AttackSpeedLevelRagneGroupId": 1,
+    "AttackSpeedType": "Fast",
+    "AssetId": 1006012,
+    "EncountSpeechBalloonId": 1,
+    "WinSpeechBalloonId": 201,
+    "LoseSpeechBalloonId": 301,
+    "EventZone": {
+      "x": 0.0,
+      "y": 0.0,
+      "width": 0.0,
+      "height": 0.0
+    },
+    "BodyZone": {
+      "x": 0.0,
+      "y": 0.0,
+      "width": 1.0,
+      "height": 1.0
+    },
+    "SkillCoefficient": 1.0,
+    "CostumePossessionEffectIds": [
+      360091,
+      360092,
+      360093,
+      360094,
+      360095
+    ],
+    "PromotionCostumePossessionEffectId": 360096,
+    "CostumeRarityId": 3,
+    "SortOrder": 183,
+    "DetailLabelTextKey": -628924445
+  },
+  {
+    "Version": "251030.1.0",
+    "Id": 37009,
+    "CharacterId": 7,
+    "ViewConditionId": 12510301,
+    "LabelTextKey": 2044213664,
+    "TagIds": [
+      15,
+      1012
+    ],
+    "UniqueHuntSkillId": 37009,
+    "AttackRateLevelRagneGroupId": 13,
+    "AttackSpeedLevelRagneGroupId": 1,
+    "AttackSpeedType": "VerySlow",
+    "AssetId": 1007012,
+    "EncountSpeechBalloonId": 1,
+    "WinSpeechBalloonId": 201,
+    "LoseSpeechBalloonId": 301,
+    "EventZone": {
+      "x": 0.0,
+      "y": 0.0,
+      "width": 0.0,
+      "height": 0.0
+    },
+    "BodyZone": {
+      "x": 0.0,
+      "y": 0.0,
+      "width": 1.0,
+      "height": 1.0
+    },
+    "SkillCoefficient": 1.7999999523162842,
+    "CostumePossessionEffectIds": [
+      370091,
+      370092,
+      370093,
+      370094,
+      370095
+    ],
+    "PromotionCostumePossessionEffectId": 370096,
+    "CostumeRarityId": 3,
+    "SortOrder": 184,
+    "DetailLabelTextKey": 1648310406
+  },
+  {
+    "Version": "251210.1.0",
+    "Id": 31010,
+    "CharacterId": 1,
+    "ViewConditionId": 12512101,
+    "LabelTextKey": 249497910,
+    "TagIds": [
+      13,
+      1013
+    ],
+    "UniqueHuntSkillId": 31010,
+    "AttackRateLevelRagneGroupId": 14,
+    "AttackSpeedLevelRagneGroupId": 1,
+    "AttackSpeedType": "Normal",
+    "AssetId": 1001013,
+    "EncountSpeechBalloonId": 1,
+    "WinSpeechBalloonId": 201,
+    "LoseSpeechBalloonId": 301,
+    "EventZone": {
+      "x": 0.0,
+      "y": 0.0,
+      "width": 0.0,
+      "height": 0.0
+    },
+    "BodyZone": {
+      "x": 0.0,
+      "y": 0.0,
+      "width": 1.0,
+      "height": 1.0
+    },
+    "SkillCoefficient": 1.2000000476837158,
+    "CostumePossessionEffectIds": [
+      310101,
+      310102,
+      310103,
+      310104,
+      310105
+    ],
+    "PromotionCostumePossessionEffectId": 310106,
+    "CostumeRarityId": 3,
+    "SortOrder": 185,
+    "DetailLabelTextKey": 664006335
+  },
+  {
+    "Version": "251210.1.0",
+    "Id": 32010,
+    "CharacterId": 2,
+    "ViewConditionId": 12512101,
+    "LabelTextKey": 249497910,
+    "TagIds": [
+      12,
+      1013
+    ],
+    "UniqueHuntSkillId": 32010,
+    "AttackRateLevelRagneGroupId": 14,
+    "AttackSpeedLevelRagneGroupId": 1,
+    "AttackSpeedType": "Normal",
+    "AssetId": 1002013,
+    "EncountSpeechBalloonId": 1,
+    "WinSpeechBalloonId": 201,
+    "LoseSpeechBalloonId": 301,
+    "EventZone": {
+      "x": 0.0,
+      "y": 0.0,
+      "width": 0.0,
+      "height": 0.0
+    },
+    "BodyZone": {
+      "x": 0.0,
+      "y": 0.0,
+      "width": 1.0,
+      "height": 1.0
+    },
+    "SkillCoefficient": 1.399999976158142,
+    "CostumePossessionEffectIds": [
+      320101,
+      320102,
+      320103,
+      320104,
+      320105
+    ],
+    "PromotionCostumePossessionEffectId": 320106,
+    "CostumeRarityId": 3,
+    "SortOrder": 186,
+    "DetailLabelTextKey": 891699537
+  },
+  {
+    "Version": "251230.1.0",
+    "Id": 33010,
+    "CharacterId": 3,
+    "ViewConditionId": 12512301,
+    "LabelTextKey": 249497910,
+    "TagIds": [
+      11,
+      1013
+    ],
+    "UniqueHuntSkillId": 33010,
+    "AttackRateLevelRagneGroupId": 14,
+    "AttackSpeedLevelRagneGroupId": 1,
+    "AttackSpeedType": "Normal",
+    "AssetId": 1003013,
+    "EncountSpeechBalloonId": 1,
+    "WinSpeechBalloonId": 201,
+    "LoseSpeechBalloonId": 301,
+    "EventZone": {
+      "x": 0.0,
+      "y": 0.0,
+      "width": 0.0,
+      "height": 0.0
+    },
+    "BodyZone": {
+      "x": 0.0,
+      "y": 0.0,
+      "width": 1.0,
+      "height": 1.0
+    },
+    "SkillCoefficient": 1.0,
+    "CostumePossessionEffectIds": [
+      330101,
+      330102,
+      330103,
+      330104,
+      330105
+    ],
+    "PromotionCostumePossessionEffectId": 330106,
+    "CostumeRarityId": 3,
+    "SortOrder": 187,
+    "DetailLabelTextKey": -1919277516
+  },
+  {
+    "Version": "251230.1.0",
+    "Id": 34010,
+    "CharacterId": 4,
+    "ViewConditionId": 12512301,
+    "LabelTextKey": 249497910,
+    "TagIds": [
+      15,
+      1013
+    ],
+    "UniqueHuntSkillId": 34010,
+    "AttackRateLevelRagneGroupId": 14,
+    "AttackSpeedLevelRagneGroupId": 1,
+    "AttackSpeedType": "Normal",
+    "AssetId": 1004013,
+    "EncountSpeechBalloonId": 1,
+    "WinSpeechBalloonId": 201,
+    "LoseSpeechBalloonId": 301,
+    "EventZone": {
+      "x": 0.0,
+      "y": 0.0,
+      "width": 0.0,
+      "height": 0.0
+    },
+    "BodyZone": {
+      "x": 0.0,
+      "y": 0.0,
+      "width": 1.0,
+      "height": 1.0
+    },
+    "SkillCoefficient": 3.0,
+    "CostumePossessionEffectIds": [
+      340101,
+      340102,
+      340103,
+      340104,
+      340105
+    ],
+    "PromotionCostumePossessionEffectId": 340106,
+    "CostumeRarityId": 3,
+    "SortOrder": 189,
+    "DetailLabelTextKey": 273489549
+  },
+  {
+    "Version": "251210.1.0",
+    "Id": 35010,
+    "CharacterId": 5,
+    "ViewConditionId": 12512101,
+    "LabelTextKey": 249497910,
+    "TagIds": [
+      14,
+      1013
+    ],
+    "UniqueHuntSkillId": 35010,
+    "AttackRateLevelRagneGroupId": 11,
+    "AttackSpeedLevelRagneGroupId": 1,
+    "AttackSpeedType": "Normal",
+    "AssetId": 1005013,
+    "EncountSpeechBalloonId": 1,
+    "WinSpeechBalloonId": 201,
+    "LoseSpeechBalloonId": 301,
+    "EventZone": {
+      "x": 0.0,
+      "y": 0.0,
+      "width": 0.0,
+      "height": 0.0
+    },
+    "BodyZone": {
+      "x": 0.0,
+      "y": 0.0,
+      "width": 1.0,
+      "height": 1.0
+    },
+    "SkillCoefficient": 3.0,
+    "CostumePossessionEffectIds": [
+      350101,
+      350102,
+      350103,
+      350104,
+      350105
+    ],
+    "PromotionCostumePossessionEffectId": 350106,
+    "CostumeRarityId": 3,
+    "SortOrder": 188,
+    "DetailLabelTextKey": -1460569624
+  },
+  {
+    "Version": "251210.1.0",
+    "Id": 36010,
+    "CharacterId": 6,
+    "ViewConditionId": 12512101,
+    "LabelTextKey": 249497910,
+    "TagIds": [
+      11,
+      1013
+    ],
+    "UniqueHuntSkillId": 36010,
+    "AttackRateLevelRagneGroupId": 14,
+    "AttackSpeedLevelRagneGroupId": 1,
+    "AttackSpeedType": "Fast",
+    "AssetId": 1006013,
+    "EncountSpeechBalloonId": 1,
+    "WinSpeechBalloonId": 201,
+    "LoseSpeechBalloonId": 301,
+    "EventZone": {
+      "x": 0.0,
+      "y": 0.0,
+      "width": 0.0,
+      "height": 0.0
+    },
+    "BodyZone": {
+      "x": 0.0,
+      "y": 0.0,
+      "width": 1.0,
+      "height": 1.0
+    },
+    "SkillCoefficient": 3.0,
+    "CostumePossessionEffectIds": [
+      360101,
+      360102,
+      360103,
+      360104,
+      360105
+    ],
+    "PromotionCostumePossessionEffectId": 360106,
+    "CostumeRarityId": 3,
+    "SortOrder": 190,
+    "DetailLabelTextKey": -1169893882
+  },
+  {
+    "Version": "251230.1.0",
+    "Id": 37010,
+    "CharacterId": 7,
+    "ViewConditionId": 12512301,
+    "LabelTextKey": 249497910,
+    "TagIds": [
+      16,
+      1013
+    ],
+    "UniqueHuntSkillId": 37010,
+    "AttackRateLevelRagneGroupId": 14,
+    "AttackSpeedLevelRagneGroupId": 1,
+    "AttackSpeedType": "VerySlow",
+    "AssetId": 1007013,
+    "EncountSpeechBalloonId": 1,
+    "WinSpeechBalloonId": 201,
+    "LoseSpeechBalloonId": 301,
+    "EventZone": {
+      "x": 0.0,
+      "y": 0.0,
+      "width": 0.0,
+      "height": 0.0
+    },
+    "BodyZone": {
+      "x": 0.0,
+      "y": 0.0,
+      "width": 1.0,
+      "height": 1.0
+    },
+    "SkillCoefficient": 1.399999976158142,
+    "CostumePossessionEffectIds": [
+      370101,
+      370102,
+      370103,
+      370104,
+      370105
+    ],
+    "PromotionCostumePossessionEffectId": 370106,
+    "CostumeRarityId": 3,
+    "SortOrder": 191,
+    "DetailLabelTextKey": 49852771
+  },
+  {
+    "Version": "260110.1.0",
+    "Id": 31011,
+    "CharacterId": 1,
+    "ViewConditionId": 12601101,
+    "LabelTextKey": -1866752875,
+    "TagIds": [
+      16,
+      1014
+    ],
+    "UniqueHuntSkillId": 31011,
+    "AttackRateLevelRagneGroupId": 15,
+    "AttackSpeedLevelRagneGroupId": 1,
+    "AttackSpeedType": "Normal",
+    "AssetId": 1001016,
+    "EncountSpeechBalloonId": 1,
+    "WinSpeechBalloonId": 201,
+    "LoseSpeechBalloonId": 301,
+    "EventZone": {
+      "x": 0.0,
+      "y": 0.0,
+      "width": 0.0,
+      "height": 0.0
+    },
+    "BodyZone": {
+      "x": 0.0,
+      "y": 0.0,
+      "width": 1.0,
+      "height": 1.0
+    },
+    "SkillCoefficient": 1.399999976158142,
+    "CostumePossessionEffectIds": [
+      310111,
+      310112,
+      310113,
+      310114,
+      310115
+    ],
+    "PromotionCostumePossessionEffectId": 310116,
+    "CostumeRarityId": 3,
+    "SortOrder": 192,
+    "DetailLabelTextKey": 1351933481
+  },
+  {
+    "Version": "260110.1.0",
+    "Id": 32011,
+    "CharacterId": 2,
+    "ViewConditionId": 12601101,
+    "LabelTextKey": -1866752875,
+    "TagIds": [
+      11,
+      1014
+    ],
+    "UniqueHuntSkillId": 32011,
+    "AttackRateLevelRagneGroupId": 12,
+    "AttackSpeedLevelRagneGroupId": 1,
+    "AttackSpeedType": "Normal",
+    "AssetId": 1002016,
+    "EncountSpeechBalloonId": 1,
+    "WinSpeechBalloonId": 201,
+    "LoseSpeechBalloonId": 301,
+    "EventZone": {
+      "x": 0.0,
+      "y": 0.0,
+      "width": 0.0,
+      "height": 0.0
+    },
+    "BodyZone": {
+      "x": 0.0,
+      "y": 0.0,
+      "width": 1.0,
+      "height": 1.0
+    },
+    "SkillCoefficient": 1.0,
+    "CostumePossessionEffectIds": [
+      320111,
+      320112,
+      320113,
+      320114,
+      320115
+    ],
+    "PromotionCostumePossessionEffectId": 320116,
+    "CostumeRarityId": 3,
+    "SortOrder": 193,
+    "DetailLabelTextKey": 1109488071
+  },
+  {
+    "Version": "260110.1.0",
+    "Id": 33011,
+    "CharacterId": 3,
+    "ViewConditionId": 12601101,
+    "LabelTextKey": -1866752875,
+    "TagIds": [
+      15,
+      1014
+    ],
+    "UniqueHuntSkillId": 33011,
+    "AttackRateLevelRagneGroupId": 15,
+    "AttackSpeedLevelRagneGroupId": 1,
+    "AttackSpeedType": "Normal",
+    "AssetId": 1003016,
+    "EncountSpeechBalloonId": 1,
+    "WinSpeechBalloonId": 201,
+    "LoseSpeechBalloonId": 301,
+    "EventZone": {
+      "x": 0.0,
+      "y": 0.0,
+      "width": 0.0,
+      "height": 0.0
+    },
+    "BodyZone": {
+      "x": 0.0,
+      "y": 0.0,
+      "width": 1.0,
+      "height": 1.0
+    },
+    "SkillCoefficient": 1.399999976158142,
+    "CostumePossessionEffectIds": [
+      330111,
+      330112,
+      330113,
+      330114,
+      330115
+    ],
+    "PromotionCostumePossessionEffectId": 330116,
+    "CostumeRarityId": 3,
+    "SortOrder": 194,
+    "DetailLabelTextKey": -90368350
+  },
+  {
+    "Version": "260110.1.0",
+    "Id": 34011,
+    "CharacterId": 4,
+    "ViewConditionId": 12601101,
+    "LabelTextKey": -1866752875,
+    "TagIds": [
+      13,
+      1014
+    ],
+    "UniqueHuntSkillId": 34011,
+    "AttackRateLevelRagneGroupId": 15,
+    "AttackSpeedLevelRagneGroupId": 1,
+    "AttackSpeedType": "Normal",
+    "AssetId": 1004016,
+    "EncountSpeechBalloonId": 1,
+    "WinSpeechBalloonId": 201,
+    "LoseSpeechBalloonId": 301,
+    "EventZone": {
+      "x": 0.0,
+      "y": 0.0,
+      "width": 0.0,
+      "height": 0.0
+    },
+    "BodyZone": {
+      "x": 0.0,
+      "y": 0.0,
+      "width": 1.0,
+      "height": 1.0
+    },
+    "SkillCoefficient": 1.0,
+    "CostumePossessionEffectIds": [
+      340111,
+      340112,
+      340113,
+      340114,
+      340115
+    ],
+    "PromotionCostumePossessionEffectId": 340116,
+    "CostumeRarityId": 3,
+    "SortOrder": 196,
+    "DetailLabelTextKey": 1732914715
+  },
+  {
+    "Version": "260110.1.0",
+    "Id": 35011,
+    "CharacterId": 5,
+    "ViewConditionId": 12601101,
+    "LabelTextKey": -1866752875,
+    "TagIds": [
+      12,
+      1014
+    ],
+    "UniqueHuntSkillId": 35011,
+    "AttackRateLevelRagneGroupId": 15,
+    "AttackSpeedLevelRagneGroupId": 1,
+    "AttackSpeedType": "Normal",
+    "AssetId": 1005016,
+    "EncountSpeechBalloonId": 1,
+    "WinSpeechBalloonId": 201,
+    "LoseSpeechBalloonId": 301,
+    "EventZone": {
+      "x": 0.0,
+      "y": 0.0,
+      "width": 0.0,
+      "height": 0.0
+    },
+    "BodyZone": {
+      "x": 0.0,
+      "y": 0.0,
+      "width": 1.0,
+      "height": 1.0
+    },
+    "SkillCoefficient": 1.399999976158142,
+    "CostumePossessionEffectIds": [
+      350111,
+      350112,
+      350113,
+      350114,
+      350115
+    ],
+    "PromotionCostumePossessionEffectId": 350116,
+    "CostumeRarityId": 3,
+    "SortOrder": 195,
+    "DetailLabelTextKey": -537507458
+  },
+  {
+    "Version": "260110.1.0",
+    "Id": 36011,
+    "CharacterId": 6,
+    "ViewConditionId": 12601101,
+    "LabelTextKey": -1866752875,
+    "TagIds": [
+      12,
+      1014
+    ],
+    "UniqueHuntSkillId": 36011,
+    "AttackRateLevelRagneGroupId": 15,
+    "AttackSpeedLevelRagneGroupId": 1,
+    "AttackSpeedType": "Fast",
+    "AssetId": 1006016,
+    "EncountSpeechBalloonId": 1,
+    "WinSpeechBalloonId": 201,
+    "LoseSpeechBalloonId": 301,
+    "EventZone": {
+      "x": 0.0,
+      "y": 0.0,
+      "width": 0.0,
+      "height": 0.0
+    },
+    "BodyZone": {
+      "x": 0.0,
+      "y": 0.0,
+      "width": 1.0,
+      "height": 1.0
+    },
+    "SkillCoefficient": 1.0,
+    "CostumePossessionEffectIds": [
+      360111,
+      360112,
+      360113,
+      360114,
+      360115
+    ],
+    "PromotionCostumePossessionEffectId": 360116,
+    "CostumeRarityId": 3,
+    "SortOrder": 197,
+    "DetailLabelTextKey": -851188080
+  },
+  {
+    "Version": "260110.1.0",
+    "Id": 37011,
+    "CharacterId": 7,
+    "ViewConditionId": 12601101,
+    "LabelTextKey": -1866752875,
+    "TagIds": [
+      11,
+      1014
+    ],
+    "UniqueHuntSkillId": 37011,
+    "AttackRateLevelRagneGroupId": 15,
+    "AttackSpeedLevelRagneGroupId": 1,
+    "AttackSpeedType": "VerySlow",
+    "AssetId": 1007016,
+    "EncountSpeechBalloonId": 1,
+    "WinSpeechBalloonId": 201,
+    "LoseSpeechBalloonId": 301,
+    "EventZone": {
+      "x": 0.0,
+      "y": 0.0,
+      "width": 0.0,
+      "height": 0.0
+    },
+    "BodyZone": {
+      "x": 0.0,
+      "y": 0.0,
+      "width": 1.0,
+      "height": 1.0
+    },
+    "SkillCoefficient": 3.0,
+    "CostumePossessionEffectIds": [
+      370111,
+      370112,
+      370113,
+      370114,
+      370115
+    ],
+    "PromotionCostumePossessionEffectId": 370116,
+    "CostumeRarityId": 3,
+    "SortOrder": 198,
+    "DetailLabelTextKey": 1979679221
+  },
+  {
+    "Version": "260210.1.0",
+    "Id": 31012,
+    "CharacterId": 1,
+    "ViewConditionId": 12602101,
+    "LabelTextKey": -407065597,
+    "TagIds": [
+      15,
+      1015
+    ],
+    "UniqueHuntSkillId": 31012,
+    "AttackRateLevelRagneGroupId": 16,
+    "AttackSpeedLevelRagneGroupId": 1,
+    "AttackSpeedType": "Normal",
+    "AssetId": 1001017,
+    "EncountSpeechBalloonId": 1,
+    "WinSpeechBalloonId": 201,
+    "LoseSpeechBalloonId": 301,
+    "EventZone": {
+      "x": 0.0,
+      "y": 0.0,
+      "width": 0.0,
+      "height": 0.0
+    },
+    "BodyZone": {
+      "x": 0.0,
+      "y": 0.0,
+      "width": 1.0,
+      "height": 1.0
+    },
+    "SkillCoefficient": 1.399999976158142,
+    "CostumePossessionEffectIds": [
+      310121,
+      310122,
+      310123,
+      310124,
+      310125
+    ],
+    "PromotionCostumePossessionEffectId": 310126,
+    "CostumeRarityId": 3,
+    "SortOrder": 199,
+    "DetailLabelTextKey": -912420973
+  },
+  {
+    "Version": "260210.1.0",
+    "Id": 32012,
+    "CharacterId": 2,
+    "ViewConditionId": 12602101,
+    "LabelTextKey": -407065597,
+    "TagIds": [
+      15,
+      1015
+    ],
+    "UniqueHuntSkillId": 32012,
+    "AttackRateLevelRagneGroupId": 16,
+    "AttackSpeedLevelRagneGroupId": 1,
+    "AttackSpeedType": "Normal",
+    "AssetId": 1002017,
+    "EncountSpeechBalloonId": 1,
+    "WinSpeechBalloonId": 201,
+    "LoseSpeechBalloonId": 301,
+    "EventZone": {
+      "x": 0.0,
+      "y": 0.0,
+      "width": 0.0,
+      "height": 0.0
+    },
+    "BodyZone": {
+      "x": 0.0,
+      "y": 0.0,
+      "width": 1.0,
+      "height": 1.0
+    },
+    "SkillCoefficient": 1.7999999523162842,
+    "CostumePossessionEffectIds": [
+      320121,
+      320122,
+      320123,
+      320124,
+      320125
+    ],
+    "PromotionCostumePossessionEffectId": 320126,
+    "CostumeRarityId": 3,
+    "SortOrder": 200,
+    "DetailLabelTextKey": -618127235
+  },
+  {
+    "Version": "260230.1.0",
+    "Id": 33012,
+    "CharacterId": 3,
+    "ViewConditionId": 12602301,
+    "LabelTextKey": -407065597,
+    "TagIds": [
+      14,
+      1015
+    ],
+    "UniqueHuntSkillId": 33012,
+    "AttackRateLevelRagneGroupId": 16,
+    "AttackSpeedLevelRagneGroupId": 1,
+    "AttackSpeedType": "Normal",
+    "AssetId": 1003017,
+    "EncountSpeechBalloonId": 1,
+    "WinSpeechBalloonId": 201,
+    "LoseSpeechBalloonId": 301,
+    "EventZone": {
+      "x": 0.0,
+      "y": 0.0,
+      "width": 0.0,
+      "height": 0.0
+    },
+    "BodyZone": {
+      "x": 0.0,
+      "y": 0.0,
+      "width": 1.0,
+      "height": 1.0
+    },
+    "SkillCoefficient": 1.399999976158142,
+    "CostumePossessionEffectIds": [
+      330121,
+      330122,
+      330123,
+      330124,
+      330125
+    ],
+    "PromotionCostumePossessionEffectId": 330126,
+    "CostumeRarityId": 3,
+    "SortOrder": 201,
+    "DetailLabelTextKey": 1670661912
+  },
+  {
+    "Version": "260230.1.0",
+    "Id": 34012,
+    "CharacterId": 4,
+    "ViewConditionId": 12602301,
+    "LabelTextKey": -407065597,
+    "TagIds": [
+      13,
+      1015
+    ],
+    "UniqueHuntSkillId": 34012,
+    "AttackRateLevelRagneGroupId": 16,
+    "AttackSpeedLevelRagneGroupId": 1,
+    "AttackSpeedType": "Normal",
+    "AssetId": 1004017,
+    "EncountSpeechBalloonId": 1,
+    "WinSpeechBalloonId": 201,
+    "LoseSpeechBalloonId": 301,
+    "EventZone": {
+      "x": 0.0,
+      "y": 0.0,
+      "width": 0.0,
+      "height": 0.0
+    },
+    "BodyZone": {
+      "x": 0.0,
+      "y": 0.0,
+      "width": 1.0,
+      "height": 1.0
+    },
+    "SkillCoefficient": 3.0,
+    "CostumePossessionEffectIds": [
+      340121,
+      340122,
+      340123,
+      340124,
+      340125
+    ],
+    "PromotionCostumePossessionEffectId": 340126,
+    "CostumeRarityId": 3,
+    "SortOrder": 203,
+    "DetailLabelTextKey": -29130847
+  },
+  {
+    "Version": "260230.1.0",
+    "Id": 35012,
+    "CharacterId": 5,
+    "ViewConditionId": 12602301,
+    "LabelTextKey": -407065597,
+    "TagIds": [
+      11,
+      1015
+    ],
+    "UniqueHuntSkillId": 35012,
+    "AttackRateLevelRagneGroupId": 16,
+    "AttackSpeedLevelRagneGroupId": 1,
+    "AttackSpeedType": "Normal",
+    "AssetId": 1005017,
+    "EncountSpeechBalloonId": 1,
+    "WinSpeechBalloonId": 201,
+    "LoseSpeechBalloonId": 301,
+    "EventZone": {
+      "x": 0.0,
+      "y": 0.0,
+      "width": 0.0,
+      "height": 0.0
+    },
+    "BodyZone": {
+      "x": 0.0,
+      "y": 0.0,
+      "width": 1.0,
+      "height": 1.0
+    },
+    "SkillCoefficient": 1.399999976158142,
+    "CostumePossessionEffectIds": [
+      350121,
+      350122,
+      350123,
+      350124,
+      350125
+    ],
+    "PromotionCostumePossessionEffectId": 350126,
+    "CostumeRarityId": 3,
+    "SortOrder": 202,
+    "DetailLabelTextKey": 1191123140
+  },
+  {
+    "Version": "260210.1.0",
+    "Id": 36012,
+    "CharacterId": 6,
+    "ViewConditionId": 12602101,
+    "LabelTextKey": -407065597,
+    "TagIds": [
+      12,
+      1015
+    ],
+    "UniqueHuntSkillId": 36012,
+    "AttackRateLevelRagneGroupId": 16,
+    "AttackSpeedLevelRagneGroupId": 1,
+    "AttackSpeedType": "Fast",
+    "AssetId": 1006017,
+    "EncountSpeechBalloonId": 1,
+    "WinSpeechBalloonId": 201,
+    "LoseSpeechBalloonId": 301,
+    "EventZone": {
+      "x": 0.0,
+      "y": 0.0,
+      "width": 0.0,
+      "height": 0.0
+    },
+    "BodyZone": {
+      "x": 0.0,
+      "y": 0.0,
+      "width": 1.0,
+      "height": 1.0
+    },
+    "SkillCoefficient": 2.0,
+    "CostumePossessionEffectIds": [
+      360121,
+      360122,
+      360123,
+      360124,
+      360125
+    ],
+    "PromotionCostumePossessionEffectId": 360126,
+    "CostumeRarityId": 3,
+    "SortOrder": 204,
+    "DetailLabelTextKey": 1414182698
+  },
+  {
+    "Version": "260210.1.0",
+    "Id": 37012,
+    "CharacterId": 7,
+    "ViewConditionId": 12602101,
+    "LabelTextKey": -407065597,
+    "TagIds": [
+      13,
+      1015
+    ],
+    "UniqueHuntSkillId": 37012,
+    "AttackRateLevelRagneGroupId": 13,
+    "AttackSpeedLevelRagneGroupId": 1,
+    "AttackSpeedType": "VerySlow",
+    "AssetId": 1007017,
+    "EncountSpeechBalloonId": 1,
+    "WinSpeechBalloonId": 201,
+    "LoseSpeechBalloonId": 301,
+    "EventZone": {
+      "x": 0.0,
+      "y": 0.0,
+      "width": 0.0,
+      "height": 0.0
+    },
+    "BodyZone": {
+      "x": 0.0,
+      "y": 0.0,
+      "width": 1.0,
+      "height": 1.0
+    },
+    "SkillCoefficient": 1.0,
+    "CostumePossessionEffectIds": [
+      370121,
+      370122,
+      370123,
+      370124,
+      370125
+    ],
+    "PromotionCostumePossessionEffectId": 370126,
+    "CostumeRarityId": 3,
+    "SortOrder": 205,
+    "DetailLabelTextKey": -319369137
+  },
+  {
+    "Version": "260310.1.0",
+    "Id": 31013,
+    "CharacterId": 1,
+    "ViewConditionId": 12603101,
+    "LabelTextKey": 2125856185,
+    "TagIds": [
+      12,
+      1016
+    ],
+    "UniqueHuntSkillId": 31013,
+    "AttackRateLevelRagneGroupId": 17,
+    "AttackSpeedLevelRagneGroupId": 1,
+    "AttackSpeedType": "Normal",
+    "AssetId": 1001018,
+    "EncountSpeechBalloonId": 1,
+    "WinSpeechBalloonId": 201,
+    "LoseSpeechBalloonId": 301,
+    "EventZone": {
+      "x": 0.0,
+      "y": 0.0,
+      "width": 0.0,
+      "height": 0.0
+    },
+    "BodyZone": {
+      "x": 0.0,
+      "y": 0.0,
+      "width": 1.0,
+      "height": 1.0
+    },
+    "SkillCoefficient": 1.399999976158142,
+    "CostumePossessionEffectIds": [
+      310131,
+      310132,
+      310133,
+      310134,
+      310135
+    ],
+    "PromotionCostumePossessionEffectId": 310136,
+    "CostumeRarityId": 3,
+    "SortOrder": 206,
+    "DetailLabelTextKey": -1097154811
+  },
+  {
+    "Version": "260310.1.0",
+    "Id": 32013,
+    "CharacterId": 2,
+    "ViewConditionId": 12603101,
+    "LabelTextKey": 2125856185,
+    "TagIds": [
+      16,
+      1016
+    ],
+    "UniqueHuntSkillId": 32013,
+    "AttackRateLevelRagneGroupId": 17,
+    "AttackSpeedLevelRagneGroupId": 1,
+    "AttackSpeedType": "Normal",
+    "AssetId": 1002018,
+    "EncountSpeechBalloonId": 1,
+    "WinSpeechBalloonId": 201,
+    "LoseSpeechBalloonId": 301,
+    "EventZone": {
+      "x": 0.0,
+      "y": 0.0,
+      "width": 0.0,
+      "height": 0.0
+    },
+    "BodyZone": {
+      "x": 0.0,
+      "y": 0.0,
+      "width": 1.0,
+      "height": 1.0
+    },
+    "SkillCoefficient": 1.399999976158142,
+    "CostumePossessionEffectIds": [
+      320131,
+      320132,
+      320133,
+      320134,
+      320135
+    ],
+    "PromotionCostumePossessionEffectId": 320136,
+    "CostumeRarityId": 3,
+    "SortOrder": 207,
+    "DetailLabelTextKey": -1406201621
+  },
+  {
+    "Version": "260330.1.0",
+    "Id": 33013,
+    "CharacterId": 3,
+    "ViewConditionId": 12603301,
+    "LabelTextKey": 2125856185,
+    "TagIds": [
+      11,
+      1016
+    ],
+    "UniqueHuntSkillId": 33013,
+    "AttackRateLevelRagneGroupId": 17,
+    "AttackSpeedLevelRagneGroupId": 1,
+    "AttackSpeedType": "Normal",
+    "AssetId": 1003018,
+    "EncountSpeechBalloonId": 1,
+    "WinSpeechBalloonId": 201,
+    "LoseSpeechBalloonId": 301,
+    "EventZone": {
+      "x": 0.0,
+      "y": 0.0,
+      "width": 0.0,
+      "height": 0.0
+    },
+    "BodyZone": {
+      "x": 0.0,
+      "y": 0.0,
+      "width": 1.0,
+      "height": 1.0
+    },
+    "SkillCoefficient": 1.399999976158142,
+    "CostumePossessionEffectIds": [
+      330131,
+      330132,
+      330133,
+      330134,
+      330135
+    ],
+    "PromotionCostumePossessionEffectId": 330136,
+    "CostumeRarityId": 3,
+    "SortOrder": 208,
+    "DetailLabelTextKey": 345208718
+  },
+  {
+    "Version": "260310.1.0",
+    "Id": 34013,
+    "CharacterId": 4,
+    "ViewConditionId": 12603101,
+    "LabelTextKey": 2125856185,
+    "TagIds": [
+      16,
+      1016
+    ],
+    "UniqueHuntSkillId": 34013,
+    "AttackRateLevelRagneGroupId": 14,
+    "AttackSpeedLevelRagneGroupId": 1,
+    "AttackSpeedType": "Normal",
+    "AssetId": 1004018,
+    "EncountSpeechBalloonId": 1,
+    "WinSpeechBalloonId": 201,
+    "LoseSpeechBalloonId": 301,
+    "EventZone": {
+      "x": 0.0,
+      "y": 0.0,
+      "width": 0.0,
+      "height": 0.0
+    },
+    "BodyZone": {
+      "x": 0.0,
+      "y": 0.0,
+      "width": 1.0,
+      "height": 1.0
+    },
+    "SkillCoefficient": 1.0,
+    "CostumePossessionEffectIds": [
+      340131,
+      340132,
+      340133,
+      340134,
+      340135
+    ],
+    "PromotionCostumePossessionEffectId": 340136,
+    "CostumeRarityId": 3,
+    "SortOrder": 210,
+    "DetailLabelTextKey": -1992011977
+  },
+  {
+    "Version": "260330.1.0",
+    "Id": 35013,
+    "CharacterId": 5,
+    "ViewConditionId": 12603301,
+    "LabelTextKey": 2125856185,
+    "TagIds": [
+      12,
+      1016
+    ],
+    "UniqueHuntSkillId": 35013,
+    "AttackRateLevelRagneGroupId": 17,
+    "AttackSpeedLevelRagneGroupId": 1,
+    "AttackSpeedType": "Normal",
+    "AssetId": 1005018,
+    "EncountSpeechBalloonId": 1,
+    "WinSpeechBalloonId": 201,
+    "LoseSpeechBalloonId": 301,
+    "EventZone": {
+      "x": 0.0,
+      "y": 0.0,
+      "width": 0.0,
+      "height": 0.0
+    },
+    "BodyZone": {
+      "x": 0.0,
+      "y": 0.0,
+      "width": 1.0,
+      "height": 1.0
+    },
+    "SkillCoefficient": 3.0,
+    "CostumePossessionEffectIds": [
+      350131,
+      350132,
+      350133,
+      350134,
+      350135
+    ],
+    "PromotionCostumePossessionEffectId": 350136,
+    "CostumeRarityId": 3,
+    "SortOrder": 209,
+    "DetailLabelTextKey": 838346834
+  },
+  {
+    "Version": "260330.1.0",
+    "Id": 36013,
+    "CharacterId": 6,
+    "ViewConditionId": 12603301,
+    "LabelTextKey": 2125856185,
+    "TagIds": [
+      15,
+      1016
+    ],
+    "UniqueHuntSkillId": 36013,
+    "AttackRateLevelRagneGroupId": 17,
+    "AttackSpeedLevelRagneGroupId": 1,
+    "AttackSpeedType": "Fast",
+    "AssetId": 1006018,
+    "EncountSpeechBalloonId": 1,
+    "WinSpeechBalloonId": 201,
+    "LoseSpeechBalloonId": 301,
+    "EventZone": {
+      "x": 0.0,
+      "y": 0.0,
+      "width": 0.0,
+      "height": 0.0
+    },
+    "BodyZone": {
+      "x": 0.0,
+      "y": 0.0,
+      "width": 1.0,
+      "height": 1.0
+    },
+    "SkillCoefficient": 1.399999976158142,
+    "CostumePossessionEffectIds": [
+      360131,
+      360132,
+      360133,
+      360134,
+      360135
+    ],
+    "PromotionCostumePossessionEffectId": 360136,
+    "CostumeRarityId": 3,
+    "SortOrder": 211,
+    "DetailLabelTextKey": 592283580
+  },
+  {
+    "Version": "260310.1.0",
+    "Id": 37013,
+    "CharacterId": 7,
+    "ViewConditionId": 12603101,
+    "LabelTextKey": 2125856185,
+    "TagIds": [
+      14,
+      1016
+    ],
+    "UniqueHuntSkillId": 37013,
+    "AttackRateLevelRagneGroupId": 17,
+    "AttackSpeedLevelRagneGroupId": 1,
+    "AttackSpeedType": "VerySlow",
+    "AssetId": 1007018,
+    "EncountSpeechBalloonId": 1,
+    "WinSpeechBalloonId": 201,
+    "LoseSpeechBalloonId": 301,
+    "EventZone": {
+      "x": 0.0,
+      "y": 0.0,
+      "width": 0.0,
+      "height": 0.0
+    },
+    "BodyZone": {
+      "x": 0.0,
+      "y": 0.0,
+      "width": 1.0,
+      "height": 1.0
+    },
+    "SkillCoefficient": 2.200000047683716,
+    "CostumePossessionEffectIds": [
+      370131,
+      370132,
+      370133,
+      370134,
+      370135
+    ],
+    "PromotionCostumePossessionEffectId": 370136,
+    "CostumeRarityId": 3,
+    "SortOrder": 212,
+    "DetailLabelTextKey": -1678647079
+  },
+  {
+    "Version": "260410.1.0",
+    "Id": 31014,
+    "CharacterId": 1,
+    "ViewConditionId": 12604101,
+    "LabelTextKey": 162712879,
+    "TagIds": [
+      14,
+      1017
+    ],
+    "UniqueHuntSkillId": 31014,
+    "AttackRateLevelRagneGroupId": 15,
+    "AttackSpeedLevelRagneGroupId": 1,
+    "AttackSpeedType": "Normal",
+    "AssetId": 1001019,
+    "EncountSpeechBalloonId": 1,
+    "WinSpeechBalloonId": 201,
+    "LoseSpeechBalloonId": 301,
+    "EventZone": {
+      "x": 0.0,
+      "y": 0.0,
+      "width": 0.0,
+      "height": 0.0
+    },
+    "BodyZone": {
+      "x": 0.0,
+      "y": 0.0,
+      "width": 1.0,
+      "height": 1.0
+    },
+    "SkillCoefficient": 2.200000047683716,
+    "CostumePossessionEffectIds": [
+      310141,
+      310142,
+      310143,
+      310144,
+      310145
+    ],
+    "PromotionCostumePossessionEffectId": 310146,
+    "CostumeRarityId": 3,
+    "SortOrder": 214,
+    "DetailLabelTextKey": 553527974
+  },
+  {
+    "Version": "260410.1.0",
+    "Id": 33014,
+    "CharacterId": 3,
+    "ViewConditionId": 12604101,
+    "LabelTextKey": 162712879,
+    "TagIds": [
+      13,
+      1017
+    ],
+    "UniqueHuntSkillId": 33014,
+    "AttackRateLevelRagneGroupId": 19,
+    "AttackSpeedLevelRagneGroupId": 1,
+    "AttackSpeedType": "Normal",
+    "AssetId": 1003019,
+    "EncountSpeechBalloonId": 1,
+    "WinSpeechBalloonId": 201,
+    "LoseSpeechBalloonId": 301,
+    "EventZone": {
+      "x": 0.0,
+      "y": 0.0,
+      "width": 0.0,
+      "height": 0.0
+    },
+    "BodyZone": {
+      "x": 0.0,
+      "y": 0.0,
+      "width": 1.0,
+      "height": 1.0
+    },
+    "SkillCoefficient": 2.200000047683716,
+    "CostumePossessionEffectIds": [
+      330141,
+      330142,
+      330143,
+      330144,
+      330145
+    ],
+    "PromotionCostumePossessionEffectId": 330146,
+    "CostumeRarityId": 3,
+    "SortOrder": 216,
+    "DetailLabelTextKey": -1963466195
+  },
+  {
+    "Version": "260410.1.0",
+    "Id": 35014,
+    "CharacterId": 5,
+    "ViewConditionId": 12604101,
+    "LabelTextKey": 162712879,
+    "TagIds": [
+      12,
+      1017
+    ],
+    "UniqueHuntSkillId": 35014,
+    "AttackRateLevelRagneGroupId": 19,
+    "AttackSpeedLevelRagneGroupId": 1,
+    "AttackSpeedType": "Normal",
+    "AssetId": 1005019,
+    "EncountSpeechBalloonId": 1,
+    "WinSpeechBalloonId": 201,
+    "LoseSpeechBalloonId": 301,
+    "EventZone": {
+      "x": 0.0,
+      "y": 0.0,
+      "width": 0.0,
+      "height": 0.0
+    },
+    "BodyZone": {
+      "x": 0.0,
+      "y": 0.0,
+      "width": 1.0,
+      "height": 1.0
+    },
+    "SkillCoefficient": 1.399999976158142,
+    "CostumePossessionEffectIds": [
+      350141,
+      350142,
+      350143,
+      350144,
+      350145
+    ],
+    "PromotionCostumePossessionEffectId": 350146,
+    "CostumeRarityId": 3,
+    "SortOrder": 217,
+    "DetailLabelTextKey": -1348682255
+  },
+  {
+    "Version": "260410.1.0",
+    "Id": 37014,
+    "CharacterId": 7,
+    "ViewConditionId": 12604101,
+    "LabelTextKey": 162712879,
+    "TagIds": [
+      16,
+      1017
+    ],
+    "UniqueHuntSkillId": 37014,
+    "AttackRateLevelRagneGroupId": 19,
+    "AttackSpeedLevelRagneGroupId": 1,
+    "AttackSpeedType": "VerySlow",
+    "AssetId": 1007019,
+    "EncountSpeechBalloonId": 1,
+    "WinSpeechBalloonId": 201,
+    "LoseSpeechBalloonId": 301,
+    "EventZone": {
+      "x": 0.0,
+      "y": 0.0,
+      "width": 0.0,
+      "height": 0.0
+    },
+    "BodyZone": {
+      "x": 0.0,
+      "y": 0.0,
+      "width": 1.0,
+      "height": 1.0
+    },
+    "SkillCoefficient": 1.399999976158142,
+    "CostumePossessionEffectIds": [
+      370141,
+      370142,
+      370143,
+      370144,
+      370145
+    ],
+    "PromotionCostumePossessionEffectId": 370146,
+    "CostumeRarityId": 3,
+    "SortOrder": 220,
+    "DetailLabelTextKey": 93681018
+  }
+]

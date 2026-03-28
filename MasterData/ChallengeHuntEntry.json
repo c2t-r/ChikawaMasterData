@@ -1,0 +1,20 @@
+[
+  {
+    "Version": "251010.1.0",
+    "Id": 101507,
+    "NormalConsumeId": 15015,
+    "ExtraConsumeId": 16015,
+    "DailyRecoveryUnitRewardId": 101507,
+    "DailyRecoveryCount": 1,
+    "DailyRecoveryHourJST": 15
+  },
+  {
+    "Version": "260410.1.0",
+    "Id": 102607,
+    "NormalConsumeId": 15026,
+    "ExtraConsumeId": 16026,
+    "DailyRecoveryUnitRewardId": 102607,
+    "DailyRecoveryCount": 1,
+    "DailyRecoveryHourJST": 15
+  }
+]

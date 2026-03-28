@@ -1,0 +1,68 @@
+[
+  {
+    "Version": "250330.1.0",
+    "Id": 1,
+    "GroupId": 1,
+    "RewardId": 9200001,
+    "Order": 1,
+    "Weight": 30,
+    "BackgroundColorEntryId": "unique/roulette/cell_01",
+    "SelectBackgroundColorEntryId": "unique/roulette/cell_select_01",
+    "SelectBackgroundGlowColorEntryId": "unique/roulette/cell_select_glow_01"
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 2,
+    "GroupId": 1,
+    "RewardId": 9200002,
+    "Order": 2,
+    "Weight": 30,
+    "BackgroundColorEntryId": "common/base/white",
+    "SelectBackgroundColorEntryId": "unique/roulette/cell_select_07",
+    "SelectBackgroundGlowColorEntryId": "unique/roulette/cell_select_glow_04"
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 3,
+    "GroupId": 1,
+    "RewardId": 9200003,
+    "Order": 3,
+    "Weight": 9,
+    "BackgroundColorEntryId": "unique/roulette/cell_03",
+    "SelectBackgroundColorEntryId": "unique/roulette/cell_select_03",
+    "SelectBackgroundGlowColorEntryId": "unique/roulette/cell_select_glow_01"
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 4,
+    "GroupId": 1,
+    "RewardId": 9200004,
+    "Order": 4,
+    "Weight": 1,
+    "BackgroundColorEntryId": "common/base/white",
+    "SelectBackgroundColorEntryId": "unique/roulette/cell_select_07",
+    "SelectBackgroundGlowColorEntryId": "unique/roulette/cell_select_glow_04"
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 5,
+    "GroupId": 1,
+    "RewardId": 9200005,
+    "Order": 5,
+    "Weight": 10,
+    "BackgroundColorEntryId": "unique/roulette/cell_05",
+    "SelectBackgroundColorEntryId": "unique/roulette/cell_select_05",
+    "SelectBackgroundGlowColorEntryId": "unique/roulette/cell_select_glow_01"
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 6,
+    "GroupId": 1,
+    "RewardId": 9200006,
+    "Order": 6,
+    "Weight": 20,
+    "BackgroundColorEntryId": "common/base/white",
+    "SelectBackgroundColorEntryId": "unique/roulette/cell_select_07",
+    "SelectBackgroundGlowColorEntryId": "unique/roulette/cell_select_glow_04"
+  }
+]

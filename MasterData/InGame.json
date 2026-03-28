@@ -1,0 +1,32 @@
+[
+  {
+    "Version": "250330.1.0",
+    "Id": 1,
+    "Lock": false,
+    "TimeScale": false
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 2,
+    "Lock": true,
+    "TimeScale": false
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 3,
+    "Lock": true,
+    "TimeScale": true
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 4,
+    "Lock": false,
+    "TimeScale": false
+  },
+  {
+    "Version": "260410.1.0",
+    "Id": 6,
+    "Lock": false,
+    "TimeScale": false
+  }
+]

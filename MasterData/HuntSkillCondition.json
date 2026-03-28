@@ -1,0 +1,20 @@
+[
+  {
+    "Version": "250330.1.0",
+    "Id": 1,
+    "HuntSkillConditionType": "SpecificCharacter",
+    "TargetId": 1
+  },
+  {
+    "Version": "260110.1.0",
+    "Id": 31011,
+    "HuntSkillConditionType": "SkillEffectType",
+    "TargetId": 1
+  },
+  {
+    "Version": "260410.1.0",
+    "Id": 35014,
+    "HuntSkillConditionType": "SkillEffectType",
+    "TargetId": 1
+  }
+]

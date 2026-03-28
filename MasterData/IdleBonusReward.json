@@ -1,0 +1,11 @@
+[
+  {
+    "Version": "250330.1.0",
+    "Id": 1,
+    "LimitPerDay": 3,
+    "LimitResetHourUTC": 6,
+    "IdleRewardGroupId": 1,
+    "IdleRewardMinutes": 360,
+    "AdRewardId": 18
+  }
+]

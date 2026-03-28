@@ -1,0 +1,802 @@
+[
+  {
+    "Version": "250330.1.0",
+    "Id": 1,
+    "CookingCafeId": 1,
+    "Level": 1,
+    "RewardRelationType": "Reward",
+    "RewardRelationId": 0
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 2,
+    "CookingCafeId": 1,
+    "Level": 2,
+    "RewardRelationType": "Reward",
+    "RewardRelationId": 14002000
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 3,
+    "CookingCafeId": 1,
+    "Level": 3,
+    "RewardRelationType": "Reward",
+    "RewardRelationId": 902
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 4,
+    "CookingCafeId": 1,
+    "Level": 4,
+    "RewardRelationType": "Reward",
+    "RewardRelationId": 14002500
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 5,
+    "CookingCafeId": 1,
+    "Level": 5,
+    "RewardRelationType": "Reward",
+    "RewardRelationId": 903
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 6,
+    "CookingCafeId": 1,
+    "Level": 6,
+    "RewardRelationType": "Reward",
+    "RewardRelationId": 14002500
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 7,
+    "CookingCafeId": 1,
+    "Level": 7,
+    "RewardRelationType": "Reward",
+    "RewardRelationId": 7002
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 8,
+    "CookingCafeId": 1,
+    "Level": 8,
+    "RewardRelationType": "Reward",
+    "RewardRelationId": 905
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 9,
+    "CookingCafeId": 1,
+    "Level": 9,
+    "RewardRelationType": "Reward",
+    "RewardRelationId": 14002500
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 10,
+    "CookingCafeId": 1,
+    "Level": 10,
+    "RewardRelationType": "Reward",
+    "RewardRelationId": 7004
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 11,
+    "CookingCafeId": 1,
+    "Level": 11,
+    "RewardRelationType": "Reward",
+    "RewardRelationId": 904
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 12,
+    "CookingCafeId": 1,
+    "Level": 12,
+    "RewardRelationType": "Reward",
+    "RewardRelationId": 14002500
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 13,
+    "CookingCafeId": 1,
+    "Level": 13,
+    "RewardRelationType": "Reward",
+    "RewardRelationId": 7005
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 14,
+    "CookingCafeId": 1,
+    "Level": 14,
+    "RewardRelationType": "Reward",
+    "RewardRelationId": 906
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 15,
+    "CookingCafeId": 1,
+    "Level": 15,
+    "RewardRelationType": "Reward",
+    "RewardRelationId": 14002500
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 16,
+    "CookingCafeId": 1,
+    "Level": 16,
+    "RewardRelationType": "Reward",
+    "RewardRelationId": 7011
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 17,
+    "CookingCafeId": 1,
+    "Level": 17,
+    "RewardRelationType": "Reward",
+    "RewardRelationId": 907
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 18,
+    "CookingCafeId": 1,
+    "Level": 18,
+    "RewardRelationType": "Reward",
+    "RewardRelationId": 14002500
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 19,
+    "CookingCafeId": 1,
+    "Level": 19,
+    "RewardRelationType": "Reward",
+    "RewardRelationId": 7012
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 20,
+    "CookingCafeId": 1,
+    "Level": 20,
+    "RewardRelationType": "Reward",
+    "RewardRelationId": 14007500
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 21,
+    "CookingCafeId": 1,
+    "Level": 21,
+    "RewardRelationType": "Reward",
+    "RewardRelationId": 7014
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 22,
+    "CookingCafeId": 1,
+    "Level": 22,
+    "RewardRelationType": "Reward",
+    "RewardRelationId": 14007500
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 23,
+    "CookingCafeId": 1,
+    "Level": 23,
+    "RewardRelationType": "Reward",
+    "RewardRelationId": 7015
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 24,
+    "CookingCafeId": 1,
+    "Level": 24,
+    "RewardRelationType": "Reward",
+    "RewardRelationId": 14007500
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 25,
+    "CookingCafeId": 1,
+    "Level": 25,
+    "RewardRelationType": "Reward",
+    "RewardRelationId": 1
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 26,
+    "CookingCafeId": 1,
+    "Level": 26,
+    "RewardRelationType": "Reward",
+    "RewardRelationId": 7022
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 27,
+    "CookingCafeId": 1,
+    "Level": 27,
+    "RewardRelationType": "Reward",
+    "RewardRelationId": 14007500
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 28,
+    "CookingCafeId": 1,
+    "Level": 28,
+    "RewardRelationType": "Reward",
+    "RewardRelationId": 7023
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 29,
+    "CookingCafeId": 1,
+    "Level": 29,
+    "RewardRelationType": "Reward",
+    "RewardRelationId": 14007500
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 30,
+    "CookingCafeId": 1,
+    "Level": 30,
+    "RewardRelationType": "Reward",
+    "RewardRelationId": 7024
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 31,
+    "CookingCafeId": 1,
+    "Level": 31,
+    "RewardRelationType": "Reward",
+    "RewardRelationId": 14007500
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 32,
+    "CookingCafeId": 1,
+    "Level": 32,
+    "RewardRelationType": "Reward",
+    "RewardRelationId": 7025
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 33,
+    "CookingCafeId": 1,
+    "Level": 33,
+    "RewardRelationType": "Reward",
+    "RewardRelationId": 7031
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 34,
+    "CookingCafeId": 1,
+    "Level": 34,
+    "RewardRelationType": "Reward",
+    "RewardRelationId": 14007500
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 35,
+    "CookingCafeId": 1,
+    "Level": 35,
+    "RewardRelationType": "Reward",
+    "RewardRelationId": 7032
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 36,
+    "CookingCafeId": 1,
+    "Level": 36,
+    "RewardRelationType": "Reward",
+    "RewardRelationId": 7033
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 37,
+    "CookingCafeId": 1,
+    "Level": 37,
+    "RewardRelationType": "Reward",
+    "RewardRelationId": 14012500
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 38,
+    "CookingCafeId": 1,
+    "Level": 38,
+    "RewardRelationType": "Reward",
+    "RewardRelationId": 7034
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 39,
+    "CookingCafeId": 1,
+    "Level": 39,
+    "RewardRelationType": "Reward",
+    "RewardRelationId": 7041
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 40,
+    "CookingCafeId": 1,
+    "Level": 40,
+    "RewardRelationType": "Reward",
+    "RewardRelationId": 14012500
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 41,
+    "CookingCafeId": 1,
+    "Level": 41,
+    "RewardRelationType": "Reward",
+    "RewardRelationId": 7042
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 42,
+    "CookingCafeId": 1,
+    "Level": 42,
+    "RewardRelationType": "Reward",
+    "RewardRelationId": 7043
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 43,
+    "CookingCafeId": 1,
+    "Level": 43,
+    "RewardRelationType": "Reward",
+    "RewardRelationId": 7045
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 44,
+    "CookingCafeId": 1,
+    "Level": 44,
+    "RewardRelationType": "Reward",
+    "RewardRelationId": 14012500
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 45,
+    "CookingCafeId": 1,
+    "Level": 45,
+    "RewardRelationType": "Reward",
+    "RewardRelationId": 7051
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 46,
+    "CookingCafeId": 1,
+    "Level": 46,
+    "RewardRelationType": "Reward",
+    "RewardRelationId": 7052
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 47,
+    "CookingCafeId": 1,
+    "Level": 47,
+    "RewardRelationType": "Reward",
+    "RewardRelationId": 14012500
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 48,
+    "CookingCafeId": 1,
+    "Level": 48,
+    "RewardRelationType": "Reward",
+    "RewardRelationId": 7054
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 49,
+    "CookingCafeId": 1,
+    "Level": 49,
+    "RewardRelationType": "Reward",
+    "RewardRelationId": 7055
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 50,
+    "CookingCafeId": 1,
+    "Level": 50,
+    "RewardRelationType": "Reward",
+    "RewardRelationId": 1
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 51,
+    "CookingCafeId": 1,
+    "Level": 51,
+    "RewardRelationType": "Reward",
+    "RewardRelationId": 7006
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 52,
+    "CookingCafeId": 1,
+    "Level": 52,
+    "RewardRelationType": "Reward",
+    "RewardRelationId": 14012500
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 53,
+    "CookingCafeId": 1,
+    "Level": 53,
+    "RewardRelationType": "Reward",
+    "RewardRelationId": 13001000
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 54,
+    "CookingCafeId": 1,
+    "Level": 54,
+    "RewardRelationType": "Reward",
+    "RewardRelationId": 14012500
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 55,
+    "CookingCafeId": 1,
+    "Level": 55,
+    "RewardRelationType": "Reward",
+    "RewardRelationId": 13005000
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 56,
+    "CookingCafeId": 1,
+    "Level": 56,
+    "RewardRelationType": "Reward",
+    "RewardRelationId": 13001000
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 57,
+    "CookingCafeId": 1,
+    "Level": 57,
+    "RewardRelationType": "Reward",
+    "RewardRelationId": 14012500
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 58,
+    "CookingCafeId": 1,
+    "Level": 58,
+    "RewardRelationType": "Reward",
+    "RewardRelationId": 7027
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 59,
+    "CookingCafeId": 1,
+    "Level": 59,
+    "RewardRelationType": "Reward",
+    "RewardRelationId": 14012500
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 60,
+    "CookingCafeId": 1,
+    "Level": 60,
+    "RewardRelationType": "Reward",
+    "RewardRelationId": 13005000
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 61,
+    "CookingCafeId": 1,
+    "Level": 61,
+    "RewardRelationType": "Reward",
+    "RewardRelationId": 14012500
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 62,
+    "CookingCafeId": 1,
+    "Level": 62,
+    "RewardRelationType": "Reward",
+    "RewardRelationId": 7036
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 63,
+    "CookingCafeId": 1,
+    "Level": 63,
+    "RewardRelationType": "Reward",
+    "RewardRelationId": 14012500
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 64,
+    "CookingCafeId": 1,
+    "Level": 64,
+    "RewardRelationType": "Reward",
+    "RewardRelationId": 7038
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 65,
+    "CookingCafeId": 1,
+    "Level": 65,
+    "RewardRelationType": "Reward",
+    "RewardRelationId": 7046
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 66,
+    "CookingCafeId": 1,
+    "Level": 66,
+    "RewardRelationType": "Reward",
+    "RewardRelationId": 14012500
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 67,
+    "CookingCafeId": 1,
+    "Level": 67,
+    "RewardRelationType": "Reward",
+    "RewardRelationId": 7047
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 68,
+    "CookingCafeId": 1,
+    "Level": 68,
+    "RewardRelationType": "Reward",
+    "RewardRelationId": 7057
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 69,
+    "CookingCafeId": 1,
+    "Level": 69,
+    "RewardRelationType": "Reward",
+    "RewardRelationId": 14012500
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 70,
+    "CookingCafeId": 1,
+    "Level": 70,
+    "RewardRelationType": "Reward",
+    "RewardRelationId": 7058
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 71,
+    "CookingCafeId": 1,
+    "Level": 71,
+    "RewardRelationType": "Reward",
+    "RewardRelationId": 14012500
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 72,
+    "CookingCafeId": 1,
+    "Level": 72,
+    "RewardRelationType": "Reward",
+    "RewardRelationId": 7009
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 73,
+    "CookingCafeId": 1,
+    "Level": 73,
+    "RewardRelationType": "Reward",
+    "RewardRelationId": 14012500
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 74,
+    "CookingCafeId": 1,
+    "Level": 74,
+    "RewardRelationType": "Reward",
+    "RewardRelationId": 7010
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 75,
+    "CookingCafeId": 1,
+    "Level": 75,
+    "RewardRelationType": "Reward",
+    "RewardRelationId": 1
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 76,
+    "CookingCafeId": 1,
+    "Level": 76,
+    "RewardRelationType": "Reward",
+    "RewardRelationId": 7019
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 77,
+    "CookingCafeId": 1,
+    "Level": 77,
+    "RewardRelationType": "Reward",
+    "RewardRelationId": 14012500
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 78,
+    "CookingCafeId": 1,
+    "Level": 78,
+    "RewardRelationType": "Reward",
+    "RewardRelationId": 7020
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 79,
+    "CookingCafeId": 1,
+    "Level": 79,
+    "RewardRelationType": "Reward",
+    "RewardRelationId": 14012500
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 80,
+    "CookingCafeId": 1,
+    "Level": 80,
+    "RewardRelationType": "Reward",
+    "RewardRelationId": 13010000
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 81,
+    "CookingCafeId": 1,
+    "Level": 81,
+    "RewardRelationType": "Reward",
+    "RewardRelationId": 14012500
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 82,
+    "CookingCafeId": 1,
+    "Level": 82,
+    "RewardRelationType": "Reward",
+    "RewardRelationId": 13005000
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 83,
+    "CookingCafeId": 1,
+    "Level": 83,
+    "RewardRelationType": "Reward",
+    "RewardRelationId": 14012500
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 84,
+    "CookingCafeId": 1,
+    "Level": 84,
+    "RewardRelationType": "Reward",
+    "RewardRelationId": 13005000
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 85,
+    "CookingCafeId": 1,
+    "Level": 85,
+    "RewardRelationType": "Reward",
+    "RewardRelationId": 14012500
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 86,
+    "CookingCafeId": 1,
+    "Level": 86,
+    "RewardRelationType": "Reward",
+    "RewardRelationId": 13005000
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 87,
+    "CookingCafeId": 1,
+    "Level": 87,
+    "RewardRelationType": "Reward",
+    "RewardRelationId": 14012500
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 88,
+    "CookingCafeId": 1,
+    "Level": 88,
+    "RewardRelationType": "Reward",
+    "RewardRelationId": 7049
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 89,
+    "CookingCafeId": 1,
+    "Level": 89,
+    "RewardRelationType": "Reward",
+    "RewardRelationId": 14012500
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 90,
+    "CookingCafeId": 1,
+    "Level": 90,
+    "RewardRelationType": "Reward",
+    "RewardRelationId": 13010000
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 91,
+    "CookingCafeId": 1,
+    "Level": 91,
+    "RewardRelationType": "Reward",
+    "RewardRelationId": 13010000
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 92,
+    "CookingCafeId": 1,
+    "Level": 92,
+    "RewardRelationType": "Reward",
+    "RewardRelationId": 13010000
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 93,
+    "CookingCafeId": 1,
+    "Level": 93,
+    "RewardRelationType": "Reward",
+    "RewardRelationId": 7059
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 94,
+    "CookingCafeId": 1,
+    "Level": 94,
+    "RewardRelationType": "Reward",
+    "RewardRelationId": 13010000
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 95,
+    "CookingCafeId": 1,
+    "Level": 95,
+    "RewardRelationType": "Reward",
+    "RewardRelationId": 7060
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 96,
+    "CookingCafeId": 1,
+    "Level": 96,
+    "RewardRelationType": "Reward",
+    "RewardRelationId": 13020000
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 97,
+    "CookingCafeId": 1,
+    "Level": 97,
+    "RewardRelationType": "Reward",
+    "RewardRelationId": 13020000
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 98,
+    "CookingCafeId": 1,
+    "Level": 98,
+    "RewardRelationType": "Reward",
+    "RewardRelationId": 13020000
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 99,
+    "CookingCafeId": 1,
+    "Level": 99,
+    "RewardRelationType": "Reward",
+    "RewardRelationId": 13020000
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 100,
+    "CookingCafeId": 1,
+    "Level": 100,
+    "RewardRelationType": "Reward",
+    "RewardRelationId": 1
+  }
+]

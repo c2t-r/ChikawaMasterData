@@ -1,0 +1,37 @@
+[
+  {
+    "Version": "250330.1.0",
+    "Id": 1,
+    "Rarity": "Normal"
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 2,
+    "Rarity": "NormalRare"
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 3,
+    "Rarity": "Rare"
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 4,
+    "Rarity": "SuperRare"
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 5,
+    "Rarity": "HyperRare"
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 6,
+    "Rarity": "UltraRare"
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 7,
+    "Rarity": "LegendRare"
+  }
+]

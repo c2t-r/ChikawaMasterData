@@ -1,0 +1,127 @@
+[
+  {
+    "Version": "250350.1.0",
+    "Id": 1,
+    "SeasonPassId": 1001
+  },
+  {
+    "Version": "250410.1.0",
+    "Id": 2,
+    "SeasonPassId": 1002
+  },
+  {
+    "Version": "250440.1.0",
+    "Id": 3,
+    "SeasonPassId": 1003
+  },
+  {
+    "Version": "250450.1.0",
+    "Id": 4,
+    "SeasonPassId": 1004
+  },
+  {
+    "Version": "250530.1.0",
+    "Id": 5,
+    "SeasonPassId": 1005
+  },
+  {
+    "Version": "250550.1.0",
+    "Id": 6,
+    "SeasonPassId": 1006
+  },
+  {
+    "Version": "250610.1.0",
+    "Id": 7,
+    "SeasonPassId": 1007
+  },
+  {
+    "Version": "250630.1.0",
+    "Id": 8,
+    "SeasonPassId": 1008
+  },
+  {
+    "Version": "250710.1.0",
+    "Id": 9,
+    "SeasonPassId": 1009
+  },
+  {
+    "Version": "250730.1.0",
+    "Id": 10,
+    "SeasonPassId": 1010
+  },
+  {
+    "Version": "250810.1.0",
+    "Id": 101103,
+    "SeasonPassId": 1011
+  },
+  {
+    "Version": "250820.1.0",
+    "Id": 101203,
+    "SeasonPassId": 1012
+  },
+  {
+    "Version": "250910.1.0",
+    "Id": 101303,
+    "SeasonPassId": 1013
+  },
+  {
+    "Version": "250930.1.0",
+    "Id": 101403,
+    "SeasonPassId": 1014
+  },
+  {
+    "Version": "251010.1.0",
+    "Id": 101503,
+    "SeasonPassId": 1015
+  },
+  {
+    "Version": "251030.1.0",
+    "Id": 101703,
+    "SeasonPassId": 1017
+  },
+  {
+    "Version": "251110.1.0",
+    "Id": 101803,
+    "SeasonPassId": 1018
+  },
+  {
+    "Version": "251210.1.0",
+    "Id": 101903,
+    "SeasonPassId": 1019
+  },
+  {
+    "Version": "251230.1.0",
+    "Id": 102003,
+    "SeasonPassId": 1020
+  },
+  {
+    "Version": "260110.1.0",
+    "Id": 102103,
+    "SeasonPassId": 1021
+  },
+  {
+    "Version": "260210.1.0",
+    "Id": 102203,
+    "SeasonPassId": 1022
+  },
+  {
+    "Version": "260230.1.0",
+    "Id": 102303,
+    "SeasonPassId": 1023
+  },
+  {
+    "Version": "260310.1.0",
+    "Id": 102403,
+    "SeasonPassId": 1024
+  },
+  {
+    "Version": "260330.1.0",
+    "Id": 102503,
+    "SeasonPassId": 1025
+  },
+  {
+    "Version": "260410.1.0",
+    "Id": 102603,
+    "SeasonPassId": 1026
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "Version": "250330.1.0",
+    "Id": 11,
+    "SpriteName": "img_ui_cooking_icon_genre_rice"
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 12,
+    "SpriteName": "img_ui_cooking_icon_genre_bread"
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 13,
+    "SpriteName": "img_ui_cooking_icon_genre_noodles"
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 14,
+    "SpriteName": "img_ui_cooking_icon_genre_sidedish"
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 15,
+    "SpriteName": "img_ui_cooking_icon_genre_dessert"
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 16,
+    "SpriteName": "img_ui_cooking_icon_genre_drink"
+  }
+]

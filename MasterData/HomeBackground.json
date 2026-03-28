@@ -1,0 +1,546 @@
+[
+  {
+    "Version": "250330.1.0",
+    "Id": 11,
+    "SetId": 1,
+    "AssetId": 1,
+    "TimeZone": "Morning",
+    "ColorCode": "#ffffffff"
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 12,
+    "SetId": 1,
+    "AssetId": 1,
+    "TimeZone": "Noon",
+    "ColorCode": "#ffffffff"
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 13,
+    "SetId": 1,
+    "AssetId": 4,
+    "TimeZone": "Evening",
+    "ColorCode": "#ffffffff"
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 14,
+    "SetId": 1,
+    "AssetId": 5,
+    "TimeZone": "Night",
+    "ColorCode": "#ffffffff"
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 21,
+    "SetId": 2,
+    "AssetId": 1,
+    "TimeZone": "Morning",
+    "ColorCode": "#ffffffff"
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 22,
+    "SetId": 2,
+    "AssetId": 1,
+    "TimeZone": "Noon",
+    "ColorCode": "#ffffffff"
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 23,
+    "SetId": 2,
+    "AssetId": 4,
+    "TimeZone": "Evening",
+    "ColorCode": "#f6e3c1ff"
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 24,
+    "SetId": 2,
+    "AssetId": 5,
+    "TimeZone": "Night",
+    "ColorCode": "#e4f4fdff"
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 31,
+    "SetId": 3,
+    "AssetId": 1,
+    "TimeZone": "Morning",
+    "ColorCode": "#ffffffff"
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 32,
+    "SetId": 3,
+    "AssetId": 1,
+    "TimeZone": "Noon",
+    "ColorCode": "#ffffffff"
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 33,
+    "SetId": 3,
+    "AssetId": 4,
+    "TimeZone": "Evening",
+    "ColorCode": "#f6e3c1ff"
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 34,
+    "SetId": 3,
+    "AssetId": 5,
+    "TimeZone": "Night",
+    "ColorCode": "#e4f4fdff"
+  },
+  {
+    "Version": "250350.1.0",
+    "Id": 10011,
+    "SetId": 1001,
+    "AssetId": 1,
+    "TimeZone": "Morning",
+    "ColorCode": "#ffffffff"
+  },
+  {
+    "Version": "250350.1.0",
+    "Id": 10012,
+    "SetId": 1001,
+    "AssetId": 1,
+    "TimeZone": "Noon",
+    "ColorCode": "#ffffffff"
+  },
+  {
+    "Version": "250350.1.0",
+    "Id": 10013,
+    "SetId": 1001,
+    "AssetId": 4,
+    "TimeZone": "Evening",
+    "ColorCode": "#f6e3c1ff"
+  },
+  {
+    "Version": "250350.1.0",
+    "Id": 10014,
+    "SetId": 1001,
+    "AssetId": 5,
+    "TimeZone": "Night",
+    "ColorCode": "#e4f4fdff"
+  },
+  {
+    "Version": "250440.1.0",
+    "Id": 10021,
+    "SetId": 1002,
+    "AssetId": 1,
+    "TimeZone": "Morning",
+    "ColorCode": "#ffffffff"
+  },
+  {
+    "Version": "250440.1.0",
+    "Id": 10022,
+    "SetId": 1002,
+    "AssetId": 1,
+    "TimeZone": "Noon",
+    "ColorCode": "#ffffffff"
+  },
+  {
+    "Version": "250440.1.0",
+    "Id": 10023,
+    "SetId": 1002,
+    "AssetId": 4,
+    "TimeZone": "Evening",
+    "ColorCode": "#f6e3c1ff"
+  },
+  {
+    "Version": "250440.1.0",
+    "Id": 10024,
+    "SetId": 1002,
+    "AssetId": 5,
+    "TimeZone": "Night",
+    "ColorCode": "#e4f4fdff"
+  },
+  {
+    "Version": "250530.1.0",
+    "Id": 10031,
+    "SetId": 1003,
+    "AssetId": 1,
+    "TimeZone": "Morning",
+    "ColorCode": "#ffffffff"
+  },
+  {
+    "Version": "250530.1.0",
+    "Id": 10032,
+    "SetId": 1003,
+    "AssetId": 1,
+    "TimeZone": "Noon",
+    "ColorCode": "#ffffffff"
+  },
+  {
+    "Version": "250530.1.0",
+    "Id": 10033,
+    "SetId": 1003,
+    "AssetId": 4,
+    "TimeZone": "Evening",
+    "ColorCode": "#f6e3c1ff"
+  },
+  {
+    "Version": "250530.1.0",
+    "Id": 10034,
+    "SetId": 1003,
+    "AssetId": 5,
+    "TimeZone": "Night",
+    "ColorCode": "#e4f4fdff"
+  },
+  {
+    "Version": "250610.1.0",
+    "Id": 10041,
+    "SetId": 1004,
+    "AssetId": 1,
+    "TimeZone": "Morning",
+    "ColorCode": "#ffffffff"
+  },
+  {
+    "Version": "250610.1.0",
+    "Id": 10042,
+    "SetId": 1004,
+    "AssetId": 1,
+    "TimeZone": "Noon",
+    "ColorCode": "#ffffffff"
+  },
+  {
+    "Version": "250610.1.0",
+    "Id": 10043,
+    "SetId": 1004,
+    "AssetId": 4,
+    "TimeZone": "Evening",
+    "ColorCode": "#f6e3c1ff"
+  },
+  {
+    "Version": "250610.1.0",
+    "Id": 10044,
+    "SetId": 1004,
+    "AssetId": 5,
+    "TimeZone": "Night",
+    "ColorCode": "#e4f4fdff"
+  },
+  {
+    "Version": "250710.1.0",
+    "Id": 10051,
+    "SetId": 1005,
+    "AssetId": 1,
+    "TimeZone": "Morning",
+    "ColorCode": "#ffffffff"
+  },
+  {
+    "Version": "250710.1.0",
+    "Id": 10052,
+    "SetId": 1005,
+    "AssetId": 1,
+    "TimeZone": "Noon",
+    "ColorCode": "#ffffffff"
+  },
+  {
+    "Version": "250910.1.0",
+    "Id": 10053,
+    "SetId": 1005,
+    "AssetId": 4,
+    "TimeZone": "Evening",
+    "ColorCode": "#ffffffff"
+  },
+  {
+    "Version": "250910.1.0",
+    "Id": 10054,
+    "SetId": 1005,
+    "AssetId": 5,
+    "TimeZone": "Night",
+    "ColorCode": "#ffffffff"
+  },
+  {
+    "Version": "250810.1.0",
+    "Id": 10061,
+    "SetId": 1006,
+    "AssetId": 1,
+    "TimeZone": "Morning",
+    "ColorCode": "#ffffffff"
+  },
+  {
+    "Version": "250810.1.0",
+    "Id": 10062,
+    "SetId": 1006,
+    "AssetId": 1,
+    "TimeZone": "Noon",
+    "ColorCode": "#ffffffff"
+  },
+  {
+    "Version": "250810.1.0",
+    "Id": 10063,
+    "SetId": 1006,
+    "AssetId": 4,
+    "TimeZone": "Evening",
+    "ColorCode": "#f6e3c1ff"
+  },
+  {
+    "Version": "250810.1.0",
+    "Id": 10064,
+    "SetId": 1006,
+    "AssetId": 5,
+    "TimeZone": "Night",
+    "ColorCode": "#e4f4fdff"
+  },
+  {
+    "Version": "250910.1.0",
+    "Id": 10071,
+    "SetId": 1007,
+    "AssetId": 1,
+    "TimeZone": "Morning",
+    "ColorCode": "#ffffffff"
+  },
+  {
+    "Version": "250910.1.0",
+    "Id": 10072,
+    "SetId": 1007,
+    "AssetId": 1,
+    "TimeZone": "Noon",
+    "ColorCode": "#ffffffff"
+  },
+  {
+    "Version": "250910.1.0",
+    "Id": 10073,
+    "SetId": 1007,
+    "AssetId": 4,
+    "TimeZone": "Evening",
+    "ColorCode": "#f6e3c1ff"
+  },
+  {
+    "Version": "250910.1.0",
+    "Id": 10074,
+    "SetId": 1007,
+    "AssetId": 5,
+    "TimeZone": "Night",
+    "ColorCode": "#e4f4fdff"
+  },
+  {
+    "Version": "251010.1.0",
+    "Id": 10081,
+    "SetId": 1008,
+    "AssetId": 1,
+    "TimeZone": "Morning",
+    "ColorCode": "#ffffffff"
+  },
+  {
+    "Version": "251010.1.0",
+    "Id": 10082,
+    "SetId": 1008,
+    "AssetId": 1,
+    "TimeZone": "Noon",
+    "ColorCode": "#ffffffff"
+  },
+  {
+    "Version": "251010.1.0",
+    "Id": 10083,
+    "SetId": 1008,
+    "AssetId": 4,
+    "TimeZone": "Evening",
+    "ColorCode": "#f6e3c1ff"
+  },
+  {
+    "Version": "251010.1.0",
+    "Id": 10084,
+    "SetId": 1008,
+    "AssetId": 5,
+    "TimeZone": "Night",
+    "ColorCode": "#e4f4fdff"
+  },
+  {
+    "Version": "251030.1.0",
+    "Id": 10085,
+    "SetId": 1009,
+    "AssetId": 1,
+    "TimeZone": "Morning",
+    "ColorCode": "#ffffffff"
+  },
+  {
+    "Version": "250910.1.0",
+    "Id": 10086,
+    "SetId": 1009,
+    "AssetId": 1,
+    "TimeZone": "Noon",
+    "ColorCode": "#ffffffff"
+  },
+  {
+    "Version": "250910.1.0",
+    "Id": 10087,
+    "SetId": 1009,
+    "AssetId": 4,
+    "TimeZone": "Evening",
+    "ColorCode": "#f6e3c1ff"
+  },
+  {
+    "Version": "250910.1.0",
+    "Id": 10089,
+    "SetId": 1009,
+    "AssetId": 5,
+    "TimeZone": "Night",
+    "ColorCode": "#e4f4fdff"
+  },
+  {
+    "Version": "251210.1.0",
+    "Id": 10090,
+    "SetId": 1010,
+    "AssetId": 1,
+    "TimeZone": "Morning",
+    "ColorCode": "#ffffffff"
+  },
+  {
+    "Version": "251210.1.0",
+    "Id": 10091,
+    "SetId": 1010,
+    "AssetId": 1,
+    "TimeZone": "Noon",
+    "ColorCode": "#ffffffff"
+  },
+  {
+    "Version": "251210.1.0",
+    "Id": 10092,
+    "SetId": 1010,
+    "AssetId": 4,
+    "TimeZone": "Evening",
+    "ColorCode": "#f6e3c1ff"
+  },
+  {
+    "Version": "251210.1.0",
+    "Id": 10093,
+    "SetId": 1010,
+    "AssetId": 5,
+    "TimeZone": "Night",
+    "ColorCode": "#e4f4fdff"
+  },
+  {
+    "Version": "260110.1.0",
+    "Id": 10094,
+    "SetId": 1011,
+    "AssetId": 1,
+    "TimeZone": "Morning",
+    "ColorCode": "#ffffffff"
+  },
+  {
+    "Version": "260110.1.0",
+    "Id": 10095,
+    "SetId": 1011,
+    "AssetId": 1,
+    "TimeZone": "Noon",
+    "ColorCode": "#ffffffff"
+  },
+  {
+    "Version": "260110.1.0",
+    "Id": 10096,
+    "SetId": 1011,
+    "AssetId": 4,
+    "TimeZone": "Evening",
+    "ColorCode": "#f6e3c1ff"
+  },
+  {
+    "Version": "260110.1.0",
+    "Id": 10097,
+    "SetId": 1011,
+    "AssetId": 5,
+    "TimeZone": "Night",
+    "ColorCode": "#e4f4fdff"
+  },
+  {
+    "Version": "260210.1.0",
+    "Id": 10098,
+    "SetId": 1012,
+    "AssetId": 1,
+    "TimeZone": "Morning",
+    "ColorCode": "#ffffffff"
+  },
+  {
+    "Version": "260210.1.0",
+    "Id": 10099,
+    "SetId": 1012,
+    "AssetId": 1,
+    "TimeZone": "Noon",
+    "ColorCode": "#ffffffff"
+  },
+  {
+    "Version": "260210.1.0",
+    "Id": 10100,
+    "SetId": 1012,
+    "AssetId": 4,
+    "TimeZone": "Evening",
+    "ColorCode": "#f6e3c1ff"
+  },
+  {
+    "Version": "260210.1.0",
+    "Id": 10101,
+    "SetId": 1012,
+    "AssetId": 5,
+    "TimeZone": "Night",
+    "ColorCode": "#e4f4fdff"
+  },
+  {
+    "Version": "260310.1.0",
+    "Id": 10102,
+    "SetId": 1013,
+    "AssetId": 1,
+    "TimeZone": "Morning",
+    "ColorCode": "#ffffffff"
+  },
+  {
+    "Version": "260310.1.0",
+    "Id": 10103,
+    "SetId": 1013,
+    "AssetId": 1,
+    "TimeZone": "Noon",
+    "ColorCode": "#ffffffff"
+  },
+  {
+    "Version": "260310.1.0",
+    "Id": 10104,
+    "SetId": 1013,
+    "AssetId": 4,
+    "TimeZone": "Evening",
+    "ColorCode": "#f6e3c1ff"
+  },
+  {
+    "Version": "260310.1.0",
+    "Id": 10105,
+    "SetId": 1013,
+    "AssetId": 5,
+    "TimeZone": "Night",
+    "ColorCode": "#e4f4fdff"
+  },
+  {
+    "Version": "260410.1.0",
+    "Id": 10141,
+    "SetId": 1014,
+    "AssetId": 1,
+    "TimeZone": "Morning",
+    "ColorCode": "#ffffffff"
+  },
+  {
+    "Version": "260410.1.0",
+    "Id": 10142,
+    "SetId": 1014,
+    "AssetId": 1,
+    "TimeZone": "Noon",
+    "ColorCode": "#ffffffff"
+  },
+  {
+    "Version": "260410.1.0",
+    "Id": 10143,
+    "SetId": 1014,
+    "AssetId": 4,
+    "TimeZone": "Evening",
+    "ColorCode": "#f6e3c1ff"
+  },
+  {
+    "Version": "260410.1.0",
+    "Id": 10144,
+    "SetId": 1014,
+    "AssetId": 5,
+    "TimeZone": "Night",
+    "ColorCode": "#e4f4fdff"
+  }
+]

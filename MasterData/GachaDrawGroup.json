@@ -1,0 +1,681 @@
+[
+  {
+    "Version": "250330.1.0",
+    "Id": 1,
+    "RelationId": 1,
+    "GachaDrawId": 1,
+    "Order": 2
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 2,
+    "RelationId": 1,
+    "GachaDrawId": 2,
+    "Order": 1
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 3,
+    "RelationId": 1,
+    "GachaDrawId": 4,
+    "Order": 3
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 4,
+    "RelationId": 2,
+    "GachaDrawId": 1,
+    "Order": 3
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 5,
+    "RelationId": 2,
+    "GachaDrawId": 2,
+    "Order": 2
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 6,
+    "RelationId": 2,
+    "GachaDrawId": 3,
+    "Order": 1
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 7,
+    "RelationId": 3,
+    "GachaDrawId": 11,
+    "Order": 2
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 8,
+    "RelationId": 3,
+    "GachaDrawId": 12,
+    "Order": 1
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 9,
+    "RelationId": 3,
+    "GachaDrawId": 14,
+    "Order": 3
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 10,
+    "RelationId": 4,
+    "GachaDrawId": 11,
+    "Order": 3
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 11,
+    "RelationId": 4,
+    "GachaDrawId": 12,
+    "Order": 2
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 12,
+    "RelationId": 4,
+    "GachaDrawId": 13,
+    "Order": 1
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 13,
+    "RelationId": 5,
+    "GachaDrawId": 5,
+    "Order": 3
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 14,
+    "RelationId": 5,
+    "GachaDrawId": 6,
+    "Order": 2
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 15,
+    "RelationId": 5,
+    "GachaDrawId": 7,
+    "Order": 1
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 16,
+    "RelationId": 6,
+    "GachaDrawId": 5,
+    "Order": 3
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 17,
+    "RelationId": 6,
+    "GachaDrawId": 6,
+    "Order": 2
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 18,
+    "RelationId": 6,
+    "GachaDrawId": 7,
+    "Order": 1
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 19,
+    "RelationId": 7,
+    "GachaDrawId": 8,
+    "Order": 3
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 20,
+    "RelationId": 7,
+    "GachaDrawId": 9,
+    "Order": 2
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 21,
+    "RelationId": 7,
+    "GachaDrawId": 10,
+    "Order": 1
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 22,
+    "RelationId": 8,
+    "GachaDrawId": 8,
+    "Order": 3
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 23,
+    "RelationId": 8,
+    "GachaDrawId": 9,
+    "Order": 2
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 24,
+    "RelationId": 8,
+    "GachaDrawId": 10,
+    "Order": 1
+  },
+  {
+    "Version": "260115.1.0",
+    "Id": 25,
+    "RelationId": 9,
+    "GachaDrawId": 15,
+    "Order": 1
+  },
+  {
+    "Version": "260115.1.0",
+    "Id": 26,
+    "RelationId": 10,
+    "GachaDrawId": 15,
+    "Order": 2
+  },
+  {
+    "Version": "260115.1.0",
+    "Id": 27,
+    "RelationId": 10,
+    "GachaDrawId": 16,
+    "Order": 1
+  },
+  {
+    "Version": "260115.1.0",
+    "Id": 28,
+    "RelationId": 11,
+    "GachaDrawId": 17,
+    "Order": 1
+  },
+  {
+    "Version": "260115.1.0",
+    "Id": 29,
+    "RelationId": 12,
+    "GachaDrawId": 17,
+    "Order": 2
+  },
+  {
+    "Version": "260115.1.0",
+    "Id": 30,
+    "RelationId": 12,
+    "GachaDrawId": 18,
+    "Order": 1
+  },
+  {
+    "Version": "260115.1.0",
+    "Id": 31,
+    "RelationId": 13,
+    "GachaDrawId": 19,
+    "Order": 1
+  },
+  {
+    "Version": "260115.1.0",
+    "Id": 32,
+    "RelationId": 14,
+    "GachaDrawId": 19,
+    "Order": 2
+  },
+  {
+    "Version": "260115.1.0",
+    "Id": 33,
+    "RelationId": 14,
+    "GachaDrawId": 20,
+    "Order": 1
+  },
+  {
+    "Version": "260115.1.0",
+    "Id": 34,
+    "RelationId": 15,
+    "GachaDrawId": 21,
+    "Order": 1
+  },
+  {
+    "Version": "260115.1.0",
+    "Id": 35,
+    "RelationId": 16,
+    "GachaDrawId": 21,
+    "Order": 2
+  },
+  {
+    "Version": "260115.1.0",
+    "Id": 36,
+    "RelationId": 16,
+    "GachaDrawId": 22,
+    "Order": 1
+  },
+  {
+    "Version": "260130.1.0",
+    "Id": 37,
+    "RelationId": 17,
+    "GachaDrawId": 23,
+    "Order": 1
+  },
+  {
+    "Version": "260130.1.0",
+    "Id": 38,
+    "RelationId": 18,
+    "GachaDrawId": 23,
+    "Order": 2
+  },
+  {
+    "Version": "260130.1.0",
+    "Id": 39,
+    "RelationId": 18,
+    "GachaDrawId": 24,
+    "Order": 1
+  },
+  {
+    "Version": "260230.1.0",
+    "Id": 40,
+    "RelationId": 19,
+    "GachaDrawId": 25,
+    "Order": 1
+  },
+  {
+    "Version": "260230.1.0",
+    "Id": 41,
+    "RelationId": 20,
+    "GachaDrawId": 25,
+    "Order": 2
+  },
+  {
+    "Version": "260230.1.0",
+    "Id": 42,
+    "RelationId": 20,
+    "GachaDrawId": 26,
+    "Order": 1
+  },
+  {
+    "Version": "260230.1.0",
+    "Id": 43,
+    "RelationId": 21,
+    "GachaDrawId": 27,
+    "Order": 1
+  },
+  {
+    "Version": "260230.1.0",
+    "Id": 44,
+    "RelationId": 22,
+    "GachaDrawId": 27,
+    "Order": 2
+  },
+  {
+    "Version": "260230.1.0",
+    "Id": 45,
+    "RelationId": 22,
+    "GachaDrawId": 28,
+    "Order": 1
+  },
+  {
+    "Version": "260330.1.0",
+    "Id": 46,
+    "RelationId": 23,
+    "GachaDrawId": 29,
+    "Order": 1
+  },
+  {
+    "Version": "260330.1.0",
+    "Id": 47,
+    "RelationId": 24,
+    "GachaDrawId": 30,
+    "Order": 1
+  },
+  {
+    "Version": "260330.1.0",
+    "Id": 48,
+    "RelationId": 25,
+    "GachaDrawId": 31,
+    "Order": 1
+  },
+  {
+    "Version": "260330.1.0",
+    "Id": 49,
+    "RelationId": 26,
+    "GachaDrawId": 32,
+    "Order": 1
+  },
+  {
+    "Version": "260330.1.0",
+    "Id": 50,
+    "RelationId": 27,
+    "GachaDrawId": 33,
+    "Order": 1
+  },
+  {
+    "Version": "260330.1.0",
+    "Id": 51,
+    "RelationId": 28,
+    "GachaDrawId": 34,
+    "Order": 1
+  },
+  {
+    "Version": "260330.1.0",
+    "Id": 52,
+    "RelationId": 29,
+    "GachaDrawId": 35,
+    "Order": 1
+  },
+  {
+    "Version": "260330.1.0",
+    "Id": 53,
+    "RelationId": 30,
+    "GachaDrawId": 36,
+    "Order": 1
+  },
+  {
+    "Version": "260330.1.0",
+    "Id": 54,
+    "RelationId": 31,
+    "GachaDrawId": 37,
+    "Order": 1
+  },
+  {
+    "Version": "260330.1.0",
+    "Id": 55,
+    "RelationId": 32,
+    "GachaDrawId": 38,
+    "Order": 1
+  },
+  {
+    "Version": "260330.1.0",
+    "Id": 56,
+    "RelationId": 33,
+    "GachaDrawId": 39,
+    "Order": 1
+  },
+  {
+    "Version": "260330.1.0",
+    "Id": 57,
+    "RelationId": 34,
+    "GachaDrawId": 40,
+    "Order": 1
+  },
+  {
+    "Version": "260330.1.0",
+    "Id": 58,
+    "RelationId": 35,
+    "GachaDrawId": 41,
+    "Order": 1
+  },
+  {
+    "Version": "260330.1.0",
+    "Id": 59,
+    "RelationId": 36,
+    "GachaDrawId": 42,
+    "Order": 1
+  },
+  {
+    "Version": "260410.1.0",
+    "Id": 63,
+    "RelationId": 39,
+    "GachaDrawId": 45,
+    "Order": 2
+  },
+  {
+    "Version": "260410.1.0",
+    "Id": 64,
+    "RelationId": 39,
+    "GachaDrawId": 46,
+    "Order": 1
+  },
+  {
+    "Version": "260410.1.0",
+    "Id": 65,
+    "RelationId": 40,
+    "GachaDrawId": 45,
+    "Order": 3
+  },
+  {
+    "Version": "260410.1.0",
+    "Id": 66,
+    "RelationId": 40,
+    "GachaDrawId": 46,
+    "Order": 2
+  },
+  {
+    "Version": "260410.1.0",
+    "Id": 67,
+    "RelationId": 40,
+    "GachaDrawId": 47,
+    "Order": 1
+  },
+  {
+    "Version": "260410.1.0",
+    "Id": 68,
+    "RelationId": 41,
+    "GachaDrawId": 48,
+    "Order": 1
+  },
+  {
+    "Version": "260410.1.0",
+    "Id": 69,
+    "RelationId": 42,
+    "GachaDrawId": 49,
+    "Order": 1
+  },
+  {
+    "Version": "260410.1.0",
+    "Id": 70,
+    "RelationId": 43,
+    "GachaDrawId": 49,
+    "Order": 2
+  },
+  {
+    "Version": "260410.1.0",
+    "Id": 71,
+    "RelationId": 43,
+    "GachaDrawId": 50,
+    "Order": 1
+  },
+  {
+    "Version": "260410.1.0",
+    "Id": 72,
+    "RelationId": 44,
+    "GachaDrawId": 51,
+    "Order": 1
+  },
+  {
+    "Version": "260410.1.0",
+    "Id": 73,
+    "RelationId": 45,
+    "GachaDrawId": 51,
+    "Order": 2
+  },
+  {
+    "Version": "260410.1.0",
+    "Id": 74,
+    "RelationId": 45,
+    "GachaDrawId": 52,
+    "Order": 1
+  },
+  {
+    "Version": "260410.1.0",
+    "Id": 75,
+    "RelationId": 46,
+    "GachaDrawId": 53,
+    "Order": 1
+  },
+  {
+    "Version": "260410.1.0",
+    "Id": 76,
+    "RelationId": 47,
+    "GachaDrawId": 53,
+    "Order": 2
+  },
+  {
+    "Version": "260410.1.0",
+    "Id": 77,
+    "RelationId": 47,
+    "GachaDrawId": 54,
+    "Order": 1
+  },
+  {
+    "Version": "260410.1.0",
+    "Id": 78,
+    "RelationId": 48,
+    "GachaDrawId": 55,
+    "Order": 1
+  },
+  {
+    "Version": "260410.1.0",
+    "Id": 79,
+    "RelationId": 49,
+    "GachaDrawId": 55,
+    "Order": 2
+  },
+  {
+    "Version": "260410.1.0",
+    "Id": 80,
+    "RelationId": 49,
+    "GachaDrawId": 56,
+    "Order": 1
+  },
+  {
+    "Version": "260410.1.0",
+    "Id": 81,
+    "RelationId": 50,
+    "GachaDrawId": 57,
+    "Order": 1
+  },
+  {
+    "Version": "260410.1.0",
+    "Id": 82,
+    "RelationId": 51,
+    "GachaDrawId": 57,
+    "Order": 2
+  },
+  {
+    "Version": "260410.1.0",
+    "Id": 83,
+    "RelationId": 51,
+    "GachaDrawId": 58,
+    "Order": 1
+  },
+  {
+    "Version": "260410.1.0",
+    "Id": 84,
+    "RelationId": 52,
+    "GachaDrawId": 59,
+    "Order": 1
+  },
+  {
+    "Version": "260410.1.0",
+    "Id": 85,
+    "RelationId": 53,
+    "GachaDrawId": 59,
+    "Order": 2
+  },
+  {
+    "Version": "260410.1.0",
+    "Id": 86,
+    "RelationId": 53,
+    "GachaDrawId": 60,
+    "Order": 1
+  },
+  {
+    "Version": "260410.1.0",
+    "Id": 87,
+    "RelationId": 54,
+    "GachaDrawId": 61,
+    "Order": 1
+  },
+  {
+    "Version": "260410.1.0",
+    "Id": 88,
+    "RelationId": 55,
+    "GachaDrawId": 61,
+    "Order": 2
+  },
+  {
+    "Version": "260410.1.0",
+    "Id": 89,
+    "RelationId": 55,
+    "GachaDrawId": 62,
+    "Order": 1
+  },
+  {
+    "Version": "260410.1.0",
+    "Id": 90,
+    "RelationId": 56,
+    "GachaDrawId": 63,
+    "Order": 1
+  },
+  {
+    "Version": "260410.1.0",
+    "Id": 91,
+    "RelationId": 57,
+    "GachaDrawId": 63,
+    "Order": 2
+  },
+  {
+    "Version": "260410.1.0",
+    "Id": 92,
+    "RelationId": 57,
+    "GachaDrawId": 64,
+    "Order": 1
+  },
+  {
+    "Version": "260410.1.0",
+    "Id": 93,
+    "RelationId": 58,
+    "GachaDrawId": 65,
+    "Order": 2
+  },
+  {
+    "Version": "260410.1.0",
+    "Id": 94,
+    "RelationId": 58,
+    "GachaDrawId": 66,
+    "Order": 1
+  },
+  {
+    "Version": "260410.1.0",
+    "Id": 95,
+    "RelationId": 59,
+    "GachaDrawId": 65,
+    "Order": 3
+  },
+  {
+    "Version": "260410.1.0",
+    "Id": 96,
+    "RelationId": 59,
+    "GachaDrawId": 66,
+    "Order": 2
+  },
+  {
+    "Version": "260410.1.0",
+    "Id": 97,
+    "RelationId": 59,
+    "GachaDrawId": 67,
+    "Order": 1
+  },
+  {
+    "Version": "260410.1.0",
+    "Id": 98,
+    "RelationId": 60,
+    "GachaDrawId": 68,
+    "Order": 1
+  },
+  {
+    "Version": "260410.1.0",
+    "Id": 99,
+    "RelationId": 61,
+    "GachaDrawId": 68,
+    "Order": 2
+  },
+  {
+    "Version": "260410.1.0",
+    "Id": 100,
+    "RelationId": 61,
+    "GachaDrawId": 69,
+    "Order": 1
+  }
+]

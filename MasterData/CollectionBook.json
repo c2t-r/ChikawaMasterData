@@ -1,0 +1,949 @@
+[
+  {
+    "Version": "250330.1.0",
+    "Id": 1001,
+    "NameKey": 1803198585,
+    "ConditionTargetType": "Weapon",
+    "ConditionTargetIds": [
+      2,
+      3,
+      4
+    ],
+    "AddPossessionEffectId": 80101,
+    "MultiplyPossessionEffectId": 0,
+    "Order": 10,
+    "ExperienceGroupId": 0,
+    "ConditionDetailTextKey": 0
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 1002,
+    "NameKey": -1938165890,
+    "ConditionTargetType": "Armor",
+    "ConditionTargetIds": [
+      1,
+      2,
+      3,
+      6,
+      7
+    ],
+    "AddPossessionEffectId": 0,
+    "MultiplyPossessionEffectId": 80102,
+    "Order": 20,
+    "ExperienceGroupId": 0,
+    "ConditionDetailTextKey": 0
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 1003,
+    "NameKey": 454055158,
+    "ConditionTargetType": "Weapon",
+    "ConditionTargetIds": [
+      8,
+      9
+    ],
+    "AddPossessionEffectId": 80103,
+    "MultiplyPossessionEffectId": 0,
+    "Order": 30,
+    "ExperienceGroupId": 0,
+    "ConditionDetailTextKey": 0
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 1004,
+    "NameKey": -65856527,
+    "ConditionTargetType": "Armor",
+    "ConditionTargetIds": [
+      10,
+      11,
+      12
+    ],
+    "AddPossessionEffectId": 0,
+    "MultiplyPossessionEffectId": 80104,
+    "Order": 40,
+    "ExperienceGroupId": 0,
+    "ConditionDetailTextKey": 0
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 1005,
+    "NameKey": 477991151,
+    "ConditionTargetType": "Weapon",
+    "ConditionTargetIds": [
+      5,
+      10,
+      14
+    ],
+    "AddPossessionEffectId": 0,
+    "MultiplyPossessionEffectId": 80105,
+    "Order": 50,
+    "ExperienceGroupId": 0,
+    "ConditionDetailTextKey": 0
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 1006,
+    "NameKey": 359710404,
+    "ConditionTargetType": "Armor",
+    "ConditionTargetIds": [
+      16,
+      17,
+      18
+    ],
+    "AddPossessionEffectId": 0,
+    "MultiplyPossessionEffectId": 80106,
+    "Order": 60,
+    "ExperienceGroupId": 0,
+    "ConditionDetailTextKey": 0
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 1007,
+    "NameKey": -182569510,
+    "ConditionTargetType": "Weapon",
+    "ConditionTargetIds": [
+      17,
+      20,
+      28
+    ],
+    "AddPossessionEffectId": 80107,
+    "MultiplyPossessionEffectId": 0,
+    "Order": 70,
+    "ExperienceGroupId": 0,
+    "ConditionDetailTextKey": 0
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 1008,
+    "NameKey": 1652002386,
+    "ConditionTargetType": "Armor",
+    "ConditionTargetIds": [
+      24,
+      26,
+      21
+    ],
+    "AddPossessionEffectId": 0,
+    "MultiplyPossessionEffectId": 80108,
+    "Order": 80,
+    "ExperienceGroupId": 0,
+    "ConditionDetailTextKey": 0
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 1009,
+    "NameKey": -2112289460,
+    "ConditionTargetType": "Weapon",
+    "ConditionTargetIds": [
+      20,
+      29
+    ],
+    "AddPossessionEffectId": 0,
+    "MultiplyPossessionEffectId": 80109,
+    "Order": 90,
+    "ExperienceGroupId": 0,
+    "ConditionDetailTextKey": 0
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 1010,
+    "NameKey": -1961612441,
+    "ConditionTargetType": "Armor",
+    "ConditionTargetIds": [
+      36,
+      38,
+      39
+    ],
+    "AddPossessionEffectId": 0,
+    "MultiplyPossessionEffectId": 80110,
+    "Order": 100,
+    "ExperienceGroupId": 0,
+    "ConditionDetailTextKey": 0
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 3001,
+    "NameKey": 102918377,
+    "ConditionTargetType": "AssistSkill",
+    "ConditionTargetIds": [
+      3,
+      4,
+      5
+    ],
+    "AddPossessionEffectId": 80201,
+    "MultiplyPossessionEffectId": 0,
+    "Order": 10,
+    "ExperienceGroupId": 0,
+    "ConditionDetailTextKey": 0
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 3002,
+    "NameKey": 1984470118,
+    "ConditionTargetType": "AssistSkill",
+    "ConditionTargetIds": [
+      1,
+      7,
+      8
+    ],
+    "AddPossessionEffectId": 0,
+    "MultiplyPossessionEffectId": 80202,
+    "Order": 20,
+    "ExperienceGroupId": 0,
+    "ConditionDetailTextKey": 0
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 3003,
+    "NameKey": -399767099,
+    "ConditionTargetType": "AssistSkill",
+    "ConditionTargetIds": [
+      3,
+      4,
+      12
+    ],
+    "AddPossessionEffectId": 0,
+    "MultiplyPossessionEffectId": 80203,
+    "Order": 30,
+    "ExperienceGroupId": 0,
+    "ConditionDetailTextKey": 0
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 3004,
+    "NameKey": -280900132,
+    "ConditionTargetType": "AssistSkill",
+    "ConditionTargetIds": [
+      1,
+      7,
+      8,
+      13,
+      15
+    ],
+    "AddPossessionEffectId": 80204,
+    "MultiplyPossessionEffectId": 0,
+    "Order": 40,
+    "ExperienceGroupId": 0,
+    "ConditionDetailTextKey": 0
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 3005,
+    "NameKey": 1898272895,
+    "ConditionTargetType": "AssistSkill",
+    "ConditionTargetIds": [
+      17,
+      18
+    ],
+    "AddPossessionEffectId": 0,
+    "MultiplyPossessionEffectId": 80205,
+    "Order": 50,
+    "ExperienceGroupId": 0,
+    "ConditionDetailTextKey": 0
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 3006,
+    "NameKey": -1740178102,
+    "ConditionTargetType": "AssistSkill",
+    "ConditionTargetIds": [
+      20,
+      21
+    ],
+    "AddPossessionEffectId": 0,
+    "MultiplyPossessionEffectId": 80206,
+    "Order": 60,
+    "ExperienceGroupId": 0,
+    "ConditionDetailTextKey": 0
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 4001,
+    "NameKey": 1882375952,
+    "ConditionTargetType": "Cooking",
+    "ConditionTargetIds": [
+      5,
+      18,
+      47,
+      40
+    ],
+    "AddPossessionEffectId": 0,
+    "MultiplyPossessionEffectId": 80301,
+    "Order": 10,
+    "ExperienceGroupId": 0,
+    "ConditionDetailTextKey": 0
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 4002,
+    "NameKey": -381970774,
+    "ConditionTargetType": "Cooking",
+    "ConditionTargetIds": [
+      4,
+      24,
+      25,
+      36,
+      30
+    ],
+    "AddPossessionEffectId": 80302,
+    "MultiplyPossessionEffectId": 0,
+    "Order": 20,
+    "ExperienceGroupId": 0,
+    "ConditionDetailTextKey": 0
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 4003,
+    "NameKey": -1640192452,
+    "ConditionTargetType": "Cooking",
+    "ConditionTargetIds": [
+      43,
+      45,
+      16,
+      46
+    ],
+    "AddPossessionEffectId": 0,
+    "MultiplyPossessionEffectId": 80303,
+    "Order": 30,
+    "ExperienceGroupId": 0,
+    "ConditionDetailTextKey": 0
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 4004,
+    "NameKey": 5780383,
+    "ConditionTargetType": "Cooking",
+    "ConditionTargetIds": [
+      1,
+      2,
+      10
+    ],
+    "AddPossessionEffectId": 0,
+    "MultiplyPossessionEffectId": 80304,
+    "Order": 40,
+    "ExperienceGroupId": 0,
+    "ConditionDetailTextKey": 0
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 4005,
+    "NameKey": 2002715401,
+    "ConditionTargetType": "Cooking",
+    "ConditionTargetIds": [
+      51,
+      50,
+      59
+    ],
+    "AddPossessionEffectId": 80305,
+    "MultiplyPossessionEffectId": 0,
+    "Order": 50,
+    "ExperienceGroupId": 0,
+    "ConditionDetailTextKey": 0
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 4006,
+    "NameKey": -296332621,
+    "ConditionTargetType": "Cooking",
+    "ConditionTargetIds": [
+      31,
+      33,
+      34,
+      38
+    ],
+    "AddPossessionEffectId": 0,
+    "MultiplyPossessionEffectId": 80306,
+    "Order": 60,
+    "ExperienceGroupId": 0,
+    "ConditionDetailTextKey": 0
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 4007,
+    "NameKey": -1722719707,
+    "ConditionTargetType": "Cooking",
+    "ConditionTargetIds": [
+      7,
+      58,
+      20,
+      29,
+      39
+    ],
+    "AddPossessionEffectId": 0,
+    "MultiplyPossessionEffectId": 80307,
+    "Order": 70,
+    "ExperienceGroupId": 0,
+    "ConditionDetailTextKey": 0
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 4008,
+    "NameKey": 166625204,
+    "ConditionTargetType": "Cooking",
+    "ConditionTargetIds": [
+      12,
+      19
+    ],
+    "AddPossessionEffectId": 0,
+    "MultiplyPossessionEffectId": 80308,
+    "Order": 80,
+    "ExperienceGroupId": 0,
+    "ConditionDetailTextKey": 0
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 4009,
+    "NameKey": 2129219362,
+    "ConditionTargetType": "Cooking",
+    "ConditionTargetIds": [
+      54,
+      55,
+      57,
+      60
+    ],
+    "AddPossessionEffectId": 80309,
+    "MultiplyPossessionEffectId": 0,
+    "Order": 90,
+    "ExperienceGroupId": 0,
+    "ConditionDetailTextKey": 0
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 4010,
+    "NameKey": 506382023,
+    "ConditionTargetType": "Cooking",
+    "ConditionTargetIds": [
+      22,
+      23,
+      27,
+      28
+    ],
+    "AddPossessionEffectId": 0,
+    "MultiplyPossessionEffectId": 80310,
+    "Order": 100,
+    "ExperienceGroupId": 0,
+    "ConditionDetailTextKey": 0
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 5001,
+    "NameKey": 1108663138,
+    "ConditionTargetType": "HomeItem",
+    "ConditionTargetIds": [
+      1,
+      2
+    ],
+    "AddPossessionEffectId": 0,
+    "MultiplyPossessionEffectId": 80401,
+    "Order": 230,
+    "ExperienceGroupId": 0,
+    "ConditionDetailTextKey": 0
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 5002,
+    "NameKey": -618820904,
+    "ConditionTargetType": "HomeItem",
+    "ConditionTargetIds": [
+      9,
+      10,
+      4
+    ],
+    "AddPossessionEffectId": 0,
+    "MultiplyPossessionEffectId": 80404,
+    "Order": 240,
+    "ExperienceGroupId": 0,
+    "ConditionDetailTextKey": 0
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 5003,
+    "NameKey": -1407534514,
+    "ConditionTargetType": "HomeItem",
+    "ConditionTargetIds": [
+      16,
+      5
+    ],
+    "AddPossessionEffectId": 0,
+    "MultiplyPossessionEffectId": 80401,
+    "Order": 250,
+    "ExperienceGroupId": 0,
+    "ConditionDetailTextKey": 0
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 5004,
+    "NameKey": 847130605,
+    "ConditionTargetType": "HomeItem",
+    "ConditionTargetIds": [
+      11,
+      17
+    ],
+    "AddPossessionEffectId": 0,
+    "MultiplyPossessionEffectId": 80404,
+    "Order": 260,
+    "ExperienceGroupId": 0,
+    "ConditionDetailTextKey": 0
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 5005,
+    "NameKey": 1165565819,
+    "ConditionTargetType": "HomeItem",
+    "ConditionTargetIds": [
+      20,
+      21
+    ],
+    "AddPossessionEffectId": 0,
+    "MultiplyPossessionEffectId": 80401,
+    "Order": 270,
+    "ExperienceGroupId": 0,
+    "ConditionDetailTextKey": 0
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 5006,
+    "NameKey": -596619583,
+    "ConditionTargetType": "HomeItem",
+    "ConditionTargetIds": [
+      18,
+      19
+    ],
+    "AddPossessionEffectId": 0,
+    "MultiplyPossessionEffectId": 80404,
+    "Order": 280,
+    "ExperienceGroupId": 0,
+    "ConditionDetailTextKey": 0
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 5007,
+    "NameKey": -1418232233,
+    "ConditionTargetType": "HomeItem",
+    "ConditionTargetIds": [
+      12,
+      13
+    ],
+    "AddPossessionEffectId": 0,
+    "MultiplyPossessionEffectId": 80401,
+    "Order": 290,
+    "ExperienceGroupId": 0,
+    "ConditionDetailTextKey": 0
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 5008,
+    "NameKey": 1002988486,
+    "ConditionTargetType": "HomeItem",
+    "ConditionTargetIds": [
+      14,
+      15
+    ],
+    "AddPossessionEffectId": 0,
+    "MultiplyPossessionEffectId": 80404,
+    "Order": 300,
+    "ExperienceGroupId": 0,
+    "ConditionDetailTextKey": 0
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 5009,
+    "NameKey": -263777561,
+    "ConditionTargetType": "Memory",
+    "ConditionTargetIds": [
+      6,
+      7
+    ],
+    "AddPossessionEffectId": 0,
+    "MultiplyPossessionEffectId": 80404,
+    "Order": 310,
+    "ExperienceGroupId": 0,
+    "ConditionDetailTextKey": 0
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 5010,
+    "NameKey": -2025840015,
+    "ConditionTargetType": "Memory",
+    "ConditionTargetIds": [
+      9,
+      10
+    ],
+    "AddPossessionEffectId": 0,
+    "MultiplyPossessionEffectId": 80401,
+    "Order": 320,
+    "ExperienceGroupId": 0,
+    "ConditionDetailTextKey": 0
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 5011,
+    "NameKey": 508130251,
+    "ConditionTargetType": "Memory",
+    "ConditionTargetIds": [
+      11,
+      13
+    ],
+    "AddPossessionEffectId": 0,
+    "MultiplyPossessionEffectId": 80404,
+    "Order": 330,
+    "ExperienceGroupId": 0,
+    "ConditionDetailTextKey": 0
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 5012,
+    "NameKey": -101622068,
+    "ConditionTargetType": "Memory",
+    "ConditionTargetIds": [
+      14,
+      17,
+      18
+    ],
+    "AddPossessionEffectId": 0,
+    "MultiplyPossessionEffectId": 80401,
+    "Order": 340,
+    "ExperienceGroupId": 0,
+    "ConditionDetailTextKey": 0
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 5013,
+    "NameKey": -2144475544,
+    "ConditionTargetType": "Memory",
+    "ConditionTargetIds": [
+      19,
+      20,
+      21,
+      22
+    ],
+    "AddPossessionEffectId": 0,
+    "MultiplyPossessionEffectId": 80401,
+    "Order": 350,
+    "ExperienceGroupId": 0,
+    "ConditionDetailTextKey": 0
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 5014,
+    "NameKey": -1896452518,
+    "ConditionTargetType": "Memory",
+    "ConditionTargetIds": [
+      26,
+      27,
+      29
+    ],
+    "AddPossessionEffectId": 0,
+    "MultiplyPossessionEffectId": 80404,
+    "Order": 360,
+    "ExperienceGroupId": 0,
+    "ConditionDetailTextKey": 0
+  },
+  {
+    "Version": "250850.1.0",
+    "Id": 6001,
+    "NameKey": 1033515423,
+    "ConditionTargetType": "HomeEvent",
+    "ConditionTargetIds": [
+      100012
+    ],
+    "AddPossessionEffectId": 0,
+    "MultiplyPossessionEffectId": 80501,
+    "Order": 10,
+    "ExperienceGroupId": 80,
+    "ConditionDetailTextKey": 1460506021
+  },
+  {
+    "Version": "250850.1.0",
+    "Id": 6002,
+    "NameKey": 1307624720,
+    "ConditionTargetType": "HomeEvent",
+    "ConditionTargetIds": [
+      100022
+    ],
+    "AddPossessionEffectId": 0,
+    "MultiplyPossessionEffectId": 80502,
+    "Order": 20,
+    "ExperienceGroupId": 80,
+    "ConditionDetailTextKey": -838542305
+  },
+  {
+    "Version": "250850.1.0",
+    "Id": 6003,
+    "NameKey": -721840982,
+    "ConditionTargetType": "HomeEvent",
+    "ConditionTargetIds": [
+      100043
+    ],
+    "AddPossessionEffectId": 0,
+    "MultiplyPossessionEffectId": 80503,
+    "Order": 30,
+    "ExperienceGroupId": 80,
+    "ConditionDetailTextKey": -1190925175
+  },
+  {
+    "Version": "250850.1.0",
+    "Id": 6004,
+    "NameKey": 685393252,
+    "ConditionTargetType": "HomeEvent",
+    "ConditionTargetIds": [
+      100052
+    ],
+    "AddPossessionEffectId": 0,
+    "MultiplyPossessionEffectId": 80504,
+    "Order": 40,
+    "ExperienceGroupId": 80,
+    "ConditionDetailTextKey": 661092650
+  },
+  {
+    "Version": "250850.1.0",
+    "Id": 6005,
+    "NameKey": 859945389,
+    "ConditionTargetType": "HomeEvent",
+    "ConditionTargetIds": [
+      100093
+    ],
+    "AddPossessionEffectId": 0,
+    "MultiplyPossessionEffectId": 80505,
+    "Order": 50,
+    "ExperienceGroupId": 80,
+    "ConditionDetailTextKey": 1348487612
+  },
+  {
+    "Version": "250850.1.0",
+    "Id": 6006,
+    "NameKey": -959175608,
+    "ConditionTargetType": "HomeEvent",
+    "ConditionTargetIds": [
+      100101
+    ],
+    "AddPossessionEffectId": 0,
+    "MultiplyPossessionEffectId": 80506,
+    "Order": 60,
+    "ExperienceGroupId": 80,
+    "ConditionDetailTextKey": -915859450
+  },
+  {
+    "Version": "250850.1.0",
+    "Id": 6007,
+    "NameKey": 1608349170,
+    "ConditionTargetType": "HomeEvent",
+    "ConditionTargetIds": [
+      100111
+    ],
+    "AddPossessionEffectId": 0,
+    "MultiplyPossessionEffectId": 80507,
+    "Order": 70,
+    "ExperienceGroupId": 80,
+    "ConditionDetailTextKey": -1100076912
+  },
+  {
+    "Version": "250850.1.0",
+    "Id": 6008,
+    "NameKey": -1089954580,
+    "ConditionTargetType": "HomeEvent",
+    "ConditionTargetIds": [
+      100122
+    ],
+    "AddPossessionEffectId": 0,
+    "MultiplyPossessionEffectId": 80508,
+    "Order": 80,
+    "ExperienceGroupId": 80,
+    "ConditionDetailTextKey": 785462529
+  },
+  {
+    "Version": "250850.1.0",
+    "Id": 6009,
+    "NameKey": -302418037,
+    "ConditionTargetType": "HomeEvent",
+    "ConditionTargetIds": [
+      100133
+    ],
+    "AddPossessionEffectId": 0,
+    "MultiplyPossessionEffectId": 80509,
+    "Order": 90,
+    "ExperienceGroupId": 80,
+    "ConditionDetailTextKey": 1507198359
+  },
+  {
+    "Version": "250850.1.0",
+    "Id": 6010,
+    "NameKey": -1543592900,
+    "ConditionTargetType": "HomeEvent",
+    "ConditionTargetIds": [
+      100142
+    ],
+    "AddPossessionEffectId": 0,
+    "MultiplyPossessionEffectId": 80510,
+    "Order": 100,
+    "ExperienceGroupId": 80,
+    "ConditionDetailTextKey": 957451378
+  },
+  {
+    "Version": "250850.1.0",
+    "Id": 6011,
+    "NameKey": 1145473339,
+    "ConditionTargetType": "HomeEvent",
+    "ConditionTargetIds": [
+      100152
+    ],
+    "AddPossessionEffectId": 0,
+    "MultiplyPossessionEffectId": 80511,
+    "Order": 110,
+    "ExperienceGroupId": 80,
+    "ConditionDetailTextKey": 1310112996
+  },
+  {
+    "Version": "250850.1.0",
+    "Id": 6012,
+    "NameKey": -1311566626,
+    "ConditionTargetType": "HomeEvent",
+    "ConditionTargetIds": [
+      100163
+    ],
+    "AddPossessionEffectId": 0,
+    "MultiplyPossessionEffectId": 80512,
+    "Order": 120,
+    "ExperienceGroupId": 80,
+    "ConditionDetailTextKey": -685773474
+  },
+  {
+    "Version": "250850.1.0",
+    "Id": 6013,
+    "NameKey": -1044783023,
+    "ConditionTargetType": "HomeEvent",
+    "ConditionTargetIds": [
+      100171
+    ],
+    "AddPossessionEffectId": 0,
+    "MultiplyPossessionEffectId": 80513,
+    "Order": 130,
+    "ExperienceGroupId": 80,
+    "ConditionDetailTextKey": -1608983096
+  },
+  {
+    "Version": "250850.1.0",
+    "Id": 6014,
+    "NameKey": -1229008697,
+    "ConditionTargetType": "HomeEvent",
+    "ConditionTargetIds": [
+      100181
+    ],
+    "AddPossessionEffectId": 0,
+    "MultiplyPossessionEffectId": 80514,
+    "Order": 140,
+    "ExperienceGroupId": 80,
+    "ConditionDetailTextKey": 1048332395
+  },
+  {
+    "Version": "250850.1.0",
+    "Id": 6015,
+    "NameKey": 800555389,
+    "ConditionTargetType": "HomeEvent",
+    "ConditionTargetIds": [
+      100191
+    ],
+    "AddPossessionEffectId": 0,
+    "MultiplyPossessionEffectId": 80515,
+    "Order": 150,
+    "ExperienceGroupId": 80,
+    "ConditionDetailTextKey": 1232828669
+  },
+  {
+    "Version": "250850.1.0",
+    "Id": 6016,
+    "NameKey": 1487974891,
+    "ConditionTargetType": "HomeEvent",
+    "ConditionTargetIds": [
+      100202
+    ],
+    "AddPossessionEffectId": 0,
+    "MultiplyPossessionEffectId": 80516,
+    "Order": 160,
+    "ExperienceGroupId": 80,
+    "ConditionDetailTextKey": -797824697
+  },
+  {
+    "Version": "250850.1.0",
+    "Id": 6017,
+    "NameKey": -938496902,
+    "ConditionTargetType": "HomeEvent",
+    "ConditionTargetIds": [
+      100212
+    ],
+    "AddPossessionEffectId": 0,
+    "MultiplyPossessionEffectId": 80517,
+    "Order": 170,
+    "ExperienceGroupId": 80,
+    "ConditionDetailTextKey": -1485497903
+  },
+  {
+    "Version": "250850.1.0",
+    "Id": 6018,
+    "NameKey": -1533845467,
+    "ConditionTargetType": "HomeEvent",
+    "ConditionTargetIds": [
+      100222
+    ],
+    "AddPossessionEffectId": 0,
+    "MultiplyPossessionEffectId": 80518,
+    "Order": 180,
+    "ExperienceGroupId": 80,
+    "ConditionDetailTextKey": 935986240
+  },
+  {
+    "Version": "250850.1.0",
+    "Id": 6019,
+    "NameKey": -745254733,
+    "ConditionTargetType": "HomeEvent",
+    "ConditionTargetIds": [
+      100232
+    ],
+    "AddPossessionEffectId": 0,
+    "MultiplyPossessionEffectId": 80519,
+    "Order": 190,
+    "ExperienceGroupId": 80,
+    "ConditionDetailTextKey": 1087190230
+  },
+  {
+    "Version": "250850.1.0",
+    "Id": 6020,
+    "NameKey": 451684326,
+    "ConditionTargetType": "HomeEvent",
+    "ConditionTargetIds": [
+      100331
+    ],
+    "AddPossessionEffectId": 0,
+    "MultiplyPossessionEffectId": 80520,
+    "Order": 200,
+    "ExperienceGroupId": 80,
+    "ConditionDetailTextKey": 305979313
+  },
+  {
+    "Version": "250850.1.0",
+    "Id": 6021,
+    "NameKey": 495051775,
+    "ConditionTargetType": "HomeEvent",
+    "ConditionTargetIds": [
+      100351
+    ],
+    "AddPossessionEffectId": 0,
+    "MultiplyPossessionEffectId": 80521,
+    "Order": 210,
+    "ExperienceGroupId": 80,
+    "ConditionDetailTextKey": 1698426663
+  },
+  {
+    "Version": "250850.1.0",
+    "Id": 6022,
+    "NameKey": -208698669,
+    "ConditionTargetType": "HomeEvent",
+    "ConditionTargetIds": [
+      100373
+    ],
+    "AddPossessionEffectId": 0,
+    "MultiplyPossessionEffectId": 80522,
+    "Order": 220,
+    "ExperienceGroupId": 80,
+    "ConditionDetailTextKey": -63783267
+  }
+]

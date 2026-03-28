@@ -1,0 +1,20 @@
+[
+  {
+    "Version": "250850.1.0",
+    "Id": 1,
+    "LotteryCount": 99,
+    "GroupOrder": 1
+  },
+  {
+    "Version": "250850.1.0",
+    "Id": 2,
+    "LotteryCount": 99,
+    "GroupOrder": 2
+  },
+  {
+    "Version": "250850.1.0",
+    "Id": 3,
+    "LotteryCount": 99,
+    "GroupOrder": 3
+  }
+]

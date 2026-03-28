@@ -1,0 +1,226 @@
+[
+  {
+    "Version": "250850.1.0",
+    "Id": 101,
+    "TableId": 1,
+    "HomeCharacterGroupId": 1001,
+    "Weight": 10,
+    "ConditionGroupId": 0
+  },
+  {
+    "Version": "250850.1.0",
+    "Id": 102,
+    "TableId": 1,
+    "HomeCharacterGroupId": 1002,
+    "Weight": 10,
+    "ConditionGroupId": 0
+  },
+  {
+    "Version": "250850.1.0",
+    "Id": 103,
+    "TableId": 1,
+    "HomeCharacterGroupId": 1003,
+    "Weight": 10,
+    "ConditionGroupId": 0
+  },
+  {
+    "Version": "250850.1.0",
+    "Id": 104,
+    "TableId": 1,
+    "HomeCharacterGroupId": 1004,
+    "Weight": 10,
+    "ConditionGroupId": 0
+  },
+  {
+    "Version": "250850.1.0",
+    "Id": 105,
+    "TableId": 1,
+    "HomeCharacterGroupId": 1005,
+    "Weight": 10,
+    "ConditionGroupId": 0
+  },
+  {
+    "Version": "250850.1.0",
+    "Id": 106,
+    "TableId": 1,
+    "HomeCharacterGroupId": 1006,
+    "Weight": 10,
+    "ConditionGroupId": 0
+  },
+  {
+    "Version": "250850.1.0",
+    "Id": 107,
+    "TableId": 1,
+    "HomeCharacterGroupId": 1007,
+    "Weight": 10,
+    "ConditionGroupId": 0
+  },
+  {
+    "Version": "250850.1.0",
+    "Id": 301,
+    "TableId": 2,
+    "HomeCharacterGroupId": 3001,
+    "Weight": 10,
+    "ConditionGroupId": 0
+  },
+  {
+    "Version": "250850.1.0",
+    "Id": 302,
+    "TableId": 2,
+    "HomeCharacterGroupId": 3002,
+    "Weight": 10,
+    "ConditionGroupId": 0
+  },
+  {
+    "Version": "250850.1.0",
+    "Id": 303,
+    "TableId": 2,
+    "HomeCharacterGroupId": 3003,
+    "Weight": 10,
+    "ConditionGroupId": 0
+  },
+  {
+    "Version": "250850.1.0",
+    "Id": 304,
+    "TableId": 2,
+    "HomeCharacterGroupId": 3004,
+    "Weight": 10,
+    "ConditionGroupId": 0
+  },
+  {
+    "Version": "250850.1.0",
+    "Id": 305,
+    "TableId": 2,
+    "HomeCharacterGroupId": 3005,
+    "Weight": 10,
+    "ConditionGroupId": 0
+  },
+  {
+    "Version": "250850.1.0",
+    "Id": 306,
+    "TableId": 2,
+    "HomeCharacterGroupId": 3006,
+    "Weight": 10,
+    "ConditionGroupId": 0
+  },
+  {
+    "Version": "250850.1.0",
+    "Id": 307,
+    "TableId": 2,
+    "HomeCharacterGroupId": 3007,
+    "Weight": 10,
+    "ConditionGroupId": 0
+  },
+  {
+    "Version": "250850.1.0",
+    "Id": 308,
+    "TableId": 2,
+    "HomeCharacterGroupId": 3008,
+    "Weight": 10,
+    "ConditionGroupId": 0
+  },
+  {
+    "Version": "250850.1.0",
+    "Id": 309,
+    "TableId": 2,
+    "HomeCharacterGroupId": 3009,
+    "Weight": 10,
+    "ConditionGroupId": 0
+  },
+  {
+    "Version": "250850.1.0",
+    "Id": 311,
+    "TableId": 2,
+    "HomeCharacterGroupId": 3011,
+    "Weight": 10,
+    "ConditionGroupId": 0
+  },
+  {
+    "Version": "250850.1.0",
+    "Id": 312,
+    "TableId": 2,
+    "HomeCharacterGroupId": 3012,
+    "Weight": 10,
+    "ConditionGroupId": 0
+  },
+  {
+    "Version": "250850.1.0",
+    "Id": 313,
+    "TableId": 2,
+    "HomeCharacterGroupId": 3013,
+    "Weight": 10,
+    "ConditionGroupId": 0
+  },
+  {
+    "Version": "250850.1.0",
+    "Id": 314,
+    "TableId": 2,
+    "HomeCharacterGroupId": 3014,
+    "Weight": 10,
+    "ConditionGroupId": 0
+  },
+  {
+    "Version": "250850.1.0",
+    "Id": 315,
+    "TableId": 2,
+    "HomeCharacterGroupId": 3015,
+    "Weight": 10,
+    "ConditionGroupId": 0
+  },
+  {
+    "Version": "250850.1.0",
+    "Id": 316,
+    "TableId": 2,
+    "HomeCharacterGroupId": 3016,
+    "Weight": 10,
+    "ConditionGroupId": 0
+  },
+  {
+    "Version": "250850.1.0",
+    "Id": 317,
+    "TableId": 2,
+    "HomeCharacterGroupId": 3017,
+    "Weight": 10,
+    "ConditionGroupId": 0
+  },
+  {
+    "Version": "250850.1.0",
+    "Id": 318,
+    "TableId": 2,
+    "HomeCharacterGroupId": 3018,
+    "Weight": 10,
+    "ConditionGroupId": 0
+  },
+  {
+    "Version": "250850.1.0",
+    "Id": 319,
+    "TableId": 2,
+    "HomeCharacterGroupId": 3019,
+    "Weight": 10,
+    "ConditionGroupId": 0
+  },
+  {
+    "Version": "250850.1.0",
+    "Id": 320,
+    "TableId": 2,
+    "HomeCharacterGroupId": 3020,
+    "Weight": 10,
+    "ConditionGroupId": 0
+  },
+  {
+    "Version": "250850.1.0",
+    "Id": 321,
+    "TableId": 2,
+    "HomeCharacterGroupId": 3021,
+    "Weight": 10,
+    "ConditionGroupId": 0
+  },
+  {
+    "Version": "250850.1.0",
+    "Id": 322,
+    "TableId": 2,
+    "HomeCharacterGroupId": 3022,
+    "Weight": 10,
+    "ConditionGroupId": 0
+  }
+]

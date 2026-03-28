@@ -1,0 +1,56 @@
+[
+  {
+    "Version": "250330.1.0",
+    "Id": 1,
+    "EvaluateConditionOrGroupRelation": 1,
+    "Value": 0
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 2,
+    "EvaluateConditionOrGroupRelation": 1,
+    "Value": 1
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 3,
+    "EvaluateConditionOrGroupRelation": 2,
+    "Value": 1
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 9,
+    "EvaluateConditionOrGroupRelation": 3,
+    "Value": 1
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 4,
+    "EvaluateConditionOrGroupRelation": 2,
+    "Value": 1
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 5,
+    "EvaluateConditionOrGroupRelation": 3,
+    "Value": 1
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 6,
+    "EvaluateConditionOrGroupRelation": 4,
+    "Value": 0
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 7,
+    "EvaluateConditionOrGroupRelation": 4,
+    "Value": 1
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 8,
+    "EvaluateConditionOrGroupRelation": 4,
+    "Value": 1
+  }
+]

@@ -1,0 +1,314 @@
+[
+  {
+    "Version": "250350.1.0",
+    "Id": 1,
+    "ShopType": "Default",
+    "ShopGroupId": 11
+  },
+  {
+    "Version": "250350.1.0",
+    "Id": 2,
+    "ShopType": "Exchange",
+    "ShopGroupId": 12
+  },
+  {
+    "Version": "250350.1.0",
+    "Id": 3,
+    "ShopType": "Exchange",
+    "ShopGroupId": 21
+  },
+  {
+    "Version": "250350.1.0",
+    "Id": 4,
+    "ShopType": "Exchange",
+    "ShopGroupId": 22
+  },
+  {
+    "Version": "250410.1.0",
+    "Id": 5,
+    "ShopType": "Default",
+    "ShopGroupId": 13
+  },
+  {
+    "Version": "250410.1.0",
+    "Id": 6,
+    "ShopType": "Exchange",
+    "ShopGroupId": 14
+  },
+  {
+    "Version": "250440.1.0",
+    "Id": 7,
+    "ShopType": "Default",
+    "ShopGroupId": 15
+  },
+  {
+    "Version": "250440.1.0",
+    "Id": 8,
+    "ShopType": "Exchange",
+    "ShopGroupId": 16
+  },
+  {
+    "Version": "250450.1.0",
+    "Id": 9,
+    "ShopType": "Default",
+    "ShopGroupId": 17
+  },
+  {
+    "Version": "250450.1.0",
+    "Id": 10,
+    "ShopType": "Exchange",
+    "ShopGroupId": 18
+  },
+  {
+    "Version": "250530.1.0",
+    "Id": 11,
+    "ShopType": "Default",
+    "ShopGroupId": 19
+  },
+  {
+    "Version": "250530.1.0",
+    "Id": 12,
+    "ShopType": "Exchange",
+    "ShopGroupId": 20
+  },
+  {
+    "Version": "250550.1.0",
+    "Id": 13,
+    "ShopType": "Default",
+    "ShopGroupId": 23
+  },
+  {
+    "Version": "250550.1.0",
+    "Id": 14,
+    "ShopType": "Exchange",
+    "ShopGroupId": 24
+  },
+  {
+    "Version": "250610.1.0",
+    "Id": 15,
+    "ShopType": "Default",
+    "ShopGroupId": 25
+  },
+  {
+    "Version": "250610.1.0",
+    "Id": 16,
+    "ShopType": "Exchange",
+    "ShopGroupId": 26
+  },
+  {
+    "Version": "250630.1.0",
+    "Id": 17,
+    "ShopType": "Default",
+    "ShopGroupId": 27
+  },
+  {
+    "Version": "250630.1.0",
+    "Id": 18,
+    "ShopType": "Exchange",
+    "ShopGroupId": 28
+  },
+  {
+    "Version": "250710.1.0",
+    "Id": 19,
+    "ShopType": "Default",
+    "ShopGroupId": 1051
+  },
+  {
+    "Version": "250710.1.0",
+    "Id": 20,
+    "ShopType": "Exchange",
+    "ShopGroupId": 1052
+  },
+  {
+    "Version": "250730.1.0",
+    "Id": 21,
+    "ShopType": "Default",
+    "ShopGroupId": 1053
+  },
+  {
+    "Version": "250730.1.0",
+    "Id": 22,
+    "ShopType": "Exchange",
+    "ShopGroupId": 1054
+  },
+  {
+    "Version": "250810.1.0",
+    "Id": 101104,
+    "ShopType": "Exchange",
+    "ShopGroupId": 1062
+  },
+  {
+    "Version": "250810.1.0",
+    "Id": 101105,
+    "ShopType": "Default",
+    "ShopGroupId": 1061
+  },
+  {
+    "Version": "250820.1.0",
+    "Id": 101204,
+    "ShopType": "Exchange",
+    "ShopGroupId": 1064
+  },
+  {
+    "Version": "250820.1.0",
+    "Id": 101205,
+    "ShopType": "Default",
+    "ShopGroupId": 1063
+  },
+  {
+    "Version": "250910.1.0",
+    "Id": 101304,
+    "ShopType": "Exchange",
+    "ShopGroupId": 1072
+  },
+  {
+    "Version": "250910.1.0",
+    "Id": 101305,
+    "ShopType": "Default",
+    "ShopGroupId": 1071
+  },
+  {
+    "Version": "250930.1.0",
+    "Id": 101404,
+    "ShopType": "Exchange",
+    "ShopGroupId": 1074
+  },
+  {
+    "Version": "250930.1.0",
+    "Id": 101405,
+    "ShopType": "Default",
+    "ShopGroupId": 1073
+  },
+  {
+    "Version": "251010.1.0",
+    "Id": 101504,
+    "ShopType": "Exchange",
+    "ShopGroupId": 1082
+  },
+  {
+    "Version": "251010.1.0",
+    "Id": 101505,
+    "ShopType": "Default",
+    "ShopGroupId": 1081
+  },
+  {
+    "Version": "251030.1.0",
+    "Id": 101704,
+    "ShopType": "Exchange",
+    "ShopGroupId": 1092
+  },
+  {
+    "Version": "251030.1.0",
+    "Id": 101705,
+    "ShopType": "Default",
+    "ShopGroupId": 1091
+  },
+  {
+    "Version": "251110.1.0",
+    "Id": 101804,
+    "ShopType": "Exchange",
+    "ShopGroupId": 1094
+  },
+  {
+    "Version": "251110.1.0",
+    "Id": 101805,
+    "ShopType": "Default",
+    "ShopGroupId": 1093
+  },
+  {
+    "Version": "251210.1.0",
+    "Id": 101904,
+    "ShopType": "Exchange",
+    "ShopGroupId": 1102
+  },
+  {
+    "Version": "251210.1.0",
+    "Id": 101905,
+    "ShopType": "Default",
+    "ShopGroupId": 1101
+  },
+  {
+    "Version": "251230.1.0",
+    "Id": 102004,
+    "ShopType": "Exchange",
+    "ShopGroupId": 1104
+  },
+  {
+    "Version": "251230.1.0",
+    "Id": 102005,
+    "ShopType": "Default",
+    "ShopGroupId": 1103
+  },
+  {
+    "Version": "260110.1.0",
+    "Id": 102104,
+    "ShopType": "Exchange",
+    "ShopGroupId": 1112
+  },
+  {
+    "Version": "260110.1.0",
+    "Id": 102105,
+    "ShopType": "Default",
+    "ShopGroupId": 1111
+  },
+  {
+    "Version": "260210.1.0",
+    "Id": 102204,
+    "ShopType": "Exchange",
+    "ShopGroupId": 1122
+  },
+  {
+    "Version": "260210.1.0",
+    "Id": 102205,
+    "ShopType": "Default",
+    "ShopGroupId": 1121
+  },
+  {
+    "Version": "260230.1.0",
+    "Id": 102304,
+    "ShopType": "Exchange",
+    "ShopGroupId": 1124
+  },
+  {
+    "Version": "260230.1.0",
+    "Id": 102305,
+    "ShopType": "Default",
+    "ShopGroupId": 1123
+  },
+  {
+    "Version": "260310.1.0",
+    "Id": 102404,
+    "ShopType": "Exchange",
+    "ShopGroupId": 1132
+  },
+  {
+    "Version": "260310.1.0",
+    "Id": 102405,
+    "ShopType": "Default",
+    "ShopGroupId": 1131
+  },
+  {
+    "Version": "260330.1.0",
+    "Id": 102504,
+    "ShopType": "Exchange",
+    "ShopGroupId": 1134
+  },
+  {
+    "Version": "260330.1.0",
+    "Id": 102505,
+    "ShopType": "Default",
+    "ShopGroupId": 1133
+  },
+  {
+    "Version": "260410.1.0",
+    "Id": 102604,
+    "ShopType": "Exchange",
+    "ShopGroupId": 1142
+  },
+  {
+    "Version": "260410.1.0",
+    "Id": 102605,
+    "ShopType": "Default",
+    "ShopGroupId": 1141
+  }
+]

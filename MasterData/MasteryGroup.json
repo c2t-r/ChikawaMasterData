@@ -1,0 +1,14 @@
+[
+  {
+    "Version": "250330.1.0",
+    "Id": 1,
+    "Type": "Ordinary",
+    "ResetConsumeId": 201
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 2,
+    "Type": "Promotion",
+    "ResetConsumeId": 201
+  }
+]

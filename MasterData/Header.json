@@ -1,0 +1,380 @@
+[
+  {
+    "Version": "250330.1.0",
+    "Id": 1,
+    "HeaderResourceItemIds": [
+      0
+    ],
+    "VisibleProfile": false,
+    "VisibleGuide": false,
+    "VisibleMenu": false,
+    "VisibleSpeedUp": false,
+    "VisibleCookingBoost": false,
+    "VisibleHeaderTitle": false,
+    "HeaderLocalizationKey": 2147483647
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 2,
+    "HeaderResourceItemIds": [
+      1,
+      2
+    ],
+    "VisibleProfile": false,
+    "VisibleGuide": false,
+    "VisibleMenu": true,
+    "VisibleSpeedUp": false,
+    "VisibleCookingBoost": false,
+    "VisibleHeaderTitle": false,
+    "HeaderLocalizationKey": 2147483647
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 3,
+    "HeaderResourceItemIds": [
+      1,
+      2
+    ],
+    "VisibleProfile": true,
+    "VisibleGuide": false,
+    "VisibleMenu": true,
+    "VisibleSpeedUp": true,
+    "VisibleCookingBoost": false,
+    "VisibleHeaderTitle": false,
+    "HeaderLocalizationKey": 2147483647
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 4,
+    "HeaderResourceItemIds": [
+      1,
+      2
+    ],
+    "VisibleProfile": true,
+    "VisibleGuide": false,
+    "VisibleMenu": true,
+    "VisibleSpeedUp": false,
+    "VisibleCookingBoost": false,
+    "VisibleHeaderTitle": false,
+    "HeaderLocalizationKey": 2147483647
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 5,
+    "HeaderResourceItemIds": [
+      2
+    ],
+    "VisibleProfile": false,
+    "VisibleGuide": false,
+    "VisibleMenu": true,
+    "VisibleSpeedUp": false,
+    "VisibleCookingBoost": false,
+    "VisibleHeaderTitle": false,
+    "HeaderLocalizationKey": 2147483647
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 11,
+    "HeaderResourceItemIds": [
+      11,
+      12
+    ],
+    "VisibleProfile": false,
+    "VisibleGuide": false,
+    "VisibleMenu": true,
+    "VisibleSpeedUp": false,
+    "VisibleCookingBoost": false,
+    "VisibleHeaderTitle": true,
+    "HeaderLocalizationKey": -911730596
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 12,
+    "HeaderResourceItemIds": [
+      11,
+      12
+    ],
+    "VisibleProfile": false,
+    "VisibleGuide": false,
+    "VisibleMenu": false,
+    "VisibleSpeedUp": false,
+    "VisibleCookingBoost": false,
+    "VisibleHeaderTitle": true,
+    "HeaderLocalizationKey": -1821180598
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 13,
+    "HeaderResourceItemIds": [
+      13,
+      2
+    ],
+    "VisibleProfile": false,
+    "VisibleGuide": true,
+    "VisibleMenu": false,
+    "VisibleSpeedUp": false,
+    "VisibleCookingBoost": false,
+    "VisibleHeaderTitle": true,
+    "HeaderLocalizationKey": -494466848
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 19,
+    "HeaderResourceItemIds": [
+      14,
+      2
+    ],
+    "VisibleProfile": false,
+    "VisibleGuide": true,
+    "VisibleMenu": false,
+    "VisibleSpeedUp": false,
+    "VisibleCookingBoost": false,
+    "VisibleHeaderTitle": true,
+    "HeaderLocalizationKey": 1033351327
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 101,
+    "HeaderResourceItemIds": [
+      101
+    ],
+    "VisibleProfile": false,
+    "VisibleGuide": true,
+    "VisibleMenu": false,
+    "VisibleSpeedUp": false,
+    "VisibleCookingBoost": false,
+    "VisibleHeaderTitle": true,
+    "HeaderLocalizationKey": 763859039
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 102,
+    "HeaderResourceItemIds": [
+      201,
+      202
+    ],
+    "VisibleProfile": false,
+    "VisibleGuide": true,
+    "VisibleMenu": false,
+    "VisibleSpeedUp": false,
+    "VisibleCookingBoost": true,
+    "VisibleHeaderTitle": true,
+    "HeaderLocalizationKey": 224264979
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 103,
+    "HeaderResourceItemIds": [
+      101,
+      2
+    ],
+    "VisibleProfile": false,
+    "VisibleGuide": true,
+    "VisibleMenu": false,
+    "VisibleSpeedUp": false,
+    "VisibleCookingBoost": false,
+    "VisibleHeaderTitle": true,
+    "HeaderLocalizationKey": 1363424842
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 14,
+    "HeaderResourceItemIds": [
+      11,
+      12
+    ],
+    "VisibleProfile": false,
+    "VisibleGuide": true,
+    "VisibleMenu": false,
+    "VisibleSpeedUp": false,
+    "VisibleCookingBoost": false,
+    "VisibleHeaderTitle": true,
+    "HeaderLocalizationKey": 1064325134
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 15,
+    "HeaderResourceItemIds": [
+      0
+    ],
+    "VisibleProfile": false,
+    "VisibleGuide": true,
+    "VisibleMenu": false,
+    "VisibleSpeedUp": false,
+    "VisibleCookingBoost": false,
+    "VisibleHeaderTitle": true,
+    "HeaderLocalizationKey": 188686638
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 16,
+    "HeaderResourceItemIds": [
+      2,
+      1001
+    ],
+    "VisibleProfile": false,
+    "VisibleGuide": true,
+    "VisibleMenu": false,
+    "VisibleSpeedUp": false,
+    "VisibleCookingBoost": false,
+    "VisibleHeaderTitle": false,
+    "HeaderLocalizationKey": 2147483647
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 17,
+    "HeaderResourceItemIds": [
+      0
+    ],
+    "VisibleProfile": false,
+    "VisibleGuide": true,
+    "VisibleMenu": false,
+    "VisibleSpeedUp": false,
+    "VisibleCookingBoost": false,
+    "VisibleHeaderTitle": false,
+    "HeaderLocalizationKey": 2147483647
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 18,
+    "HeaderResourceItemIds": [
+      401
+    ],
+    "VisibleProfile": false,
+    "VisibleGuide": true,
+    "VisibleMenu": false,
+    "VisibleSpeedUp": false,
+    "VisibleCookingBoost": false,
+    "VisibleHeaderTitle": true,
+    "HeaderLocalizationKey": -2035450581
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 20,
+    "HeaderResourceItemIds": [
+      501,
+      502
+    ],
+    "VisibleProfile": false,
+    "VisibleGuide": false,
+    "VisibleMenu": true,
+    "VisibleSpeedUp": false,
+    "VisibleCookingBoost": false,
+    "VisibleHeaderTitle": false,
+    "HeaderLocalizationKey": 2147483647
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 21,
+    "HeaderResourceItemIds": [
+      2
+    ],
+    "VisibleProfile": false,
+    "VisibleGuide": true,
+    "VisibleMenu": true,
+    "VisibleSpeedUp": false,
+    "VisibleCookingBoost": false,
+    "VisibleHeaderTitle": false,
+    "HeaderLocalizationKey": 2147483647
+  },
+  {
+    "Version": "260110.1.0",
+    "Id": 22,
+    "HeaderResourceItemIds": [
+      203,
+      16,
+      12
+    ],
+    "VisibleProfile": false,
+    "VisibleGuide": true,
+    "VisibleMenu": false,
+    "VisibleSpeedUp": false,
+    "VisibleCookingBoost": false,
+    "VisibleHeaderTitle": true,
+    "HeaderLocalizationKey": 443123646
+  },
+  {
+    "Version": "250850.1.0",
+    "Id": 23,
+    "HeaderResourceItemIds": [
+      0
+    ],
+    "VisibleProfile": false,
+    "VisibleGuide": true,
+    "VisibleMenu": false,
+    "VisibleSpeedUp": false,
+    "VisibleCookingBoost": false,
+    "VisibleHeaderTitle": true,
+    "HeaderLocalizationKey": 1132701167
+  },
+  {
+    "Version": "251010.1.0",
+    "Id": 24,
+    "HeaderResourceItemIds": [
+      0
+    ],
+    "VisibleProfile": false,
+    "VisibleGuide": true,
+    "VisibleMenu": false,
+    "VisibleSpeedUp": false,
+    "VisibleCookingBoost": false,
+    "VisibleHeaderTitle": false,
+    "HeaderLocalizationKey": 2147483647
+  },
+  {
+    "Version": "260110.1.0",
+    "Id": 25,
+    "HeaderResourceItemIds": [
+      2
+    ],
+    "VisibleProfile": false,
+    "VisibleGuide": false,
+    "VisibleMenu": false,
+    "VisibleSpeedUp": false,
+    "VisibleCookingBoost": false,
+    "VisibleHeaderTitle": false,
+    "HeaderLocalizationKey": 2147483647
+  },
+  {
+    "Version": "260410.1.0",
+    "Id": 26,
+    "HeaderResourceItemIds": [
+      0
+    ],
+    "VisibleProfile": false,
+    "VisibleGuide": true,
+    "VisibleMenu": false,
+    "VisibleSpeedUp": false,
+    "VisibleCookingBoost": false,
+    "VisibleHeaderTitle": true,
+    "HeaderLocalizationKey": 911234640
+  },
+  {
+    "Version": "260410.1.0",
+    "Id": 27,
+    "HeaderResourceItemIds": [
+      34
+    ],
+    "VisibleProfile": false,
+    "VisibleGuide": true,
+    "VisibleMenu": false,
+    "VisibleSpeedUp": false,
+    "VisibleCookingBoost": false,
+    "VisibleHeaderTitle": true,
+    "HeaderLocalizationKey": -705716486
+  },
+  {
+    "Version": "260410.1.0",
+    "Id": 28,
+    "HeaderResourceItemIds": [
+      34
+    ],
+    "VisibleProfile": false,
+    "VisibleGuide": false,
+    "VisibleMenu": false,
+    "VisibleSpeedUp": false,
+    "VisibleCookingBoost": false,
+    "VisibleHeaderTitle": true,
+    "HeaderLocalizationKey": -1362037219
+  }
+]

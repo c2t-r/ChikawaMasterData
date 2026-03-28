@@ -1,0 +1,233 @@
+[
+  {
+    "Version": "250330.1.0",
+    "Id": 1,
+    "ViewConditionId": 0,
+    "TargetHuntSkillId": 311,
+    "AssetId": 3005001,
+    "CharacterId": 3005,
+    "ThumbnailSpriteName": "assist_skill_3005001",
+    "PossessionEffectId": 31101,
+    "Order": 1
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 2,
+    "ViewConditionId": 0,
+    "TargetHuntSkillId": 312,
+    "AssetId": 3004001,
+    "CharacterId": 3004,
+    "ThumbnailSpriteName": "assist_skill_3004001",
+    "PossessionEffectId": 31101,
+    "Order": 2
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 3,
+    "ViewConditionId": 0,
+    "TargetHuntSkillId": 313,
+    "AssetId": 3006001,
+    "CharacterId": 3006,
+    "ThumbnailSpriteName": "assist_skill_3006001",
+    "PossessionEffectId": 31101,
+    "Order": 3
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 4,
+    "ViewConditionId": 0,
+    "TargetHuntSkillId": 321,
+    "AssetId": 3003001,
+    "CharacterId": 3003,
+    "ThumbnailSpriteName": "assist_skill_3003001",
+    "PossessionEffectId": 32101,
+    "Order": 4
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 5,
+    "ViewConditionId": 0,
+    "TargetHuntSkillId": 322,
+    "AssetId": 3011001,
+    "CharacterId": 3011,
+    "ThumbnailSpriteName": "assist_skill_3011001",
+    "PossessionEffectId": 32101,
+    "Order": 5
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 6,
+    "ViewConditionId": 0,
+    "TargetHuntSkillId": 323,
+    "AssetId": 3008001,
+    "CharacterId": 3008,
+    "ThumbnailSpriteName": "assist_skill_3008001",
+    "PossessionEffectId": 32101,
+    "Order": 6
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 7,
+    "ViewConditionId": 0,
+    "TargetHuntSkillId": 331,
+    "AssetId": 3002001,
+    "CharacterId": 3002,
+    "ThumbnailSpriteName": "assist_skill_3002001",
+    "PossessionEffectId": 33101,
+    "Order": 7
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 8,
+    "ViewConditionId": 0,
+    "TargetHuntSkillId": 332,
+    "AssetId": 3015001,
+    "CharacterId": 3015,
+    "ThumbnailSpriteName": "assist_skill_3015001",
+    "PossessionEffectId": 33101,
+    "Order": 8
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 9,
+    "ViewConditionId": 0,
+    "TargetHuntSkillId": 333,
+    "AssetId": 3009001,
+    "CharacterId": 3009,
+    "ThumbnailSpriteName": "assist_skill_3009001",
+    "PossessionEffectId": 33101,
+    "Order": 9
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 10,
+    "ViewConditionId": 0,
+    "TargetHuntSkillId": 341,
+    "AssetId": 3007001,
+    "CharacterId": 3007,
+    "ThumbnailSpriteName": "assist_skill_3007001",
+    "PossessionEffectId": 34101,
+    "Order": 10
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 11,
+    "ViewConditionId": 0,
+    "TargetHuntSkillId": 342,
+    "AssetId": 3022001,
+    "CharacterId": 3022,
+    "ThumbnailSpriteName": "assist_skill_3022001",
+    "PossessionEffectId": 34101,
+    "Order": 11
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 12,
+    "ViewConditionId": 0,
+    "TargetHuntSkillId": 343,
+    "AssetId": 3018001,
+    "CharacterId": 3018,
+    "ThumbnailSpriteName": "assist_skill_3018001",
+    "PossessionEffectId": 34101,
+    "Order": 12
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 13,
+    "ViewConditionId": 0,
+    "TargetHuntSkillId": 351,
+    "AssetId": 3012001,
+    "CharacterId": 3012,
+    "ThumbnailSpriteName": "assist_skill_3012001",
+    "PossessionEffectId": 35101,
+    "Order": 13
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 14,
+    "ViewConditionId": 0,
+    "TargetHuntSkillId": 352,
+    "AssetId": 3013001,
+    "CharacterId": 3013,
+    "ThumbnailSpriteName": "assist_skill_3013001",
+    "PossessionEffectId": 35101,
+    "Order": 14
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 15,
+    "ViewConditionId": 0,
+    "TargetHuntSkillId": 353,
+    "AssetId": 3017001,
+    "CharacterId": 3017,
+    "ThumbnailSpriteName": "assist_skill_3017001",
+    "PossessionEffectId": 35101,
+    "Order": 15
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 16,
+    "ViewConditionId": 0,
+    "TargetHuntSkillId": 361,
+    "AssetId": 3016001,
+    "CharacterId": 3016,
+    "ThumbnailSpriteName": "assist_skill_3016001",
+    "PossessionEffectId": 36101,
+    "Order": 16
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 17,
+    "ViewConditionId": 0,
+    "TargetHuntSkillId": 362,
+    "AssetId": 3014001,
+    "CharacterId": 3014,
+    "ThumbnailSpriteName": "assist_skill_3014001",
+    "PossessionEffectId": 36101,
+    "Order": 17
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 18,
+    "ViewConditionId": 0,
+    "TargetHuntSkillId": 363,
+    "AssetId": 3019001,
+    "CharacterId": 3019,
+    "ThumbnailSpriteName": "assist_skill_3019001",
+    "PossessionEffectId": 36101,
+    "Order": 18
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 19,
+    "ViewConditionId": 0,
+    "TargetHuntSkillId": 371,
+    "AssetId": 3001001,
+    "CharacterId": 3001,
+    "ThumbnailSpriteName": "assist_skill_3001001",
+    "PossessionEffectId": 37101,
+    "Order": 19
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 20,
+    "ViewConditionId": 0,
+    "TargetHuntSkillId": 372,
+    "AssetId": 3020001,
+    "CharacterId": 3020,
+    "ThumbnailSpriteName": "assist_skill_3020001",
+    "PossessionEffectId": 37101,
+    "Order": 20
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 21,
+    "ViewConditionId": 0,
+    "TargetHuntSkillId": 373,
+    "AssetId": 3021001,
+    "CharacterId": 3021,
+    "ThumbnailSpriteName": "assist_skill_3021001",
+    "PossessionEffectId": 37101,
+    "Order": 21
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "Version": "251010.1.0",
+    "Id": 101507,
+    "ExperienceGroupId": 96,
+    "InitValue": 1000,
+    "IncreasePower": 3.0
+  },
+  {
+    "Version": "260410.1.0",
+    "Id": 102607,
+    "ExperienceGroupId": 97,
+    "InitValue": 1000,
+    "IncreasePower": 3.109999895095825
+  }
+]

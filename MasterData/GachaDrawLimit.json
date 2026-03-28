@@ -1,0 +1,58 @@
+[
+  {
+    "Version": "250330.1.0",
+    "Id": 4,
+    "LimitCount": 3,
+    "LimitRefreshType": "Daily",
+    "LimitRefreshHourJST": "15"
+  },
+  {
+    "Version": "250330.1.0",
+    "Id": 14,
+    "LimitCount": 3,
+    "LimitRefreshType": "Daily",
+    "LimitRefreshHourJST": "15"
+  },
+  {
+    "Version": "260115.1.0",
+    "Id": 1,
+    "LimitCount": 3,
+    "LimitRefreshType": "Never",
+    "LimitRefreshHourJST": "0"
+  },
+  {
+    "Version": "260130.1.0",
+    "Id": 32005,
+    "LimitCount": 3,
+    "LimitRefreshType": "Never",
+    "LimitRefreshHourJST": "0"
+  },
+  {
+    "Version": "260230.1.0",
+    "Id": 32006,
+    "LimitCount": 3,
+    "LimitRefreshType": "Never",
+    "LimitRefreshHourJST": "0"
+  },
+  {
+    "Version": "260330.1.0",
+    "Id": 100,
+    "LimitCount": 1,
+    "LimitRefreshType": "Never",
+    "LimitRefreshHourJST": "0"
+  },
+  {
+    "Version": "260410.1.0",
+    "Id": 32022,
+    "LimitCount": 3,
+    "LimitRefreshType": "Never",
+    "LimitRefreshHourJST": "0"
+  },
+  {
+    "Version": "260410.1.0",
+    "Id": 33002,
+    "LimitCount": 1,
+    "LimitRefreshType": "Never",
+    "LimitRefreshHourJST": "0"
+  }
+]
