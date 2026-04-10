@@ -115500,6 +115500,13 @@
     "HuntEncountId": 13310101
   },
   {
+    "Version": "250350.1.0",
+    "Id": 20100010,
+    "HuntStageId": 2010001,
+    "Index": 0,
+    "HuntEncountId": 20100010
+  },
+  {
     "Version": "260330.1.0",
     "Id": 3401011,
     "HuntStageId": 340101,
@@ -146998,13 +147005,6 @@
     "HuntStageId": 421010,
     "Index": 4,
     "HuntEncountId": 14210101
-  },
-  {
-    "Version": "250350.1.0",
-    "Id": 20100010,
-    "HuntStageId": 2010001,
-    "Index": 0,
-    "HuntEncountId": 20100010
   },
   {
     "Version": "250350.1.0",

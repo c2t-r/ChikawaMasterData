@@ -25505,7 +25505,7 @@
     "SubscriptionAndroidPrecautionsTextKey": 2147483647
   },
   {
-    "Version": "260410.1.0",
+    "Version": "260415.1.0",
     "Id": 31562,
     "ConsumeGroupId": 20315620,
     "RewardGroupIds": [
@@ -25523,7 +25523,7 @@
     "ConditionalReleaseScheduleSeconds": 0,
     "ShowNotification": true,
     "EnableLocalPush": false,
-    "PrecautionsTextKey": 1728433141,
+    "PrecautionsTextKey": -1612583183,
     "SubscriptioniOSPrecautionsTextKey": 2147483647,
     "SubscriptionAndroidPrecautionsTextKey": 2147483647
   },
