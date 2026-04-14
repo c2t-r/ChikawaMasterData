@@ -763,6 +763,20 @@
     "AcquireAmount": "1"
   },
   {
+    "Version": "260420.1.0",
+    "Id": 2097,
+    "RewardType": "HomeItem",
+    "MasterId": 97,
+    "AcquireAmount": "1"
+  },
+  {
+    "Version": "260420.1.0",
+    "Id": 2098,
+    "RewardType": "HomeItem",
+    "MasterId": 98,
+    "AcquireAmount": "1"
+  },
+  {
     "Version": "260410.1.0",
     "Id": 2099,
     "RewardType": "HomeItem",
@@ -39501,10 +39515,24 @@
     "AcquireAmount": "6200"
   },
   {
+    "Version": "260420.1.0",
+    "Id": 70160,
+    "RewardType": "ProfileCard",
+    "MasterId": 160,
+    "AcquireAmount": "1"
+  },
+  {
     "Version": "260410.1.0",
     "Id": 70161,
     "RewardType": "ProfileCard",
     "MasterId": 161,
+    "AcquireAmount": "1"
+  },
+  {
+    "Version": "260420.1.0",
+    "Id": 70162,
+    "RewardType": "ProfileCard",
+    "MasterId": 162,
     "AcquireAmount": "1"
   },
   {
@@ -39522,6 +39550,20 @@
     "AcquireAmount": "1"
   },
   {
+    "Version": "260420.1.0",
+    "Id": 70165,
+    "RewardType": "ProfileCard",
+    "MasterId": 165,
+    "AcquireAmount": "1"
+  },
+  {
+    "Version": "260420.1.0",
+    "Id": 70166,
+    "RewardType": "ProfileCard",
+    "MasterId": 166,
+    "AcquireAmount": "1"
+  },
+  {
     "Version": "260410.1.0",
     "Id": 70167,
     "RewardType": "ProfileCard",
@@ -39536,6 +39578,13 @@
     "AcquireAmount": "1"
   },
   {
+    "Version": "260420.1.0",
+    "Id": 81112,
+    "RewardType": "ProfileStamp",
+    "MasterId": 1112,
+    "AcquireAmount": "1"
+  },
+  {
     "Version": "260410.1.0",
     "Id": 81113,
     "RewardType": "ProfileStamp",
@@ -39547,6 +39596,20 @@
     "Id": 81114,
     "RewardType": "ProfileStamp",
     "MasterId": 1114,
+    "AcquireAmount": "1"
+  },
+  {
+    "Version": "260420.1.0",
+    "Id": 81115,
+    "RewardType": "ProfileStamp",
+    "MasterId": 1115,
+    "AcquireAmount": "1"
+  },
+  {
+    "Version": "260420.1.0",
+    "Id": 81116,
+    "RewardType": "ProfileStamp",
+    "MasterId": 1116,
     "AcquireAmount": "1"
   },
   {
@@ -39697,6 +39760,34 @@
     "AcquireAmount": "5"
   },
   {
+    "Version": "260420.1.0",
+    "Id": 81143021,
+    "RewardType": "AssistSkill",
+    "MasterId": 14,
+    "AcquireAmount": "5"
+  },
+  {
+    "Version": "260420.1.0",
+    "Id": 81143041,
+    "RewardType": "Weapon",
+    "MasterId": 29,
+    "AcquireAmount": "15"
+  },
+  {
+    "Version": "260420.1.0",
+    "Id": 81143042,
+    "RewardType": "Armor",
+    "MasterId": 29,
+    "AcquireAmount": "15"
+  },
+  {
+    "Version": "260420.1.0",
+    "Id": 81143043,
+    "RewardType": "AssistSkill",
+    "MasterId": 15,
+    "AcquireAmount": "5"
+  },
+  {
     "Version": "260410.1.0",
     "Id": 33014,
     "RewardType": "Costume",
@@ -39715,6 +39806,27 @@
     "Id": 37014,
     "RewardType": "Costume",
     "MasterId": 37014,
+    "AcquireAmount": "1"
+  },
+  {
+    "Version": "260420.1.0",
+    "Id": 32014,
+    "RewardType": "Costume",
+    "MasterId": 32014,
+    "AcquireAmount": "1"
+  },
+  {
+    "Version": "260420.1.0",
+    "Id": 34014,
+    "RewardType": "Costume",
+    "MasterId": 34014,
+    "AcquireAmount": "1"
+  },
+  {
+    "Version": "260420.1.0",
+    "Id": 36014,
+    "RewardType": "Costume",
+    "MasterId": 36014,
     "AcquireAmount": "1"
   },
   {

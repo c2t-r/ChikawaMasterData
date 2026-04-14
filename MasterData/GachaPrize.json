@@ -358,5 +358,21 @@
     "PrizeRelationTableGroupId": 204,
     "Level": 0,
     "ViewMaxRarity": "HyperRare"
+  },
+  {
+    "Version": "260420.1.0",
+    "Id": 46,
+    "GroupId": 205,
+    "PrizeRelationTableGroupId": 205,
+    "Level": 0,
+    "ViewMaxRarity": "LegendRare"
+  },
+  {
+    "Version": "260420.1.0",
+    "Id": 604103,
+    "GroupId": 604103,
+    "PrizeRelationTableGroupId": 604103,
+    "Level": 0,
+    "ViewMaxRarity": "HyperRare"
   }
 ]

@@ -972,6 +972,15 @@
     "SortOrder": 12603270
   },
   {
+    "Version": "260420.1.0",
+    "Id": 4001027,
+    "Category": "LoginBonus",
+    "AssetId": 9036,
+    "DetailId": 1027,
+    "ContentLockId": 0,
+    "SortOrder": 12604100
+  },
+  {
     "Version": "260410.1.0",
     "Id": 3000032,
     "Category": "SpecialMission",
@@ -979,6 +988,15 @@
     "DetailId": 32,
     "ContentLockId": 0,
     "SortOrder": 52604031
+  },
+  {
+    "Version": "260420.1.0",
+    "Id": 4003067,
+    "Category": "LoginBonus",
+    "AssetId": 9037,
+    "DetailId": 3067,
+    "ContentLockId": 0,
+    "SortOrder": 12604099
   },
   {
     "Version": "260410.1.0",

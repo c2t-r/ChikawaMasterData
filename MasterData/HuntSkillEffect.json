@@ -1419,6 +1419,28 @@
     "EffectLevelRangeValueId": 310141
   },
   {
+    "Version": "260420.1.0",
+    "Id": 32014,
+    "ConditionGroupId": 0,
+    "TargetType": "Enemy",
+    "TargetRangeType": "Single",
+    "SkillEffectType": "Attack",
+    "BuffEffectTime": 0,
+    "CalculationType": "Multiple",
+    "EffectLevelRangeValueId": 32014
+  },
+  {
+    "Version": "260420.1.0",
+    "Id": 320141,
+    "ConditionGroupId": 0,
+    "TargetType": "Friend",
+    "TargetRangeType": "Range",
+    "SkillEffectType": "StatusAttackUp",
+    "BuffEffectTime": 7,
+    "CalculationType": "Multiple",
+    "EffectLevelRangeValueId": 320141
+  },
+  {
     "Version": "260410.1.0",
     "Id": 33014,
     "ConditionGroupId": 0,
@@ -1441,6 +1463,17 @@
     "EffectLevelRangeValueId": 330141
   },
   {
+    "Version": "260420.1.0",
+    "Id": 34014,
+    "ConditionGroupId": 0,
+    "TargetType": "Friend",
+    "TargetRangeType": "Range",
+    "SkillEffectType": "StatusBossDamageUp",
+    "BuffEffectTime": 11,
+    "CalculationType": "Multiple",
+    "EffectLevelRangeValueId": 34014
+  },
+  {
     "Version": "260410.1.0",
     "Id": 35014,
     "ConditionGroupId": 35014,
@@ -1450,6 +1483,17 @@
     "BuffEffectTime": 0,
     "CalculationType": "Multiple",
     "EffectLevelRangeValueId": 35014
+  },
+  {
+    "Version": "260420.1.0",
+    "Id": 36014,
+    "ConditionGroupId": 0,
+    "TargetType": "Enemy",
+    "TargetRangeType": "Single",
+    "SkillEffectType": "Attack",
+    "BuffEffectTime": 0,
+    "CalculationType": "Multiple",
+    "EffectLevelRangeValueId": 36014
   },
   {
     "Version": "260410.1.0",

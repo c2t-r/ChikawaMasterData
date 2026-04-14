@@ -60,11 +60,11 @@
     "DateTermId": 0
   },
   {
-    "Version": "260410.1.0",
+    "Version": "260420.1.0",
     "Id": 31004,
     "ViewConditionId": 0,
     "ContentLockId": 0,
-    "DisplayBannerId": 11,
+    "DisplayBannerId": 12,
     "BackgroundType": "Mix5",
     "NameTextKey": 1208624544,
     "GachaIconIds": [
@@ -706,6 +706,165 @@
     "GachaPrizeGroupId": 7,
     "TopGachaDrawGroupRelationId": 60,
     "ResultGachaDrawGroupRelationId": 61,
+    "GachaExperienceGroupId": 0,
+    "AdRewardId": 0,
+    "ProbabilityAttentionTextKey": -612960492,
+    "DateTermId": 0
+  },
+  {
+    "Version": "260420.1.0",
+    "Id": 33006,
+    "ViewConditionId": 3300600,
+    "ContentLockId": 2,
+    "DisplayBannerId": 101,
+    "BackgroundType": "PaidArmor",
+    "NameTextKey": 1915384352,
+    "GachaIconIds": [
+      1,
+      2
+    ],
+    "GachaPrizeGroupId": 205,
+    "TopGachaDrawGroupRelationId": 62,
+    "ResultGachaDrawGroupRelationId": 63,
+    "GachaExperienceGroupId": 0,
+    "AdRewardId": 0,
+    "ProbabilityAttentionTextKey": -612960492,
+    "DateTermId": 0
+  },
+  {
+    "Version": "260420.1.0",
+    "Id": 33007,
+    "ViewConditionId": 3300700,
+    "ContentLockId": 2,
+    "DisplayBannerId": 101,
+    "BackgroundType": "PaidArmor",
+    "NameTextKey": 1915384352,
+    "GachaIconIds": [
+      1,
+      2
+    ],
+    "GachaPrizeGroupId": 205,
+    "TopGachaDrawGroupRelationId": 64,
+    "ResultGachaDrawGroupRelationId": 65,
+    "GachaExperienceGroupId": 0,
+    "AdRewardId": 0,
+    "ProbabilityAttentionTextKey": -612960492,
+    "DateTermId": 0
+  },
+  {
+    "Version": "260420.1.0",
+    "Id": 33008,
+    "ViewConditionId": 3300800,
+    "ContentLockId": 2,
+    "DisplayBannerId": 101,
+    "BackgroundType": "PaidArmor",
+    "NameTextKey": 1915384352,
+    "GachaIconIds": [
+      1,
+      2
+    ],
+    "GachaPrizeGroupId": 205,
+    "TopGachaDrawGroupRelationId": 66,
+    "ResultGachaDrawGroupRelationId": 67,
+    "GachaExperienceGroupId": 0,
+    "AdRewardId": 0,
+    "ProbabilityAttentionTextKey": -612960492,
+    "DateTermId": 0
+  },
+  {
+    "Version": "260420.1.0",
+    "Id": 33009,
+    "ViewConditionId": 3300900,
+    "ContentLockId": 2,
+    "DisplayBannerId": 101,
+    "BackgroundType": "PaidArmor",
+    "NameTextKey": 1915384352,
+    "GachaIconIds": [
+      1,
+      2
+    ],
+    "GachaPrizeGroupId": 205,
+    "TopGachaDrawGroupRelationId": 68,
+    "ResultGachaDrawGroupRelationId": 69,
+    "GachaExperienceGroupId": 0,
+    "AdRewardId": 0,
+    "ProbabilityAttentionTextKey": -612960492,
+    "DateTermId": 0
+  },
+  {
+    "Version": "260420.1.0",
+    "Id": 33010,
+    "ViewConditionId": 3301000,
+    "ContentLockId": 2,
+    "DisplayBannerId": 101,
+    "BackgroundType": "PaidArmor",
+    "NameTextKey": 1915384352,
+    "GachaIconIds": [
+      1,
+      2
+    ],
+    "GachaPrizeGroupId": 205,
+    "TopGachaDrawGroupRelationId": 70,
+    "ResultGachaDrawGroupRelationId": 71,
+    "GachaExperienceGroupId": 0,
+    "AdRewardId": 0,
+    "ProbabilityAttentionTextKey": -612960492,
+    "DateTermId": 0
+  },
+  {
+    "Version": "260420.1.0",
+    "Id": 33011,
+    "ViewConditionId": 3301100,
+    "ContentLockId": 2,
+    "DisplayBannerId": 101,
+    "BackgroundType": "PaidArmor",
+    "NameTextKey": 1915384352,
+    "GachaIconIds": [
+      1,
+      2
+    ],
+    "GachaPrizeGroupId": 205,
+    "TopGachaDrawGroupRelationId": 72,
+    "ResultGachaDrawGroupRelationId": 73,
+    "GachaExperienceGroupId": 0,
+    "AdRewardId": 0,
+    "ProbabilityAttentionTextKey": -612960492,
+    "DateTermId": 0
+  },
+  {
+    "Version": "260420.1.0",
+    "Id": 33012,
+    "ViewConditionId": 3301200,
+    "ContentLockId": 2,
+    "DisplayBannerId": 101,
+    "BackgroundType": "PaidArmor",
+    "NameTextKey": 1915384352,
+    "GachaIconIds": [
+      1,
+      2
+    ],
+    "GachaPrizeGroupId": 205,
+    "TopGachaDrawGroupRelationId": 74,
+    "ResultGachaDrawGroupRelationId": 75,
+    "GachaExperienceGroupId": 0,
+    "AdRewardId": 0,
+    "ProbabilityAttentionTextKey": -612960492,
+    "DateTermId": 0
+  },
+  {
+    "Version": "260420.1.0",
+    "Id": 604103,
+    "ViewConditionId": 604103,
+    "ContentLockId": 82,
+    "DisplayBannerId": 104,
+    "BackgroundType": "PaidBGroupKeyholder",
+    "NameTextKey": 499581195,
+    "GachaIconIds": [
+      4
+    ],
+    "GachaPrizeGroupId": 604103,
+    "TopGachaDrawGroupRelationId": 604103,
+    "ResultGachaDrawGroupRelationId": 604104,
     "GachaExperienceGroupId": 0,
     "AdRewardId": 0,
     "ProbabilityAttentionTextKey": -612960492,

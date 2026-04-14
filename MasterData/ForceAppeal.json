@@ -1834,5 +1834,65 @@
     "AssetName": "force_appeal_3022",
     "Priority": 395963,
     "IgnoreLimit": false
+  },
+  {
+    "Version": "260420.1.0",
+    "Id": 6012,
+    "StartAtJST": "2026-04-10 15:00:00",
+    "EndAtJST": "2026-05-01 23:59:59",
+    "AppealStartAtJST": "2026-04-10 15:00:00",
+    "AppealEndAtJST": "2026-05-01 23:59:59",
+    "DateHeadTextKey": 1518997849,
+    "AssetName": "force_appeal_6012",
+    "Priority": 395899,
+    "IgnoreLimit": false
+  },
+  {
+    "Version": "260420.1.0",
+    "Id": 6013,
+    "StartAtJST": "2026-04-10 15:00:00",
+    "EndAtJST": "2026-04-28 23:59:59",
+    "AppealStartAtJST": "2026-04-10 15:00:00",
+    "AppealEndAtJST": "2026-04-28 23:59:59",
+    "DateHeadTextKey": 1518997849,
+    "AssetName": "force_appeal_6013",
+    "Priority": 395898,
+    "IgnoreLimit": false
+  },
+  {
+    "Version": "260420.1.0",
+    "Id": 4024,
+    "StartAtJST": "2026-04-10 15:00:00",
+    "EndAtJST": "2026-05-01 14:59:59",
+    "AppealStartAtJST": "2026-04-10 15:00:00",
+    "AppealEndAtJST": "2026-05-01 14:59:59",
+    "DateHeadTextKey": 1518997849,
+    "AssetName": "force_appeal_4024",
+    "Priority": 395897,
+    "IgnoreLimit": false
+  },
+  {
+    "Version": "260420.1.0",
+    "Id": 3032,
+    "StartAtJST": "2026-04-10 15:00:00",
+    "EndAtJST": "2026-04-28 14:59:59",
+    "AppealStartAtJST": "2026-04-10 15:00:00",
+    "AppealEndAtJST": "2026-04-28 14:59:59",
+    "DateHeadTextKey": -998419800,
+    "AssetName": "force_appeal_3032",
+    "Priority": 395896,
+    "IgnoreLimit": false
+  },
+  {
+    "Version": "260420.1.0",
+    "Id": 7013,
+    "StartAtJST": "2026-04-10 15:00:00",
+    "EndAtJST": "2026-04-28 14:59:59",
+    "AppealStartAtJST": "2026-04-10 15:00:00",
+    "AppealEndAtJST": "2026-04-28 14:59:59",
+    "DateHeadTextKey": -998419800,
+    "AssetName": "force_appeal_7013",
+    "Priority": 395895,
+    "IgnoreLimit": false
   }
 ]

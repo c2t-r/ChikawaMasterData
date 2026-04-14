@@ -1360,7 +1360,7 @@
     "Rate": 50
   },
   {
-    "Version": "260410.1.0",
+    "Version": "260420.1.0",
     "Id": 2601,
     "GroupId": 1026,
     "ConditionTextKey": -2013572570,
@@ -1370,8 +1370,18 @@
     "Rate": 200
   },
   {
-    "Version": "260410.1.0",
+    "Version": "260420.1.0",
     "Id": 2602,
+    "GroupId": 1026,
+    "ConditionTextKey": 519177116,
+    "ConditionType": "CostumePossession",
+    "ConditionMasterId": 32014,
+    "ConditionValue": 0,
+    "Rate": 200
+  },
+  {
+    "Version": "260420.1.0",
+    "Id": 2603,
     "GroupId": 1026,
     "ConditionTextKey": 1777677066,
     "ConditionType": "CostumePossession",
@@ -1380,8 +1390,8 @@
     "Rate": 200
   },
   {
-    "Version": "260410.1.0",
-    "Id": 2603,
+    "Version": "260420.1.0",
+    "Id": 2604,
     "GroupId": 1026,
     "ConditionTextKey": -2137614785,
     "ConditionType": "CostumePossession",
@@ -1390,8 +1400,28 @@
     "Rate": 200
   },
   {
-    "Version": "260410.1.0",
-    "Id": 2604,
+    "Version": "260420.1.0",
+    "Id": 2605,
+    "GroupId": 1026,
+    "ConditionTextKey": -141449559,
+    "ConditionType": "CostumePossession",
+    "ConditionMasterId": 34014,
+    "ConditionValue": 0,
+    "Rate": 200
+  },
+  {
+    "Version": "260420.1.0",
+    "Id": 2606,
+    "GroupId": 1026,
+    "ConditionTextKey": 429901701,
+    "ConditionType": "CostumePossession",
+    "ConditionMasterId": 36014,
+    "ConditionValue": 0,
+    "Rate": 200
+  },
+  {
+    "Version": "260420.1.0",
+    "Id": 2607,
     "GroupId": 1026,
     "ConditionTextKey": 1855518483,
     "ConditionType": "CostumePossession",

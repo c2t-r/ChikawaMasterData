@@ -1971,6 +1971,42 @@
     "ConditionGroupId": 0
   },
   {
+    "Version": "260420.1.0",
+    "Id": 971,
+    "ItemId": 97,
+    "Level": 1,
+    "AnimationId": 201,
+    "Weight": 10,
+    "ConditionGroupId": 0
+  },
+  {
+    "Version": "260420.1.0",
+    "Id": 972,
+    "ItemId": 97,
+    "Level": 2,
+    "AnimationId": 202,
+    "Weight": 10,
+    "ConditionGroupId": 0
+  },
+  {
+    "Version": "260420.1.0",
+    "Id": 981,
+    "ItemId": 98,
+    "Level": 1,
+    "AnimationId": 201,
+    "Weight": 10,
+    "ConditionGroupId": 0
+  },
+  {
+    "Version": "260420.1.0",
+    "Id": 982,
+    "ItemId": 98,
+    "Level": 2,
+    "AnimationId": 202,
+    "Weight": 10,
+    "ConditionGroupId": 0
+  },
+  {
     "Version": "260410.1.0",
     "Id": 991,
     "ItemId": 99,

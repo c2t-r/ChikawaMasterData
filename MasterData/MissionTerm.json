@@ -1040,6 +1040,14 @@
     "DateTermRepeatOptionId": 1
   },
   {
+    "Version": "260420.1.0",
+    "Id": 12604301,
+    "ConditionDateTermId": 12604301,
+    "ResetType": "Never",
+    "RefreshHourJST": "15",
+    "DateTermRepeatOptionId": 1
+  },
+  {
     "Version": "260410.1.0",
     "Id": 10131,
     "ConditionDateTermId": 71013080,

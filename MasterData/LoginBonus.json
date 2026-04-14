@@ -2344,6 +2344,62 @@
     "Highlight": false
   },
   {
+    "Version": "260420.1.0",
+    "Id": 102701,
+    "GroupId": 1027,
+    "RewardRelationType": "Reward",
+    "RewardRelationId": 2098,
+    "Highlight": true
+  },
+  {
+    "Version": "260420.1.0",
+    "Id": 102702,
+    "GroupId": 1027,
+    "RewardRelationType": "Reward",
+    "RewardRelationId": 11001000,
+    "Highlight": false
+  },
+  {
+    "Version": "260420.1.0",
+    "Id": 102703,
+    "GroupId": 1027,
+    "RewardRelationType": "Reward",
+    "RewardRelationId": 11005000,
+    "Highlight": false
+  },
+  {
+    "Version": "260420.1.0",
+    "Id": 102704,
+    "GroupId": 1027,
+    "RewardRelationType": "Reward",
+    "RewardRelationId": 11001000,
+    "Highlight": false
+  },
+  {
+    "Version": "260420.1.0",
+    "Id": 102705,
+    "GroupId": 1027,
+    "RewardRelationType": "Reward",
+    "RewardRelationId": 2098,
+    "Highlight": true
+  },
+  {
+    "Version": "260420.1.0",
+    "Id": 102706,
+    "GroupId": 1027,
+    "RewardRelationType": "Reward",
+    "RewardRelationId": 11001000,
+    "Highlight": false
+  },
+  {
+    "Version": "260420.1.0",
+    "Id": 102707,
+    "GroupId": 1027,
+    "RewardRelationType": "Reward",
+    "RewardRelationId": 11001000,
+    "Highlight": false
+  },
+  {
     "Version": "260410.1.0",
     "Id": 306601,
     "GroupId": 3066,
@@ -2365,6 +2421,46 @@
     "GroupId": 3066,
     "RewardRelationType": "Reward",
     "RewardRelationId": 130150,
+    "Highlight": true
+  },
+  {
+    "Version": "260420.1.0",
+    "Id": 306701,
+    "GroupId": 3067,
+    "RewardRelationType": "Reward",
+    "RewardRelationId": 11002000,
+    "Highlight": false
+  },
+  {
+    "Version": "260420.1.0",
+    "Id": 306702,
+    "GroupId": 3067,
+    "RewardRelationType": "Reward",
+    "RewardRelationId": 11005000,
+    "Highlight": false
+  },
+  {
+    "Version": "260420.1.0",
+    "Id": 306703,
+    "GroupId": 3067,
+    "RewardRelationType": "Reward",
+    "RewardRelationId": 11003000,
+    "Highlight": false
+  },
+  {
+    "Version": "260420.1.0",
+    "Id": 306704,
+    "GroupId": 3067,
+    "RewardRelationType": "Reward",
+    "RewardRelationId": 11003000,
+    "Highlight": false
+  },
+  {
+    "Version": "260420.1.0",
+    "Id": 306705,
+    "GroupId": 3067,
+    "RewardRelationType": "Reward",
+    "RewardRelationId": 11007000,
     "Highlight": true
   }
 ]

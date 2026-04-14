@@ -651,6 +651,20 @@
     "ConditionGroupId": 0
   },
   {
+    "Version": "260420.1.0",
+    "Id": 97,
+    "ItemId": 97,
+    "Ratio": 100,
+    "ConditionGroupId": 0
+  },
+  {
+    "Version": "260420.1.0",
+    "Id": 98,
+    "ItemId": 98,
+    "Ratio": 100,
+    "ConditionGroupId": 0
+  },
+  {
     "Version": "260410.1.0",
     "Id": 99,
     "ItemId": 99,

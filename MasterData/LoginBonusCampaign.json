@@ -1288,6 +1288,20 @@
     "MasterId": 0
   },
   {
+    "Version": "260420.1.0",
+    "Id": 1027,
+    "NameTextKey": -1183921897,
+    "BackgroundImageName": "login_bonus_background_01027",
+    "Mode": "Streaming",
+    "StartAtJST": "2026-04-10 15:00:00",
+    "EndAtJST": "2026-04-28 14:59:59",
+    "Repeat": false,
+    "PeriodDisplay": true,
+    "Order": 1027,
+    "HeldType": "Constant",
+    "MasterId": 0
+  },
+  {
     "Version": "260410.1.0",
     "Id": 3066,
     "NameTextKey": -43425616,
@@ -1300,5 +1314,19 @@
     "Order": 3066,
     "HeldType": "Comeback",
     "MasterId": 1
+  },
+  {
+    "Version": "260420.1.0",
+    "Id": 3067,
+    "NameTextKey": 1684025610,
+    "BackgroundImageName": "login_bonus_background_03018",
+    "Mode": "Streaming",
+    "StartAtJST": "2026-04-10 15:00:00",
+    "EndAtJST": "2026-05-01 14:59:59",
+    "Repeat": false,
+    "PeriodDisplay": true,
+    "Order": 3067,
+    "HeldType": "Constant",
+    "MasterId": 0
   }
 ]

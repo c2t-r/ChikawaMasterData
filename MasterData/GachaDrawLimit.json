@@ -54,5 +54,12 @@
     "LimitCount": 1,
     "LimitRefreshType": "Never",
     "LimitRefreshHourJST": "0"
+  },
+  {
+    "Version": "260420.1.0",
+    "Id": 33006,
+    "LimitCount": 3,
+    "LimitRefreshType": "Never",
+    "LimitRefreshHourJST": "0"
   }
 ]

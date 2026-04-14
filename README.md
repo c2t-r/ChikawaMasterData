@@ -5,7 +5,7 @@ Repository of the release data for Chiikawa Pocket.
 ## version
 
 game: `Prd_2.0.1`  
-master: `20260408065250`  
+master: `20260410013958`  
 
 ## developer message
 

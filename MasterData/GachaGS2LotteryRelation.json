@@ -16,5 +16,11 @@
     "Id": 33005,
     "GachaId": 33005,
     "GachaGS2LotteryType": "Keyholder"
+  },
+  {
+    "Version": "260420.1.0",
+    "Id": 604103,
+    "GachaId": 604103,
+    "GachaGS2LotteryType": "Keyholder"
   }
 ]

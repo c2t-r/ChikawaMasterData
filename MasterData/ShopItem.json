@@ -5650,6 +5650,106 @@
     "ShopItemType": "PermanentExchange"
   },
   {
+    "Version": "260420.1.0",
+    "Id": 2020065,
+    "ShopId": 202,
+    "SortOrder": 100,
+    "NameTextKey": -359353454,
+    "ItemType": "Pack",
+    "ShopItemDetailId": 2020065,
+    "ShopItemType": "PermanentExchange"
+  },
+  {
+    "Version": "260420.1.0",
+    "Id": 2020066,
+    "ShopId": 202,
+    "SortOrder": 90,
+    "NameTextKey": -1651277052,
+    "ItemType": "Pack",
+    "ShopItemDetailId": 2020066,
+    "ShopItemType": "PermanentExchange"
+  },
+  {
+    "Version": "260420.1.0",
+    "Id": 2020067,
+    "ShopId": 202,
+    "SortOrder": 80,
+    "NameTextKey": 77255358,
+    "ItemType": "Pack",
+    "ShopItemDetailId": 2020067,
+    "ShopItemType": "PermanentExchange"
+  },
+  {
+    "Version": "260420.1.0",
+    "Id": 2020068,
+    "ShopId": 202,
+    "SortOrder": 70,
+    "NameTextKey": 1939726888,
+    "ItemType": "Pack",
+    "ShopItemDetailId": 2020068,
+    "ShopItemType": "PermanentExchange"
+  },
+  {
+    "Version": "260420.1.0",
+    "Id": 2020069,
+    "ShopId": 202,
+    "SortOrder": 60,
+    "NameTextKey": -484245575,
+    "ItemType": "Pack",
+    "ShopItemDetailId": 2020069,
+    "ShopItemType": "PermanentExchange"
+  },
+  {
+    "Version": "260420.1.0",
+    "Id": 2020070,
+    "ShopId": 202,
+    "SortOrder": 50,
+    "NameTextKey": -1809461457,
+    "ItemType": "Pack",
+    "ShopItemDetailId": 2020070,
+    "ShopItemType": "PermanentExchange"
+  },
+  {
+    "Version": "260420.1.0",
+    "Id": 2020071,
+    "ShopId": 202,
+    "SortOrder": 40,
+    "NameTextKey": -186497334,
+    "ItemType": "Pack",
+    "ShopItemDetailId": 2020071,
+    "ShopItemType": "PermanentExchange"
+  },
+  {
+    "Version": "260420.1.0",
+    "Id": 2020072,
+    "ShopId": 202,
+    "SortOrder": 30,
+    "NameTextKey": -861609829,
+    "ItemType": "Pack",
+    "ShopItemDetailId": 2020072,
+    "ShopItemType": "PermanentExchange"
+  },
+  {
+    "Version": "260420.1.0",
+    "Id": 2020073,
+    "ShopId": 202,
+    "SortOrder": 20,
+    "NameTextKey": 1437446433,
+    "ItemType": "Pack",
+    "ShopItemDetailId": 2020073,
+    "ShopItemType": "PermanentExchange"
+  },
+  {
+    "Version": "260420.1.0",
+    "Id": 2020074,
+    "ShopId": 202,
+    "SortOrder": 10,
+    "NameTextKey": 977855715,
+    "ItemType": "Pack",
+    "ShopItemDetailId": 2020074,
+    "ShopItemType": "PermanentExchange"
+  },
+  {
     "Version": "250610.1.0",
     "Id": 32017,
     "ShopId": 32,
@@ -11460,43 +11560,83 @@
     "ShopItemType": "Default"
   },
   {
-    "Version": "260410.1.0",
+    "Version": "260420.1.0",
     "Id": 31569,
     "ShopId": 1141,
-    "SortOrder": 26032703,
+    "SortOrder": 26032660,
     "NameTextKey": 2031490317,
     "ItemType": "Pack",
     "ShopItemDetailId": 31569,
     "ShopItemType": "Default"
   },
   {
-    "Version": "260410.1.0",
+    "Version": "260420.1.0",
     "Id": 31570,
     "ShopId": 1141,
-    "SortOrder": 26032702,
+    "SortOrder": 26032650,
     "NameTextKey": 433167592,
     "ItemType": "Pack",
     "ShopItemDetailId": 31570,
     "ShopItemType": "Default"
   },
   {
-    "Version": "260410.1.0",
+    "Version": "260420.1.0",
     "Id": 31571,
     "ShopId": 1141,
-    "SortOrder": 26032701,
+    "SortOrder": 26032640,
     "NameTextKey": 1859562622,
     "ItemType": "Pack",
     "ShopItemDetailId": 31571,
     "ShopItemType": "Default"
   },
   {
-    "Version": "260410.1.0",
+    "Version": "260420.1.0",
     "Id": 31572,
     "ShopId": 1141,
-    "SortOrder": 26032700,
+    "SortOrder": 26032630,
     "NameTextKey": -136315452,
     "ItemType": "Pack",
     "ShopItemDetailId": 31572,
+    "ShopItemType": "Default"
+  },
+  {
+    "Version": "260420.1.0",
+    "Id": 31573,
+    "ShopId": 1143,
+    "SortOrder": 26041003,
+    "NameTextKey": -2133275310,
+    "ItemType": "Pack",
+    "ShopItemDetailId": 31573,
+    "ShopItemType": "Default"
+  },
+  {
+    "Version": "260420.1.0",
+    "Id": 31574,
+    "ShopId": 1143,
+    "SortOrder": 26041002,
+    "NameTextKey": 515660017,
+    "ItemType": "Pack",
+    "ShopItemDetailId": 31574,
+    "ShopItemType": "Default"
+  },
+  {
+    "Version": "260420.1.0",
+    "Id": 31575,
+    "ShopId": 1143,
+    "SortOrder": 26041001,
+    "NameTextKey": 1773889639,
+    "ItemType": "Pack",
+    "ShopItemDetailId": 31575,
+    "ShopItemType": "Default"
+  },
+  {
+    "Version": "260420.1.0",
+    "Id": 31576,
+    "ShopId": 1143,
+    "SortOrder": 26041000,
+    "NameTextKey": -256755235,
+    "ItemType": "Pack",
+    "ShopItemDetailId": 31576,
     "ShopItemType": "Default"
   },
   {
@@ -11570,6 +11710,36 @@
     "ShopItemType": "Event"
   },
   {
+    "Version": "260420.1.0",
+    "Id": 114302,
+    "ShopId": 1141,
+    "SortOrder": 26032690,
+    "NameTextKey": 350389476,
+    "ItemType": "Pack",
+    "ShopItemDetailId": 114302,
+    "ShopItemType": "Event"
+  },
+  {
+    "Version": "260420.1.0",
+    "Id": 114303,
+    "ShopId": 1141,
+    "SortOrder": 26032680,
+    "NameTextKey": 1675998322,
+    "ItemType": "Pack",
+    "ShopItemDetailId": 114303,
+    "ShopItemType": "Event"
+  },
+  {
+    "Version": "260420.1.0",
+    "Id": 114304,
+    "ShopId": 1141,
+    "SortOrder": 26032670,
+    "NameTextKey": -41868847,
+    "ItemType": "Pack",
+    "ShopItemDetailId": 114304,
+    "ShopItemType": "Event"
+  },
+  {
     "Version": "260410.1.0",
     "Id": 21081,
     "ShopId": 27,
@@ -11600,6 +11770,36 @@
     "ShopItemType": "Event"
   },
   {
+    "Version": "260420.1.0",
+    "Id": 21084,
+    "ShopId": 27,
+    "SortOrder": 26041002,
+    "NameTextKey": -1567641755,
+    "ItemType": "Pack",
+    "ShopItemDetailId": 21084,
+    "ShopItemType": "Event"
+  },
+  {
+    "Version": "260420.1.0",
+    "Id": 21085,
+    "ShopId": 27,
+    "SortOrder": 26041001,
+    "NameTextKey": -712466445,
+    "ItemType": "Pack",
+    "ShopItemDetailId": 21085,
+    "ShopItemType": "Event"
+  },
+  {
+    "Version": "260420.1.0",
+    "Id": 21086,
+    "ShopId": 27,
+    "SortOrder": 26041000,
+    "NameTextKey": 1283575369,
+    "ItemType": "Pack",
+    "ShopItemDetailId": 21086,
+    "ShopItemType": "Event"
+  },
+  {
     "Version": "260410.1.0",
     "Id": 22081,
     "ShopId": 28,
@@ -11627,6 +11827,36 @@
     "NameTextKey": 777950504,
     "ItemType": "Pack",
     "ShopItemDetailId": 22083,
+    "ShopItemType": "Event"
+  },
+  {
+    "Version": "260420.1.0",
+    "Id": 22084,
+    "ShopId": 28,
+    "SortOrder": 26041002,
+    "NameTextKey": -1338376053,
+    "ItemType": "Pack",
+    "ShopItemDetailId": 22084,
+    "ShopItemType": "Event"
+  },
+  {
+    "Version": "260420.1.0",
+    "Id": 22085,
+    "ShopId": 28,
+    "SortOrder": 26041001,
+    "NameTextKey": -952291299,
+    "ItemType": "Pack",
+    "ShopItemDetailId": 22085,
+    "ShopItemType": "Event"
+  },
+  {
+    "Version": "260420.1.0",
+    "Id": 22086,
+    "ShopId": 28,
+    "SortOrder": 26041000,
+    "NameTextKey": 1580491175,
+    "ItemType": "Pack",
+    "ShopItemDetailId": 22086,
     "ShopItemType": "Event"
   },
   {
@@ -11750,6 +11980,56 @@
     "ShopItemType": "Default"
   },
   {
+    "Version": "260420.1.0",
+    "Id": 31579,
+    "ShopId": 31,
+    "SortOrder": 26041014,
+    "NameTextKey": 1611473996,
+    "ItemType": "Pack",
+    "ShopItemDetailId": 31579,
+    "ShopItemType": "Default"
+  },
+  {
+    "Version": "260420.1.0",
+    "Id": 31580,
+    "ShopId": 31,
+    "SortOrder": 26041013,
+    "NameTextKey": -1639350233,
+    "ItemType": "Pack",
+    "ShopItemDetailId": 31580,
+    "ShopItemType": "Default"
+  },
+  {
+    "Version": "260420.1.0",
+    "Id": 31581,
+    "ShopId": 31,
+    "SortOrder": 26041012,
+    "NameTextKey": -380718927,
+    "ItemType": "Pack",
+    "ShopItemDetailId": 31581,
+    "ShopItemType": "Default"
+  },
+  {
+    "Version": "260420.1.0",
+    "Id": 21142010,
+    "ShopId": 1142,
+    "SortOrder": 13,
+    "NameTextKey": -412218507,
+    "ItemType": "Pack",
+    "ShopItemDetailId": 114201,
+    "ShopItemType": "Event"
+  },
+  {
+    "Version": "260420.1.0",
+    "Id": 21142020,
+    "ShopId": 1142,
+    "SortOrder": 12,
+    "NameTextKey": -412218507,
+    "ItemType": "Pack",
+    "ShopItemDetailId": 114202,
+    "ShopItemType": "Event"
+  },
+  {
     "Version": "260410.1.0",
     "Id": 21142030,
     "ShopId": 1142,
@@ -11810,6 +12090,36 @@
     "ShopItemType": "Event"
   },
   {
+    "Version": "260420.1.0",
+    "Id": 21142090,
+    "ShopId": 1142,
+    "SortOrder": 5,
+    "NameTextKey": 376184828,
+    "ItemType": "Pack",
+    "ShopItemDetailId": 114209,
+    "ShopItemType": "Event"
+  },
+  {
+    "Version": "260420.1.0",
+    "Id": 21142100,
+    "ShopId": 1142,
+    "SortOrder": 4,
+    "NameTextKey": 1634414442,
+    "ItemType": "Pack",
+    "ShopItemDetailId": 114210,
+    "ShopItemType": "Event"
+  },
+  {
+    "Version": "260420.1.0",
+    "Id": 21142110,
+    "ShopId": 1142,
+    "SortOrder": 3,
+    "NameTextKey": -1889186234,
+    "ItemType": "Pack",
+    "ShopItemDetailId": 114211,
+    "ShopItemType": "Event"
+  },
+  {
     "Version": "260410.1.0",
     "Id": 21142120,
     "ShopId": 1142,
@@ -11847,6 +12157,86 @@
     "NameTextKey": -1000234776,
     "ItemType": "Gacha",
     "ShopItemDetailId": 33005,
+    "ShopItemType": "Default"
+  },
+  {
+    "Version": "260420.1.0",
+    "Id": 13031,
+    "ShopId": 13,
+    "SortOrder": 40,
+    "NameTextKey": 1915384352,
+    "ItemType": "Gacha",
+    "ShopItemDetailId": 33006,
+    "ShopItemType": "Default"
+  },
+  {
+    "Version": "260420.1.0",
+    "Id": 13032,
+    "ShopId": 13,
+    "SortOrder": 40,
+    "NameTextKey": 1915384352,
+    "ItemType": "Gacha",
+    "ShopItemDetailId": 33007,
+    "ShopItemType": "Default"
+  },
+  {
+    "Version": "260420.1.0",
+    "Id": 13033,
+    "ShopId": 13,
+    "SortOrder": 40,
+    "NameTextKey": 1915384352,
+    "ItemType": "Gacha",
+    "ShopItemDetailId": 33008,
+    "ShopItemType": "Default"
+  },
+  {
+    "Version": "260420.1.0",
+    "Id": 13034,
+    "ShopId": 13,
+    "SortOrder": 40,
+    "NameTextKey": 1915384352,
+    "ItemType": "Gacha",
+    "ShopItemDetailId": 33009,
+    "ShopItemType": "Default"
+  },
+  {
+    "Version": "260420.1.0",
+    "Id": 13035,
+    "ShopId": 13,
+    "SortOrder": 40,
+    "NameTextKey": 1915384352,
+    "ItemType": "Gacha",
+    "ShopItemDetailId": 33010,
+    "ShopItemType": "Default"
+  },
+  {
+    "Version": "260420.1.0",
+    "Id": 13036,
+    "ShopId": 13,
+    "SortOrder": 40,
+    "NameTextKey": 1915384352,
+    "ItemType": "Gacha",
+    "ShopItemDetailId": 33011,
+    "ShopItemType": "Default"
+  },
+  {
+    "Version": "260420.1.0",
+    "Id": 13037,
+    "ShopId": 13,
+    "SortOrder": 40,
+    "NameTextKey": 1915384352,
+    "ItemType": "Gacha",
+    "ShopItemDetailId": 33012,
+    "ShopItemType": "Default"
+  },
+  {
+    "Version": "260420.1.0",
+    "Id": 604103,
+    "ShopId": 13,
+    "SortOrder": 7,
+    "NameTextKey": 499581195,
+    "ItemType": "Gacha",
+    "ShopItemDetailId": 604103,
     "ShopItemType": "Default"
   }
 ]

@@ -3780,6 +3780,42 @@
     "EvaluateConditionId": 310146
   },
   {
+    "Version": "260420.1.0",
+    "Id": 320141,
+    "PossessionEffectId": 320141,
+    "EvaluateConditionId": 320141
+  },
+  {
+    "Version": "260420.1.0",
+    "Id": 320142,
+    "PossessionEffectId": 320142,
+    "EvaluateConditionId": 320142
+  },
+  {
+    "Version": "260420.1.0",
+    "Id": 320143,
+    "PossessionEffectId": 320143,
+    "EvaluateConditionId": 320143
+  },
+  {
+    "Version": "260420.1.0",
+    "Id": 320144,
+    "PossessionEffectId": 320144,
+    "EvaluateConditionId": 320144
+  },
+  {
+    "Version": "260420.1.0",
+    "Id": 320145,
+    "PossessionEffectId": 320145,
+    "EvaluateConditionId": 320145
+  },
+  {
+    "Version": "260420.1.0",
+    "Id": 320146,
+    "PossessionEffectId": 320016,
+    "EvaluateConditionId": 320146
+  },
+  {
     "Version": "260410.1.0",
     "Id": 330141,
     "PossessionEffectId": 330141,
@@ -3816,6 +3852,42 @@
     "EvaluateConditionId": 330146
   },
   {
+    "Version": "260420.1.0",
+    "Id": 340141,
+    "PossessionEffectId": 340141,
+    "EvaluateConditionId": 340141
+  },
+  {
+    "Version": "260420.1.0",
+    "Id": 340142,
+    "PossessionEffectId": 340142,
+    "EvaluateConditionId": 340142
+  },
+  {
+    "Version": "260420.1.0",
+    "Id": 340143,
+    "PossessionEffectId": 340143,
+    "EvaluateConditionId": 340143
+  },
+  {
+    "Version": "260420.1.0",
+    "Id": 340144,
+    "PossessionEffectId": 340144,
+    "EvaluateConditionId": 340144
+  },
+  {
+    "Version": "260420.1.0",
+    "Id": 340145,
+    "PossessionEffectId": 340145,
+    "EvaluateConditionId": 340145
+  },
+  {
+    "Version": "260420.1.0",
+    "Id": 340146,
+    "PossessionEffectId": 340016,
+    "EvaluateConditionId": 340146
+  },
+  {
     "Version": "260410.1.0",
     "Id": 350141,
     "PossessionEffectId": 350141,
@@ -3850,6 +3922,42 @@
     "Id": 350146,
     "PossessionEffectId": 350016,
     "EvaluateConditionId": 350146
+  },
+  {
+    "Version": "260420.1.0",
+    "Id": 360141,
+    "PossessionEffectId": 360141,
+    "EvaluateConditionId": 360141
+  },
+  {
+    "Version": "260420.1.0",
+    "Id": 360142,
+    "PossessionEffectId": 360142,
+    "EvaluateConditionId": 360142
+  },
+  {
+    "Version": "260420.1.0",
+    "Id": 360143,
+    "PossessionEffectId": 360143,
+    "EvaluateConditionId": 360143
+  },
+  {
+    "Version": "260420.1.0",
+    "Id": 360144,
+    "PossessionEffectId": 360144,
+    "EvaluateConditionId": 360144
+  },
+  {
+    "Version": "260420.1.0",
+    "Id": 360145,
+    "PossessionEffectId": 360145,
+    "EvaluateConditionId": 360145
+  },
+  {
+    "Version": "260420.1.0",
+    "Id": 360146,
+    "PossessionEffectId": 360016,
+    "EvaluateConditionId": 360146
   },
   {
     "Version": "260410.1.0",

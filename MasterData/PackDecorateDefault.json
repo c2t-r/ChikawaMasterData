@@ -4788,6 +4788,42 @@
     "HomeItemId": 0
   },
   {
+    "Version": "260420.1.0",
+    "Id": 10021084,
+    "TierType": "Tier2",
+    "IconAssetId": 2003,
+    "BackgroundAssetId": 240003,
+    "ParameterAssetId": 240003,
+    "CostumeId": 32014,
+    "DescriptionTextKey": 2147483647,
+    "AnnotationTextKey": 2147483647,
+    "HomeItemId": 0
+  },
+  {
+    "Version": "260420.1.0",
+    "Id": 10021085,
+    "TierType": "Tier2",
+    "IconAssetId": 2007,
+    "BackgroundAssetId": 240003,
+    "ParameterAssetId": 240003,
+    "CostumeId": 34014,
+    "DescriptionTextKey": 2147483647,
+    "AnnotationTextKey": 2147483647,
+    "HomeItemId": 0
+  },
+  {
+    "Version": "260420.1.0",
+    "Id": 10021086,
+    "TierType": "Tier2",
+    "IconAssetId": 2011,
+    "BackgroundAssetId": 240003,
+    "ParameterAssetId": 240003,
+    "CostumeId": 36014,
+    "DescriptionTextKey": 2147483647,
+    "AnnotationTextKey": 2147483647,
+    "HomeItemId": 0
+  },
+  {
     "Version": "260410.1.0",
     "Id": 10022081,
     "TierType": "Tier1",
@@ -4819,6 +4855,42 @@
     "BackgroundAssetId": 140004,
     "ParameterAssetId": 140004,
     "CostumeId": 37014,
+    "DescriptionTextKey": 2147483647,
+    "AnnotationTextKey": 2147483647,
+    "HomeItemId": 0
+  },
+  {
+    "Version": "260420.1.0",
+    "Id": 10022084,
+    "TierType": "Tier1",
+    "IconAssetId": 2004,
+    "BackgroundAssetId": 140004,
+    "ParameterAssetId": 140004,
+    "CostumeId": 32014,
+    "DescriptionTextKey": 2147483647,
+    "AnnotationTextKey": 2147483647,
+    "HomeItemId": 0
+  },
+  {
+    "Version": "260420.1.0",
+    "Id": 10022085,
+    "TierType": "Tier1",
+    "IconAssetId": 2008,
+    "BackgroundAssetId": 140004,
+    "ParameterAssetId": 140004,
+    "CostumeId": 34014,
+    "DescriptionTextKey": 2147483647,
+    "AnnotationTextKey": 2147483647,
+    "HomeItemId": 0
+  },
+  {
+    "Version": "260420.1.0",
+    "Id": 10022086,
+    "TierType": "Tier1",
+    "IconAssetId": 2012,
+    "BackgroundAssetId": 140004,
+    "ParameterAssetId": 140004,
+    "CostumeId": 36014,
     "DescriptionTextKey": 2147483647,
     "AnnotationTextKey": 2147483647,
     "HomeItemId": 0

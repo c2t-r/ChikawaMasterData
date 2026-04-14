@@ -1155,6 +1155,17 @@
     "MasterId": 31014
   },
   {
+    "Version": "260420.1.0",
+    "Id": 1032014,
+    "StickerGroupId": 1,
+    "NameTextKey": -1960566562,
+    "StickerAssetId": 9102019,
+    "SortOrder": 215,
+    "ViewConditionId": 12604301,
+    "ReleaseType": "Costume",
+    "MasterId": 32014
+  },
+  {
     "Version": "260410.1.0",
     "Id": 1033014,
     "StickerGroupId": 1,
@@ -1175,6 +1186,28 @@
     "ViewConditionId": 12604101,
     "ReleaseType": "Costume",
     "MasterId": 35014
+  },
+  {
+    "Version": "260420.1.0",
+    "Id": 1034014,
+    "StickerGroupId": 1,
+    "NameTextKey": -1960566562,
+    "StickerAssetId": 9104019,
+    "SortOrder": 218,
+    "ViewConditionId": 12604301,
+    "ReleaseType": "Costume",
+    "MasterId": 34014
+  },
+  {
+    "Version": "260420.1.0",
+    "Id": 1036014,
+    "StickerGroupId": 1,
+    "NameTextKey": -1960566562,
+    "StickerAssetId": 9106019,
+    "SortOrder": 219,
+    "ViewConditionId": 12604301,
+    "ReleaseType": "Costume",
+    "MasterId": 36014
   },
   {
     "Version": "260410.1.0",
@@ -4466,6 +4499,17 @@
     "MasterId": 1111
   },
   {
+    "Version": "260420.1.0",
+    "Id": 301112,
+    "StickerGroupId": 2,
+    "NameTextKey": -1960566562,
+    "StickerAssetId": 0,
+    "SortOrder": 1112,
+    "ViewConditionId": 12604301,
+    "ReleaseType": "ProfileStamp",
+    "MasterId": 1112
+  },
+  {
     "Version": "260410.1.0",
     "Id": 301113,
     "StickerGroupId": 2,
@@ -4486,6 +4530,28 @@
     "ViewConditionId": 12604101,
     "ReleaseType": "ProfileStamp",
     "MasterId": 1114
+  },
+  {
+    "Version": "260420.1.0",
+    "Id": 301115,
+    "StickerGroupId": 2,
+    "NameTextKey": -1960566562,
+    "StickerAssetId": 0,
+    "SortOrder": 1115,
+    "ViewConditionId": 12604301,
+    "ReleaseType": "ProfileStamp",
+    "MasterId": 1115
+  },
+  {
+    "Version": "260420.1.0",
+    "Id": 301116,
+    "StickerGroupId": 2,
+    "NameTextKey": -1960566562,
+    "StickerAssetId": 0,
+    "SortOrder": 1116,
+    "ViewConditionId": 12604301,
+    "ReleaseType": "ProfileStamp",
+    "MasterId": 1116
   },
   {
     "Version": "260410.1.0",
@@ -7392,6 +7458,17 @@
     "MasterId": 3025
   },
   {
+    "Version": "260420.1.0",
+    "Id": 400160,
+    "StickerGroupId": 4,
+    "NameTextKey": -1960566562,
+    "StickerAssetId": 0,
+    "SortOrder": 160,
+    "ViewConditionId": 12604301,
+    "ReleaseType": "ProfileCard",
+    "MasterId": 160
+  },
+  {
     "Version": "260410.1.0",
     "Id": 400161,
     "StickerGroupId": 4,
@@ -7401,6 +7478,17 @@
     "ViewConditionId": 12604101,
     "ReleaseType": "ProfileCard",
     "MasterId": 161
+  },
+  {
+    "Version": "260420.1.0",
+    "Id": 400162,
+    "StickerGroupId": 4,
+    "NameTextKey": -1960566562,
+    "StickerAssetId": 0,
+    "SortOrder": 162,
+    "ViewConditionId": 12604301,
+    "ReleaseType": "ProfileCard",
+    "MasterId": 162
   },
   {
     "Version": "260410.1.0",
@@ -7423,6 +7511,28 @@
     "ViewConditionId": 12604101,
     "ReleaseType": "ProfileCard",
     "MasterId": 164
+  },
+  {
+    "Version": "260420.1.0",
+    "Id": 400165,
+    "StickerGroupId": 4,
+    "NameTextKey": -1960566562,
+    "StickerAssetId": 0,
+    "SortOrder": 165,
+    "ViewConditionId": 12604301,
+    "ReleaseType": "ProfileCard",
+    "MasterId": 165
+  },
+  {
+    "Version": "260420.1.0",
+    "Id": 100166,
+    "StickerGroupId": 4,
+    "NameTextKey": -1960566562,
+    "StickerAssetId": 0,
+    "SortOrder": 166,
+    "ViewConditionId": 12604301,
+    "ReleaseType": "ProfileCard",
+    "MasterId": 166
   },
   {
     "Version": "260410.1.0",
@@ -9249,6 +9359,28 @@
     "ViewConditionId": 2604101,
     "ReleaseType": "HomeItem",
     "MasterId": 96
+  },
+  {
+    "Version": "260420.1.0",
+    "Id": 800097,
+    "StickerGroupId": 7,
+    "NameTextKey": -1960566562,
+    "StickerAssetId": 0,
+    "SortOrder": 97,
+    "ViewConditionId": 2604201,
+    "ReleaseType": "HomeItem",
+    "MasterId": 97
+  },
+  {
+    "Version": "260420.1.0",
+    "Id": 800098,
+    "StickerGroupId": 7,
+    "NameTextKey": -1960566562,
+    "StickerAssetId": 0,
+    "SortOrder": 98,
+    "ViewConditionId": 2604201,
+    "ReleaseType": "HomeItem",
+    "MasterId": 98
   },
   {
     "Version": "260410.1.0",

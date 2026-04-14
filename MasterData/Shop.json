@@ -559,10 +559,10 @@
     "HeaderId": 25
   },
   {
-    "Version": "260110.1.0",
+    "Version": "260420.1.0",
     "Id": 202,
     "SortOrder": 10,
-    "DateTermId": 2601103,
+    "DateTermId": 2604202,
     "NameTextKey": -2097968011,
     "TabTextKey": 1623394529,
     "TabIconAssetId": 110,
@@ -1358,6 +1358,19 @@
     "DateTermId": 72014130,
     "NameTextKey": -488753022,
     "TabTextKey": -1519466802,
+    "TabIconAssetId": 2,
+    "BackGroundId": 10,
+    "TutorialFunctionType": "Unknown",
+    "IsExchange": true,
+    "HeaderId": 5
+  },
+  {
+    "Version": "260420.1.0",
+    "Id": 1143,
+    "SortOrder": 10,
+    "DateTermId": 72014220,
+    "NameTextKey": -488753022,
+    "TabTextKey": 1013421940,
     "TabIconAssetId": 2,
     "BackGroundId": 10,
     "TutorialFunctionType": "Unknown",

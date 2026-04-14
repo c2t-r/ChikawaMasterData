@@ -1045,6 +1045,28 @@
     "Level3AssetId": 0
   },
   {
+    "Version": "260420.1.0",
+    "Id": 100971,
+    "Type": "Item",
+    "TypeId": 97,
+    "Number": 96,
+    "Level0AssetId": 2230161,
+    "Level1AssetId": 2230162,
+    "Level2AssetId": 2230163,
+    "Level3AssetId": 0
+  },
+  {
+    "Version": "260420.1.0",
+    "Id": 100981,
+    "Type": "Item",
+    "TypeId": 98,
+    "Number": 97,
+    "Level0AssetId": 2230171,
+    "Level1AssetId": 2230172,
+    "Level2AssetId": 2230173,
+    "Level3AssetId": 0
+  },
+  {
     "Version": "250850.1.0",
     "Id": 210011,
     "Type": "Character",
