@@ -814,5 +814,35 @@
     "Id": 40170,
     "ShopGroupId": 36,
     "ShopId": 4017
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 11510,
+    "ShopGroupId": 1151,
+    "ShopId": 1151
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 11511,
+    "ShopGroupId": 3,
+    "ShopId": 1151
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 40180,
+    "ShopGroupId": 37,
+    "ShopId": 4018
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 11520,
+    "ShopGroupId": 1152,
+    "ShopId": 1152
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 54,
+    "ShopGroupId": 3,
+    "ShopId": 48
   }
 ]

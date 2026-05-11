@@ -544,25 +544,25 @@
     "DateTermRepeatOptionId": 1
   },
   {
-    "Version": "251110.1.0",
+    "Version": "260510.1.0",
     "Id": 7001,
-    "ConditionDateTermId": 10031,
+    "ConditionDateTermId": 10051,
     "ResetType": "WeeklyFriday",
     "RefreshHourJST": "15",
     "DateTermRepeatOptionId": 2
   },
   {
-    "Version": "251110.1.0",
+    "Version": "260510.1.0",
     "Id": 7002,
-    "ConditionDateTermId": 10032,
+    "ConditionDateTermId": 10052,
     "ResetType": "WeeklyFriday",
     "RefreshHourJST": "15",
     "DateTermRepeatOptionId": 2
   },
   {
-    "Version": "251110.1.0",
+    "Version": "260510.1.0",
     "Id": 7003,
-    "ConditionDateTermId": 10033,
+    "ConditionDateTermId": 10053,
     "ResetType": "WeeklyFriday",
     "RefreshHourJST": "15",
     "DateTermRepeatOptionId": 2
@@ -1099,6 +1099,54 @@
     "Version": "260410.1.0",
     "Id": 4500,
     "ConditionDateTermId": 2604111,
+    "ResetType": "MissionTermEnd",
+    "RefreshHourJST": "15",
+    "DateTermRepeatOptionId": 1
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 4600,
+    "ConditionDateTermId": 2605103,
+    "ResetType": "MissionTermEnd",
+    "RefreshHourJST": "15",
+    "DateTermRepeatOptionId": 1
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 10141,
+    "ConditionDateTermId": 71014080,
+    "ResetType": "Daily",
+    "RefreshHourJST": "15",
+    "DateTermRepeatOptionId": 1
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 12605101,
+    "ConditionDateTermId": 12605101,
+    "ResetType": "Never",
+    "RefreshHourJST": "15",
+    "DateTermRepeatOptionId": 1
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 4610,
+    "ConditionDateTermId": 73018000,
+    "ResetType": "MissionTermEnd",
+    "RefreshHourJST": "15",
+    "DateTermRepeatOptionId": 1
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 5027,
+    "ConditionDateTermId": 72015130,
+    "ResetType": "Daily",
+    "RefreshHourJST": "15",
+    "DateTermRepeatOptionId": 1
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 5127,
+    "ConditionDateTermId": 72015130,
     "ResetType": "MissionTermEnd",
     "RefreshHourJST": "15",
     "DateTermRepeatOptionId": 1

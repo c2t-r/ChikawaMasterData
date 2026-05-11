@@ -173,5 +173,12 @@
     "SubHuntId": 1026,
     "HuntBonusGroupId": 1026,
     "BgmId": 10007
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 102701,
+    "SubHuntId": 1027,
+    "HuntBonusGroupId": 1027,
+    "BgmId": 10007
   }
 ]

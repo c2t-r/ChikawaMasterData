@@ -264,5 +264,19 @@
     "NameTextKey": -1400356832,
     "DescriptionTextKey": 609498035,
     "IconName": "experienceview_icon_event_medal_01"
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 14,
+    "NameTextKey": -1249333832,
+    "DescriptionTextKey": 2142772129,
+    "IconName": "experienceview_icon_seasonpass_medal_02"
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 6027,
+    "NameTextKey": -1400356832,
+    "DescriptionTextKey": 609498035,
+    "IconName": "experienceview_icon_event_medal_03"
   }
 ]

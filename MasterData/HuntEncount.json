@@ -200950,5 +200950,1505 @@
     "Id": 71026071,
     "EncountType": "ContinuousBoss",
     "EnemyStandbyDistance": 5.0
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 52700010,
+    "EncountType": "Normal",
+    "EnemyStandbyDistance": 3.0
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 52700011,
+    "EncountType": "Normal",
+    "EnemyStandbyDistance": 3.0
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 52700012,
+    "EncountType": "ContinuousBoss",
+    "EnemyStandbyDistance": 5.0
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 52700013,
+    "EncountType": "ContinuousBoss",
+    "EnemyStandbyDistance": 5.0
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 52700014,
+    "EncountType": "ContinuousBoss",
+    "EnemyStandbyDistance": 5.0
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 52700020,
+    "EncountType": "Normal",
+    "EnemyStandbyDistance": 3.0
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 52700021,
+    "EncountType": "Normal",
+    "EnemyStandbyDistance": 3.0
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 52700022,
+    "EncountType": "ContinuousBoss",
+    "EnemyStandbyDistance": 5.0
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 52700023,
+    "EncountType": "ContinuousBoss",
+    "EnemyStandbyDistance": 5.0
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 52700024,
+    "EncountType": "ContinuousBoss",
+    "EnemyStandbyDistance": 5.0
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 52700030,
+    "EncountType": "Normal",
+    "EnemyStandbyDistance": 3.0
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 52700031,
+    "EncountType": "Normal",
+    "EnemyStandbyDistance": 3.0
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 52700032,
+    "EncountType": "ContinuousBoss",
+    "EnemyStandbyDistance": 5.0
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 52700033,
+    "EncountType": "ContinuousBoss",
+    "EnemyStandbyDistance": 5.0
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 52700034,
+    "EncountType": "ContinuousBoss",
+    "EnemyStandbyDistance": 5.0
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 52700040,
+    "EncountType": "Normal",
+    "EnemyStandbyDistance": 3.0
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 52700041,
+    "EncountType": "Normal",
+    "EnemyStandbyDistance": 3.0
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 52700042,
+    "EncountType": "ContinuousBoss",
+    "EnemyStandbyDistance": 5.0
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 52700043,
+    "EncountType": "ContinuousBoss",
+    "EnemyStandbyDistance": 5.0
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 52700044,
+    "EncountType": "ContinuousBoss",
+    "EnemyStandbyDistance": 5.0
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 52700050,
+    "EncountType": "Normal",
+    "EnemyStandbyDistance": 3.0
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 52700051,
+    "EncountType": "Normal",
+    "EnemyStandbyDistance": 3.0
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 52700052,
+    "EncountType": "ContinuousBoss",
+    "EnemyStandbyDistance": 5.0
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 52700053,
+    "EncountType": "ContinuousBoss",
+    "EnemyStandbyDistance": 5.0
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 52700054,
+    "EncountType": "ContinuousBoss",
+    "EnemyStandbyDistance": 5.0
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 52700060,
+    "EncountType": "Normal",
+    "EnemyStandbyDistance": 3.0
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 52700061,
+    "EncountType": "Normal",
+    "EnemyStandbyDistance": 3.0
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 52700062,
+    "EncountType": "ContinuousBoss",
+    "EnemyStandbyDistance": 5.0
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 52700063,
+    "EncountType": "ContinuousBoss",
+    "EnemyStandbyDistance": 5.0
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 52700064,
+    "EncountType": "ContinuousBoss",
+    "EnemyStandbyDistance": 5.0
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 52700070,
+    "EncountType": "Normal",
+    "EnemyStandbyDistance": 3.0
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 52700071,
+    "EncountType": "Normal",
+    "EnemyStandbyDistance": 3.0
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 52700072,
+    "EncountType": "ContinuousBoss",
+    "EnemyStandbyDistance": 5.0
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 52700073,
+    "EncountType": "ContinuousBoss",
+    "EnemyStandbyDistance": 5.0
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 52700074,
+    "EncountType": "ContinuousBoss",
+    "EnemyStandbyDistance": 5.0
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 52700080,
+    "EncountType": "Normal",
+    "EnemyStandbyDistance": 3.0
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 52700081,
+    "EncountType": "Normal",
+    "EnemyStandbyDistance": 3.0
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 52700082,
+    "EncountType": "ContinuousBoss",
+    "EnemyStandbyDistance": 5.0
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 52700083,
+    "EncountType": "ContinuousBoss",
+    "EnemyStandbyDistance": 5.0
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 52700084,
+    "EncountType": "ContinuousBoss",
+    "EnemyStandbyDistance": 5.0
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 52700090,
+    "EncountType": "Normal",
+    "EnemyStandbyDistance": 3.0
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 52700091,
+    "EncountType": "Normal",
+    "EnemyStandbyDistance": 3.0
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 52700092,
+    "EncountType": "ContinuousBoss",
+    "EnemyStandbyDistance": 5.0
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 52700093,
+    "EncountType": "ContinuousBoss",
+    "EnemyStandbyDistance": 5.0
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 52700094,
+    "EncountType": "ContinuousBoss",
+    "EnemyStandbyDistance": 5.0
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 52700100,
+    "EncountType": "Normal",
+    "EnemyStandbyDistance": 3.0
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 52700101,
+    "EncountType": "Normal",
+    "EnemyStandbyDistance": 3.0
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 52700102,
+    "EncountType": "ContinuousBoss",
+    "EnemyStandbyDistance": 5.0
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 52700103,
+    "EncountType": "ContinuousBoss",
+    "EnemyStandbyDistance": 5.0
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 52700104,
+    "EncountType": "ContinuousBoss",
+    "EnemyStandbyDistance": 5.0
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 52700110,
+    "EncountType": "Normal",
+    "EnemyStandbyDistance": 3.0
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 52700111,
+    "EncountType": "Normal",
+    "EnemyStandbyDistance": 3.0
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 52700112,
+    "EncountType": "ContinuousBoss",
+    "EnemyStandbyDistance": 5.0
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 52700113,
+    "EncountType": "ContinuousBoss",
+    "EnemyStandbyDistance": 5.0
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 52700114,
+    "EncountType": "ContinuousBoss",
+    "EnemyStandbyDistance": 5.0
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 52700120,
+    "EncountType": "Normal",
+    "EnemyStandbyDistance": 3.0
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 52700121,
+    "EncountType": "Normal",
+    "EnemyStandbyDistance": 3.0
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 52700122,
+    "EncountType": "ContinuousBoss",
+    "EnemyStandbyDistance": 5.0
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 52700123,
+    "EncountType": "ContinuousBoss",
+    "EnemyStandbyDistance": 5.0
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 52700124,
+    "EncountType": "ContinuousBoss",
+    "EnemyStandbyDistance": 5.0
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 52700130,
+    "EncountType": "Normal",
+    "EnemyStandbyDistance": 3.0
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 52700131,
+    "EncountType": "Normal",
+    "EnemyStandbyDistance": 3.0
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 52700132,
+    "EncountType": "ContinuousBoss",
+    "EnemyStandbyDistance": 5.0
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 52700133,
+    "EncountType": "ContinuousBoss",
+    "EnemyStandbyDistance": 5.0
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 52700134,
+    "EncountType": "ContinuousBoss",
+    "EnemyStandbyDistance": 5.0
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 52700140,
+    "EncountType": "Normal",
+    "EnemyStandbyDistance": 3.0
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 52700141,
+    "EncountType": "Normal",
+    "EnemyStandbyDistance": 3.0
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 52700142,
+    "EncountType": "ContinuousBoss",
+    "EnemyStandbyDistance": 5.0
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 52700143,
+    "EncountType": "ContinuousBoss",
+    "EnemyStandbyDistance": 5.0
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 52700144,
+    "EncountType": "ContinuousBoss",
+    "EnemyStandbyDistance": 5.0
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 52700150,
+    "EncountType": "Normal",
+    "EnemyStandbyDistance": 3.0
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 52700151,
+    "EncountType": "Normal",
+    "EnemyStandbyDistance": 3.0
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 52700152,
+    "EncountType": "ContinuousBoss",
+    "EnemyStandbyDistance": 5.0
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 52700153,
+    "EncountType": "ContinuousBoss",
+    "EnemyStandbyDistance": 5.0
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 52700154,
+    "EncountType": "ContinuousBoss",
+    "EnemyStandbyDistance": 5.0
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 52700160,
+    "EncountType": "Normal",
+    "EnemyStandbyDistance": 3.0
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 52700161,
+    "EncountType": "Normal",
+    "EnemyStandbyDistance": 3.0
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 52700162,
+    "EncountType": "ContinuousBoss",
+    "EnemyStandbyDistance": 5.0
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 52700163,
+    "EncountType": "ContinuousBoss",
+    "EnemyStandbyDistance": 5.0
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 52700164,
+    "EncountType": "ContinuousBoss",
+    "EnemyStandbyDistance": 5.0
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 52700170,
+    "EncountType": "Normal",
+    "EnemyStandbyDistance": 3.0
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 52700171,
+    "EncountType": "Normal",
+    "EnemyStandbyDistance": 3.0
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 52700172,
+    "EncountType": "ContinuousBoss",
+    "EnemyStandbyDistance": 5.0
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 52700173,
+    "EncountType": "ContinuousBoss",
+    "EnemyStandbyDistance": 5.0
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 52700174,
+    "EncountType": "ContinuousBoss",
+    "EnemyStandbyDistance": 5.0
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 52700180,
+    "EncountType": "Normal",
+    "EnemyStandbyDistance": 3.0
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 52700181,
+    "EncountType": "Normal",
+    "EnemyStandbyDistance": 3.0
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 52700182,
+    "EncountType": "ContinuousBoss",
+    "EnemyStandbyDistance": 5.0
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 52700183,
+    "EncountType": "ContinuousBoss",
+    "EnemyStandbyDistance": 5.0
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 52700184,
+    "EncountType": "ContinuousBoss",
+    "EnemyStandbyDistance": 5.0
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 52700190,
+    "EncountType": "Normal",
+    "EnemyStandbyDistance": 3.0
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 52700191,
+    "EncountType": "Normal",
+    "EnemyStandbyDistance": 3.0
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 52700192,
+    "EncountType": "ContinuousBoss",
+    "EnemyStandbyDistance": 5.0
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 52700193,
+    "EncountType": "ContinuousBoss",
+    "EnemyStandbyDistance": 5.0
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 52700194,
+    "EncountType": "ContinuousBoss",
+    "EnemyStandbyDistance": 5.0
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 52700200,
+    "EncountType": "Normal",
+    "EnemyStandbyDistance": 3.0
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 52700201,
+    "EncountType": "Normal",
+    "EnemyStandbyDistance": 3.0
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 52700202,
+    "EncountType": "ContinuousBoss",
+    "EnemyStandbyDistance": 5.0
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 52700203,
+    "EncountType": "ContinuousBoss",
+    "EnemyStandbyDistance": 5.0
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 52700204,
+    "EncountType": "ContinuousBoss",
+    "EnemyStandbyDistance": 5.0
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 52700210,
+    "EncountType": "Normal",
+    "EnemyStandbyDistance": 3.0
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 52700211,
+    "EncountType": "Normal",
+    "EnemyStandbyDistance": 3.0
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 52700212,
+    "EncountType": "ContinuousBoss",
+    "EnemyStandbyDistance": 5.0
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 52700213,
+    "EncountType": "ContinuousBoss",
+    "EnemyStandbyDistance": 5.0
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 52700214,
+    "EncountType": "ContinuousBoss",
+    "EnemyStandbyDistance": 5.0
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 52700220,
+    "EncountType": "Normal",
+    "EnemyStandbyDistance": 3.0
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 52700221,
+    "EncountType": "Normal",
+    "EnemyStandbyDistance": 3.0
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 52700222,
+    "EncountType": "ContinuousBoss",
+    "EnemyStandbyDistance": 5.0
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 52700223,
+    "EncountType": "ContinuousBoss",
+    "EnemyStandbyDistance": 5.0
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 52700224,
+    "EncountType": "ContinuousBoss",
+    "EnemyStandbyDistance": 5.0
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 52700230,
+    "EncountType": "Normal",
+    "EnemyStandbyDistance": 3.0
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 52700231,
+    "EncountType": "Normal",
+    "EnemyStandbyDistance": 3.0
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 52700232,
+    "EncountType": "ContinuousBoss",
+    "EnemyStandbyDistance": 5.0
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 52700233,
+    "EncountType": "ContinuousBoss",
+    "EnemyStandbyDistance": 5.0
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 52700234,
+    "EncountType": "ContinuousBoss",
+    "EnemyStandbyDistance": 5.0
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 52700240,
+    "EncountType": "Normal",
+    "EnemyStandbyDistance": 3.0
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 52700241,
+    "EncountType": "Normal",
+    "EnemyStandbyDistance": 3.0
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 52700242,
+    "EncountType": "ContinuousBoss",
+    "EnemyStandbyDistance": 5.0
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 52700243,
+    "EncountType": "ContinuousBoss",
+    "EnemyStandbyDistance": 5.0
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 52700244,
+    "EncountType": "ContinuousBoss",
+    "EnemyStandbyDistance": 5.0
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 52700250,
+    "EncountType": "Normal",
+    "EnemyStandbyDistance": 3.0
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 52700251,
+    "EncountType": "Normal",
+    "EnemyStandbyDistance": 3.0
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 52700252,
+    "EncountType": "ContinuousBoss",
+    "EnemyStandbyDistance": 5.0
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 52700253,
+    "EncountType": "ContinuousBoss",
+    "EnemyStandbyDistance": 5.0
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 52700254,
+    "EncountType": "ContinuousBoss",
+    "EnemyStandbyDistance": 5.0
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 52700260,
+    "EncountType": "Normal",
+    "EnemyStandbyDistance": 3.0
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 52700261,
+    "EncountType": "Normal",
+    "EnemyStandbyDistance": 3.0
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 52700262,
+    "EncountType": "ContinuousBoss",
+    "EnemyStandbyDistance": 5.0
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 52700263,
+    "EncountType": "ContinuousBoss",
+    "EnemyStandbyDistance": 5.0
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 52700264,
+    "EncountType": "ContinuousBoss",
+    "EnemyStandbyDistance": 5.0
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 52700270,
+    "EncountType": "Normal",
+    "EnemyStandbyDistance": 3.0
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 52700271,
+    "EncountType": "Normal",
+    "EnemyStandbyDistance": 3.0
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 52700272,
+    "EncountType": "ContinuousBoss",
+    "EnemyStandbyDistance": 5.0
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 52700273,
+    "EncountType": "ContinuousBoss",
+    "EnemyStandbyDistance": 5.0
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 52700274,
+    "EncountType": "ContinuousBoss",
+    "EnemyStandbyDistance": 5.0
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 52700280,
+    "EncountType": "Normal",
+    "EnemyStandbyDistance": 3.0
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 52700281,
+    "EncountType": "Normal",
+    "EnemyStandbyDistance": 3.0
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 52700282,
+    "EncountType": "ContinuousBoss",
+    "EnemyStandbyDistance": 5.0
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 52700283,
+    "EncountType": "ContinuousBoss",
+    "EnemyStandbyDistance": 5.0
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 52700284,
+    "EncountType": "ContinuousBoss",
+    "EnemyStandbyDistance": 5.0
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 52700290,
+    "EncountType": "Normal",
+    "EnemyStandbyDistance": 3.0
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 52700291,
+    "EncountType": "Normal",
+    "EnemyStandbyDistance": 3.0
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 52700292,
+    "EncountType": "ContinuousBoss",
+    "EnemyStandbyDistance": 5.0
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 52700293,
+    "EncountType": "ContinuousBoss",
+    "EnemyStandbyDistance": 5.0
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 52700294,
+    "EncountType": "ContinuousBoss",
+    "EnemyStandbyDistance": 5.0
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 52700300,
+    "EncountType": "Normal",
+    "EnemyStandbyDistance": 3.0
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 52700301,
+    "EncountType": "Normal",
+    "EnemyStandbyDistance": 3.0
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 52700302,
+    "EncountType": "ContinuousBoss",
+    "EnemyStandbyDistance": 5.0
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 52700303,
+    "EncountType": "ContinuousBoss",
+    "EnemyStandbyDistance": 5.0
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 52700304,
+    "EncountType": "ContinuousBoss",
+    "EnemyStandbyDistance": 5.0
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 52700310,
+    "EncountType": "Normal",
+    "EnemyStandbyDistance": 3.0
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 52700311,
+    "EncountType": "Normal",
+    "EnemyStandbyDistance": 3.0
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 52700312,
+    "EncountType": "ContinuousBoss",
+    "EnemyStandbyDistance": 5.0
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 52700313,
+    "EncountType": "ContinuousBoss",
+    "EnemyStandbyDistance": 5.0
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 52700314,
+    "EncountType": "ContinuousBoss",
+    "EnemyStandbyDistance": 5.0
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 52700320,
+    "EncountType": "Normal",
+    "EnemyStandbyDistance": 3.0
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 52700321,
+    "EncountType": "Normal",
+    "EnemyStandbyDistance": 3.0
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 52700322,
+    "EncountType": "ContinuousBoss",
+    "EnemyStandbyDistance": 5.0
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 52700323,
+    "EncountType": "ContinuousBoss",
+    "EnemyStandbyDistance": 5.0
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 52700324,
+    "EncountType": "ContinuousBoss",
+    "EnemyStandbyDistance": 5.0
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 52700330,
+    "EncountType": "Normal",
+    "EnemyStandbyDistance": 3.0
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 52700331,
+    "EncountType": "Normal",
+    "EnemyStandbyDistance": 3.0
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 52700332,
+    "EncountType": "ContinuousBoss",
+    "EnemyStandbyDistance": 5.0
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 52700333,
+    "EncountType": "ContinuousBoss",
+    "EnemyStandbyDistance": 5.0
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 52700334,
+    "EncountType": "ContinuousBoss",
+    "EnemyStandbyDistance": 5.0
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 52700340,
+    "EncountType": "Normal",
+    "EnemyStandbyDistance": 3.0
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 52700341,
+    "EncountType": "Normal",
+    "EnemyStandbyDistance": 3.0
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 52700342,
+    "EncountType": "ContinuousBoss",
+    "EnemyStandbyDistance": 5.0
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 52700343,
+    "EncountType": "ContinuousBoss",
+    "EnemyStandbyDistance": 5.0
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 52700344,
+    "EncountType": "ContinuousBoss",
+    "EnemyStandbyDistance": 5.0
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 52700350,
+    "EncountType": "Normal",
+    "EnemyStandbyDistance": 3.0
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 52700351,
+    "EncountType": "Normal",
+    "EnemyStandbyDistance": 3.0
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 52700352,
+    "EncountType": "ContinuousBoss",
+    "EnemyStandbyDistance": 5.0
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 52700353,
+    "EncountType": "ContinuousBoss",
+    "EnemyStandbyDistance": 5.0
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 52700354,
+    "EncountType": "ContinuousBoss",
+    "EnemyStandbyDistance": 5.0
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 52700360,
+    "EncountType": "Normal",
+    "EnemyStandbyDistance": 3.0
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 52700361,
+    "EncountType": "Normal",
+    "EnemyStandbyDistance": 3.0
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 52700362,
+    "EncountType": "ContinuousBoss",
+    "EnemyStandbyDistance": 5.0
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 52700363,
+    "EncountType": "ContinuousBoss",
+    "EnemyStandbyDistance": 5.0
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 52700364,
+    "EncountType": "ContinuousBoss",
+    "EnemyStandbyDistance": 5.0
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 52700370,
+    "EncountType": "Normal",
+    "EnemyStandbyDistance": 3.0
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 52700371,
+    "EncountType": "Normal",
+    "EnemyStandbyDistance": 3.0
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 52700372,
+    "EncountType": "ContinuousBoss",
+    "EnemyStandbyDistance": 5.0
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 52700373,
+    "EncountType": "ContinuousBoss",
+    "EnemyStandbyDistance": 5.0
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 52700374,
+    "EncountType": "ContinuousBoss",
+    "EnemyStandbyDistance": 5.0
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 52700380,
+    "EncountType": "Normal",
+    "EnemyStandbyDistance": 3.0
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 52700381,
+    "EncountType": "Normal",
+    "EnemyStandbyDistance": 3.0
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 52700382,
+    "EncountType": "ContinuousBoss",
+    "EnemyStandbyDistance": 5.0
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 52700383,
+    "EncountType": "ContinuousBoss",
+    "EnemyStandbyDistance": 5.0
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 52700384,
+    "EncountType": "ContinuousBoss",
+    "EnemyStandbyDistance": 5.0
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 52700390,
+    "EncountType": "Normal",
+    "EnemyStandbyDistance": 3.0
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 52700391,
+    "EncountType": "Normal",
+    "EnemyStandbyDistance": 3.0
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 52700392,
+    "EncountType": "ContinuousBoss",
+    "EnemyStandbyDistance": 5.0
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 52700393,
+    "EncountType": "ContinuousBoss",
+    "EnemyStandbyDistance": 5.0
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 52700394,
+    "EncountType": "ContinuousBoss",
+    "EnemyStandbyDistance": 5.0
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 52700400,
+    "EncountType": "Normal",
+    "EnemyStandbyDistance": 3.0
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 52700401,
+    "EncountType": "Normal",
+    "EnemyStandbyDistance": 3.0
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 52700402,
+    "EncountType": "ContinuousBoss",
+    "EnemyStandbyDistance": 5.0
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 52700403,
+    "EncountType": "ContinuousBoss",
+    "EnemyStandbyDistance": 5.0
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 52700404,
+    "EncountType": "ContinuousBoss",
+    "EnemyStandbyDistance": 5.0
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 52700410,
+    "EncountType": "Normal",
+    "EnemyStandbyDistance": 3.0
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 52700411,
+    "EncountType": "Normal",
+    "EnemyStandbyDistance": 3.0
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 52700412,
+    "EncountType": "ContinuousBoss",
+    "EnemyStandbyDistance": 5.0
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 52700413,
+    "EncountType": "ContinuousBoss",
+    "EnemyStandbyDistance": 5.0
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 52700414,
+    "EncountType": "ContinuousBoss",
+    "EnemyStandbyDistance": 5.0
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 52700420,
+    "EncountType": "Normal",
+    "EnemyStandbyDistance": 3.0
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 52700421,
+    "EncountType": "Normal",
+    "EnemyStandbyDistance": 3.0
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 52700422,
+    "EncountType": "ContinuousBoss",
+    "EnemyStandbyDistance": 5.0
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 52700423,
+    "EncountType": "ContinuousBoss",
+    "EnemyStandbyDistance": 5.0
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 52700424,
+    "EncountType": "ContinuousBoss",
+    "EnemyStandbyDistance": 5.0
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 52700430,
+    "EncountType": "Normal",
+    "EnemyStandbyDistance": 3.0
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 52700431,
+    "EncountType": "Normal",
+    "EnemyStandbyDistance": 3.0
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 52700432,
+    "EncountType": "ContinuousBoss",
+    "EnemyStandbyDistance": 5.0
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 52700433,
+    "EncountType": "ContinuousBoss",
+    "EnemyStandbyDistance": 5.0
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 52700434,
+    "EncountType": "ContinuousBoss",
+    "EnemyStandbyDistance": 5.0
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 52700440,
+    "EncountType": "Normal",
+    "EnemyStandbyDistance": 3.0
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 52700441,
+    "EncountType": "Normal",
+    "EnemyStandbyDistance": 3.0
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 52700442,
+    "EncountType": "ContinuousBoss",
+    "EnemyStandbyDistance": 5.0
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 52700443,
+    "EncountType": "ContinuousBoss",
+    "EnemyStandbyDistance": 5.0
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 52700444,
+    "EncountType": "ContinuousBoss",
+    "EnemyStandbyDistance": 5.0
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 52700450,
+    "EncountType": "Normal",
+    "EnemyStandbyDistance": 3.0
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 52700451,
+    "EncountType": "Normal",
+    "EnemyStandbyDistance": 3.0
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 52700452,
+    "EncountType": "ContinuousBoss",
+    "EnemyStandbyDistance": 5.0
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 52700453,
+    "EncountType": "ContinuousBoss",
+    "EnemyStandbyDistance": 5.0
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 52700454,
+    "EncountType": "ContinuousBoss",
+    "EnemyStandbyDistance": 5.0
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 52700460,
+    "EncountType": "Normal",
+    "EnemyStandbyDistance": 3.0
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 52700461,
+    "EncountType": "Normal",
+    "EnemyStandbyDistance": 3.0
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 52700462,
+    "EncountType": "ContinuousBoss",
+    "EnemyStandbyDistance": 5.0
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 52700463,
+    "EncountType": "ContinuousBoss",
+    "EnemyStandbyDistance": 5.0
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 52700464,
+    "EncountType": "ContinuousBoss",
+    "EnemyStandbyDistance": 5.0
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 52700470,
+    "EncountType": "Normal",
+    "EnemyStandbyDistance": 3.0
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 52700471,
+    "EncountType": "Normal",
+    "EnemyStandbyDistance": 3.0
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 52700472,
+    "EncountType": "ContinuousBoss",
+    "EnemyStandbyDistance": 5.0
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 52700473,
+    "EncountType": "ContinuousBoss",
+    "EnemyStandbyDistance": 5.0
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 52700474,
+    "EncountType": "ContinuousBoss",
+    "EnemyStandbyDistance": 5.0
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 52700480,
+    "EncountType": "Normal",
+    "EnemyStandbyDistance": 3.0
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 52700481,
+    "EncountType": "Normal",
+    "EnemyStandbyDistance": 3.0
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 52700482,
+    "EncountType": "ContinuousBoss",
+    "EnemyStandbyDistance": 5.0
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 52700483,
+    "EncountType": "ContinuousBoss",
+    "EnemyStandbyDistance": 5.0
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 52700484,
+    "EncountType": "ContinuousBoss",
+    "EnemyStandbyDistance": 5.0
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 52700490,
+    "EncountType": "Normal",
+    "EnemyStandbyDistance": 3.0
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 52700491,
+    "EncountType": "Normal",
+    "EnemyStandbyDistance": 3.0
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 52700492,
+    "EncountType": "ContinuousBoss",
+    "EnemyStandbyDistance": 5.0
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 52700493,
+    "EncountType": "ContinuousBoss",
+    "EnemyStandbyDistance": 5.0
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 52700494,
+    "EncountType": "ContinuousBoss",
+    "EnemyStandbyDistance": 5.0
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 52700500,
+    "EncountType": "Normal",
+    "EnemyStandbyDistance": 3.0
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 52700501,
+    "EncountType": "Normal",
+    "EnemyStandbyDistance": 3.0
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 52700502,
+    "EncountType": "ContinuousBoss",
+    "EnemyStandbyDistance": 5.0
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 52700503,
+    "EncountType": "ContinuousBoss",
+    "EnemyStandbyDistance": 5.0
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 52700504,
+    "EncountType": "ContinuousBoss",
+    "EnemyStandbyDistance": 5.0
   }
 ]

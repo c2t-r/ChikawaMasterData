@@ -262,5 +262,11 @@
     "Id": 1027,
     "BackgroundId": 2012,
     "BgmId": 10026
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 1028,
+    "BackgroundId": 41,
+    "BgmId": 10007
   }
 ]

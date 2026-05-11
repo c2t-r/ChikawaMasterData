@@ -4918,5 +4918,113 @@
     "DescriptionTextKey": 341346363,
     "AnnotationTextKey": -394180170,
     "HomeItemId": 0
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 32064,
+    "TierType": "Tier1",
+    "IconAssetId": 6036,
+    "BackgroundAssetId": 130001,
+    "ParameterAssetId": 130001,
+    "CostumeId": 0,
+    "DescriptionTextKey": 2147483647,
+    "AnnotationTextKey": 2147483647,
+    "HomeItemId": 0
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 32065,
+    "TierType": "Tier1",
+    "IconAssetId": 6037,
+    "BackgroundAssetId": 140003,
+    "ParameterAssetId": 140003,
+    "CostumeId": 0,
+    "DescriptionTextKey": 2147483647,
+    "AnnotationTextKey": 2147483647,
+    "HomeItemId": 0
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 10115101,
+    "TierType": "Tier1",
+    "IconAssetId": 3027,
+    "BackgroundAssetId": 140005,
+    "ParameterAssetId": 140005,
+    "CostumeId": 0,
+    "DescriptionTextKey": 2147483647,
+    "AnnotationTextKey": 2147483647,
+    "HomeItemId": 0
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 10021087,
+    "TierType": "Tier2",
+    "IconAssetId": 2001,
+    "BackgroundAssetId": 240003,
+    "ParameterAssetId": 240003,
+    "CostumeId": 31015,
+    "DescriptionTextKey": 2147483647,
+    "AnnotationTextKey": 2147483647,
+    "HomeItemId": 0
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 10021088,
+    "TierType": "Tier2",
+    "IconAssetId": 2003,
+    "BackgroundAssetId": 240003,
+    "ParameterAssetId": 240003,
+    "CostumeId": 32015,
+    "DescriptionTextKey": 2147483647,
+    "AnnotationTextKey": 2147483647,
+    "HomeItemId": 0
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 10021089,
+    "TierType": "Tier2",
+    "IconAssetId": 2007,
+    "BackgroundAssetId": 240003,
+    "ParameterAssetId": 240003,
+    "CostumeId": 34015,
+    "DescriptionTextKey": 2147483647,
+    "AnnotationTextKey": 2147483647,
+    "HomeItemId": 0
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 10022087,
+    "TierType": "Tier1",
+    "IconAssetId": 2002,
+    "BackgroundAssetId": 140004,
+    "ParameterAssetId": 140004,
+    "CostumeId": 31015,
+    "DescriptionTextKey": 2147483647,
+    "AnnotationTextKey": 2147483647,
+    "HomeItemId": 0
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 10022088,
+    "TierType": "Tier1",
+    "IconAssetId": 2004,
+    "BackgroundAssetId": 140004,
+    "ParameterAssetId": 140004,
+    "CostumeId": 32015,
+    "DescriptionTextKey": 2147483647,
+    "AnnotationTextKey": 2147483647,
+    "HomeItemId": 0
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 10022089,
+    "TierType": "Tier1",
+    "IconAssetId": 2008,
+    "BackgroundAssetId": 140004,
+    "ParameterAssetId": 140004,
+    "CostumeId": 34015,
+    "DescriptionTextKey": 2147483647,
+    "AnnotationTextKey": 2147483647,
+    "HomeItemId": 0
   }
 ]

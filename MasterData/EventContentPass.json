@@ -123,5 +123,10 @@
     "Version": "260410.1.0",
     "Id": 102603,
     "SeasonPassId": 1026
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 102703,
+    "SeasonPassId": 1027
   }
 ]

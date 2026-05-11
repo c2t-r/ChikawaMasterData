@@ -209,5 +209,23 @@
       102606013
     ],
     "MissionId": 0
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 10270601,
+    "NameTextKey": -829292385,
+    "DescriptionTextKey": -74934295,
+    "EventContentArtBookId": 102706,
+    "AssetId": 8001,
+    "Order": 1,
+    "ContentLockId": 0,
+    "ExperienceGroupId": 1004,
+    "EnhanceConsumeIdPerExperience": 17027,
+    "CompletedAddCustomPossessionEffectIds": [],
+    "CompletedMultiplyCustomPossessionEffectIds": [
+      102706011,
+      102706012
+    ],
+    "MissionId": 0
   }
 ]

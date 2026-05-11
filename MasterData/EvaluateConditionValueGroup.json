@@ -46648,6 +46648,90 @@
     "Value": 6001281
   },
   {
+    "Version": "260510.1.0",
+    "Id": 60012820,
+    "EvaluateConditionValueGroupId": 60012820,
+    "GroupIndex": 1,
+    "Value": 101011
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 60012821,
+    "EvaluateConditionValueGroupId": 60012820,
+    "GroupIndex": 2,
+    "Value": 1
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 60012822,
+    "EvaluateConditionValueGroupId": 60012822,
+    "GroupIndex": 1,
+    "Value": 6001282
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 60012830,
+    "EvaluateConditionValueGroupId": 60012830,
+    "GroupIndex": 1,
+    "Value": 101012
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 60012831,
+    "EvaluateConditionValueGroupId": 60012830,
+    "GroupIndex": 2,
+    "Value": 1
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 60012832,
+    "EvaluateConditionValueGroupId": 60012832,
+    "GroupIndex": 1,
+    "Value": 6001283
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 60012840,
+    "EvaluateConditionValueGroupId": 60012840,
+    "GroupIndex": 1,
+    "Value": 101041
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 60012841,
+    "EvaluateConditionValueGroupId": 60012840,
+    "GroupIndex": 2,
+    "Value": 1
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 60012842,
+    "EvaluateConditionValueGroupId": 60012842,
+    "GroupIndex": 1,
+    "Value": 6001284
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 60012850,
+    "EvaluateConditionValueGroupId": 60012850,
+    "GroupIndex": 1,
+    "Value": 101042
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 60012851,
+    "EvaluateConditionValueGroupId": 60012850,
+    "GroupIndex": 2,
+    "Value": 1
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 60012852,
+    "EvaluateConditionValueGroupId": 60012852,
+    "GroupIndex": 1,
+    "Value": 6001285
+  },
+  {
     "Version": "250850.1.0",
     "Id": 60020030,
     "EvaluateConditionValueGroupId": 60020030,
@@ -58310,6 +58394,174 @@
     "Value": 6002281
   },
   {
+    "Version": "260510.1.0",
+    "Id": 60022820,
+    "EvaluateConditionValueGroupId": 60022820,
+    "GroupIndex": 1,
+    "Value": 101011
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 60022821,
+    "EvaluateConditionValueGroupId": 60022820,
+    "GroupIndex": 2,
+    "Value": 20
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 60022822,
+    "EvaluateConditionValueGroupId": 60022822,
+    "GroupIndex": 1,
+    "Value": 60022823
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 60022823,
+    "EvaluateConditionValueGroupId": 60022822,
+    "GroupIndex": 2,
+    "Value": 60022824
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 60022824,
+    "EvaluateConditionValueGroupId": 60022823,
+    "GroupIndex": 1,
+    "Value": 6001282
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 60022825,
+    "EvaluateConditionValueGroupId": 60022824,
+    "GroupIndex": 1,
+    "Value": 6002282
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 60022830,
+    "EvaluateConditionValueGroupId": 60022830,
+    "GroupIndex": 1,
+    "Value": 101012
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 60022831,
+    "EvaluateConditionValueGroupId": 60022830,
+    "GroupIndex": 2,
+    "Value": 20
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 60022832,
+    "EvaluateConditionValueGroupId": 60022832,
+    "GroupIndex": 1,
+    "Value": 60022833
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 60022833,
+    "EvaluateConditionValueGroupId": 60022832,
+    "GroupIndex": 2,
+    "Value": 60022834
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 60022834,
+    "EvaluateConditionValueGroupId": 60022833,
+    "GroupIndex": 1,
+    "Value": 6001283
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 60022835,
+    "EvaluateConditionValueGroupId": 60022834,
+    "GroupIndex": 1,
+    "Value": 6002283
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 60022840,
+    "EvaluateConditionValueGroupId": 60022840,
+    "GroupIndex": 1,
+    "Value": 101041
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 60022841,
+    "EvaluateConditionValueGroupId": 60022840,
+    "GroupIndex": 2,
+    "Value": 20
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 60022842,
+    "EvaluateConditionValueGroupId": 60022842,
+    "GroupIndex": 1,
+    "Value": 60022843
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 60022843,
+    "EvaluateConditionValueGroupId": 60022842,
+    "GroupIndex": 2,
+    "Value": 60022844
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 60022844,
+    "EvaluateConditionValueGroupId": 60022843,
+    "GroupIndex": 1,
+    "Value": 6001284
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 60022845,
+    "EvaluateConditionValueGroupId": 60022844,
+    "GroupIndex": 1,
+    "Value": 6002284
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 60022850,
+    "EvaluateConditionValueGroupId": 60022850,
+    "GroupIndex": 1,
+    "Value": 101042
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 60022851,
+    "EvaluateConditionValueGroupId": 60022850,
+    "GroupIndex": 2,
+    "Value": 20
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 60022852,
+    "EvaluateConditionValueGroupId": 60022852,
+    "GroupIndex": 1,
+    "Value": 60022853
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 60022853,
+    "EvaluateConditionValueGroupId": 60022852,
+    "GroupIndex": 2,
+    "Value": 60022854
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 60022854,
+    "EvaluateConditionValueGroupId": 60022853,
+    "GroupIndex": 1,
+    "Value": 6001285
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 60022855,
+    "EvaluateConditionValueGroupId": 60022854,
+    "GroupIndex": 1,
+    "Value": 6002285
+  },
+  {
     "Version": "250850.1.0",
     "Id": 60030030,
     "EvaluateConditionValueGroupId": 60030030,
@@ -64111,6 +64363,90 @@
     "EvaluateConditionValueGroupId": 60032812,
     "GroupIndex": 1,
     "Value": 6002281
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 60032820,
+    "EvaluateConditionValueGroupId": 60032820,
+    "GroupIndex": 1,
+    "Value": 101011
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 60032821,
+    "EvaluateConditionValueGroupId": 60032820,
+    "GroupIndex": 2,
+    "Value": 50
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 60032822,
+    "EvaluateConditionValueGroupId": 60032822,
+    "GroupIndex": 1,
+    "Value": 6002282
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 60032830,
+    "EvaluateConditionValueGroupId": 60032830,
+    "GroupIndex": 1,
+    "Value": 101012
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 60032831,
+    "EvaluateConditionValueGroupId": 60032830,
+    "GroupIndex": 2,
+    "Value": 50
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 60032832,
+    "EvaluateConditionValueGroupId": 60032832,
+    "GroupIndex": 1,
+    "Value": 6002283
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 60032840,
+    "EvaluateConditionValueGroupId": 60032840,
+    "GroupIndex": 1,
+    "Value": 101041
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 60032841,
+    "EvaluateConditionValueGroupId": 60032840,
+    "GroupIndex": 2,
+    "Value": 50
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 60032842,
+    "EvaluateConditionValueGroupId": 60032842,
+    "GroupIndex": 1,
+    "Value": 6002284
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 60032850,
+    "EvaluateConditionValueGroupId": 60032850,
+    "GroupIndex": 1,
+    "Value": 101042
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 60032851,
+    "EvaluateConditionValueGroupId": 60032850,
+    "GroupIndex": 2,
+    "Value": 50
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 60032852,
+    "EvaluateConditionValueGroupId": 60032852,
+    "GroupIndex": 1,
+    "Value": 6002285
   },
   {
     "Version": "250850.1.0",
@@ -90664,6 +91000,13 @@
     "Value": 4405005
   },
   {
+    "Version": "260510.1.0",
+    "Id": 75320600,
+    "EvaluateConditionValueGroupId": 75320600,
+    "GroupIndex": 1,
+    "Value": 75320600
+  },
+  {
     "Version": "260410.1.0",
     "Id": 2604111,
     "EvaluateConditionValueGroupId": 2604111,
@@ -91000,10 +91343,2355 @@
     "Value": 4503005
   },
   {
+    "Version": "260510.1.0",
+    "Id": 2605101,
+    "EvaluateConditionValueGroupId": 2605101,
+    "GroupIndex": 1,
+    "Value": 2605101
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 2605102,
+    "EvaluateConditionValueGroupId": 2605102,
+    "GroupIndex": 1,
+    "Value": 2605102
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 2605103,
+    "EvaluateConditionValueGroupId": 2605103,
+    "GroupIndex": 1,
+    "Value": 2605103
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 46000010,
+    "EvaluateConditionValueGroupId": 46000010,
+    "GroupIndex": 1,
+    "Value": 46010110
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 46000011,
+    "EvaluateConditionValueGroupId": 46000010,
+    "GroupIndex": 2,
+    "Value": 46020110
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 46000012,
+    "EvaluateConditionValueGroupId": 46000010,
+    "GroupIndex": 3,
+    "Value": 46030110
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 46000013,
+    "EvaluateConditionValueGroupId": 46000010,
+    "GroupIndex": 4,
+    "Value": 46040110
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 46000014,
+    "EvaluateConditionValueGroupId": 46000010,
+    "GroupIndex": 5,
+    "Value": 46050110
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 46010010,
+    "EvaluateConditionValueGroupId": 46010010,
+    "GroupIndex": 1,
+    "Value": 46010120
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 46010011,
+    "EvaluateConditionValueGroupId": 46010010,
+    "GroupIndex": 2,
+    "Value": 46010130
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 46010012,
+    "EvaluateConditionValueGroupId": 46010010,
+    "GroupIndex": 3,
+    "Value": 46010140
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 46010013,
+    "EvaluateConditionValueGroupId": 46010010,
+    "GroupIndex": 4,
+    "Value": 46010150
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 46010020,
+    "EvaluateConditionValueGroupId": 46010020,
+    "GroupIndex": 1,
+    "Value": 1
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 46010030,
+    "EvaluateConditionValueGroupId": 46010030,
+    "GroupIndex": 1,
+    "Value": 1
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 46010040,
+    "EvaluateConditionValueGroupId": 46010040,
+    "GroupIndex": 1,
+    "Value": 20
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 46010050,
+    "EvaluateConditionValueGroupId": 46010050,
+    "GroupIndex": 1,
+    "Value": 5
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 46010110,
+    "EvaluateConditionValueGroupId": 46010110,
+    "GroupIndex": 1,
+    "Value": 4601001
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 46010120,
+    "EvaluateConditionValueGroupId": 46010120,
+    "GroupIndex": 1,
+    "Value": 4601002
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 46010130,
+    "EvaluateConditionValueGroupId": 46010130,
+    "GroupIndex": 1,
+    "Value": 4601003
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 46010140,
+    "EvaluateConditionValueGroupId": 46010140,
+    "GroupIndex": 1,
+    "Value": 4601004
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 46010150,
+    "EvaluateConditionValueGroupId": 46010150,
+    "GroupIndex": 1,
+    "Value": 4601005
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 46020010,
+    "EvaluateConditionValueGroupId": 46020010,
+    "GroupIndex": 1,
+    "Value": 46020120
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 46020011,
+    "EvaluateConditionValueGroupId": 46020010,
+    "GroupIndex": 2,
+    "Value": 46020130
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 46020012,
+    "EvaluateConditionValueGroupId": 46020010,
+    "GroupIndex": 3,
+    "Value": 46020140
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 46020013,
+    "EvaluateConditionValueGroupId": 46020010,
+    "GroupIndex": 4,
+    "Value": 46020150
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 46020020,
+    "EvaluateConditionValueGroupId": 46020020,
+    "GroupIndex": 1,
+    "Value": 2
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 46020030,
+    "EvaluateConditionValueGroupId": 46020030,
+    "GroupIndex": 1,
+    "Value": 150
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 46020040,
+    "EvaluateConditionValueGroupId": 46020040,
+    "GroupIndex": 1,
+    "Value": 31002
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 46020041,
+    "EvaluateConditionValueGroupId": 46020040,
+    "GroupIndex": 2,
+    "Value": 35
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 46020050,
+    "EvaluateConditionValueGroupId": 46020050,
+    "GroupIndex": 1,
+    "Value": 31001
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 46020051,
+    "EvaluateConditionValueGroupId": 46020050,
+    "GroupIndex": 2,
+    "Value": 35
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 46020110,
+    "EvaluateConditionValueGroupId": 46020110,
+    "GroupIndex": 1,
+    "Value": 4602001
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 46020120,
+    "EvaluateConditionValueGroupId": 46020120,
+    "GroupIndex": 1,
+    "Value": 4602002
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 46020130,
+    "EvaluateConditionValueGroupId": 46020130,
+    "GroupIndex": 1,
+    "Value": 4602003
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 46020140,
+    "EvaluateConditionValueGroupId": 46020140,
+    "GroupIndex": 1,
+    "Value": 4602004
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 46020150,
+    "EvaluateConditionValueGroupId": 46020150,
+    "GroupIndex": 1,
+    "Value": 4602005
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 46030010,
+    "EvaluateConditionValueGroupId": 46030010,
+    "GroupIndex": 1,
+    "Value": 46030120
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 46030011,
+    "EvaluateConditionValueGroupId": 46030010,
+    "GroupIndex": 2,
+    "Value": 46030130
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 46030012,
+    "EvaluateConditionValueGroupId": 46030010,
+    "GroupIndex": 3,
+    "Value": 46030140
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 46030013,
+    "EvaluateConditionValueGroupId": 46030010,
+    "GroupIndex": 4,
+    "Value": 46030150
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 46030020,
+    "EvaluateConditionValueGroupId": 46030020,
+    "GroupIndex": 1,
+    "Value": 3
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 46030030,
+    "EvaluateConditionValueGroupId": 46030030,
+    "GroupIndex": 1,
+    "Value": 150
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 46030040,
+    "EvaluateConditionValueGroupId": 46030040,
+    "GroupIndex": 1,
+    "Value": 1
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 46030041,
+    "EvaluateConditionValueGroupId": 46030040,
+    "GroupIndex": 2,
+    "Value": 2
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 46030050,
+    "EvaluateConditionValueGroupId": 46030050,
+    "GroupIndex": 1,
+    "Value": 2
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 46030051,
+    "EvaluateConditionValueGroupId": 46030050,
+    "GroupIndex": 2,
+    "Value": 2
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 46030110,
+    "EvaluateConditionValueGroupId": 46030110,
+    "GroupIndex": 1,
+    "Value": 4603001
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 46030120,
+    "EvaluateConditionValueGroupId": 46030120,
+    "GroupIndex": 1,
+    "Value": 4603002
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 46030130,
+    "EvaluateConditionValueGroupId": 46030130,
+    "GroupIndex": 1,
+    "Value": 4603003
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 46030140,
+    "EvaluateConditionValueGroupId": 46030140,
+    "GroupIndex": 1,
+    "Value": 4603004
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 46030150,
+    "EvaluateConditionValueGroupId": 46030150,
+    "GroupIndex": 1,
+    "Value": 4603005
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 46040010,
+    "EvaluateConditionValueGroupId": 46040010,
+    "GroupIndex": 1,
+    "Value": 46040120
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 46040011,
+    "EvaluateConditionValueGroupId": 46040010,
+    "GroupIndex": 2,
+    "Value": 46040130
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 46040012,
+    "EvaluateConditionValueGroupId": 46040010,
+    "GroupIndex": 3,
+    "Value": 46040140
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 46040013,
+    "EvaluateConditionValueGroupId": 46040010,
+    "GroupIndex": 4,
+    "Value": 46040150
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 46040020,
+    "EvaluateConditionValueGroupId": 46040020,
+    "GroupIndex": 1,
+    "Value": 4
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 46040030,
+    "EvaluateConditionValueGroupId": 46040030,
+    "GroupIndex": 1,
+    "Value": 20
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 46040040,
+    "EvaluateConditionValueGroupId": 46040040,
+    "GroupIndex": 1,
+    "Value": 3
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 46040050,
+    "EvaluateConditionValueGroupId": 46040050,
+    "GroupIndex": 1,
+    "Value": 3
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 46040110,
+    "EvaluateConditionValueGroupId": 46040110,
+    "GroupIndex": 1,
+    "Value": 4604001
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 46040120,
+    "EvaluateConditionValueGroupId": 46040120,
+    "GroupIndex": 1,
+    "Value": 4604002
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 46040130,
+    "EvaluateConditionValueGroupId": 46040130,
+    "GroupIndex": 1,
+    "Value": 4604003
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 46040140,
+    "EvaluateConditionValueGroupId": 46040140,
+    "GroupIndex": 1,
+    "Value": 4604004
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 46040150,
+    "EvaluateConditionValueGroupId": 46040150,
+    "GroupIndex": 1,
+    "Value": 4604005
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 46050010,
+    "EvaluateConditionValueGroupId": 46050010,
+    "GroupIndex": 1,
+    "Value": 46050120
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 46050011,
+    "EvaluateConditionValueGroupId": 46050010,
+    "GroupIndex": 2,
+    "Value": 46050130
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 46050012,
+    "EvaluateConditionValueGroupId": 46050010,
+    "GroupIndex": 3,
+    "Value": 46050140
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 46050013,
+    "EvaluateConditionValueGroupId": 46050010,
+    "GroupIndex": 4,
+    "Value": 46050150
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 46050020,
+    "EvaluateConditionValueGroupId": 46050020,
+    "GroupIndex": 1,
+    "Value": 5
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 46050030,
+    "EvaluateConditionValueGroupId": 46050030,
+    "GroupIndex": 1,
+    "Value": 150
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 46050040,
+    "EvaluateConditionValueGroupId": 46050040,
+    "GroupIndex": 1,
+    "Value": 1
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 46050041,
+    "EvaluateConditionValueGroupId": 46050040,
+    "GroupIndex": 2,
+    "Value": 3
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 46050050,
+    "EvaluateConditionValueGroupId": 46050050,
+    "GroupIndex": 1,
+    "Value": 2
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 46050051,
+    "EvaluateConditionValueGroupId": 46050050,
+    "GroupIndex": 2,
+    "Value": 3
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 46050110,
+    "EvaluateConditionValueGroupId": 46050110,
+    "GroupIndex": 1,
+    "Value": 4605001
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 46050120,
+    "EvaluateConditionValueGroupId": 46050120,
+    "GroupIndex": 1,
+    "Value": 4605002
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 46050130,
+    "EvaluateConditionValueGroupId": 46050130,
+    "GroupIndex": 1,
+    "Value": 4605003
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 46050140,
+    "EvaluateConditionValueGroupId": 46050140,
+    "GroupIndex": 1,
+    "Value": 4605004
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 46050150,
+    "EvaluateConditionValueGroupId": 46050150,
+    "GroupIndex": 1,
+    "Value": 4605005
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 71014010,
+    "EvaluateConditionValueGroupId": 71014010,
+    "GroupIndex": 1,
+    "Value": 71014010
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 71014020,
+    "EvaluateConditionValueGroupId": 71014020,
+    "GroupIndex": 1,
+    "Value": 32064
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 71014030,
+    "EvaluateConditionValueGroupId": 71014030,
+    "GroupIndex": 1,
+    "Value": 32064
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 71014040,
+    "EvaluateConditionValueGroupId": 71014040,
+    "GroupIndex": 1,
+    "Value": 32065
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 71014050,
+    "EvaluateConditionValueGroupId": 71014050,
+    "GroupIndex": 1,
+    "Value": 71014010
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 71014051,
+    "EvaluateConditionValueGroupId": 71014050,
+    "GroupIndex": 2,
+    "Value": 71014040
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 71014052,
+    "EvaluateConditionValueGroupId": 71014050,
+    "GroupIndex": 3,
+    "Value": 2010110
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 71014060,
+    "EvaluateConditionValueGroupId": 71014060,
+    "GroupIndex": 1,
+    "Value": 71014010
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 71014061,
+    "EvaluateConditionValueGroupId": 71014060,
+    "GroupIndex": 2,
+    "Value": 71014030
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 71014062,
+    "EvaluateConditionValueGroupId": 71014060,
+    "GroupIndex": 3,
+    "Value": 2010110
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 71014070,
+    "EvaluateConditionValueGroupId": 71014070,
+    "GroupIndex": 1,
+    "Value": 71014010
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 71014071,
+    "EvaluateConditionValueGroupId": 71014070,
+    "GroupIndex": 2,
+    "Value": 71014020
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 71014072,
+    "EvaluateConditionValueGroupId": 71014070,
+    "GroupIndex": 3,
+    "Value": 2010110
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 71014080,
+    "EvaluateConditionValueGroupId": 71014080,
+    "GroupIndex": 1,
+    "Value": 71014080
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 30140010,
+    "EvaluateConditionValueGroupId": 30140010,
+    "GroupIndex": 1,
+    "Value": 1
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 30140020,
+    "EvaluateConditionValueGroupId": 30140020,
+    "GroupIndex": 1,
+    "Value": 100
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 30140030,
+    "EvaluateConditionValueGroupId": 30140030,
+    "GroupIndex": 1,
+    "Value": 1000
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 30140040,
+    "EvaluateConditionValueGroupId": 30140040,
+    "GroupIndex": 1,
+    "Value": 20
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 72015110,
+    "EvaluateConditionValueGroupId": 72015110,
+    "GroupIndex": 1,
+    "Value": 72015110
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 72015120,
+    "EvaluateConditionValueGroupId": 72015120,
+    "GroupIndex": 1,
+    "Value": 72015120
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 72015130,
+    "EvaluateConditionValueGroupId": 72015130,
+    "GroupIndex": 1,
+    "Value": 72015130
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 72015140,
+    "EvaluateConditionValueGroupId": 72015140,
+    "GroupIndex": 1,
+    "Value": 72015140
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 72015150,
+    "EvaluateConditionValueGroupId": 72015150,
+    "GroupIndex": 1,
+    "Value": 72015150
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 72015310,
+    "EvaluateConditionValueGroupId": 72015310,
+    "GroupIndex": 1,
+    "Value": 72015130
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 72015311,
+    "EvaluateConditionValueGroupId": 72015310,
+    "GroupIndex": 2,
+    "Value": 2010110
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 72015320,
+    "EvaluateConditionValueGroupId": 72015320,
+    "GroupIndex": 1,
+    "Value": 72015140
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 72015321,
+    "EvaluateConditionValueGroupId": 72015320,
+    "GroupIndex": 2,
+    "Value": 2010110
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 74210870,
+    "EvaluateConditionValueGroupId": 74210870,
+    "GroupIndex": 1,
+    "Value": 21087
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 74210880,
+    "EvaluateConditionValueGroupId": 74210880,
+    "GroupIndex": 1,
+    "Value": 21088
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 74210890,
+    "EvaluateConditionValueGroupId": 74210890,
+    "GroupIndex": 1,
+    "Value": 21089
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 74220870,
+    "EvaluateConditionValueGroupId": 74220870,
+    "GroupIndex": 1,
+    "Value": 22087
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 74220880,
+    "EvaluateConditionValueGroupId": 74220880,
+    "GroupIndex": 1,
+    "Value": 22088
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 74220890,
+    "EvaluateConditionValueGroupId": 74220890,
+    "GroupIndex": 1,
+    "Value": 22089
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 75210870,
+    "EvaluateConditionValueGroupId": 75210870,
+    "GroupIndex": 1,
+    "Value": 72015120
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 75210871,
+    "EvaluateConditionValueGroupId": 75210870,
+    "GroupIndex": 2,
+    "Value": 74220870
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 75210880,
+    "EvaluateConditionValueGroupId": 75210880,
+    "GroupIndex": 1,
+    "Value": 72015120
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 75210881,
+    "EvaluateConditionValueGroupId": 75210880,
+    "GroupIndex": 2,
+    "Value": 74220880
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 75210890,
+    "EvaluateConditionValueGroupId": 75210890,
+    "GroupIndex": 1,
+    "Value": 72015120
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 75210891,
+    "EvaluateConditionValueGroupId": 75210890,
+    "GroupIndex": 2,
+    "Value": 74220890
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 75220870,
+    "EvaluateConditionValueGroupId": 75220870,
+    "GroupIndex": 1,
+    "Value": 72015120
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 75220871,
+    "EvaluateConditionValueGroupId": 75220870,
+    "GroupIndex": 2,
+    "Value": 74210870
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 75220880,
+    "EvaluateConditionValueGroupId": 75220880,
+    "GroupIndex": 1,
+    "Value": 72015120
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 75220881,
+    "EvaluateConditionValueGroupId": 75220880,
+    "GroupIndex": 2,
+    "Value": 74210880
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 75220890,
+    "EvaluateConditionValueGroupId": 75220890,
+    "GroupIndex": 1,
+    "Value": 72015120
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 75220891,
+    "EvaluateConditionValueGroupId": 75220890,
+    "GroupIndex": 2,
+    "Value": 74210890
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 75320670,
+    "EvaluateConditionValueGroupId": 75320670,
+    "GroupIndex": 1,
+    "Value": 75320670
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 75320750,
+    "EvaluateConditionValueGroupId": 75320750,
+    "GroupIndex": 1,
+    "Value": 75320750
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 75320810,
+    "EvaluateConditionValueGroupId": 75320810,
+    "GroupIndex": 1,
+    "Value": 75320810
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 23101510,
+    "EvaluateConditionValueGroupId": 23101510,
+    "GroupIndex": 1,
+    "Value": 31015
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 23101511,
+    "EvaluateConditionValueGroupId": 23101510,
+    "GroupIndex": 2,
+    "Value": 50
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 23101520,
+    "EvaluateConditionValueGroupId": 23101520,
+    "GroupIndex": 1,
+    "Value": 31015
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 23101521,
+    "EvaluateConditionValueGroupId": 23101520,
+    "GroupIndex": 2,
+    "Value": 100
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 23101530,
+    "EvaluateConditionValueGroupId": 23101530,
+    "GroupIndex": 1,
+    "Value": 31015
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 23101531,
+    "EvaluateConditionValueGroupId": 23101530,
+    "GroupIndex": 2,
+    "Value": 150
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 23101540,
+    "EvaluateConditionValueGroupId": 23101540,
+    "GroupIndex": 1,
+    "Value": 31015
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 23101541,
+    "EvaluateConditionValueGroupId": 23101540,
+    "GroupIndex": 2,
+    "Value": 200
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 23201510,
+    "EvaluateConditionValueGroupId": 23201510,
+    "GroupIndex": 1,
+    "Value": 32015
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 23201511,
+    "EvaluateConditionValueGroupId": 23201510,
+    "GroupIndex": 2,
+    "Value": 50
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 23201520,
+    "EvaluateConditionValueGroupId": 23201520,
+    "GroupIndex": 1,
+    "Value": 32015
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 23201521,
+    "EvaluateConditionValueGroupId": 23201520,
+    "GroupIndex": 2,
+    "Value": 100
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 23201530,
+    "EvaluateConditionValueGroupId": 23201530,
+    "GroupIndex": 1,
+    "Value": 32015
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 23201531,
+    "EvaluateConditionValueGroupId": 23201530,
+    "GroupIndex": 2,
+    "Value": 150
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 23201540,
+    "EvaluateConditionValueGroupId": 23201540,
+    "GroupIndex": 1,
+    "Value": 32015
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 23201541,
+    "EvaluateConditionValueGroupId": 23201540,
+    "GroupIndex": 2,
+    "Value": 200
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 23401510,
+    "EvaluateConditionValueGroupId": 23401510,
+    "GroupIndex": 1,
+    "Value": 34015
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 23401511,
+    "EvaluateConditionValueGroupId": 23401510,
+    "GroupIndex": 2,
+    "Value": 50
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 23401520,
+    "EvaluateConditionValueGroupId": 23401520,
+    "GroupIndex": 1,
+    "Value": 34015
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 23401521,
+    "EvaluateConditionValueGroupId": 23401520,
+    "GroupIndex": 2,
+    "Value": 100
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 23401530,
+    "EvaluateConditionValueGroupId": 23401530,
+    "GroupIndex": 1,
+    "Value": 34015
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 23401531,
+    "EvaluateConditionValueGroupId": 23401530,
+    "GroupIndex": 2,
+    "Value": 150
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 23401540,
+    "EvaluateConditionValueGroupId": 23401540,
+    "GroupIndex": 1,
+    "Value": 34015
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 23401541,
+    "EvaluateConditionValueGroupId": 23401540,
+    "GroupIndex": 2,
+    "Value": 200
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 23601510,
+    "EvaluateConditionValueGroupId": 23601510,
+    "GroupIndex": 1,
+    "Value": 36015
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 23601511,
+    "EvaluateConditionValueGroupId": 23601510,
+    "GroupIndex": 2,
+    "Value": 50
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 23601520,
+    "EvaluateConditionValueGroupId": 23601520,
+    "GroupIndex": 1,
+    "Value": 36015
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 23601521,
+    "EvaluateConditionValueGroupId": 23601520,
+    "GroupIndex": 2,
+    "Value": 100
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 23601530,
+    "EvaluateConditionValueGroupId": 23601530,
+    "GroupIndex": 1,
+    "Value": 36015
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 23601531,
+    "EvaluateConditionValueGroupId": 23601530,
+    "GroupIndex": 2,
+    "Value": 150
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 23601540,
+    "EvaluateConditionValueGroupId": 23601540,
+    "GroupIndex": 1,
+    "Value": 36015
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 23601541,
+    "EvaluateConditionValueGroupId": 23601540,
+    "GroupIndex": 2,
+    "Value": 200
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 12605101,
+    "EvaluateConditionValueGroupId": 12605101,
+    "GroupIndex": 1,
+    "Value": 12605101
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 3101501,
+    "EvaluateConditionValueGroupId": 310151,
+    "GroupIndex": 1,
+    "Value": 31015
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 3101502,
+    "EvaluateConditionValueGroupId": 310151,
+    "GroupIndex": 2,
+    "Value": 10
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 3101503,
+    "EvaluateConditionValueGroupId": 310152,
+    "GroupIndex": 1,
+    "Value": 31015
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 3101504,
+    "EvaluateConditionValueGroupId": 310152,
+    "GroupIndex": 2,
+    "Value": 25
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 3101505,
+    "EvaluateConditionValueGroupId": 310153,
+    "GroupIndex": 1,
+    "Value": 31015
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 3101506,
+    "EvaluateConditionValueGroupId": 310153,
+    "GroupIndex": 2,
+    "Value": 50
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 3101507,
+    "EvaluateConditionValueGroupId": 310154,
+    "GroupIndex": 1,
+    "Value": 31015
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 3101508,
+    "EvaluateConditionValueGroupId": 310154,
+    "GroupIndex": 2,
+    "Value": 70
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 3101509,
+    "EvaluateConditionValueGroupId": 310155,
+    "GroupIndex": 1,
+    "Value": 31015
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 3101510,
+    "EvaluateConditionValueGroupId": 310155,
+    "GroupIndex": 2,
+    "Value": 100
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 3101511,
+    "EvaluateConditionValueGroupId": 310156,
+    "GroupIndex": 1,
+    "Value": 31015
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 3101512,
+    "EvaluateConditionValueGroupId": 310156,
+    "GroupIndex": 2,
+    "Value": 1
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 3201501,
+    "EvaluateConditionValueGroupId": 320151,
+    "GroupIndex": 1,
+    "Value": 32015
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 3201502,
+    "EvaluateConditionValueGroupId": 320151,
+    "GroupIndex": 2,
+    "Value": 10
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 3201503,
+    "EvaluateConditionValueGroupId": 320152,
+    "GroupIndex": 1,
+    "Value": 32015
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 3201504,
+    "EvaluateConditionValueGroupId": 320152,
+    "GroupIndex": 2,
+    "Value": 25
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 3201505,
+    "EvaluateConditionValueGroupId": 320153,
+    "GroupIndex": 1,
+    "Value": 32015
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 3201506,
+    "EvaluateConditionValueGroupId": 320153,
+    "GroupIndex": 2,
+    "Value": 50
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 3201507,
+    "EvaluateConditionValueGroupId": 320154,
+    "GroupIndex": 1,
+    "Value": 32015
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 3201508,
+    "EvaluateConditionValueGroupId": 320154,
+    "GroupIndex": 2,
+    "Value": 70
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 3201509,
+    "EvaluateConditionValueGroupId": 320155,
+    "GroupIndex": 1,
+    "Value": 32015
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 3201510,
+    "EvaluateConditionValueGroupId": 320155,
+    "GroupIndex": 2,
+    "Value": 100
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 3201511,
+    "EvaluateConditionValueGroupId": 320156,
+    "GroupIndex": 1,
+    "Value": 32015
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 3201512,
+    "EvaluateConditionValueGroupId": 320156,
+    "GroupIndex": 2,
+    "Value": 1
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 3401501,
+    "EvaluateConditionValueGroupId": 340151,
+    "GroupIndex": 1,
+    "Value": 34015
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 3401502,
+    "EvaluateConditionValueGroupId": 340151,
+    "GroupIndex": 2,
+    "Value": 10
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 3401503,
+    "EvaluateConditionValueGroupId": 340152,
+    "GroupIndex": 1,
+    "Value": 34015
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 3401504,
+    "EvaluateConditionValueGroupId": 340152,
+    "GroupIndex": 2,
+    "Value": 25
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 3401505,
+    "EvaluateConditionValueGroupId": 340153,
+    "GroupIndex": 1,
+    "Value": 34015
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 3401506,
+    "EvaluateConditionValueGroupId": 340153,
+    "GroupIndex": 2,
+    "Value": 50
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 3401507,
+    "EvaluateConditionValueGroupId": 340154,
+    "GroupIndex": 1,
+    "Value": 34015
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 3401508,
+    "EvaluateConditionValueGroupId": 340154,
+    "GroupIndex": 2,
+    "Value": 70
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 3401509,
+    "EvaluateConditionValueGroupId": 340155,
+    "GroupIndex": 1,
+    "Value": 34015
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 3401510,
+    "EvaluateConditionValueGroupId": 340155,
+    "GroupIndex": 2,
+    "Value": 100
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 3401511,
+    "EvaluateConditionValueGroupId": 340156,
+    "GroupIndex": 1,
+    "Value": 34015
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 3401512,
+    "EvaluateConditionValueGroupId": 340156,
+    "GroupIndex": 2,
+    "Value": 1
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 3601501,
+    "EvaluateConditionValueGroupId": 360151,
+    "GroupIndex": 1,
+    "Value": 36015
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 3601502,
+    "EvaluateConditionValueGroupId": 360151,
+    "GroupIndex": 2,
+    "Value": 10
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 3601503,
+    "EvaluateConditionValueGroupId": 360152,
+    "GroupIndex": 1,
+    "Value": 36015
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 3601504,
+    "EvaluateConditionValueGroupId": 360152,
+    "GroupIndex": 2,
+    "Value": 25
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 3601505,
+    "EvaluateConditionValueGroupId": 360153,
+    "GroupIndex": 1,
+    "Value": 36015
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 3601506,
+    "EvaluateConditionValueGroupId": 360153,
+    "GroupIndex": 2,
+    "Value": 50
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 3601507,
+    "EvaluateConditionValueGroupId": 360154,
+    "GroupIndex": 1,
+    "Value": 36015
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 3601508,
+    "EvaluateConditionValueGroupId": 360154,
+    "GroupIndex": 2,
+    "Value": 70
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 3601509,
+    "EvaluateConditionValueGroupId": 360155,
+    "GroupIndex": 1,
+    "Value": 36015
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 3601510,
+    "EvaluateConditionValueGroupId": 360155,
+    "GroupIndex": 2,
+    "Value": 100
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 3601511,
+    "EvaluateConditionValueGroupId": 360156,
+    "GroupIndex": 1,
+    "Value": 36015
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 3601512,
+    "EvaluateConditionValueGroupId": 360156,
+    "GroupIndex": 2,
+    "Value": 1
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 46110000,
+    "EvaluateConditionValueGroupId": 46110000,
+    "GroupIndex": 1,
+    "Value": 46111010
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 46110001,
+    "EvaluateConditionValueGroupId": 46110000,
+    "GroupIndex": 2,
+    "Value": 46111020
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 46110002,
+    "EvaluateConditionValueGroupId": 46110000,
+    "GroupIndex": 3,
+    "Value": 46111030
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 46110003,
+    "EvaluateConditionValueGroupId": 46110000,
+    "GroupIndex": 4,
+    "Value": 46111040
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 46110004,
+    "EvaluateConditionValueGroupId": 46110000,
+    "GroupIndex": 5,
+    "Value": 46111050
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 46110005,
+    "EvaluateConditionValueGroupId": 46110000,
+    "GroupIndex": 6,
+    "Value": 46111060
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 46110006,
+    "EvaluateConditionValueGroupId": 46110000,
+    "GroupIndex": 7,
+    "Value": 46111070
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 46120000,
+    "EvaluateConditionValueGroupId": 46120000,
+    "GroupIndex": 1,
+    "Value": 46121010
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 46120001,
+    "EvaluateConditionValueGroupId": 46120000,
+    "GroupIndex": 2,
+    "Value": 46121020
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 46120002,
+    "EvaluateConditionValueGroupId": 46120000,
+    "GroupIndex": 3,
+    "Value": 46121030
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 46120003,
+    "EvaluateConditionValueGroupId": 46120000,
+    "GroupIndex": 4,
+    "Value": 46121040
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 46120004,
+    "EvaluateConditionValueGroupId": 46120000,
+    "GroupIndex": 5,
+    "Value": 46121050
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 46120005,
+    "EvaluateConditionValueGroupId": 46120000,
+    "GroupIndex": 6,
+    "Value": 46121060
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 46120006,
+    "EvaluateConditionValueGroupId": 46120000,
+    "GroupIndex": 7,
+    "Value": 46121070
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 46130000,
+    "EvaluateConditionValueGroupId": 46130000,
+    "GroupIndex": 1,
+    "Value": 46131010
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 46130001,
+    "EvaluateConditionValueGroupId": 46130000,
+    "GroupIndex": 2,
+    "Value": 46131020
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 46130002,
+    "EvaluateConditionValueGroupId": 46130000,
+    "GroupIndex": 3,
+    "Value": 46131030
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 46130003,
+    "EvaluateConditionValueGroupId": 46130000,
+    "GroupIndex": 4,
+    "Value": 46131040
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 46130004,
+    "EvaluateConditionValueGroupId": 46130000,
+    "GroupIndex": 5,
+    "Value": 46131050
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 46130005,
+    "EvaluateConditionValueGroupId": 46130000,
+    "GroupIndex": 6,
+    "Value": 46131060
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 46130006,
+    "EvaluateConditionValueGroupId": 46130000,
+    "GroupIndex": 7,
+    "Value": 46131070
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 46140000,
+    "EvaluateConditionValueGroupId": 46140000,
+    "GroupIndex": 1,
+    "Value": 46141010
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 46140001,
+    "EvaluateConditionValueGroupId": 46140000,
+    "GroupIndex": 2,
+    "Value": 46141020
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 46140002,
+    "EvaluateConditionValueGroupId": 46140000,
+    "GroupIndex": 3,
+    "Value": 46141030
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 46140003,
+    "EvaluateConditionValueGroupId": 46140000,
+    "GroupIndex": 4,
+    "Value": 46141040
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 46140004,
+    "EvaluateConditionValueGroupId": 46140000,
+    "GroupIndex": 5,
+    "Value": 46141050
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 46140005,
+    "EvaluateConditionValueGroupId": 46140000,
+    "GroupIndex": 6,
+    "Value": 46141060
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 46140006,
+    "EvaluateConditionValueGroupId": 46140000,
+    "GroupIndex": 7,
+    "Value": 46141070
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 46110010,
+    "EvaluateConditionValueGroupId": 46110010,
+    "GroupIndex": 1,
+    "Value": 3000
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 46110020,
+    "EvaluateConditionValueGroupId": 46110020,
+    "GroupIndex": 1,
+    "Value": 6000
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 46110030,
+    "EvaluateConditionValueGroupId": 46110030,
+    "GroupIndex": 1,
+    "Value": 10000
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 46110040,
+    "EvaluateConditionValueGroupId": 46110040,
+    "GroupIndex": 1,
+    "Value": 13000
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 46110050,
+    "EvaluateConditionValueGroupId": 46110050,
+    "GroupIndex": 1,
+    "Value": 16000
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 46110060,
+    "EvaluateConditionValueGroupId": 46110060,
+    "GroupIndex": 1,
+    "Value": 20000
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 46110070,
+    "EvaluateConditionValueGroupId": 46110070,
+    "GroupIndex": 1,
+    "Value": 24000
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 46120010,
+    "EvaluateConditionValueGroupId": 46120010,
+    "GroupIndex": 1,
+    "Value": 30000
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 46120020,
+    "EvaluateConditionValueGroupId": 46120020,
+    "GroupIndex": 1,
+    "Value": 42000
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 46120030,
+    "EvaluateConditionValueGroupId": 46120030,
+    "GroupIndex": 1,
+    "Value": 54000
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 46120040,
+    "EvaluateConditionValueGroupId": 46120040,
+    "GroupIndex": 1,
+    "Value": 65000
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 46120050,
+    "EvaluateConditionValueGroupId": 46120050,
+    "GroupIndex": 1,
+    "Value": 76000
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 46120060,
+    "EvaluateConditionValueGroupId": 46120060,
+    "GroupIndex": 1,
+    "Value": 88000
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 46120070,
+    "EvaluateConditionValueGroupId": 46120070,
+    "GroupIndex": 1,
+    "Value": 100000
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 46130010,
+    "EvaluateConditionValueGroupId": 46130010,
+    "GroupIndex": 1,
+    "Value": 120000
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 46130020,
+    "EvaluateConditionValueGroupId": 46130020,
+    "GroupIndex": 1,
+    "Value": 140000
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 46130030,
+    "EvaluateConditionValueGroupId": 46130030,
+    "GroupIndex": 1,
+    "Value": 160000
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 46130040,
+    "EvaluateConditionValueGroupId": 46130040,
+    "GroupIndex": 1,
+    "Value": 180000
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 46130050,
+    "EvaluateConditionValueGroupId": 46130050,
+    "GroupIndex": 1,
+    "Value": 200000
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 46130060,
+    "EvaluateConditionValueGroupId": 46130060,
+    "GroupIndex": 1,
+    "Value": 220000
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 46130070,
+    "EvaluateConditionValueGroupId": 46130070,
+    "GroupIndex": 1,
+    "Value": 240000
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 46140010,
+    "EvaluateConditionValueGroupId": 46140010,
+    "GroupIndex": 1,
+    "Value": 260000
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 46140020,
+    "EvaluateConditionValueGroupId": 46140020,
+    "GroupIndex": 1,
+    "Value": 280000
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 46140030,
+    "EvaluateConditionValueGroupId": 46140030,
+    "GroupIndex": 1,
+    "Value": 300000
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 46140040,
+    "EvaluateConditionValueGroupId": 46140040,
+    "GroupIndex": 1,
+    "Value": 320000
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 46140050,
+    "EvaluateConditionValueGroupId": 46140050,
+    "GroupIndex": 1,
+    "Value": 350000
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 46140060,
+    "EvaluateConditionValueGroupId": 46140060,
+    "GroupIndex": 1,
+    "Value": 370000
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 46140070,
+    "EvaluateConditionValueGroupId": 46140070,
+    "GroupIndex": 1,
+    "Value": 400000
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 46111010,
+    "EvaluateConditionValueGroupId": 46111010,
+    "GroupIndex": 1,
+    "Value": 4611001
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 46111020,
+    "EvaluateConditionValueGroupId": 46111020,
+    "GroupIndex": 1,
+    "Value": 4611002
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 46111030,
+    "EvaluateConditionValueGroupId": 46111030,
+    "GroupIndex": 1,
+    "Value": 4611003
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 46111040,
+    "EvaluateConditionValueGroupId": 46111040,
+    "GroupIndex": 1,
+    "Value": 4611004
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 46111050,
+    "EvaluateConditionValueGroupId": 46111050,
+    "GroupIndex": 1,
+    "Value": 4611005
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 46111060,
+    "EvaluateConditionValueGroupId": 46111060,
+    "GroupIndex": 1,
+    "Value": 4611006
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 46111070,
+    "EvaluateConditionValueGroupId": 46111070,
+    "GroupIndex": 1,
+    "Value": 4611007
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 46121010,
+    "EvaluateConditionValueGroupId": 46121010,
+    "GroupIndex": 1,
+    "Value": 4612001
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 46121020,
+    "EvaluateConditionValueGroupId": 46121020,
+    "GroupIndex": 1,
+    "Value": 4612002
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 46121030,
+    "EvaluateConditionValueGroupId": 46121030,
+    "GroupIndex": 1,
+    "Value": 4612003
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 46121040,
+    "EvaluateConditionValueGroupId": 46121040,
+    "GroupIndex": 1,
+    "Value": 4612004
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 46121050,
+    "EvaluateConditionValueGroupId": 46121050,
+    "GroupIndex": 1,
+    "Value": 4612005
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 46121060,
+    "EvaluateConditionValueGroupId": 46121060,
+    "GroupIndex": 1,
+    "Value": 4612006
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 46121070,
+    "EvaluateConditionValueGroupId": 46121070,
+    "GroupIndex": 1,
+    "Value": 4612007
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 46131010,
+    "EvaluateConditionValueGroupId": 46131010,
+    "GroupIndex": 1,
+    "Value": 4613001
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 46131020,
+    "EvaluateConditionValueGroupId": 46131020,
+    "GroupIndex": 1,
+    "Value": 4613002
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 46131030,
+    "EvaluateConditionValueGroupId": 46131030,
+    "GroupIndex": 1,
+    "Value": 4613003
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 46131040,
+    "EvaluateConditionValueGroupId": 46131040,
+    "GroupIndex": 1,
+    "Value": 4613004
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 46131050,
+    "EvaluateConditionValueGroupId": 46131050,
+    "GroupIndex": 1,
+    "Value": 4613005
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 46131060,
+    "EvaluateConditionValueGroupId": 46131060,
+    "GroupIndex": 1,
+    "Value": 4613006
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 46131070,
+    "EvaluateConditionValueGroupId": 46131070,
+    "GroupIndex": 1,
+    "Value": 4613007
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 46141010,
+    "EvaluateConditionValueGroupId": 46141010,
+    "GroupIndex": 1,
+    "Value": 4614001
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 46141020,
+    "EvaluateConditionValueGroupId": 46141020,
+    "GroupIndex": 1,
+    "Value": 4614002
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 46141030,
+    "EvaluateConditionValueGroupId": 46141030,
+    "GroupIndex": 1,
+    "Value": 4614003
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 46141040,
+    "EvaluateConditionValueGroupId": 46141040,
+    "GroupIndex": 1,
+    "Value": 4614004
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 46141050,
+    "EvaluateConditionValueGroupId": 46141050,
+    "GroupIndex": 1,
+    "Value": 4614005
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 46141060,
+    "EvaluateConditionValueGroupId": 46141060,
+    "GroupIndex": 1,
+    "Value": 4614006
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 46141070,
+    "EvaluateConditionValueGroupId": 46141070,
+    "GroupIndex": 1,
+    "Value": 4614007
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 73018000,
+    "EvaluateConditionValueGroupId": 73018000,
+    "GroupIndex": 1,
+    "Value": 73018000
+  },
+  {
     "Version": "260420.1.0",
     "Id": 604103,
     "EvaluateConditionValueGroupId": 604103,
     "GroupIndex": 1,
     "Value": 604103
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 604283,
+    "EvaluateConditionValueGroupId": 604283,
+    "GroupIndex": 1,
+    "Value": 604283
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 605011,
+    "EvaluateConditionValueGroupId": 605011,
+    "GroupIndex": 1,
+    "Value": 605011
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 605012,
+    "EvaluateConditionValueGroupId": 605012,
+    "GroupIndex": 1,
+    "Value": 605012
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 2605104,
+    "EvaluateConditionValueGroupId": 2605104,
+    "GroupIndex": 1,
+    "Value": 2605104
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 2605105,
+    "EvaluateConditionValueGroupId": 2605105,
+    "GroupIndex": 1,
+    "Value": 2605105
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 102706000,
+    "EvaluateConditionValueGroupId": 102706000,
+    "GroupIndex": 1,
+    "Value": 27
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 50270010,
+    "EvaluateConditionValueGroupId": 50270010,
+    "GroupIndex": 1,
+    "Value": 1
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 50270020,
+    "EvaluateConditionValueGroupId": 50270020,
+    "GroupIndex": 1,
+    "Value": 1027
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 50270021,
+    "EvaluateConditionValueGroupId": 50270020,
+    "GroupIndex": 2,
+    "Value": 2
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 50270030,
+    "EvaluateConditionValueGroupId": 50270030,
+    "GroupIndex": 1,
+    "Value": 200
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 50270040,
+    "EvaluateConditionValueGroupId": 50270040,
+    "GroupIndex": 1,
+    "Value": 20
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 51270010,
+    "EvaluateConditionValueGroupId": 51270010,
+    "GroupIndex": 1,
+    "Value": 10270601
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 51270020,
+    "EvaluateConditionValueGroupId": 51270020,
+    "GroupIndex": 1,
+    "Value": 36015
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 51270030,
+    "EvaluateConditionValueGroupId": 51270030,
+    "GroupIndex": 1,
+    "Value": 36015
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 51270031,
+    "EvaluateConditionValueGroupId": 51270030,
+    "GroupIndex": 2,
+    "Value": 50
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 51270040,
+    "EvaluateConditionValueGroupId": 51270040,
+    "GroupIndex": 1,
+    "Value": 36015
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 51270041,
+    "EvaluateConditionValueGroupId": 51270040,
+    "GroupIndex": 2,
+    "Value": 75
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 51270050,
+    "EvaluateConditionValueGroupId": 51270050,
+    "GroupIndex": 1,
+    "Value": 36015
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 51270051,
+    "EvaluateConditionValueGroupId": 51270050,
+    "GroupIndex": 2,
+    "Value": 100
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 51270060,
+    "EvaluateConditionValueGroupId": 51270060,
+    "GroupIndex": 1,
+    "Value": 101011
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 51270061,
+    "EvaluateConditionValueGroupId": 51270060,
+    "GroupIndex": 2,
+    "Value": 1
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 51270100,
+    "EvaluateConditionValueGroupId": 51270100,
+    "GroupIndex": 1,
+    "Value": 1027
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 51270101,
+    "EvaluateConditionValueGroupId": 51270100,
+    "GroupIndex": 2,
+    "Value": 20
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 51270110,
+    "EvaluateConditionValueGroupId": 51270110,
+    "GroupIndex": 1,
+    "Value": 1027
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 51270111,
+    "EvaluateConditionValueGroupId": 51270110,
+    "GroupIndex": 2,
+    "Value": 40
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 51270120,
+    "EvaluateConditionValueGroupId": 51270120,
+    "GroupIndex": 1,
+    "Value": 1027
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 51270121,
+    "EvaluateConditionValueGroupId": 51270120,
+    "GroupIndex": 2,
+    "Value": 20
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 51270130,
+    "EvaluateConditionValueGroupId": 51270130,
+    "GroupIndex": 1,
+    "Value": 1027
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 51270131,
+    "EvaluateConditionValueGroupId": 51270130,
+    "GroupIndex": 2,
+    "Value": 30
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 51270140,
+    "EvaluateConditionValueGroupId": 51270140,
+    "GroupIndex": 1,
+    "Value": 1027
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 51270141,
+    "EvaluateConditionValueGroupId": 51270140,
+    "GroupIndex": 2,
+    "Value": 40
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 51270150,
+    "EvaluateConditionValueGroupId": 51270150,
+    "GroupIndex": 1,
+    "Value": 1027
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 51270151,
+    "EvaluateConditionValueGroupId": 51270150,
+    "GroupIndex": 2,
+    "Value": 50
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 51270160,
+    "EvaluateConditionValueGroupId": 51270160,
+    "GroupIndex": 1,
+    "Value": 1027
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 51270161,
+    "EvaluateConditionValueGroupId": 51270160,
+    "GroupIndex": 2,
+    "Value": 60
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 51270170,
+    "EvaluateConditionValueGroupId": 51270170,
+    "GroupIndex": 1,
+    "Value": 1027
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 51270171,
+    "EvaluateConditionValueGroupId": 51270170,
+    "GroupIndex": 2,
+    "Value": 70
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 51270180,
+    "EvaluateConditionValueGroupId": 51270180,
+    "GroupIndex": 1,
+    "Value": 1027
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 51270181,
+    "EvaluateConditionValueGroupId": 51270180,
+    "GroupIndex": 2,
+    "Value": 80
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 51270190,
+    "EvaluateConditionValueGroupId": 51270190,
+    "GroupIndex": 1,
+    "Value": 1027
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 51270191,
+    "EvaluateConditionValueGroupId": 51270190,
+    "GroupIndex": 2,
+    "Value": 100
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 2605107,
+    "EvaluateConditionValueGroupId": 2605107,
+    "GroupIndex": 1,
+    "Value": 2605107
   }
 ]

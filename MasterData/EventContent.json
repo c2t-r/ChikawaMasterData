@@ -1338,5 +1338,65 @@
     "ContentDetailId": 102607,
     "ViewOrder": 2,
     "IsMain": true
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 102701,
+    "GroupId": 27,
+    "Type": "Hunt",
+    "AssetId": 10100,
+    "ContentDetailId": 102701,
+    "ViewOrder": 1,
+    "IsMain": true
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 102702,
+    "GroupId": 27,
+    "Type": "Mission",
+    "AssetId": 10200,
+    "ContentDetailId": 102702,
+    "ViewOrder": 2,
+    "IsMain": true
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 102703,
+    "GroupId": 27,
+    "Type": "Pass",
+    "AssetId": 10300,
+    "ContentDetailId": 102703,
+    "ViewOrder": 3,
+    "IsMain": true
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 102704,
+    "GroupId": 27,
+    "Type": "Shop",
+    "AssetId": 20400,
+    "ContentDetailId": 102704,
+    "ViewOrder": 6,
+    "IsMain": false
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 102705,
+    "GroupId": 27,
+    "Type": "Shop",
+    "AssetId": 20500,
+    "ContentDetailId": 102705,
+    "ViewOrder": 5,
+    "IsMain": false
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 102706,
+    "GroupId": 27,
+    "Type": "ArtBook",
+    "AssetId": 10800,
+    "ContentDetailId": 102706,
+    "ViewOrder": 4,
+    "IsMain": true
   }
 ]

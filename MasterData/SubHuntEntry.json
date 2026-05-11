@@ -230,5 +230,13 @@
     "DailyRecoveryUnitRewardGroupId": 200000026,
     "DailyRecoveryCount": 2,
     "DailyRecoveryHourJST": 15
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 1027,
+    "ConsumeGroupId": 14027,
+    "DailyRecoveryUnitRewardGroupId": 200000027,
+    "DailyRecoveryCount": 2,
+    "DailyRecoveryHourJST": 15
   }
 ]

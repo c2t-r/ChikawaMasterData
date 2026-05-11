@@ -9910,5 +9910,341 @@
       24017040
     ],
     "ShopProductId": 24017040
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 20320600,
+    "ConsumeIds": [
+      20320600
+    ],
+    "ShopProductId": 20320600
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 20320610,
+    "ConsumeIds": [
+      20320610
+    ],
+    "ShopProductId": 20320610
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 20320620,
+    "ConsumeIds": [
+      20320620
+    ],
+    "ShopProductId": 20320620
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 20320630,
+    "ConsumeIds": [
+      20320630
+    ],
+    "ShopProductId": 20320630
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 20320640,
+    "ConsumeIds": [
+      20320640
+    ],
+    "ShopProductId": 20320640
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 20320650,
+    "ConsumeIds": [
+      20320650
+    ],
+    "ShopProductId": 20320650
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 20320660,
+    "ConsumeIds": [
+      20320660
+    ],
+    "ShopProductId": 20320660
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 21151010,
+    "ConsumeIds": [
+      21151010
+    ],
+    "ShopProductId": 21151010
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 21151020,
+    "ConsumeIds": [
+      21151020
+    ],
+    "ShopProductId": 21151020
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 21151030,
+    "ConsumeIds": [
+      21151030
+    ],
+    "ShopProductId": 21151030
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 21151040,
+    "ConsumeIds": [
+      21151040
+    ],
+    "ShopProductId": 21151040
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 20210870,
+    "ConsumeIds": [
+      20210870
+    ],
+    "ShopProductId": 20210870
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 20210880,
+    "ConsumeIds": [
+      20210880
+    ],
+    "ShopProductId": 20210880
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 20210890,
+    "ConsumeIds": [
+      20210890
+    ],
+    "ShopProductId": 20210890
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 20220870,
+    "ConsumeIds": [
+      20220870
+    ],
+    "ShopProductId": 20220870
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 20220880,
+    "ConsumeIds": [
+      20220880
+    ],
+    "ShopProductId": 20220880
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 20220890,
+    "ConsumeIds": [
+      20220890
+    ],
+    "ShopProductId": 20220890
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 17027,
+    "ConsumeIds": [
+      17027
+    ],
+    "ShopProductId": 0
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 20320670,
+    "ConsumeIds": [
+      20320670
+    ],
+    "ShopProductId": 20320670
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 20320680,
+    "ConsumeIds": [
+      20320680
+    ],
+    "ShopProductId": 20320680
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 20320690,
+    "ConsumeIds": [
+      20320690
+    ],
+    "ShopProductId": 20320690
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 20320700,
+    "ConsumeIds": [
+      20320700
+    ],
+    "ShopProductId": 20320700
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 20320750,
+    "ConsumeIds": [
+      20320750
+    ],
+    "ShopProductId": 20320750
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 20320760,
+    "ConsumeIds": [
+      20320760
+    ],
+    "ShopProductId": 20320760
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 20320770,
+    "ConsumeIds": [
+      20320770
+    ],
+    "ShopProductId": 20320770
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 20320810,
+    "ConsumeIds": [
+      20320810
+    ],
+    "ShopProductId": 20320810
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 20320820,
+    "ConsumeIds": [
+      20320820
+    ],
+    "ShopProductId": 20320820
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 20320830,
+    "ConsumeIds": [
+      20320830
+    ],
+    "ShopProductId": 20320830
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 24018010,
+    "ConsumeIds": [
+      24018010
+    ],
+    "ShopProductId": 24018010
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 24018020,
+    "ConsumeIds": [
+      24018020
+    ],
+    "ShopProductId": 24018020
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 24018030,
+    "ConsumeIds": [
+      24018030
+    ],
+    "ShopProductId": 24018030
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 24018040,
+    "ConsumeIds": [
+      24018040
+    ],
+    "ShopProductId": 24018040
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 14027,
+    "ConsumeIds": [
+      14027
+    ],
+    "ShopProductId": 0
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 21152020,
+    "ConsumeIds": [
+      21152020
+    ],
+    "ShopProductId": 0
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 21152030,
+    "ConsumeIds": [
+      21152030
+    ],
+    "ShopProductId": 0
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 21152040,
+    "ConsumeIds": [
+      21152040
+    ],
+    "ShopProductId": 0
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 21152050,
+    "ConsumeIds": [
+      21152050
+    ],
+    "ShopProductId": 0
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 21152060,
+    "ConsumeIds": [
+      21152060
+    ],
+    "ShopProductId": 0
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 21152070,
+    "ConsumeIds": [
+      21152070
+    ],
+    "ShopProductId": 0
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 21152080,
+    "ConsumeIds": [
+      21152080
+    ],
+    "ShopProductId": 0
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 21152130,
+    "ConsumeIds": [
+      21152130
+    ],
+    "ShopProductId": 0
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 21152140,
+    "ConsumeIds": [
+      21152140
+    ],
+    "ShopProductId": 0
   }
 ]

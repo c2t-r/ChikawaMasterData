@@ -268,5 +268,11 @@
     "Id": 1026,
     "RewardGroupRelationId": 200000026,
     "LimitId": 1026
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 1027,
+    "RewardGroupRelationId": 200000027,
+    "LimitId": 1027
   }
 ]

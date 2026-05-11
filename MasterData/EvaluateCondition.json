@@ -35600,6 +35600,70 @@
     "IsAccumulate": false
   },
   {
+    "Version": "260510.1.0",
+    "Id": 60012820,
+    "FunctionType": "ViewHomeItemEventCount",
+    "EvaluateType": "GreaterEqualThan",
+    "EvaluateConditionValueGroupId": 60012820,
+    "IsAccumulate": false
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 60012822,
+    "FunctionType": "ReceivedMissionReward",
+    "EvaluateType": "LessThan",
+    "EvaluateConditionValueGroupId": 60012822,
+    "IsAccumulate": false
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 60012830,
+    "FunctionType": "ViewHomeItemEventCount",
+    "EvaluateType": "GreaterEqualThan",
+    "EvaluateConditionValueGroupId": 60012830,
+    "IsAccumulate": false
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 60012832,
+    "FunctionType": "ReceivedMissionReward",
+    "EvaluateType": "LessThan",
+    "EvaluateConditionValueGroupId": 60012832,
+    "IsAccumulate": false
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 60012840,
+    "FunctionType": "ViewHomeItemEventCount",
+    "EvaluateType": "GreaterEqualThan",
+    "EvaluateConditionValueGroupId": 60012840,
+    "IsAccumulate": false
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 60012842,
+    "FunctionType": "ReceivedMissionReward",
+    "EvaluateType": "LessThan",
+    "EvaluateConditionValueGroupId": 60012842,
+    "IsAccumulate": false
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 60012850,
+    "FunctionType": "ViewHomeItemEventCount",
+    "EvaluateType": "GreaterEqualThan",
+    "EvaluateConditionValueGroupId": 60012850,
+    "IsAccumulate": false
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 60012852,
+    "FunctionType": "ReceivedMissionReward",
+    "EvaluateType": "LessThan",
+    "EvaluateConditionValueGroupId": 60012852,
+    "IsAccumulate": false
+  },
+  {
     "Version": "250850.1.0",
     "Id": 60020030,
     "FunctionType": "ViewHomeItemEventCount",
@@ -44496,6 +44560,134 @@
     "IsAccumulate": false
   },
   {
+    "Version": "260510.1.0",
+    "Id": 60022820,
+    "FunctionType": "ViewHomeItemEventCount",
+    "EvaluateType": "GreaterEqualThan",
+    "EvaluateConditionValueGroupId": 60022820,
+    "IsAccumulate": false
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 60022822,
+    "FunctionType": "Recursion",
+    "EvaluateType": "And",
+    "EvaluateConditionValueGroupId": 60022822,
+    "IsAccumulate": false
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 60022823,
+    "FunctionType": "ReceivedMissionReward",
+    "EvaluateType": "Match",
+    "EvaluateConditionValueGroupId": 60022823,
+    "IsAccumulate": false
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 60022824,
+    "FunctionType": "ReceivedMissionReward",
+    "EvaluateType": "LessThan",
+    "EvaluateConditionValueGroupId": 60022824,
+    "IsAccumulate": false
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 60022830,
+    "FunctionType": "ViewHomeItemEventCount",
+    "EvaluateType": "GreaterEqualThan",
+    "EvaluateConditionValueGroupId": 60022830,
+    "IsAccumulate": false
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 60022832,
+    "FunctionType": "Recursion",
+    "EvaluateType": "And",
+    "EvaluateConditionValueGroupId": 60022832,
+    "IsAccumulate": false
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 60022833,
+    "FunctionType": "ReceivedMissionReward",
+    "EvaluateType": "Match",
+    "EvaluateConditionValueGroupId": 60022833,
+    "IsAccumulate": false
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 60022834,
+    "FunctionType": "ReceivedMissionReward",
+    "EvaluateType": "LessThan",
+    "EvaluateConditionValueGroupId": 60022834,
+    "IsAccumulate": false
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 60022840,
+    "FunctionType": "ViewHomeItemEventCount",
+    "EvaluateType": "GreaterEqualThan",
+    "EvaluateConditionValueGroupId": 60022840,
+    "IsAccumulate": false
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 60022842,
+    "FunctionType": "Recursion",
+    "EvaluateType": "And",
+    "EvaluateConditionValueGroupId": 60022842,
+    "IsAccumulate": false
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 60022843,
+    "FunctionType": "ReceivedMissionReward",
+    "EvaluateType": "Match",
+    "EvaluateConditionValueGroupId": 60022843,
+    "IsAccumulate": false
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 60022844,
+    "FunctionType": "ReceivedMissionReward",
+    "EvaluateType": "LessThan",
+    "EvaluateConditionValueGroupId": 60022844,
+    "IsAccumulate": false
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 60022850,
+    "FunctionType": "ViewHomeItemEventCount",
+    "EvaluateType": "GreaterEqualThan",
+    "EvaluateConditionValueGroupId": 60022850,
+    "IsAccumulate": false
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 60022852,
+    "FunctionType": "Recursion",
+    "EvaluateType": "And",
+    "EvaluateConditionValueGroupId": 60022852,
+    "IsAccumulate": false
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 60022853,
+    "FunctionType": "ReceivedMissionReward",
+    "EvaluateType": "Match",
+    "EvaluateConditionValueGroupId": 60022853,
+    "IsAccumulate": false
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 60022854,
+    "FunctionType": "ReceivedMissionReward",
+    "EvaluateType": "LessThan",
+    "EvaluateConditionValueGroupId": 60022854,
+    "IsAccumulate": false
+  },
+  {
     "Version": "250850.1.0",
     "Id": 60030030,
     "FunctionType": "ViewHomeItemEventCount",
@@ -48925,6 +49117,70 @@
     "FunctionType": "ReceivedMissionReward",
     "EvaluateType": "Match",
     "EvaluateConditionValueGroupId": 60032812,
+    "IsAccumulate": false
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 60032820,
+    "FunctionType": "ViewHomeItemEventCount",
+    "EvaluateType": "GreaterEqualThan",
+    "EvaluateConditionValueGroupId": 60032820,
+    "IsAccumulate": false
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 60032822,
+    "FunctionType": "ReceivedMissionReward",
+    "EvaluateType": "Match",
+    "EvaluateConditionValueGroupId": 60032822,
+    "IsAccumulate": false
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 60032830,
+    "FunctionType": "ViewHomeItemEventCount",
+    "EvaluateType": "GreaterEqualThan",
+    "EvaluateConditionValueGroupId": 60032830,
+    "IsAccumulate": false
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 60032832,
+    "FunctionType": "ReceivedMissionReward",
+    "EvaluateType": "Match",
+    "EvaluateConditionValueGroupId": 60032832,
+    "IsAccumulate": false
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 60032840,
+    "FunctionType": "ViewHomeItemEventCount",
+    "EvaluateType": "GreaterEqualThan",
+    "EvaluateConditionValueGroupId": 60032840,
+    "IsAccumulate": false
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 60032842,
+    "FunctionType": "ReceivedMissionReward",
+    "EvaluateType": "Match",
+    "EvaluateConditionValueGroupId": 60032842,
+    "IsAccumulate": false
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 60032850,
+    "FunctionType": "ViewHomeItemEventCount",
+    "EvaluateType": "GreaterEqualThan",
+    "EvaluateConditionValueGroupId": 60032850,
+    "IsAccumulate": false
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 60032852,
+    "FunctionType": "ReceivedMissionReward",
+    "EvaluateType": "Match",
+    "EvaluateConditionValueGroupId": 60032852,
     "IsAccumulate": false
   },
   {
@@ -68384,6 +68640,14 @@
     "IsAccumulate": false
   },
   {
+    "Version": "260510.1.0",
+    "Id": 75320600,
+    "FunctionType": "DateTerm",
+    "EvaluateType": "Match",
+    "EvaluateConditionValueGroupId": 75320600,
+    "IsAccumulate": false
+  },
+  {
     "Version": "260410.1.0",
     "Id": 2604111,
     "FunctionType": "DateTerm",
@@ -68640,11 +68904,1747 @@
     "IsAccumulate": false
   },
   {
+    "Version": "260510.1.0",
+    "Id": 2605101,
+    "FunctionType": "DateTerm",
+    "EvaluateType": "Match",
+    "EvaluateConditionValueGroupId": 2605101,
+    "IsAccumulate": false
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 2605102,
+    "FunctionType": "DateTerm",
+    "EvaluateType": "Match",
+    "EvaluateConditionValueGroupId": 2605102,
+    "IsAccumulate": false
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 2605103,
+    "FunctionType": "DateTerm",
+    "EvaluateType": "Match",
+    "EvaluateConditionValueGroupId": 2605103,
+    "IsAccumulate": false
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 46000010,
+    "FunctionType": "Recursion",
+    "EvaluateType": "And",
+    "EvaluateConditionValueGroupId": 46000010,
+    "IsAccumulate": false
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 46010010,
+    "FunctionType": "Recursion",
+    "EvaluateType": "And",
+    "EvaluateConditionValueGroupId": 46010010,
+    "IsAccumulate": false
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 46010020,
+    "FunctionType": "LoginCount",
+    "EvaluateType": "GreaterEqualThan",
+    "EvaluateConditionValueGroupId": 46010020,
+    "IsAccumulate": false
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 46010030,
+    "FunctionType": "StickerNoteEdit",
+    "EvaluateType": "GreaterEqualThan",
+    "EvaluateConditionValueGroupId": 46010030,
+    "IsAccumulate": false
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 46010040,
+    "FunctionType": "WeedingItemNormalCount",
+    "EvaluateType": "GreaterEqualThan",
+    "EvaluateConditionValueGroupId": 46010040,
+    "IsAccumulate": false
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 46010050,
+    "FunctionType": "WeedingItemLineCount",
+    "EvaluateType": "GreaterEqualThan",
+    "EvaluateConditionValueGroupId": 46010050,
+    "IsAccumulate": false
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 46010110,
+    "FunctionType": "ReceivedMissionReward",
+    "EvaluateType": "Match",
+    "EvaluateConditionValueGroupId": 46010110,
+    "IsAccumulate": false
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 46010120,
+    "FunctionType": "ReceivedMissionReward",
+    "EvaluateType": "Match",
+    "EvaluateConditionValueGroupId": 46010120,
+    "IsAccumulate": false
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 46010130,
+    "FunctionType": "ReceivedMissionReward",
+    "EvaluateType": "Match",
+    "EvaluateConditionValueGroupId": 46010130,
+    "IsAccumulate": false
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 46010140,
+    "FunctionType": "ReceivedMissionReward",
+    "EvaluateType": "Match",
+    "EvaluateConditionValueGroupId": 46010140,
+    "IsAccumulate": false
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 46010150,
+    "FunctionType": "ReceivedMissionReward",
+    "EvaluateType": "Match",
+    "EvaluateConditionValueGroupId": 46010150,
+    "IsAccumulate": false
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 46020010,
+    "FunctionType": "Recursion",
+    "EvaluateType": "And",
+    "EvaluateConditionValueGroupId": 46020010,
+    "IsAccumulate": false
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 46020020,
+    "FunctionType": "LoginCount",
+    "EvaluateType": "GreaterEqualThan",
+    "EvaluateConditionValueGroupId": 46020020,
+    "IsAccumulate": false
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 46020030,
+    "FunctionType": "DefeatEnemyCount",
+    "EvaluateType": "GreaterEqualThan",
+    "EvaluateConditionValueGroupId": 46020030,
+    "IsAccumulate": false
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 46020040,
+    "FunctionType": "DrawSelectGachaCount",
+    "EvaluateType": "GreaterEqualThan",
+    "EvaluateConditionValueGroupId": 46020040,
+    "IsAccumulate": false
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 46020050,
+    "FunctionType": "DrawSelectGachaCount",
+    "EvaluateType": "GreaterEqualThan",
+    "EvaluateConditionValueGroupId": 46020050,
+    "IsAccumulate": false
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 46020110,
+    "FunctionType": "ReceivedMissionReward",
+    "EvaluateType": "Match",
+    "EvaluateConditionValueGroupId": 46020110,
+    "IsAccumulate": false
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 46020120,
+    "FunctionType": "ReceivedMissionReward",
+    "EvaluateType": "Match",
+    "EvaluateConditionValueGroupId": 46020120,
+    "IsAccumulate": false
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 46020130,
+    "FunctionType": "ReceivedMissionReward",
+    "EvaluateType": "Match",
+    "EvaluateConditionValueGroupId": 46020130,
+    "IsAccumulate": false
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 46020140,
+    "FunctionType": "ReceivedMissionReward",
+    "EvaluateType": "Match",
+    "EvaluateConditionValueGroupId": 46020140,
+    "IsAccumulate": false
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 46020150,
+    "FunctionType": "ReceivedMissionReward",
+    "EvaluateType": "Match",
+    "EvaluateConditionValueGroupId": 46020150,
+    "IsAccumulate": false
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 46030010,
+    "FunctionType": "Recursion",
+    "EvaluateType": "And",
+    "EvaluateConditionValueGroupId": 46030010,
+    "IsAccumulate": false
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 46030020,
+    "FunctionType": "LoginCount",
+    "EvaluateType": "GreaterEqualThan",
+    "EvaluateConditionValueGroupId": 46030020,
+    "IsAccumulate": false
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 46030030,
+    "FunctionType": "DefeatEnemyCount",
+    "EvaluateType": "GreaterEqualThan",
+    "EvaluateConditionValueGroupId": 46030030,
+    "IsAccumulate": false
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 46030040,
+    "FunctionType": "ClearSubHuntCount",
+    "EvaluateType": "GreaterEqualThan",
+    "EvaluateConditionValueGroupId": 46030040,
+    "IsAccumulate": false
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 46030050,
+    "FunctionType": "ClearSubHuntCount",
+    "EvaluateType": "GreaterEqualThan",
+    "EvaluateConditionValueGroupId": 46030050,
+    "IsAccumulate": false
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 46030110,
+    "FunctionType": "ReceivedMissionReward",
+    "EvaluateType": "Match",
+    "EvaluateConditionValueGroupId": 46030110,
+    "IsAccumulate": false
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 46030120,
+    "FunctionType": "ReceivedMissionReward",
+    "EvaluateType": "Match",
+    "EvaluateConditionValueGroupId": 46030120,
+    "IsAccumulate": false
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 46030130,
+    "FunctionType": "ReceivedMissionReward",
+    "EvaluateType": "Match",
+    "EvaluateConditionValueGroupId": 46030130,
+    "IsAccumulate": false
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 46030140,
+    "FunctionType": "ReceivedMissionReward",
+    "EvaluateType": "Match",
+    "EvaluateConditionValueGroupId": 46030140,
+    "IsAccumulate": false
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 46030150,
+    "FunctionType": "ReceivedMissionReward",
+    "EvaluateType": "Match",
+    "EvaluateConditionValueGroupId": 46030150,
+    "IsAccumulate": false
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 46040010,
+    "FunctionType": "Recursion",
+    "EvaluateType": "And",
+    "EvaluateConditionValueGroupId": 46040010,
+    "IsAccumulate": false
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 46040020,
+    "FunctionType": "LoginCount",
+    "EvaluateType": "GreaterEqualThan",
+    "EvaluateConditionValueGroupId": 46040020,
+    "IsAccumulate": false
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 46040030,
+    "FunctionType": "WeedingItemNormalCount",
+    "EvaluateType": "GreaterEqualThan",
+    "EvaluateConditionValueGroupId": 46040030,
+    "IsAccumulate": false
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 46040040,
+    "FunctionType": "WeedingItemRangeCount",
+    "EvaluateType": "GreaterEqualThan",
+    "EvaluateConditionValueGroupId": 46040040,
+    "IsAccumulate": false
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 46040050,
+    "FunctionType": "WeedingItemLineCount",
+    "EvaluateType": "GreaterEqualThan",
+    "EvaluateConditionValueGroupId": 46040050,
+    "IsAccumulate": false
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 46040110,
+    "FunctionType": "ReceivedMissionReward",
+    "EvaluateType": "Match",
+    "EvaluateConditionValueGroupId": 46040110,
+    "IsAccumulate": false
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 46040120,
+    "FunctionType": "ReceivedMissionReward",
+    "EvaluateType": "Match",
+    "EvaluateConditionValueGroupId": 46040120,
+    "IsAccumulate": false
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 46040130,
+    "FunctionType": "ReceivedMissionReward",
+    "EvaluateType": "Match",
+    "EvaluateConditionValueGroupId": 46040130,
+    "IsAccumulate": false
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 46040140,
+    "FunctionType": "ReceivedMissionReward",
+    "EvaluateType": "Match",
+    "EvaluateConditionValueGroupId": 46040140,
+    "IsAccumulate": false
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 46040150,
+    "FunctionType": "ReceivedMissionReward",
+    "EvaluateType": "Match",
+    "EvaluateConditionValueGroupId": 46040150,
+    "IsAccumulate": false
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 46050010,
+    "FunctionType": "Recursion",
+    "EvaluateType": "And",
+    "EvaluateConditionValueGroupId": 46050010,
+    "IsAccumulate": false
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 46050020,
+    "FunctionType": "LoginCount",
+    "EvaluateType": "GreaterEqualThan",
+    "EvaluateConditionValueGroupId": 46050020,
+    "IsAccumulate": false
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 46050030,
+    "FunctionType": "DefeatEnemyCount",
+    "EvaluateType": "GreaterEqualThan",
+    "EvaluateConditionValueGroupId": 46050030,
+    "IsAccumulate": false
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 46050040,
+    "FunctionType": "ClearSubHuntCount",
+    "EvaluateType": "GreaterEqualThan",
+    "EvaluateConditionValueGroupId": 46050040,
+    "IsAccumulate": false
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 46050050,
+    "FunctionType": "ClearSubHuntCount",
+    "EvaluateType": "GreaterEqualThan",
+    "EvaluateConditionValueGroupId": 46050050,
+    "IsAccumulate": false
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 46050110,
+    "FunctionType": "ReceivedMissionReward",
+    "EvaluateType": "Match",
+    "EvaluateConditionValueGroupId": 46050110,
+    "IsAccumulate": false
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 46050120,
+    "FunctionType": "ReceivedMissionReward",
+    "EvaluateType": "Match",
+    "EvaluateConditionValueGroupId": 46050120,
+    "IsAccumulate": false
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 46050130,
+    "FunctionType": "ReceivedMissionReward",
+    "EvaluateType": "Match",
+    "EvaluateConditionValueGroupId": 46050130,
+    "IsAccumulate": false
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 46050140,
+    "FunctionType": "ReceivedMissionReward",
+    "EvaluateType": "Match",
+    "EvaluateConditionValueGroupId": 46050140,
+    "IsAccumulate": false
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 46050150,
+    "FunctionType": "ReceivedMissionReward",
+    "EvaluateType": "Match",
+    "EvaluateConditionValueGroupId": 46050150,
+    "IsAccumulate": false
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 71014010,
+    "FunctionType": "DateTerm",
+    "EvaluateType": "Match",
+    "EvaluateConditionValueGroupId": 71014010,
+    "IsAccumulate": false
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 71014020,
+    "FunctionType": "PurchasePackItem",
+    "EvaluateType": "Match",
+    "EvaluateConditionValueGroupId": 71014020,
+    "IsAccumulate": false
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 71014030,
+    "FunctionType": "PurchasePackItem",
+    "EvaluateType": "LessThan",
+    "EvaluateConditionValueGroupId": 71014030,
+    "IsAccumulate": false
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 71014040,
+    "FunctionType": "PurchasePackItem",
+    "EvaluateType": "LessThan",
+    "EvaluateConditionValueGroupId": 71014040,
+    "IsAccumulate": false
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 71014050,
+    "FunctionType": "Recursion",
+    "EvaluateType": "And",
+    "EvaluateConditionValueGroupId": 71014050,
+    "IsAccumulate": false
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 71014060,
+    "FunctionType": "Recursion",
+    "EvaluateType": "And",
+    "EvaluateConditionValueGroupId": 71014060,
+    "IsAccumulate": false
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 71014070,
+    "FunctionType": "Recursion",
+    "EvaluateType": "And",
+    "EvaluateConditionValueGroupId": 71014070,
+    "IsAccumulate": false
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 71014080,
+    "FunctionType": "DateTerm",
+    "EvaluateType": "Match",
+    "EvaluateConditionValueGroupId": 71014080,
+    "IsAccumulate": false
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 30140010,
+    "FunctionType": "LoginCount",
+    "EvaluateType": "GreaterEqualThan",
+    "EvaluateConditionValueGroupId": 30140010,
+    "IsAccumulate": false
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 30140020,
+    "FunctionType": "DefeatEnemyCount",
+    "EvaluateType": "GreaterEqualThan",
+    "EvaluateConditionValueGroupId": 30140020,
+    "IsAccumulate": false
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 30140030,
+    "FunctionType": "DefeatEnemyCount",
+    "EvaluateType": "GreaterEqualThan",
+    "EvaluateConditionValueGroupId": 30140030,
+    "IsAccumulate": false
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 30140040,
+    "FunctionType": "WeedingItemNormalCount",
+    "EvaluateType": "GreaterEqualThan",
+    "EvaluateConditionValueGroupId": 30140040,
+    "IsAccumulate": false
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 72015110,
+    "FunctionType": "DateTerm",
+    "EvaluateType": "Match",
+    "EvaluateConditionValueGroupId": 72015110,
+    "IsAccumulate": false
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 72015120,
+    "FunctionType": "DateTerm",
+    "EvaluateType": "Match",
+    "EvaluateConditionValueGroupId": 72015120,
+    "IsAccumulate": false
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 72015130,
+    "FunctionType": "DateTerm",
+    "EvaluateType": "Match",
+    "EvaluateConditionValueGroupId": 72015130,
+    "IsAccumulate": false
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 72015140,
+    "FunctionType": "DateTerm",
+    "EvaluateType": "Match",
+    "EvaluateConditionValueGroupId": 72015140,
+    "IsAccumulate": false
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 72015150,
+    "FunctionType": "DateTerm",
+    "EvaluateType": "Match",
+    "EvaluateConditionValueGroupId": 72015150,
+    "IsAccumulate": false
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 72015310,
+    "FunctionType": "Recursion",
+    "EvaluateType": "And",
+    "EvaluateConditionValueGroupId": 72015310,
+    "IsAccumulate": false
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 72015320,
+    "FunctionType": "Recursion",
+    "EvaluateType": "And",
+    "EvaluateConditionValueGroupId": 72015320,
+    "IsAccumulate": false
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 74210870,
+    "FunctionType": "PurchasePackItem",
+    "EvaluateType": "LessThan",
+    "EvaluateConditionValueGroupId": 74210870,
+    "IsAccumulate": false
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 74210880,
+    "FunctionType": "PurchasePackItem",
+    "EvaluateType": "LessThan",
+    "EvaluateConditionValueGroupId": 74210880,
+    "IsAccumulate": false
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 74210890,
+    "FunctionType": "PurchasePackItem",
+    "EvaluateType": "LessThan",
+    "EvaluateConditionValueGroupId": 74210890,
+    "IsAccumulate": false
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 74220870,
+    "FunctionType": "PurchasePackItem",
+    "EvaluateType": "LessThan",
+    "EvaluateConditionValueGroupId": 74220870,
+    "IsAccumulate": false
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 74220880,
+    "FunctionType": "PurchasePackItem",
+    "EvaluateType": "LessThan",
+    "EvaluateConditionValueGroupId": 74220880,
+    "IsAccumulate": false
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 74220890,
+    "FunctionType": "PurchasePackItem",
+    "EvaluateType": "LessThan",
+    "EvaluateConditionValueGroupId": 74220890,
+    "IsAccumulate": false
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 75210870,
+    "FunctionType": "Recursion",
+    "EvaluateType": "And",
+    "EvaluateConditionValueGroupId": 75210870,
+    "IsAccumulate": false
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 75210880,
+    "FunctionType": "Recursion",
+    "EvaluateType": "And",
+    "EvaluateConditionValueGroupId": 75210880,
+    "IsAccumulate": false
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 75210890,
+    "FunctionType": "Recursion",
+    "EvaluateType": "And",
+    "EvaluateConditionValueGroupId": 75210890,
+    "IsAccumulate": false
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 75220870,
+    "FunctionType": "Recursion",
+    "EvaluateType": "And",
+    "EvaluateConditionValueGroupId": 75220870,
+    "IsAccumulate": false
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 75220880,
+    "FunctionType": "Recursion",
+    "EvaluateType": "And",
+    "EvaluateConditionValueGroupId": 75220880,
+    "IsAccumulate": false
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 75220890,
+    "FunctionType": "Recursion",
+    "EvaluateType": "And",
+    "EvaluateConditionValueGroupId": 75220890,
+    "IsAccumulate": false
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 75320670,
+    "FunctionType": "DateTerm",
+    "EvaluateType": "Match",
+    "EvaluateConditionValueGroupId": 75320670,
+    "IsAccumulate": false
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 75320750,
+    "FunctionType": "DateTerm",
+    "EvaluateType": "Match",
+    "EvaluateConditionValueGroupId": 75320750,
+    "IsAccumulate": false
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 75320810,
+    "FunctionType": "DateTerm",
+    "EvaluateType": "Match",
+    "EvaluateConditionValueGroupId": 75320810,
+    "IsAccumulate": false
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 23101510,
+    "FunctionType": "CostumeEnhanceProgress",
+    "EvaluateType": "GreaterEqualThan",
+    "EvaluateConditionValueGroupId": 23101510,
+    "IsAccumulate": false
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 23101520,
+    "FunctionType": "CostumeEnhanceProgress",
+    "EvaluateType": "GreaterEqualThan",
+    "EvaluateConditionValueGroupId": 23101520,
+    "IsAccumulate": false
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 23101530,
+    "FunctionType": "CostumeEnhanceProgress",
+    "EvaluateType": "GreaterEqualThan",
+    "EvaluateConditionValueGroupId": 23101530,
+    "IsAccumulate": false
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 23101540,
+    "FunctionType": "CostumeEnhanceProgress",
+    "EvaluateType": "GreaterEqualThan",
+    "EvaluateConditionValueGroupId": 23101540,
+    "IsAccumulate": false
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 23201510,
+    "FunctionType": "CostumeEnhanceProgress",
+    "EvaluateType": "GreaterEqualThan",
+    "EvaluateConditionValueGroupId": 23201510,
+    "IsAccumulate": false
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 23201520,
+    "FunctionType": "CostumeEnhanceProgress",
+    "EvaluateType": "GreaterEqualThan",
+    "EvaluateConditionValueGroupId": 23201520,
+    "IsAccumulate": false
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 23201530,
+    "FunctionType": "CostumeEnhanceProgress",
+    "EvaluateType": "GreaterEqualThan",
+    "EvaluateConditionValueGroupId": 23201530,
+    "IsAccumulate": false
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 23201540,
+    "FunctionType": "CostumeEnhanceProgress",
+    "EvaluateType": "GreaterEqualThan",
+    "EvaluateConditionValueGroupId": 23201540,
+    "IsAccumulate": false
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 23401510,
+    "FunctionType": "CostumeEnhanceProgress",
+    "EvaluateType": "GreaterEqualThan",
+    "EvaluateConditionValueGroupId": 23401510,
+    "IsAccumulate": false
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 23401520,
+    "FunctionType": "CostumeEnhanceProgress",
+    "EvaluateType": "GreaterEqualThan",
+    "EvaluateConditionValueGroupId": 23401520,
+    "IsAccumulate": false
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 23401530,
+    "FunctionType": "CostumeEnhanceProgress",
+    "EvaluateType": "GreaterEqualThan",
+    "EvaluateConditionValueGroupId": 23401530,
+    "IsAccumulate": false
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 23401540,
+    "FunctionType": "CostumeEnhanceProgress",
+    "EvaluateType": "GreaterEqualThan",
+    "EvaluateConditionValueGroupId": 23401540,
+    "IsAccumulate": false
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 23601510,
+    "FunctionType": "CostumeEnhanceProgress",
+    "EvaluateType": "GreaterEqualThan",
+    "EvaluateConditionValueGroupId": 23601510,
+    "IsAccumulate": false
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 23601520,
+    "FunctionType": "CostumeEnhanceProgress",
+    "EvaluateType": "GreaterEqualThan",
+    "EvaluateConditionValueGroupId": 23601520,
+    "IsAccumulate": false
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 23601530,
+    "FunctionType": "CostumeEnhanceProgress",
+    "EvaluateType": "GreaterEqualThan",
+    "EvaluateConditionValueGroupId": 23601530,
+    "IsAccumulate": false
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 23601540,
+    "FunctionType": "CostumeEnhanceProgress",
+    "EvaluateType": "GreaterEqualThan",
+    "EvaluateConditionValueGroupId": 23601540,
+    "IsAccumulate": false
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 12605101,
+    "FunctionType": "DateTerm",
+    "EvaluateType": "Match",
+    "EvaluateConditionValueGroupId": 12605101,
+    "IsAccumulate": false
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 310151,
+    "FunctionType": "CostumeEnhanceProgress",
+    "EvaluateType": "GreaterEqualThan",
+    "EvaluateConditionValueGroupId": 310151,
+    "IsAccumulate": false
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 310152,
+    "FunctionType": "CostumeEnhanceProgress",
+    "EvaluateType": "GreaterEqualThan",
+    "EvaluateConditionValueGroupId": 310152,
+    "IsAccumulate": false
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 310153,
+    "FunctionType": "CostumeEnhanceProgress",
+    "EvaluateType": "GreaterEqualThan",
+    "EvaluateConditionValueGroupId": 310153,
+    "IsAccumulate": false
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 310154,
+    "FunctionType": "CostumeEnhanceProgress",
+    "EvaluateType": "GreaterEqualThan",
+    "EvaluateConditionValueGroupId": 310154,
+    "IsAccumulate": false
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 310155,
+    "FunctionType": "CostumeEnhanceProgress",
+    "EvaluateType": "GreaterEqualThan",
+    "EvaluateConditionValueGroupId": 310155,
+    "IsAccumulate": false
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 310156,
+    "FunctionType": "CostumePromotionProgress",
+    "EvaluateType": "GreaterEqualThan",
+    "EvaluateConditionValueGroupId": 310156,
+    "IsAccumulate": false
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 320151,
+    "FunctionType": "CostumeEnhanceProgress",
+    "EvaluateType": "GreaterEqualThan",
+    "EvaluateConditionValueGroupId": 320151,
+    "IsAccumulate": false
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 320152,
+    "FunctionType": "CostumeEnhanceProgress",
+    "EvaluateType": "GreaterEqualThan",
+    "EvaluateConditionValueGroupId": 320152,
+    "IsAccumulate": false
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 320153,
+    "FunctionType": "CostumeEnhanceProgress",
+    "EvaluateType": "GreaterEqualThan",
+    "EvaluateConditionValueGroupId": 320153,
+    "IsAccumulate": false
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 320154,
+    "FunctionType": "CostumeEnhanceProgress",
+    "EvaluateType": "GreaterEqualThan",
+    "EvaluateConditionValueGroupId": 320154,
+    "IsAccumulate": false
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 320155,
+    "FunctionType": "CostumeEnhanceProgress",
+    "EvaluateType": "GreaterEqualThan",
+    "EvaluateConditionValueGroupId": 320155,
+    "IsAccumulate": false
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 320156,
+    "FunctionType": "CostumePromotionProgress",
+    "EvaluateType": "GreaterEqualThan",
+    "EvaluateConditionValueGroupId": 320156,
+    "IsAccumulate": false
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 340151,
+    "FunctionType": "CostumeEnhanceProgress",
+    "EvaluateType": "GreaterEqualThan",
+    "EvaluateConditionValueGroupId": 340151,
+    "IsAccumulate": false
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 340152,
+    "FunctionType": "CostumeEnhanceProgress",
+    "EvaluateType": "GreaterEqualThan",
+    "EvaluateConditionValueGroupId": 340152,
+    "IsAccumulate": false
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 340153,
+    "FunctionType": "CostumeEnhanceProgress",
+    "EvaluateType": "GreaterEqualThan",
+    "EvaluateConditionValueGroupId": 340153,
+    "IsAccumulate": false
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 340154,
+    "FunctionType": "CostumeEnhanceProgress",
+    "EvaluateType": "GreaterEqualThan",
+    "EvaluateConditionValueGroupId": 340154,
+    "IsAccumulate": false
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 340155,
+    "FunctionType": "CostumeEnhanceProgress",
+    "EvaluateType": "GreaterEqualThan",
+    "EvaluateConditionValueGroupId": 340155,
+    "IsAccumulate": false
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 340156,
+    "FunctionType": "CostumePromotionProgress",
+    "EvaluateType": "GreaterEqualThan",
+    "EvaluateConditionValueGroupId": 340156,
+    "IsAccumulate": false
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 360151,
+    "FunctionType": "CostumeEnhanceProgress",
+    "EvaluateType": "GreaterEqualThan",
+    "EvaluateConditionValueGroupId": 360151,
+    "IsAccumulate": false
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 360152,
+    "FunctionType": "CostumeEnhanceProgress",
+    "EvaluateType": "GreaterEqualThan",
+    "EvaluateConditionValueGroupId": 360152,
+    "IsAccumulate": false
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 360153,
+    "FunctionType": "CostumeEnhanceProgress",
+    "EvaluateType": "GreaterEqualThan",
+    "EvaluateConditionValueGroupId": 360153,
+    "IsAccumulate": false
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 360154,
+    "FunctionType": "CostumeEnhanceProgress",
+    "EvaluateType": "GreaterEqualThan",
+    "EvaluateConditionValueGroupId": 360154,
+    "IsAccumulate": false
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 360155,
+    "FunctionType": "CostumeEnhanceProgress",
+    "EvaluateType": "GreaterEqualThan",
+    "EvaluateConditionValueGroupId": 360155,
+    "IsAccumulate": false
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 360156,
+    "FunctionType": "CostumePromotionProgress",
+    "EvaluateType": "GreaterEqualThan",
+    "EvaluateConditionValueGroupId": 360156,
+    "IsAccumulate": false
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 46110000,
+    "FunctionType": "Recursion",
+    "EvaluateType": "And",
+    "EvaluateConditionValueGroupId": 46110000,
+    "IsAccumulate": false
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 46120000,
+    "FunctionType": "Recursion",
+    "EvaluateType": "And",
+    "EvaluateConditionValueGroupId": 46120000,
+    "IsAccumulate": false
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 46130000,
+    "FunctionType": "Recursion",
+    "EvaluateType": "And",
+    "EvaluateConditionValueGroupId": 46130000,
+    "IsAccumulate": false
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 46140000,
+    "FunctionType": "Recursion",
+    "EvaluateType": "And",
+    "EvaluateConditionValueGroupId": 46140000,
+    "IsAccumulate": false
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 46110010,
+    "FunctionType": "ConsumeTreasureResourceCount",
+    "EvaluateType": "GreaterEqualThan",
+    "EvaluateConditionValueGroupId": 46110010,
+    "IsAccumulate": false
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 46110020,
+    "FunctionType": "ConsumeTreasureResourceCount",
+    "EvaluateType": "GreaterEqualThan",
+    "EvaluateConditionValueGroupId": 46110020,
+    "IsAccumulate": false
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 46110030,
+    "FunctionType": "ConsumeTreasureResourceCount",
+    "EvaluateType": "GreaterEqualThan",
+    "EvaluateConditionValueGroupId": 46110030,
+    "IsAccumulate": false
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 46110040,
+    "FunctionType": "ConsumeTreasureResourceCount",
+    "EvaluateType": "GreaterEqualThan",
+    "EvaluateConditionValueGroupId": 46110040,
+    "IsAccumulate": false
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 46110050,
+    "FunctionType": "ConsumeTreasureResourceCount",
+    "EvaluateType": "GreaterEqualThan",
+    "EvaluateConditionValueGroupId": 46110050,
+    "IsAccumulate": false
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 46110060,
+    "FunctionType": "ConsumeTreasureResourceCount",
+    "EvaluateType": "GreaterEqualThan",
+    "EvaluateConditionValueGroupId": 46110060,
+    "IsAccumulate": false
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 46110070,
+    "FunctionType": "ConsumeTreasureResourceCount",
+    "EvaluateType": "GreaterEqualThan",
+    "EvaluateConditionValueGroupId": 46110070,
+    "IsAccumulate": false
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 46120010,
+    "FunctionType": "ConsumeTreasureResourceCount",
+    "EvaluateType": "GreaterEqualThan",
+    "EvaluateConditionValueGroupId": 46120010,
+    "IsAccumulate": false
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 46120020,
+    "FunctionType": "ConsumeTreasureResourceCount",
+    "EvaluateType": "GreaterEqualThan",
+    "EvaluateConditionValueGroupId": 46120020,
+    "IsAccumulate": false
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 46120030,
+    "FunctionType": "ConsumeTreasureResourceCount",
+    "EvaluateType": "GreaterEqualThan",
+    "EvaluateConditionValueGroupId": 46120030,
+    "IsAccumulate": false
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 46120040,
+    "FunctionType": "ConsumeTreasureResourceCount",
+    "EvaluateType": "GreaterEqualThan",
+    "EvaluateConditionValueGroupId": 46120040,
+    "IsAccumulate": false
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 46120050,
+    "FunctionType": "ConsumeTreasureResourceCount",
+    "EvaluateType": "GreaterEqualThan",
+    "EvaluateConditionValueGroupId": 46120050,
+    "IsAccumulate": false
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 46120060,
+    "FunctionType": "ConsumeTreasureResourceCount",
+    "EvaluateType": "GreaterEqualThan",
+    "EvaluateConditionValueGroupId": 46120060,
+    "IsAccumulate": false
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 46120070,
+    "FunctionType": "ConsumeTreasureResourceCount",
+    "EvaluateType": "GreaterEqualThan",
+    "EvaluateConditionValueGroupId": 46120070,
+    "IsAccumulate": false
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 46130010,
+    "FunctionType": "ConsumeTreasureResourceCount",
+    "EvaluateType": "GreaterEqualThan",
+    "EvaluateConditionValueGroupId": 46130010,
+    "IsAccumulate": false
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 46130020,
+    "FunctionType": "ConsumeTreasureResourceCount",
+    "EvaluateType": "GreaterEqualThan",
+    "EvaluateConditionValueGroupId": 46130020,
+    "IsAccumulate": false
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 46130030,
+    "FunctionType": "ConsumeTreasureResourceCount",
+    "EvaluateType": "GreaterEqualThan",
+    "EvaluateConditionValueGroupId": 46130030,
+    "IsAccumulate": false
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 46130040,
+    "FunctionType": "ConsumeTreasureResourceCount",
+    "EvaluateType": "GreaterEqualThan",
+    "EvaluateConditionValueGroupId": 46130040,
+    "IsAccumulate": false
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 46130050,
+    "FunctionType": "ConsumeTreasureResourceCount",
+    "EvaluateType": "GreaterEqualThan",
+    "EvaluateConditionValueGroupId": 46130050,
+    "IsAccumulate": false
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 46130060,
+    "FunctionType": "ConsumeTreasureResourceCount",
+    "EvaluateType": "GreaterEqualThan",
+    "EvaluateConditionValueGroupId": 46130060,
+    "IsAccumulate": false
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 46130070,
+    "FunctionType": "ConsumeTreasureResourceCount",
+    "EvaluateType": "GreaterEqualThan",
+    "EvaluateConditionValueGroupId": 46130070,
+    "IsAccumulate": false
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 46140010,
+    "FunctionType": "ConsumeTreasureResourceCount",
+    "EvaluateType": "GreaterEqualThan",
+    "EvaluateConditionValueGroupId": 46140010,
+    "IsAccumulate": false
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 46140020,
+    "FunctionType": "ConsumeTreasureResourceCount",
+    "EvaluateType": "GreaterEqualThan",
+    "EvaluateConditionValueGroupId": 46140020,
+    "IsAccumulate": false
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 46140030,
+    "FunctionType": "ConsumeTreasureResourceCount",
+    "EvaluateType": "GreaterEqualThan",
+    "EvaluateConditionValueGroupId": 46140030,
+    "IsAccumulate": false
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 46140040,
+    "FunctionType": "ConsumeTreasureResourceCount",
+    "EvaluateType": "GreaterEqualThan",
+    "EvaluateConditionValueGroupId": 46140040,
+    "IsAccumulate": false
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 46140050,
+    "FunctionType": "ConsumeTreasureResourceCount",
+    "EvaluateType": "GreaterEqualThan",
+    "EvaluateConditionValueGroupId": 46140050,
+    "IsAccumulate": false
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 46140060,
+    "FunctionType": "ConsumeTreasureResourceCount",
+    "EvaluateType": "GreaterEqualThan",
+    "EvaluateConditionValueGroupId": 46140060,
+    "IsAccumulate": false
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 46140070,
+    "FunctionType": "ConsumeTreasureResourceCount",
+    "EvaluateType": "GreaterEqualThan",
+    "EvaluateConditionValueGroupId": 46140070,
+    "IsAccumulate": false
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 46111010,
+    "FunctionType": "ReceivedMissionReward",
+    "EvaluateType": "Match",
+    "EvaluateConditionValueGroupId": 46111010,
+    "IsAccumulate": false
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 46111020,
+    "FunctionType": "ReceivedMissionReward",
+    "EvaluateType": "Match",
+    "EvaluateConditionValueGroupId": 46111020,
+    "IsAccumulate": false
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 46111030,
+    "FunctionType": "ReceivedMissionReward",
+    "EvaluateType": "Match",
+    "EvaluateConditionValueGroupId": 46111030,
+    "IsAccumulate": false
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 46111040,
+    "FunctionType": "ReceivedMissionReward",
+    "EvaluateType": "Match",
+    "EvaluateConditionValueGroupId": 46111040,
+    "IsAccumulate": false
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 46111050,
+    "FunctionType": "ReceivedMissionReward",
+    "EvaluateType": "Match",
+    "EvaluateConditionValueGroupId": 46111050,
+    "IsAccumulate": false
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 46111060,
+    "FunctionType": "ReceivedMissionReward",
+    "EvaluateType": "Match",
+    "EvaluateConditionValueGroupId": 46111060,
+    "IsAccumulate": false
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 46111070,
+    "FunctionType": "ReceivedMissionReward",
+    "EvaluateType": "Match",
+    "EvaluateConditionValueGroupId": 46111070,
+    "IsAccumulate": false
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 46121010,
+    "FunctionType": "ReceivedMissionReward",
+    "EvaluateType": "Match",
+    "EvaluateConditionValueGroupId": 46121010,
+    "IsAccumulate": false
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 46121020,
+    "FunctionType": "ReceivedMissionReward",
+    "EvaluateType": "Match",
+    "EvaluateConditionValueGroupId": 46121020,
+    "IsAccumulate": false
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 46121030,
+    "FunctionType": "ReceivedMissionReward",
+    "EvaluateType": "Match",
+    "EvaluateConditionValueGroupId": 46121030,
+    "IsAccumulate": false
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 46121040,
+    "FunctionType": "ReceivedMissionReward",
+    "EvaluateType": "Match",
+    "EvaluateConditionValueGroupId": 46121040,
+    "IsAccumulate": false
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 46121050,
+    "FunctionType": "ReceivedMissionReward",
+    "EvaluateType": "Match",
+    "EvaluateConditionValueGroupId": 46121050,
+    "IsAccumulate": false
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 46121060,
+    "FunctionType": "ReceivedMissionReward",
+    "EvaluateType": "Match",
+    "EvaluateConditionValueGroupId": 46121060,
+    "IsAccumulate": false
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 46121070,
+    "FunctionType": "ReceivedMissionReward",
+    "EvaluateType": "Match",
+    "EvaluateConditionValueGroupId": 46121070,
+    "IsAccumulate": false
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 46131010,
+    "FunctionType": "ReceivedMissionReward",
+    "EvaluateType": "Match",
+    "EvaluateConditionValueGroupId": 46131010,
+    "IsAccumulate": false
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 46131020,
+    "FunctionType": "ReceivedMissionReward",
+    "EvaluateType": "Match",
+    "EvaluateConditionValueGroupId": 46131020,
+    "IsAccumulate": false
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 46131030,
+    "FunctionType": "ReceivedMissionReward",
+    "EvaluateType": "Match",
+    "EvaluateConditionValueGroupId": 46131030,
+    "IsAccumulate": false
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 46131040,
+    "FunctionType": "ReceivedMissionReward",
+    "EvaluateType": "Match",
+    "EvaluateConditionValueGroupId": 46131040,
+    "IsAccumulate": false
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 46131050,
+    "FunctionType": "ReceivedMissionReward",
+    "EvaluateType": "Match",
+    "EvaluateConditionValueGroupId": 46131050,
+    "IsAccumulate": false
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 46131060,
+    "FunctionType": "ReceivedMissionReward",
+    "EvaluateType": "Match",
+    "EvaluateConditionValueGroupId": 46131060,
+    "IsAccumulate": false
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 46131070,
+    "FunctionType": "ReceivedMissionReward",
+    "EvaluateType": "Match",
+    "EvaluateConditionValueGroupId": 46131070,
+    "IsAccumulate": false
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 46141010,
+    "FunctionType": "ReceivedMissionReward",
+    "EvaluateType": "Match",
+    "EvaluateConditionValueGroupId": 46141010,
+    "IsAccumulate": false
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 46141020,
+    "FunctionType": "ReceivedMissionReward",
+    "EvaluateType": "Match",
+    "EvaluateConditionValueGroupId": 46141020,
+    "IsAccumulate": false
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 46141030,
+    "FunctionType": "ReceivedMissionReward",
+    "EvaluateType": "Match",
+    "EvaluateConditionValueGroupId": 46141030,
+    "IsAccumulate": false
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 46141040,
+    "FunctionType": "ReceivedMissionReward",
+    "EvaluateType": "Match",
+    "EvaluateConditionValueGroupId": 46141040,
+    "IsAccumulate": false
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 46141050,
+    "FunctionType": "ReceivedMissionReward",
+    "EvaluateType": "Match",
+    "EvaluateConditionValueGroupId": 46141050,
+    "IsAccumulate": false
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 46141060,
+    "FunctionType": "ReceivedMissionReward",
+    "EvaluateType": "Match",
+    "EvaluateConditionValueGroupId": 46141060,
+    "IsAccumulate": false
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 46141070,
+    "FunctionType": "ReceivedMissionReward",
+    "EvaluateType": "Match",
+    "EvaluateConditionValueGroupId": 46141070,
+    "IsAccumulate": false
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 73018000,
+    "FunctionType": "DateTerm",
+    "EvaluateType": "Match",
+    "EvaluateConditionValueGroupId": 73018000,
+    "IsAccumulate": false
+  },
+  {
     "Version": "260420.1.0",
     "Id": 604103,
     "FunctionType": "DateTerm",
     "EvaluateType": "Match",
     "EvaluateConditionValueGroupId": 604103,
+    "IsAccumulate": false
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 604283,
+    "FunctionType": "DateTerm",
+    "EvaluateType": "Match",
+    "EvaluateConditionValueGroupId": 604283,
+    "IsAccumulate": false
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 605011,
+    "FunctionType": "DateTerm",
+    "EvaluateType": "Match",
+    "EvaluateConditionValueGroupId": 605011,
+    "IsAccumulate": false
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 605012,
+    "FunctionType": "DateTerm",
+    "EvaluateType": "Match",
+    "EvaluateConditionValueGroupId": 605012,
+    "IsAccumulate": false
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 2605104,
+    "FunctionType": "DateTerm",
+    "EvaluateType": "Match",
+    "EvaluateConditionValueGroupId": 2605104,
+    "IsAccumulate": false
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 2605105,
+    "FunctionType": "DateTerm",
+    "EvaluateType": "Match",
+    "EvaluateConditionValueGroupId": 2605105,
+    "IsAccumulate": false
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 102706000,
+    "FunctionType": "ChallengingEventHunt",
+    "EvaluateType": "Match",
+    "EvaluateConditionValueGroupId": 102706000,
+    "IsAccumulate": false
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 50270010,
+    "FunctionType": "LoginCount",
+    "EvaluateType": "GreaterEqualThan",
+    "EvaluateConditionValueGroupId": 50270010,
+    "IsAccumulate": false
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 50270020,
+    "FunctionType": "ClearSubHuntCount",
+    "EvaluateType": "GreaterEqualThan",
+    "EvaluateConditionValueGroupId": 50270020,
+    "IsAccumulate": false
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 50270030,
+    "FunctionType": "DefeatEnemyCount",
+    "EvaluateType": "GreaterEqualThan",
+    "EvaluateConditionValueGroupId": 50270030,
+    "IsAccumulate": false
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 50270040,
+    "FunctionType": "WeedingItemNormalCount",
+    "EvaluateType": "GreaterEqualThan",
+    "EvaluateConditionValueGroupId": 50270040,
+    "IsAccumulate": false
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 51270010,
+    "FunctionType": "ArtBookSceneComplete",
+    "EvaluateType": "Match",
+    "EvaluateConditionValueGroupId": 51270010,
+    "IsAccumulate": false
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 51270020,
+    "FunctionType": "CostumeAcquired",
+    "EvaluateType": "Match",
+    "EvaluateConditionValueGroupId": 51270020,
+    "IsAccumulate": false
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 51270030,
+    "FunctionType": "CostumeEnhanceProgress",
+    "EvaluateType": "GreaterEqualThan",
+    "EvaluateConditionValueGroupId": 51270030,
+    "IsAccumulate": false
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 51270040,
+    "FunctionType": "CostumeEnhanceProgress",
+    "EvaluateType": "GreaterEqualThan",
+    "EvaluateConditionValueGroupId": 51270040,
+    "IsAccumulate": false
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 51270050,
+    "FunctionType": "CostumeEnhanceProgress",
+    "EvaluateType": "GreaterEqualThan",
+    "EvaluateConditionValueGroupId": 51270050,
+    "IsAccumulate": false
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 51270060,
+    "FunctionType": "ViewHomeItemEventCount",
+    "EvaluateType": "GreaterEqualThan",
+    "EvaluateConditionValueGroupId": 51270060,
+    "IsAccumulate": false
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 51270100,
+    "FunctionType": "SubHuntProgress",
+    "EvaluateType": "GreaterEqualThan",
+    "EvaluateConditionValueGroupId": 51270100,
+    "IsAccumulate": false
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 51270110,
+    "FunctionType": "SubHuntProgress",
+    "EvaluateType": "GreaterEqualThan",
+    "EvaluateConditionValueGroupId": 51270110,
+    "IsAccumulate": false
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 51270120,
+    "FunctionType": "ClearSubHuntCount",
+    "EvaluateType": "GreaterEqualThan",
+    "EvaluateConditionValueGroupId": 51270120,
+    "IsAccumulate": false
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 51270130,
+    "FunctionType": "ClearSubHuntCount",
+    "EvaluateType": "GreaterEqualThan",
+    "EvaluateConditionValueGroupId": 51270130,
+    "IsAccumulate": false
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 51270140,
+    "FunctionType": "ClearSubHuntCount",
+    "EvaluateType": "GreaterEqualThan",
+    "EvaluateConditionValueGroupId": 51270140,
+    "IsAccumulate": false
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 51270150,
+    "FunctionType": "ClearSubHuntCount",
+    "EvaluateType": "GreaterEqualThan",
+    "EvaluateConditionValueGroupId": 51270150,
+    "IsAccumulate": false
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 51270160,
+    "FunctionType": "ClearSubHuntCount",
+    "EvaluateType": "GreaterEqualThan",
+    "EvaluateConditionValueGroupId": 51270160,
+    "IsAccumulate": false
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 51270170,
+    "FunctionType": "ClearSubHuntCount",
+    "EvaluateType": "GreaterEqualThan",
+    "EvaluateConditionValueGroupId": 51270170,
+    "IsAccumulate": false
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 51270180,
+    "FunctionType": "ClearSubHuntCount",
+    "EvaluateType": "GreaterEqualThan",
+    "EvaluateConditionValueGroupId": 51270180,
+    "IsAccumulate": false
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 51270190,
+    "FunctionType": "ClearSubHuntCount",
+    "EvaluateType": "GreaterEqualThan",
+    "EvaluateConditionValueGroupId": 51270190,
+    "IsAccumulate": false
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 2605107,
+    "FunctionType": "DateTerm",
+    "EvaluateType": "Match",
+    "EvaluateConditionValueGroupId": 2605107,
     "IsAccumulate": false
   }
 ]

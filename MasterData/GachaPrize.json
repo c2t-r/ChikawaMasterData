@@ -382,5 +382,29 @@
     "PrizeRelationTableGroupId": 604103,
     "Level": 0,
     "ViewMaxRarity": "HyperRare"
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 604283,
+    "GroupId": 604283,
+    "PrizeRelationTableGroupId": 604283,
+    "Level": 0,
+    "ViewMaxRarity": "HyperRare"
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 605011,
+    "GroupId": 6050110,
+    "PrizeRelationTableGroupId": 6050110,
+    "Level": 0,
+    "ViewMaxRarity": "LegendRare"
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 605012,
+    "GroupId": 605012,
+    "PrizeRelationTableGroupId": 605012,
+    "Level": 0,
+    "ViewMaxRarity": "LegendRare"
   }
 ]

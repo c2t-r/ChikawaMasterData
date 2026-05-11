@@ -934918,5 +934918,1755 @@
     "HuntEncountId": 71026071,
     "Index": 0,
     "HuntEnemyId": 710260710
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 527000100,
+    "HuntEncountId": 52700010,
+    "Index": 0,
+    "HuntEnemyId": 527000100
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 527000110,
+    "HuntEncountId": 52700011,
+    "Index": 0,
+    "HuntEnemyId": 527000110
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 527000120,
+    "HuntEncountId": 52700012,
+    "Index": 0,
+    "HuntEnemyId": 527000120
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 527000130,
+    "HuntEncountId": 52700013,
+    "Index": 0,
+    "HuntEnemyId": 527000130
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 527000140,
+    "HuntEncountId": 52700014,
+    "Index": 0,
+    "HuntEnemyId": 527000140
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 527000200,
+    "HuntEncountId": 52700020,
+    "Index": 0,
+    "HuntEnemyId": 527000200
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 527000210,
+    "HuntEncountId": 52700021,
+    "Index": 0,
+    "HuntEnemyId": 527000210
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 527000220,
+    "HuntEncountId": 52700022,
+    "Index": 0,
+    "HuntEnemyId": 527000220
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 527000230,
+    "HuntEncountId": 52700023,
+    "Index": 0,
+    "HuntEnemyId": 527000230
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 527000240,
+    "HuntEncountId": 52700024,
+    "Index": 0,
+    "HuntEnemyId": 527000240
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 527000300,
+    "HuntEncountId": 52700030,
+    "Index": 0,
+    "HuntEnemyId": 527000300
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 527000310,
+    "HuntEncountId": 52700031,
+    "Index": 0,
+    "HuntEnemyId": 527000310
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 527000320,
+    "HuntEncountId": 52700032,
+    "Index": 0,
+    "HuntEnemyId": 527000320
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 527000330,
+    "HuntEncountId": 52700033,
+    "Index": 0,
+    "HuntEnemyId": 527000330
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 527000340,
+    "HuntEncountId": 52700034,
+    "Index": 0,
+    "HuntEnemyId": 527000340
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 527000400,
+    "HuntEncountId": 52700040,
+    "Index": 0,
+    "HuntEnemyId": 527000400
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 527000410,
+    "HuntEncountId": 52700041,
+    "Index": 0,
+    "HuntEnemyId": 527000410
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 527000420,
+    "HuntEncountId": 52700042,
+    "Index": 0,
+    "HuntEnemyId": 527000420
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 527000430,
+    "HuntEncountId": 52700043,
+    "Index": 0,
+    "HuntEnemyId": 527000430
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 527000440,
+    "HuntEncountId": 52700044,
+    "Index": 0,
+    "HuntEnemyId": 527000440
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 527000500,
+    "HuntEncountId": 52700050,
+    "Index": 0,
+    "HuntEnemyId": 527000500
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 527000510,
+    "HuntEncountId": 52700051,
+    "Index": 0,
+    "HuntEnemyId": 527000510
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 527000520,
+    "HuntEncountId": 52700052,
+    "Index": 0,
+    "HuntEnemyId": 527000520
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 527000530,
+    "HuntEncountId": 52700053,
+    "Index": 0,
+    "HuntEnemyId": 527000530
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 527000540,
+    "HuntEncountId": 52700054,
+    "Index": 0,
+    "HuntEnemyId": 527000540
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 527000600,
+    "HuntEncountId": 52700060,
+    "Index": 0,
+    "HuntEnemyId": 527000600
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 527000610,
+    "HuntEncountId": 52700061,
+    "Index": 0,
+    "HuntEnemyId": 527000610
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 527000620,
+    "HuntEncountId": 52700062,
+    "Index": 0,
+    "HuntEnemyId": 527000620
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 527000630,
+    "HuntEncountId": 52700063,
+    "Index": 0,
+    "HuntEnemyId": 527000630
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 527000640,
+    "HuntEncountId": 52700064,
+    "Index": 0,
+    "HuntEnemyId": 527000640
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 527000700,
+    "HuntEncountId": 52700070,
+    "Index": 0,
+    "HuntEnemyId": 527000700
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 527000710,
+    "HuntEncountId": 52700071,
+    "Index": 0,
+    "HuntEnemyId": 527000710
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 527000720,
+    "HuntEncountId": 52700072,
+    "Index": 0,
+    "HuntEnemyId": 527000720
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 527000730,
+    "HuntEncountId": 52700073,
+    "Index": 0,
+    "HuntEnemyId": 527000730
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 527000740,
+    "HuntEncountId": 52700074,
+    "Index": 0,
+    "HuntEnemyId": 527000740
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 527000800,
+    "HuntEncountId": 52700080,
+    "Index": 0,
+    "HuntEnemyId": 527000800
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 527000810,
+    "HuntEncountId": 52700081,
+    "Index": 0,
+    "HuntEnemyId": 527000810
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 527000820,
+    "HuntEncountId": 52700082,
+    "Index": 0,
+    "HuntEnemyId": 527000820
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 527000830,
+    "HuntEncountId": 52700083,
+    "Index": 0,
+    "HuntEnemyId": 527000830
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 527000840,
+    "HuntEncountId": 52700084,
+    "Index": 0,
+    "HuntEnemyId": 527000840
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 527000900,
+    "HuntEncountId": 52700090,
+    "Index": 0,
+    "HuntEnemyId": 527000900
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 527000910,
+    "HuntEncountId": 52700091,
+    "Index": 0,
+    "HuntEnemyId": 527000910
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 527000920,
+    "HuntEncountId": 52700092,
+    "Index": 0,
+    "HuntEnemyId": 527000920
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 527000930,
+    "HuntEncountId": 52700093,
+    "Index": 0,
+    "HuntEnemyId": 527000930
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 527000940,
+    "HuntEncountId": 52700094,
+    "Index": 0,
+    "HuntEnemyId": 527000940
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 527001000,
+    "HuntEncountId": 52700100,
+    "Index": 0,
+    "HuntEnemyId": 527001000
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 527001010,
+    "HuntEncountId": 52700101,
+    "Index": 0,
+    "HuntEnemyId": 527001010
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 527001020,
+    "HuntEncountId": 52700102,
+    "Index": 0,
+    "HuntEnemyId": 527001020
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 527001030,
+    "HuntEncountId": 52700103,
+    "Index": 0,
+    "HuntEnemyId": 527001030
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 527001040,
+    "HuntEncountId": 52700104,
+    "Index": 0,
+    "HuntEnemyId": 527001040
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 527001100,
+    "HuntEncountId": 52700110,
+    "Index": 0,
+    "HuntEnemyId": 527001100
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 527001110,
+    "HuntEncountId": 52700111,
+    "Index": 0,
+    "HuntEnemyId": 527001110
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 527001120,
+    "HuntEncountId": 52700112,
+    "Index": 0,
+    "HuntEnemyId": 527001120
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 527001130,
+    "HuntEncountId": 52700113,
+    "Index": 0,
+    "HuntEnemyId": 527001130
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 527001140,
+    "HuntEncountId": 52700114,
+    "Index": 0,
+    "HuntEnemyId": 527001140
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 527001200,
+    "HuntEncountId": 52700120,
+    "Index": 0,
+    "HuntEnemyId": 527001200
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 527001210,
+    "HuntEncountId": 52700121,
+    "Index": 0,
+    "HuntEnemyId": 527001210
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 527001220,
+    "HuntEncountId": 52700122,
+    "Index": 0,
+    "HuntEnemyId": 527001220
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 527001230,
+    "HuntEncountId": 52700123,
+    "Index": 0,
+    "HuntEnemyId": 527001230
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 527001240,
+    "HuntEncountId": 52700124,
+    "Index": 0,
+    "HuntEnemyId": 527001240
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 527001300,
+    "HuntEncountId": 52700130,
+    "Index": 0,
+    "HuntEnemyId": 527001300
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 527001310,
+    "HuntEncountId": 52700131,
+    "Index": 0,
+    "HuntEnemyId": 527001310
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 527001320,
+    "HuntEncountId": 52700132,
+    "Index": 0,
+    "HuntEnemyId": 527001320
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 527001330,
+    "HuntEncountId": 52700133,
+    "Index": 0,
+    "HuntEnemyId": 527001330
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 527001340,
+    "HuntEncountId": 52700134,
+    "Index": 0,
+    "HuntEnemyId": 527001340
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 527001400,
+    "HuntEncountId": 52700140,
+    "Index": 0,
+    "HuntEnemyId": 527001400
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 527001410,
+    "HuntEncountId": 52700141,
+    "Index": 0,
+    "HuntEnemyId": 527001410
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 527001420,
+    "HuntEncountId": 52700142,
+    "Index": 0,
+    "HuntEnemyId": 527001420
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 527001430,
+    "HuntEncountId": 52700143,
+    "Index": 0,
+    "HuntEnemyId": 527001430
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 527001440,
+    "HuntEncountId": 52700144,
+    "Index": 0,
+    "HuntEnemyId": 527001440
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 527001500,
+    "HuntEncountId": 52700150,
+    "Index": 0,
+    "HuntEnemyId": 527001500
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 527001510,
+    "HuntEncountId": 52700151,
+    "Index": 0,
+    "HuntEnemyId": 527001510
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 527001520,
+    "HuntEncountId": 52700152,
+    "Index": 0,
+    "HuntEnemyId": 527001520
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 527001530,
+    "HuntEncountId": 52700153,
+    "Index": 0,
+    "HuntEnemyId": 527001530
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 527001540,
+    "HuntEncountId": 52700154,
+    "Index": 0,
+    "HuntEnemyId": 527001540
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 527001600,
+    "HuntEncountId": 52700160,
+    "Index": 0,
+    "HuntEnemyId": 527001600
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 527001610,
+    "HuntEncountId": 52700161,
+    "Index": 0,
+    "HuntEnemyId": 527001610
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 527001620,
+    "HuntEncountId": 52700162,
+    "Index": 0,
+    "HuntEnemyId": 527001620
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 527001630,
+    "HuntEncountId": 52700163,
+    "Index": 0,
+    "HuntEnemyId": 527001630
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 527001640,
+    "HuntEncountId": 52700164,
+    "Index": 0,
+    "HuntEnemyId": 527001640
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 527001700,
+    "HuntEncountId": 52700170,
+    "Index": 0,
+    "HuntEnemyId": 527001700
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 527001710,
+    "HuntEncountId": 52700171,
+    "Index": 0,
+    "HuntEnemyId": 527001710
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 527001720,
+    "HuntEncountId": 52700172,
+    "Index": 0,
+    "HuntEnemyId": 527001720
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 527001730,
+    "HuntEncountId": 52700173,
+    "Index": 0,
+    "HuntEnemyId": 527001730
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 527001740,
+    "HuntEncountId": 52700174,
+    "Index": 0,
+    "HuntEnemyId": 527001740
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 527001800,
+    "HuntEncountId": 52700180,
+    "Index": 0,
+    "HuntEnemyId": 527001800
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 527001810,
+    "HuntEncountId": 52700181,
+    "Index": 0,
+    "HuntEnemyId": 527001810
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 527001820,
+    "HuntEncountId": 52700182,
+    "Index": 0,
+    "HuntEnemyId": 527001820
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 527001830,
+    "HuntEncountId": 52700183,
+    "Index": 0,
+    "HuntEnemyId": 527001830
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 527001840,
+    "HuntEncountId": 52700184,
+    "Index": 0,
+    "HuntEnemyId": 527001840
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 527001900,
+    "HuntEncountId": 52700190,
+    "Index": 0,
+    "HuntEnemyId": 527001900
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 527001910,
+    "HuntEncountId": 52700191,
+    "Index": 0,
+    "HuntEnemyId": 527001910
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 527001920,
+    "HuntEncountId": 52700192,
+    "Index": 0,
+    "HuntEnemyId": 527001920
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 527001930,
+    "HuntEncountId": 52700193,
+    "Index": 0,
+    "HuntEnemyId": 527001930
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 527001940,
+    "HuntEncountId": 52700194,
+    "Index": 0,
+    "HuntEnemyId": 527001940
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 527002000,
+    "HuntEncountId": 52700200,
+    "Index": 0,
+    "HuntEnemyId": 527002000
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 527002010,
+    "HuntEncountId": 52700201,
+    "Index": 0,
+    "HuntEnemyId": 527002010
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 527002020,
+    "HuntEncountId": 52700202,
+    "Index": 0,
+    "HuntEnemyId": 527002020
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 527002030,
+    "HuntEncountId": 52700203,
+    "Index": 0,
+    "HuntEnemyId": 527002030
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 527002040,
+    "HuntEncountId": 52700204,
+    "Index": 0,
+    "HuntEnemyId": 527002040
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 527002100,
+    "HuntEncountId": 52700210,
+    "Index": 0,
+    "HuntEnemyId": 527002100
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 527002110,
+    "HuntEncountId": 52700211,
+    "Index": 0,
+    "HuntEnemyId": 527002110
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 527002120,
+    "HuntEncountId": 52700212,
+    "Index": 0,
+    "HuntEnemyId": 527002120
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 527002130,
+    "HuntEncountId": 52700213,
+    "Index": 0,
+    "HuntEnemyId": 527002130
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 527002140,
+    "HuntEncountId": 52700214,
+    "Index": 0,
+    "HuntEnemyId": 527002140
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 527002200,
+    "HuntEncountId": 52700220,
+    "Index": 0,
+    "HuntEnemyId": 527002200
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 527002210,
+    "HuntEncountId": 52700221,
+    "Index": 0,
+    "HuntEnemyId": 527002210
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 527002220,
+    "HuntEncountId": 52700222,
+    "Index": 0,
+    "HuntEnemyId": 527002220
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 527002230,
+    "HuntEncountId": 52700223,
+    "Index": 0,
+    "HuntEnemyId": 527002230
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 527002240,
+    "HuntEncountId": 52700224,
+    "Index": 0,
+    "HuntEnemyId": 527002240
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 527002300,
+    "HuntEncountId": 52700230,
+    "Index": 0,
+    "HuntEnemyId": 527002300
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 527002310,
+    "HuntEncountId": 52700231,
+    "Index": 0,
+    "HuntEnemyId": 527002310
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 527002320,
+    "HuntEncountId": 52700232,
+    "Index": 0,
+    "HuntEnemyId": 527002320
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 527002330,
+    "HuntEncountId": 52700233,
+    "Index": 0,
+    "HuntEnemyId": 527002330
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 527002340,
+    "HuntEncountId": 52700234,
+    "Index": 0,
+    "HuntEnemyId": 527002340
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 527002400,
+    "HuntEncountId": 52700240,
+    "Index": 0,
+    "HuntEnemyId": 527002400
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 527002410,
+    "HuntEncountId": 52700241,
+    "Index": 0,
+    "HuntEnemyId": 527002410
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 527002420,
+    "HuntEncountId": 52700242,
+    "Index": 0,
+    "HuntEnemyId": 527002420
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 527002430,
+    "HuntEncountId": 52700243,
+    "Index": 0,
+    "HuntEnemyId": 527002430
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 527002440,
+    "HuntEncountId": 52700244,
+    "Index": 0,
+    "HuntEnemyId": 527002440
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 527002500,
+    "HuntEncountId": 52700250,
+    "Index": 0,
+    "HuntEnemyId": 527002500
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 527002510,
+    "HuntEncountId": 52700251,
+    "Index": 0,
+    "HuntEnemyId": 527002510
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 527002520,
+    "HuntEncountId": 52700252,
+    "Index": 0,
+    "HuntEnemyId": 527002520
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 527002530,
+    "HuntEncountId": 52700253,
+    "Index": 0,
+    "HuntEnemyId": 527002530
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 527002540,
+    "HuntEncountId": 52700254,
+    "Index": 0,
+    "HuntEnemyId": 527002540
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 527002600,
+    "HuntEncountId": 52700260,
+    "Index": 0,
+    "HuntEnemyId": 527002600
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 527002610,
+    "HuntEncountId": 52700261,
+    "Index": 0,
+    "HuntEnemyId": 527002610
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 527002620,
+    "HuntEncountId": 52700262,
+    "Index": 0,
+    "HuntEnemyId": 527002620
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 527002630,
+    "HuntEncountId": 52700263,
+    "Index": 0,
+    "HuntEnemyId": 527002630
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 527002640,
+    "HuntEncountId": 52700264,
+    "Index": 0,
+    "HuntEnemyId": 527002640
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 527002700,
+    "HuntEncountId": 52700270,
+    "Index": 0,
+    "HuntEnemyId": 527002700
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 527002710,
+    "HuntEncountId": 52700271,
+    "Index": 0,
+    "HuntEnemyId": 527002710
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 527002720,
+    "HuntEncountId": 52700272,
+    "Index": 0,
+    "HuntEnemyId": 527002720
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 527002730,
+    "HuntEncountId": 52700273,
+    "Index": 0,
+    "HuntEnemyId": 527002730
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 527002740,
+    "HuntEncountId": 52700274,
+    "Index": 0,
+    "HuntEnemyId": 527002740
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 527002800,
+    "HuntEncountId": 52700280,
+    "Index": 0,
+    "HuntEnemyId": 527002800
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 527002810,
+    "HuntEncountId": 52700281,
+    "Index": 0,
+    "HuntEnemyId": 527002810
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 527002820,
+    "HuntEncountId": 52700282,
+    "Index": 0,
+    "HuntEnemyId": 527002820
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 527002830,
+    "HuntEncountId": 52700283,
+    "Index": 0,
+    "HuntEnemyId": 527002830
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 527002840,
+    "HuntEncountId": 52700284,
+    "Index": 0,
+    "HuntEnemyId": 527002840
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 527002900,
+    "HuntEncountId": 52700290,
+    "Index": 0,
+    "HuntEnemyId": 527002900
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 527002910,
+    "HuntEncountId": 52700291,
+    "Index": 0,
+    "HuntEnemyId": 527002910
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 527002920,
+    "HuntEncountId": 52700292,
+    "Index": 0,
+    "HuntEnemyId": 527002920
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 527002930,
+    "HuntEncountId": 52700293,
+    "Index": 0,
+    "HuntEnemyId": 527002930
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 527002940,
+    "HuntEncountId": 52700294,
+    "Index": 0,
+    "HuntEnemyId": 527002940
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 527003000,
+    "HuntEncountId": 52700300,
+    "Index": 0,
+    "HuntEnemyId": 527003000
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 527003010,
+    "HuntEncountId": 52700301,
+    "Index": 0,
+    "HuntEnemyId": 527003010
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 527003020,
+    "HuntEncountId": 52700302,
+    "Index": 0,
+    "HuntEnemyId": 527003020
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 527003030,
+    "HuntEncountId": 52700303,
+    "Index": 0,
+    "HuntEnemyId": 527003030
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 527003040,
+    "HuntEncountId": 52700304,
+    "Index": 0,
+    "HuntEnemyId": 527003040
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 527003100,
+    "HuntEncountId": 52700310,
+    "Index": 0,
+    "HuntEnemyId": 527003100
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 527003110,
+    "HuntEncountId": 52700311,
+    "Index": 0,
+    "HuntEnemyId": 527003110
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 527003120,
+    "HuntEncountId": 52700312,
+    "Index": 0,
+    "HuntEnemyId": 527003120
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 527003130,
+    "HuntEncountId": 52700313,
+    "Index": 0,
+    "HuntEnemyId": 527003130
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 527003140,
+    "HuntEncountId": 52700314,
+    "Index": 0,
+    "HuntEnemyId": 527003140
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 527003200,
+    "HuntEncountId": 52700320,
+    "Index": 0,
+    "HuntEnemyId": 527003200
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 527003210,
+    "HuntEncountId": 52700321,
+    "Index": 0,
+    "HuntEnemyId": 527003210
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 527003220,
+    "HuntEncountId": 52700322,
+    "Index": 0,
+    "HuntEnemyId": 527003220
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 527003230,
+    "HuntEncountId": 52700323,
+    "Index": 0,
+    "HuntEnemyId": 527003230
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 527003240,
+    "HuntEncountId": 52700324,
+    "Index": 0,
+    "HuntEnemyId": 527003240
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 527003300,
+    "HuntEncountId": 52700330,
+    "Index": 0,
+    "HuntEnemyId": 527003300
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 527003310,
+    "HuntEncountId": 52700331,
+    "Index": 0,
+    "HuntEnemyId": 527003310
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 527003320,
+    "HuntEncountId": 52700332,
+    "Index": 0,
+    "HuntEnemyId": 527003320
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 527003330,
+    "HuntEncountId": 52700333,
+    "Index": 0,
+    "HuntEnemyId": 527003330
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 527003340,
+    "HuntEncountId": 52700334,
+    "Index": 0,
+    "HuntEnemyId": 527003340
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 527003400,
+    "HuntEncountId": 52700340,
+    "Index": 0,
+    "HuntEnemyId": 527003400
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 527003410,
+    "HuntEncountId": 52700341,
+    "Index": 0,
+    "HuntEnemyId": 527003410
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 527003420,
+    "HuntEncountId": 52700342,
+    "Index": 0,
+    "HuntEnemyId": 527003420
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 527003430,
+    "HuntEncountId": 52700343,
+    "Index": 0,
+    "HuntEnemyId": 527003430
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 527003440,
+    "HuntEncountId": 52700344,
+    "Index": 0,
+    "HuntEnemyId": 527003440
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 527003500,
+    "HuntEncountId": 52700350,
+    "Index": 0,
+    "HuntEnemyId": 527003500
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 527003510,
+    "HuntEncountId": 52700351,
+    "Index": 0,
+    "HuntEnemyId": 527003510
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 527003520,
+    "HuntEncountId": 52700352,
+    "Index": 0,
+    "HuntEnemyId": 527003520
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 527003530,
+    "HuntEncountId": 52700353,
+    "Index": 0,
+    "HuntEnemyId": 527003530
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 527003540,
+    "HuntEncountId": 52700354,
+    "Index": 0,
+    "HuntEnemyId": 527003540
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 527003600,
+    "HuntEncountId": 52700360,
+    "Index": 0,
+    "HuntEnemyId": 527003600
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 527003610,
+    "HuntEncountId": 52700361,
+    "Index": 0,
+    "HuntEnemyId": 527003610
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 527003620,
+    "HuntEncountId": 52700362,
+    "Index": 0,
+    "HuntEnemyId": 527003620
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 527003630,
+    "HuntEncountId": 52700363,
+    "Index": 0,
+    "HuntEnemyId": 527003630
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 527003640,
+    "HuntEncountId": 52700364,
+    "Index": 0,
+    "HuntEnemyId": 527003640
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 527003700,
+    "HuntEncountId": 52700370,
+    "Index": 0,
+    "HuntEnemyId": 527003700
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 527003710,
+    "HuntEncountId": 52700371,
+    "Index": 0,
+    "HuntEnemyId": 527003710
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 527003720,
+    "HuntEncountId": 52700372,
+    "Index": 0,
+    "HuntEnemyId": 527003720
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 527003730,
+    "HuntEncountId": 52700373,
+    "Index": 0,
+    "HuntEnemyId": 527003730
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 527003740,
+    "HuntEncountId": 52700374,
+    "Index": 0,
+    "HuntEnemyId": 527003740
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 527003800,
+    "HuntEncountId": 52700380,
+    "Index": 0,
+    "HuntEnemyId": 527003800
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 527003810,
+    "HuntEncountId": 52700381,
+    "Index": 0,
+    "HuntEnemyId": 527003810
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 527003820,
+    "HuntEncountId": 52700382,
+    "Index": 0,
+    "HuntEnemyId": 527003820
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 527003830,
+    "HuntEncountId": 52700383,
+    "Index": 0,
+    "HuntEnemyId": 527003830
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 527003840,
+    "HuntEncountId": 52700384,
+    "Index": 0,
+    "HuntEnemyId": 527003840
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 527003900,
+    "HuntEncountId": 52700390,
+    "Index": 0,
+    "HuntEnemyId": 527003900
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 527003910,
+    "HuntEncountId": 52700391,
+    "Index": 0,
+    "HuntEnemyId": 527003910
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 527003920,
+    "HuntEncountId": 52700392,
+    "Index": 0,
+    "HuntEnemyId": 527003920
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 527003930,
+    "HuntEncountId": 52700393,
+    "Index": 0,
+    "HuntEnemyId": 527003930
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 527003940,
+    "HuntEncountId": 52700394,
+    "Index": 0,
+    "HuntEnemyId": 527003940
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 527004000,
+    "HuntEncountId": 52700400,
+    "Index": 0,
+    "HuntEnemyId": 527004000
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 527004010,
+    "HuntEncountId": 52700401,
+    "Index": 0,
+    "HuntEnemyId": 527004010
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 527004020,
+    "HuntEncountId": 52700402,
+    "Index": 0,
+    "HuntEnemyId": 527004020
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 527004030,
+    "HuntEncountId": 52700403,
+    "Index": 0,
+    "HuntEnemyId": 527004030
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 527004040,
+    "HuntEncountId": 52700404,
+    "Index": 0,
+    "HuntEnemyId": 527004040
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 527004100,
+    "HuntEncountId": 52700410,
+    "Index": 0,
+    "HuntEnemyId": 527004100
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 527004110,
+    "HuntEncountId": 52700411,
+    "Index": 0,
+    "HuntEnemyId": 527004110
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 527004120,
+    "HuntEncountId": 52700412,
+    "Index": 0,
+    "HuntEnemyId": 527004120
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 527004130,
+    "HuntEncountId": 52700413,
+    "Index": 0,
+    "HuntEnemyId": 527004130
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 527004140,
+    "HuntEncountId": 52700414,
+    "Index": 0,
+    "HuntEnemyId": 527004140
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 527004200,
+    "HuntEncountId": 52700420,
+    "Index": 0,
+    "HuntEnemyId": 527004200
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 527004210,
+    "HuntEncountId": 52700421,
+    "Index": 0,
+    "HuntEnemyId": 527004210
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 527004220,
+    "HuntEncountId": 52700422,
+    "Index": 0,
+    "HuntEnemyId": 527004220
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 527004230,
+    "HuntEncountId": 52700423,
+    "Index": 0,
+    "HuntEnemyId": 527004230
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 527004240,
+    "HuntEncountId": 52700424,
+    "Index": 0,
+    "HuntEnemyId": 527004240
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 527004300,
+    "HuntEncountId": 52700430,
+    "Index": 0,
+    "HuntEnemyId": 527004300
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 527004310,
+    "HuntEncountId": 52700431,
+    "Index": 0,
+    "HuntEnemyId": 527004310
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 527004320,
+    "HuntEncountId": 52700432,
+    "Index": 0,
+    "HuntEnemyId": 527004320
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 527004330,
+    "HuntEncountId": 52700433,
+    "Index": 0,
+    "HuntEnemyId": 527004330
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 527004340,
+    "HuntEncountId": 52700434,
+    "Index": 0,
+    "HuntEnemyId": 527004340
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 527004400,
+    "HuntEncountId": 52700440,
+    "Index": 0,
+    "HuntEnemyId": 527004400
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 527004410,
+    "HuntEncountId": 52700441,
+    "Index": 0,
+    "HuntEnemyId": 527004410
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 527004420,
+    "HuntEncountId": 52700442,
+    "Index": 0,
+    "HuntEnemyId": 527004420
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 527004430,
+    "HuntEncountId": 52700443,
+    "Index": 0,
+    "HuntEnemyId": 527004430
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 527004440,
+    "HuntEncountId": 52700444,
+    "Index": 0,
+    "HuntEnemyId": 527004440
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 527004500,
+    "HuntEncountId": 52700450,
+    "Index": 0,
+    "HuntEnemyId": 527004500
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 527004510,
+    "HuntEncountId": 52700451,
+    "Index": 0,
+    "HuntEnemyId": 527004510
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 527004520,
+    "HuntEncountId": 52700452,
+    "Index": 0,
+    "HuntEnemyId": 527004520
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 527004530,
+    "HuntEncountId": 52700453,
+    "Index": 0,
+    "HuntEnemyId": 527004530
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 527004540,
+    "HuntEncountId": 52700454,
+    "Index": 0,
+    "HuntEnemyId": 527004540
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 527004600,
+    "HuntEncountId": 52700460,
+    "Index": 0,
+    "HuntEnemyId": 527004600
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 527004610,
+    "HuntEncountId": 52700461,
+    "Index": 0,
+    "HuntEnemyId": 527004610
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 527004620,
+    "HuntEncountId": 52700462,
+    "Index": 0,
+    "HuntEnemyId": 527004620
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 527004630,
+    "HuntEncountId": 52700463,
+    "Index": 0,
+    "HuntEnemyId": 527004630
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 527004640,
+    "HuntEncountId": 52700464,
+    "Index": 0,
+    "HuntEnemyId": 527004640
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 527004700,
+    "HuntEncountId": 52700470,
+    "Index": 0,
+    "HuntEnemyId": 527004700
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 527004710,
+    "HuntEncountId": 52700471,
+    "Index": 0,
+    "HuntEnemyId": 527004710
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 527004720,
+    "HuntEncountId": 52700472,
+    "Index": 0,
+    "HuntEnemyId": 527004720
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 527004730,
+    "HuntEncountId": 52700473,
+    "Index": 0,
+    "HuntEnemyId": 527004730
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 527004740,
+    "HuntEncountId": 52700474,
+    "Index": 0,
+    "HuntEnemyId": 527004740
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 527004800,
+    "HuntEncountId": 52700480,
+    "Index": 0,
+    "HuntEnemyId": 527004800
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 527004810,
+    "HuntEncountId": 52700481,
+    "Index": 0,
+    "HuntEnemyId": 527004810
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 527004820,
+    "HuntEncountId": 52700482,
+    "Index": 0,
+    "HuntEnemyId": 527004820
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 527004830,
+    "HuntEncountId": 52700483,
+    "Index": 0,
+    "HuntEnemyId": 527004830
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 527004840,
+    "HuntEncountId": 52700484,
+    "Index": 0,
+    "HuntEnemyId": 527004840
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 527004900,
+    "HuntEncountId": 52700490,
+    "Index": 0,
+    "HuntEnemyId": 527004900
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 527004910,
+    "HuntEncountId": 52700491,
+    "Index": 0,
+    "HuntEnemyId": 527004910
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 527004920,
+    "HuntEncountId": 52700492,
+    "Index": 0,
+    "HuntEnemyId": 527004920
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 527004930,
+    "HuntEncountId": 52700493,
+    "Index": 0,
+    "HuntEnemyId": 527004930
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 527004940,
+    "HuntEncountId": 52700494,
+    "Index": 0,
+    "HuntEnemyId": 527004940
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 527005000,
+    "HuntEncountId": 52700500,
+    "Index": 0,
+    "HuntEnemyId": 527005000
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 527005010,
+    "HuntEncountId": 52700501,
+    "Index": 0,
+    "HuntEnemyId": 527005010
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 527005020,
+    "HuntEncountId": 52700502,
+    "Index": 0,
+    "HuntEnemyId": 527005020
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 527005030,
+    "HuntEncountId": 52700503,
+    "Index": 0,
+    "HuntEnemyId": 527005030
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 527005040,
+    "HuntEncountId": 52700504,
+    "Index": 0,
+    "HuntEnemyId": 527005040
   }
 ]

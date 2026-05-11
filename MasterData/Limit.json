@@ -385,5 +385,14 @@
     "ResetDayOfMonth": 0,
     "ResetDayOfWeek": "-",
     "ResetHourJST": 15
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 1027,
+    "LimitCount": 1,
+    "ResetType": "daily",
+    "ResetDayOfMonth": 0,
+    "ResetDayOfWeek": "-",
+    "ResetHourJST": 15
   }
 ]

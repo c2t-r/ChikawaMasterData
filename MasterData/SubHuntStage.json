@@ -26998,5 +26998,455 @@
     "HuntStageId": 5260050,
     "RewardGroupId": 5260050,
     "BattleTimeSeconds": 180
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 1027001,
+    "GroupId": 1027,
+    "Difficulty": 1,
+    "HuntStageId": 5270001,
+    "RewardGroupId": 5270001,
+    "BattleTimeSeconds": 180
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 1027002,
+    "GroupId": 1027,
+    "Difficulty": 2,
+    "HuntStageId": 5270002,
+    "RewardGroupId": 5270002,
+    "BattleTimeSeconds": 180
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 1027003,
+    "GroupId": 1027,
+    "Difficulty": 3,
+    "HuntStageId": 5270003,
+    "RewardGroupId": 5270003,
+    "BattleTimeSeconds": 180
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 1027004,
+    "GroupId": 1027,
+    "Difficulty": 4,
+    "HuntStageId": 5270004,
+    "RewardGroupId": 5270004,
+    "BattleTimeSeconds": 180
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 1027005,
+    "GroupId": 1027,
+    "Difficulty": 5,
+    "HuntStageId": 5270005,
+    "RewardGroupId": 5270005,
+    "BattleTimeSeconds": 180
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 1027006,
+    "GroupId": 1027,
+    "Difficulty": 6,
+    "HuntStageId": 5270006,
+    "RewardGroupId": 5270006,
+    "BattleTimeSeconds": 180
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 1027007,
+    "GroupId": 1027,
+    "Difficulty": 7,
+    "HuntStageId": 5270007,
+    "RewardGroupId": 5270007,
+    "BattleTimeSeconds": 180
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 1027008,
+    "GroupId": 1027,
+    "Difficulty": 8,
+    "HuntStageId": 5270008,
+    "RewardGroupId": 5270008,
+    "BattleTimeSeconds": 180
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 1027009,
+    "GroupId": 1027,
+    "Difficulty": 9,
+    "HuntStageId": 5270009,
+    "RewardGroupId": 5270009,
+    "BattleTimeSeconds": 180
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 1027010,
+    "GroupId": 1027,
+    "Difficulty": 10,
+    "HuntStageId": 5270010,
+    "RewardGroupId": 5270010,
+    "BattleTimeSeconds": 180
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 1027011,
+    "GroupId": 1027,
+    "Difficulty": 11,
+    "HuntStageId": 5270011,
+    "RewardGroupId": 5270011,
+    "BattleTimeSeconds": 180
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 1027012,
+    "GroupId": 1027,
+    "Difficulty": 12,
+    "HuntStageId": 5270012,
+    "RewardGroupId": 5270012,
+    "BattleTimeSeconds": 180
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 1027013,
+    "GroupId": 1027,
+    "Difficulty": 13,
+    "HuntStageId": 5270013,
+    "RewardGroupId": 5270013,
+    "BattleTimeSeconds": 180
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 1027014,
+    "GroupId": 1027,
+    "Difficulty": 14,
+    "HuntStageId": 5270014,
+    "RewardGroupId": 5270014,
+    "BattleTimeSeconds": 180
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 1027015,
+    "GroupId": 1027,
+    "Difficulty": 15,
+    "HuntStageId": 5270015,
+    "RewardGroupId": 5270015,
+    "BattleTimeSeconds": 180
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 1027016,
+    "GroupId": 1027,
+    "Difficulty": 16,
+    "HuntStageId": 5270016,
+    "RewardGroupId": 5270016,
+    "BattleTimeSeconds": 180
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 1027017,
+    "GroupId": 1027,
+    "Difficulty": 17,
+    "HuntStageId": 5270017,
+    "RewardGroupId": 5270017,
+    "BattleTimeSeconds": 180
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 1027018,
+    "GroupId": 1027,
+    "Difficulty": 18,
+    "HuntStageId": 5270018,
+    "RewardGroupId": 5270018,
+    "BattleTimeSeconds": 180
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 1027019,
+    "GroupId": 1027,
+    "Difficulty": 19,
+    "HuntStageId": 5270019,
+    "RewardGroupId": 5270019,
+    "BattleTimeSeconds": 180
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 1027020,
+    "GroupId": 1027,
+    "Difficulty": 20,
+    "HuntStageId": 5270020,
+    "RewardGroupId": 5270020,
+    "BattleTimeSeconds": 180
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 1027021,
+    "GroupId": 1027,
+    "Difficulty": 21,
+    "HuntStageId": 5270021,
+    "RewardGroupId": 5270021,
+    "BattleTimeSeconds": 180
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 1027022,
+    "GroupId": 1027,
+    "Difficulty": 22,
+    "HuntStageId": 5270022,
+    "RewardGroupId": 5270022,
+    "BattleTimeSeconds": 180
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 1027023,
+    "GroupId": 1027,
+    "Difficulty": 23,
+    "HuntStageId": 5270023,
+    "RewardGroupId": 5270023,
+    "BattleTimeSeconds": 180
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 1027024,
+    "GroupId": 1027,
+    "Difficulty": 24,
+    "HuntStageId": 5270024,
+    "RewardGroupId": 5270024,
+    "BattleTimeSeconds": 180
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 1027025,
+    "GroupId": 1027,
+    "Difficulty": 25,
+    "HuntStageId": 5270025,
+    "RewardGroupId": 5270025,
+    "BattleTimeSeconds": 180
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 1027026,
+    "GroupId": 1027,
+    "Difficulty": 26,
+    "HuntStageId": 5270026,
+    "RewardGroupId": 5270026,
+    "BattleTimeSeconds": 180
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 1027027,
+    "GroupId": 1027,
+    "Difficulty": 27,
+    "HuntStageId": 5270027,
+    "RewardGroupId": 5270027,
+    "BattleTimeSeconds": 180
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 1027028,
+    "GroupId": 1027,
+    "Difficulty": 28,
+    "HuntStageId": 5270028,
+    "RewardGroupId": 5270028,
+    "BattleTimeSeconds": 180
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 1027029,
+    "GroupId": 1027,
+    "Difficulty": 29,
+    "HuntStageId": 5270029,
+    "RewardGroupId": 5270029,
+    "BattleTimeSeconds": 180
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 1027030,
+    "GroupId": 1027,
+    "Difficulty": 30,
+    "HuntStageId": 5270030,
+    "RewardGroupId": 5270030,
+    "BattleTimeSeconds": 180
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 1027031,
+    "GroupId": 1027,
+    "Difficulty": 31,
+    "HuntStageId": 5270031,
+    "RewardGroupId": 5270031,
+    "BattleTimeSeconds": 180
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 1027032,
+    "GroupId": 1027,
+    "Difficulty": 32,
+    "HuntStageId": 5270032,
+    "RewardGroupId": 5270032,
+    "BattleTimeSeconds": 180
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 1027033,
+    "GroupId": 1027,
+    "Difficulty": 33,
+    "HuntStageId": 5270033,
+    "RewardGroupId": 5270033,
+    "BattleTimeSeconds": 180
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 1027034,
+    "GroupId": 1027,
+    "Difficulty": 34,
+    "HuntStageId": 5270034,
+    "RewardGroupId": 5270034,
+    "BattleTimeSeconds": 180
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 1027035,
+    "GroupId": 1027,
+    "Difficulty": 35,
+    "HuntStageId": 5270035,
+    "RewardGroupId": 5270035,
+    "BattleTimeSeconds": 180
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 1027036,
+    "GroupId": 1027,
+    "Difficulty": 36,
+    "HuntStageId": 5270036,
+    "RewardGroupId": 5270036,
+    "BattleTimeSeconds": 180
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 1027037,
+    "GroupId": 1027,
+    "Difficulty": 37,
+    "HuntStageId": 5270037,
+    "RewardGroupId": 5270037,
+    "BattleTimeSeconds": 180
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 1027038,
+    "GroupId": 1027,
+    "Difficulty": 38,
+    "HuntStageId": 5270038,
+    "RewardGroupId": 5270038,
+    "BattleTimeSeconds": 180
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 1027039,
+    "GroupId": 1027,
+    "Difficulty": 39,
+    "HuntStageId": 5270039,
+    "RewardGroupId": 5270039,
+    "BattleTimeSeconds": 180
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 1027040,
+    "GroupId": 1027,
+    "Difficulty": 40,
+    "HuntStageId": 5270040,
+    "RewardGroupId": 5270040,
+    "BattleTimeSeconds": 180
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 1027041,
+    "GroupId": 1027,
+    "Difficulty": 41,
+    "HuntStageId": 5270041,
+    "RewardGroupId": 5270041,
+    "BattleTimeSeconds": 180
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 1027042,
+    "GroupId": 1027,
+    "Difficulty": 42,
+    "HuntStageId": 5270042,
+    "RewardGroupId": 5270042,
+    "BattleTimeSeconds": 180
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 1027043,
+    "GroupId": 1027,
+    "Difficulty": 43,
+    "HuntStageId": 5270043,
+    "RewardGroupId": 5270043,
+    "BattleTimeSeconds": 180
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 1027044,
+    "GroupId": 1027,
+    "Difficulty": 44,
+    "HuntStageId": 5270044,
+    "RewardGroupId": 5270044,
+    "BattleTimeSeconds": 180
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 1027045,
+    "GroupId": 1027,
+    "Difficulty": 45,
+    "HuntStageId": 5270045,
+    "RewardGroupId": 5270045,
+    "BattleTimeSeconds": 180
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 1027046,
+    "GroupId": 1027,
+    "Difficulty": 46,
+    "HuntStageId": 5270046,
+    "RewardGroupId": 5270046,
+    "BattleTimeSeconds": 180
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 1027047,
+    "GroupId": 1027,
+    "Difficulty": 47,
+    "HuntStageId": 5270047,
+    "RewardGroupId": 5270047,
+    "BattleTimeSeconds": 180
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 1027048,
+    "GroupId": 1027,
+    "Difficulty": 48,
+    "HuntStageId": 5270048,
+    "RewardGroupId": 5270048,
+    "BattleTimeSeconds": 180
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 1027049,
+    "GroupId": 1027,
+    "Difficulty": 49,
+    "HuntStageId": 5270049,
+    "RewardGroupId": 5270049,
+    "BattleTimeSeconds": 180
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 1027050,
+    "GroupId": 1027,
+    "Difficulty": 50,
+    "HuntStageId": 5270050,
+    "RewardGroupId": 5270050,
+    "BattleTimeSeconds": 180
   }
 ]

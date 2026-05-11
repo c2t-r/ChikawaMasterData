@@ -20446,5 +20446,165 @@
     "Value": "0",
     "LevelRangeValueGroupId": 1007302210,
     "ValueType": "Invalid"
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 310151,
+    "StatusType": "Attack",
+    "Value": "300",
+    "LevelRangeValueGroupId": 0,
+    "ValueType": "Permil"
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 310152,
+    "StatusType": "SkillDamageRate",
+    "Value": "150",
+    "LevelRangeValueGroupId": 0,
+    "ValueType": "Permil"
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 310153,
+    "StatusType": "Attack",
+    "Value": "900",
+    "LevelRangeValueGroupId": 0,
+    "ValueType": "Permil"
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 310154,
+    "StatusType": "SkillDamageRate",
+    "Value": "230",
+    "LevelRangeValueGroupId": 0,
+    "ValueType": "Permil"
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 310155,
+    "StatusType": "UniqueSkillDamageRate",
+    "Value": "300",
+    "LevelRangeValueGroupId": 0,
+    "ValueType": "Permil"
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 320151,
+    "StatusType": "CriticalDamage",
+    "Value": "120",
+    "LevelRangeValueGroupId": 0,
+    "ValueType": "Permil"
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 320152,
+    "StatusType": "CriticalDamage",
+    "Value": "150",
+    "LevelRangeValueGroupId": 0,
+    "ValueType": "Permil"
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 320153,
+    "StatusType": "Health",
+    "Value": "900",
+    "LevelRangeValueGroupId": 0,
+    "ValueType": "Permil"
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 320154,
+    "StatusType": "Health",
+    "Value": "900",
+    "LevelRangeValueGroupId": 0,
+    "ValueType": "Permil"
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 320155,
+    "StatusType": "CriticalDamage",
+    "Value": "300",
+    "LevelRangeValueGroupId": 0,
+    "ValueType": "Permil"
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 340151,
+    "StatusType": "UniqueSkillDamageRate",
+    "Value": "120",
+    "LevelRangeValueGroupId": 0,
+    "ValueType": "Permil"
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 340152,
+    "StatusType": "Health",
+    "Value": "600",
+    "LevelRangeValueGroupId": 0,
+    "ValueType": "Permil"
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 340153,
+    "StatusType": "Attack",
+    "Value": "900",
+    "LevelRangeValueGroupId": 0,
+    "ValueType": "Permil"
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 340154,
+    "StatusType": "CriticalDamage",
+    "Value": "230",
+    "LevelRangeValueGroupId": 0,
+    "ValueType": "Permil"
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 340155,
+    "StatusType": "UniqueSkillDamageRate",
+    "Value": "300",
+    "LevelRangeValueGroupId": 0,
+    "ValueType": "Permil"
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 360151,
+    "StatusType": "Attack",
+    "Value": "300",
+    "LevelRangeValueGroupId": 0,
+    "ValueType": "Permil"
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 360152,
+    "StatusType": "Health",
+    "Value": "600",
+    "LevelRangeValueGroupId": 0,
+    "ValueType": "Permil"
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 360153,
+    "StatusType": "Attack",
+    "Value": "900",
+    "LevelRangeValueGroupId": 0,
+    "ValueType": "Permil"
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 360154,
+    "StatusType": "Health",
+    "Value": "900",
+    "LevelRangeValueGroupId": 0,
+    "ValueType": "Permil"
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 360155,
+    "StatusType": "GoldAcquire",
+    "Value": "150",
+    "LevelRangeValueGroupId": 0,
+    "ValueType": "Permil"
   }
 ]

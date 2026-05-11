@@ -568,5 +568,35 @@
     "PremiumPassPlusShopItemId": 0,
     "AnnotationTextKey": -151692427,
     "DiscountPremiumPassPlusShopItemId": 0
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 14,
+    "Type": "Default",
+    "ProgressType": "Mission",
+    "NameTextKey": 220211792,
+    "ExperienceGroupId": 18,
+    "ExperienceViewId": 14,
+    "ConditionDateTermId": 71014080,
+    "MissionGroupId": 3014,
+    "PremiumPassShopItemId": 32064,
+    "PremiumPassPlusShopItemId": 32065,
+    "AnnotationTextKey": 1951254667,
+    "DiscountPremiumPassPlusShopItemId": 32066
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 1027,
+    "Type": "Event",
+    "ProgressType": "ExchangePoint",
+    "NameTextKey": 129519436,
+    "ExperienceGroupId": 74,
+    "ExperienceViewId": 6027,
+    "ConditionDateTermId": 72015130,
+    "MissionGroupId": 0,
+    "PremiumPassShopItemId": 115101,
+    "PremiumPassPlusShopItemId": 0,
+    "AnnotationTextKey": -151692427,
+    "DiscountPremiumPassPlusShopItemId": 0
   }
 ]

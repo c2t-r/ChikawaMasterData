@@ -526,5 +526,21 @@
     "NameTextKey": -488753022,
     "TabTextKey": 661541722,
     "ViewPlaceType": "Event"
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 1151,
+    "SortOrder": 40,
+    "NameTextKey": -488753022,
+    "TabTextKey": 661541722,
+    "ViewPlaceType": "Event"
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 1152,
+    "SortOrder": 30,
+    "NameTextKey": 818099491,
+    "TabTextKey": 661541722,
+    "ViewPlaceType": "Event"
   }
 ]

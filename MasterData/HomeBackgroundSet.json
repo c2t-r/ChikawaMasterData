@@ -151,5 +151,14 @@
     "SizeId": 2,
     "NameTextKey": -1150413359,
     "Rarity": "HyperRare"
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 1015,
+    "ViewConditionId": 2605101,
+    "Type": "Indoor",
+    "SizeId": 2,
+    "NameTextKey": -865524409,
+    "Rarity": "HyperRare"
   }
 ]

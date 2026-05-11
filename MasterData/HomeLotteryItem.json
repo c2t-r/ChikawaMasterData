@@ -677,5 +677,19 @@
     "ItemId": 100,
     "Ratio": 100,
     "ConditionGroupId": 0
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 101,
+    "ItemId": 101,
+    "Ratio": 100,
+    "ConditionGroupId": 0
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 104,
+    "ItemId": 104,
+    "Ratio": 100,
+    "ConditionGroupId": 0
   }
 ]

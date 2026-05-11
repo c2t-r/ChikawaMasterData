@@ -54,5 +54,13 @@
     "BackgroundType": "Book",
     "AssetId": 7001,
     "Order": 7
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 102706,
+    "NameTextKey": -829292385,
+    "BackgroundType": "Canvas",
+    "AssetId": 8001,
+    "Order": 8
   }
 ]

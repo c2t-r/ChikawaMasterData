@@ -1505,5 +1505,60 @@
     "BuffEffectTime": 0,
     "CalculationType": "Multiple",
     "EffectLevelRangeValueId": 37014
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 31015,
+    "ConditionGroupId": 0,
+    "TargetType": "Enemy",
+    "TargetRangeType": "Single",
+    "SkillEffectType": "Attack",
+    "BuffEffectTime": 0,
+    "CalculationType": "Multiple",
+    "EffectLevelRangeValueId": 31015
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 32015,
+    "ConditionGroupId": 0,
+    "TargetType": "Enemy",
+    "TargetRangeType": "Range",
+    "SkillEffectType": "StatusAttackDown",
+    "BuffEffectTime": 12,
+    "CalculationType": "Multiple",
+    "EffectLevelRangeValueId": 32015
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 34015,
+    "ConditionGroupId": 0,
+    "TargetType": "Enemy",
+    "TargetRangeType": "Single",
+    "SkillEffectType": "Attack",
+    "BuffEffectTime": 0,
+    "CalculationType": "Multiple",
+    "EffectLevelRangeValueId": 34015
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 340151,
+    "ConditionGroupId": 0,
+    "TargetType": "Friend",
+    "TargetRangeType": "Range",
+    "SkillEffectType": "StatusCriticalAttackUp",
+    "BuffEffectTime": 7,
+    "CalculationType": "AddPercent",
+    "EffectLevelRangeValueId": 340151
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 36015,
+    "ConditionGroupId": 0,
+    "TargetType": "Enemy",
+    "TargetRangeType": "Single",
+    "SkillEffectType": "Attack",
+    "BuffEffectTime": 0,
+    "CalculationType": "Multiple",
+    "EffectLevelRangeValueId": 36015
   }
 ]

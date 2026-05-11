@@ -230,5 +230,13 @@
     "DailyLimitCount": 1,
     "DailyLimitRefreshHourJST": 15,
     "AdRewardId": 1026
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 1027,
+    "ConsumeGroupId": 7,
+    "DailyLimitCount": 1,
+    "DailyLimitRefreshHourJST": 15,
+    "AdRewardId": 1027
   }
 ]

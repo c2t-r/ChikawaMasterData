@@ -2032,5 +2032,41 @@
     "AnimationId": 201,
     "Weight": 10,
     "ConditionGroupId": 0
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 1011,
+    "ItemId": 101,
+    "Level": 1,
+    "AnimationId": 201,
+    "Weight": 10,
+    "ConditionGroupId": 0
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 1012,
+    "ItemId": 101,
+    "Level": 2,
+    "AnimationId": 202,
+    "Weight": 10,
+    "ConditionGroupId": 0
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 1041,
+    "ItemId": 104,
+    "Level": 1,
+    "AnimationId": 201,
+    "Weight": 10,
+    "ConditionGroupId": 0
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 1042,
+    "ItemId": 104,
+    "Level": 2,
+    "AnimationId": 202,
+    "Weight": 10,
+    "ConditionGroupId": 0
   }
 ]

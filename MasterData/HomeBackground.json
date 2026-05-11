@@ -542,5 +542,37 @@
     "AssetId": 5,
     "TimeZone": "Night",
     "ColorCode": "#e4f4fdff"
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 10151,
+    "SetId": 1015,
+    "AssetId": 1,
+    "TimeZone": "Morning",
+    "ColorCode": "#ffffffff"
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 10152,
+    "SetId": 1015,
+    "AssetId": 1,
+    "TimeZone": "Noon",
+    "ColorCode": "#ffffffff"
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 10153,
+    "SetId": 1015,
+    "AssetId": 4,
+    "TimeZone": "Evening",
+    "ColorCode": "#ffffffff"
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 10154,
+    "SetId": 1015,
+    "AssetId": 5,
+    "TimeZone": "Night",
+    "ColorCode": "#ffffffff"
   }
 ]

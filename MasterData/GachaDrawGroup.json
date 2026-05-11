@@ -866,5 +866,68 @@
     "RelationId": 604104,
     "GachaDrawId": 6041031,
     "Order": 1
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 6042830,
+    "RelationId": 604283,
+    "GachaDrawId": 6042830,
+    "Order": 1
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 6042831,
+    "RelationId": 604284,
+    "GachaDrawId": 6042830,
+    "Order": 2
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 6042832,
+    "RelationId": 604284,
+    "GachaDrawId": 6042831,
+    "Order": 1
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 6050110,
+    "RelationId": 6050110,
+    "GachaDrawId": 6050110,
+    "Order": 1
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 6050111,
+    "RelationId": 6050111,
+    "GachaDrawId": 6050110,
+    "Order": 2
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 6050112,
+    "RelationId": 6050111,
+    "GachaDrawId": 6050111,
+    "Order": 1
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 6050120,
+    "RelationId": 6050120,
+    "GachaDrawId": 6050120,
+    "Order": 1
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 6050121,
+    "RelationId": 6050121,
+    "GachaDrawId": 6050120,
+    "Order": 2
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 6050122,
+    "RelationId": 6050121,
+    "GachaDrawId": 6050121,
+    "Order": 1
   }
 ]

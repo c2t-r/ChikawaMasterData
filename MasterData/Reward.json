@@ -791,6 +791,20 @@
     "AcquireAmount": "1"
   },
   {
+    "Version": "260510.1.0",
+    "Id": 2101,
+    "RewardType": "HomeItem",
+    "MasterId": 101,
+    "AcquireAmount": "1"
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 2104,
+    "RewardType": "HomeItem",
+    "MasterId": 104,
+    "AcquireAmount": "1"
+  },
+  {
     "Version": "250330.1.0",
     "Id": 3001,
     "RewardType": "HomeBackground",
@@ -907,6 +921,13 @@
     "Id": 3017,
     "RewardType": "HomeBackground",
     "MasterId": 1014,
+    "AcquireAmount": "1"
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 3018,
+    "RewardType": "HomeBackground",
+    "MasterId": 1015,
     "AcquireAmount": "1"
   },
   {
@@ -2356,6 +2377,13 @@
     "Id": 74003,
     "RewardType": "ProfileCard",
     "MasterId": 4003,
+    "AcquireAmount": "1"
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 74004,
+    "RewardType": "ProfileCard",
+    "MasterId": 4004,
     "AcquireAmount": "1"
   },
   {
@@ -5402,6 +5430,13 @@
     "RewardType": "ResourceItem",
     "MasterId": 502,
     "AcquireAmount": "110"
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 250140,
+    "RewardType": "ResourceItem",
+    "MasterId": 502,
+    "AcquireAmount": "140"
   },
   {
     "Version": "260130.1.0",
@@ -14858,6 +14893,174 @@
     "Id": 6000442,
     "RewardType": "UnlockItem",
     "MasterId": 73,
+    "AcquireAmount": "1"
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 6000451,
+    "RewardType": "RelativeScheduleTrigger",
+    "MasterId": 14,
+    "AcquireAmount": "1"
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 6000452,
+    "RewardType": "UnlockItem",
+    "MasterId": 74,
+    "AcquireAmount": "1"
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 6000461,
+    "RewardType": "RelativeScheduleTrigger",
+    "MasterId": 15,
+    "AcquireAmount": "1"
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 6000462,
+    "RewardType": "UnlockItem",
+    "MasterId": 75,
+    "AcquireAmount": "1"
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 6000471,
+    "RewardType": "RelativeScheduleTrigger",
+    "MasterId": 16,
+    "AcquireAmount": "1"
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 6000472,
+    "RewardType": "UnlockItem",
+    "MasterId": 76,
+    "AcquireAmount": "1"
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 6000481,
+    "RewardType": "RelativeScheduleTrigger",
+    "MasterId": 17,
+    "AcquireAmount": "1"
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 6000482,
+    "RewardType": "UnlockItem",
+    "MasterId": 77,
+    "AcquireAmount": "1"
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 6000491,
+    "RewardType": "RelativeScheduleTrigger",
+    "MasterId": 18,
+    "AcquireAmount": "1"
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 6000492,
+    "RewardType": "UnlockItem",
+    "MasterId": 78,
+    "AcquireAmount": "1"
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 6000501,
+    "RewardType": "RelativeScheduleTrigger",
+    "MasterId": 19,
+    "AcquireAmount": "1"
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 6000502,
+    "RewardType": "UnlockItem",
+    "MasterId": 79,
+    "AcquireAmount": "1"
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 6000511,
+    "RewardType": "RelativeScheduleTrigger",
+    "MasterId": 20,
+    "AcquireAmount": "1"
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 6000512,
+    "RewardType": "UnlockItem",
+    "MasterId": 80,
+    "AcquireAmount": "1"
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 6000521,
+    "RewardType": "RelativeScheduleTrigger",
+    "MasterId": 21,
+    "AcquireAmount": "1"
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 6000522,
+    "RewardType": "UnlockItem",
+    "MasterId": 81,
+    "AcquireAmount": "1"
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 6000531,
+    "RewardType": "RelativeScheduleTrigger",
+    "MasterId": 22,
+    "AcquireAmount": "1"
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 6000532,
+    "RewardType": "UnlockItem",
+    "MasterId": 82,
+    "AcquireAmount": "1"
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 6000541,
+    "RewardType": "RelativeScheduleTrigger",
+    "MasterId": 23,
+    "AcquireAmount": "1"
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 6000542,
+    "RewardType": "UnlockItem",
+    "MasterId": 83,
+    "AcquireAmount": "1"
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 6000551,
+    "RewardType": "RelativeScheduleTrigger",
+    "MasterId": 24,
+    "AcquireAmount": "1"
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 6000552,
+    "RewardType": "UnlockItem",
+    "MasterId": 84,
+    "AcquireAmount": "1"
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 6000561,
+    "RewardType": "RelativeScheduleTrigger",
+    "MasterId": 25,
+    "AcquireAmount": "1"
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 6000562,
+    "RewardType": "UnlockItem",
+    "MasterId": 85,
     "AcquireAmount": "1"
   },
   {
@@ -46107,5 +46310,607 @@
     "RewardType": "LimitedResourceItem",
     "MasterId": 10144,
     "AcquireAmount": "1"
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 73020141,
+    "RewardType": "UnlockItem",
+    "MasterId": 20141,
+    "AcquireAmount": "1"
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 73020142,
+    "RewardType": "UnlockItem",
+    "MasterId": 20142,
+    "AcquireAmount": "1"
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 32064010,
+    "RewardType": "SeasonPassExperience",
+    "MasterId": 14,
+    "AcquireAmount": "10"
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 32064015,
+    "RewardType": "SeasonPassExperience",
+    "MasterId": 14,
+    "AcquireAmount": "15"
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 32064020,
+    "RewardType": "SeasonPassExperience",
+    "MasterId": 14,
+    "AcquireAmount": "20"
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 32064150,
+    "RewardType": "SeasonPassExperience",
+    "MasterId": 14,
+    "AcquireAmount": "150"
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 73010151,
+    "RewardType": "UnlockItem",
+    "MasterId": 10151,
+    "AcquireAmount": "1"
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 73010152,
+    "RewardType": "UnlockItem",
+    "MasterId": 10152,
+    "AcquireAmount": "1"
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 71151001,
+    "RewardType": "LimitedResourceItem",
+    "MasterId": 10151,
+    "AcquireAmount": "1"
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 71151004,
+    "RewardType": "LimitedResourceItem",
+    "MasterId": 10151,
+    "AcquireAmount": "4"
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 71151005,
+    "RewardType": "LimitedResourceItem",
+    "MasterId": 10151,
+    "AcquireAmount": "5"
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 71151006,
+    "RewardType": "LimitedResourceItem",
+    "MasterId": 10151,
+    "AcquireAmount": "6"
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 71151010,
+    "RewardType": "LimitedResourceItem",
+    "MasterId": 10151,
+    "AcquireAmount": "10"
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 71151025,
+    "RewardType": "LimitedResourceItem",
+    "MasterId": 10151,
+    "AcquireAmount": "25"
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 71151070,
+    "RewardType": "LimitedResourceItem",
+    "MasterId": 10151,
+    "AcquireAmount": "70"
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 71155001,
+    "RewardType": "LimitedResourceItem",
+    "MasterId": 10155,
+    "AcquireAmount": "1"
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 81151021,
+    "RewardType": "AssistSkill",
+    "MasterId": 15,
+    "AcquireAmount": "5"
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 81151041,
+    "RewardType": "Weapon",
+    "MasterId": 30,
+    "AcquireAmount": "15"
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 81151042,
+    "RewardType": "Armor",
+    "MasterId": 30,
+    "AcquireAmount": "15"
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 81151043,
+    "RewardType": "AssistSkill",
+    "MasterId": 18,
+    "AcquireAmount": "5"
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 31015,
+    "RewardType": "Costume",
+    "MasterId": 31015,
+    "AcquireAmount": "1"
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 32015,
+    "RewardType": "Costume",
+    "MasterId": 32015,
+    "AcquireAmount": "1"
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 34015,
+    "RewardType": "Costume",
+    "MasterId": 34015,
+    "AcquireAmount": "1"
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 70171,
+    "RewardType": "ProfileCard",
+    "MasterId": 171,
+    "AcquireAmount": "1"
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 70172,
+    "RewardType": "ProfileCard",
+    "MasterId": 172,
+    "AcquireAmount": "1"
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 70175,
+    "RewardType": "ProfileCard",
+    "MasterId": 175,
+    "AcquireAmount": "1"
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 70176,
+    "RewardType": "ProfileCard",
+    "MasterId": 176,
+    "AcquireAmount": "1"
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 81121,
+    "RewardType": "ProfileStamp",
+    "MasterId": 1121,
+    "AcquireAmount": "1"
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 81122,
+    "RewardType": "ProfileStamp",
+    "MasterId": 1122,
+    "AcquireAmount": "1"
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 81125,
+    "RewardType": "ProfileStamp",
+    "MasterId": 1125,
+    "AcquireAmount": "1"
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 81126,
+    "RewardType": "ProfileStamp",
+    "MasterId": 1126,
+    "AcquireAmount": "1"
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 73027,
+    "RewardType": "ProfileCard",
+    "MasterId": 3027,
+    "AcquireAmount": "1"
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 36015,
+    "RewardType": "Costume",
+    "MasterId": 36015,
+    "AcquireAmount": "1"
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 60270010,
+    "RewardType": "SeasonPassExperience",
+    "MasterId": 1027,
+    "AcquireAmount": "10"
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 60270020,
+    "RewardType": "SeasonPassExperience",
+    "MasterId": 1027,
+    "AcquireAmount": "20"
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 60270050,
+    "RewardType": "SeasonPassExperience",
+    "MasterId": 1027,
+    "AcquireAmount": "50"
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 63270001,
+    "RewardType": "ResourceItem",
+    "MasterId": 10027,
+    "AcquireAmount": "400"
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 63270002,
+    "RewardType": "ResourceItem",
+    "MasterId": 10027,
+    "AcquireAmount": "420"
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 63270003,
+    "RewardType": "ResourceItem",
+    "MasterId": 10027,
+    "AcquireAmount": "440"
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 63270004,
+    "RewardType": "ResourceItem",
+    "MasterId": 10027,
+    "AcquireAmount": "460"
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 63270005,
+    "RewardType": "ResourceItem",
+    "MasterId": 10027,
+    "AcquireAmount": "480"
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 63270006,
+    "RewardType": "ResourceItem",
+    "MasterId": 10027,
+    "AcquireAmount": "500"
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 63270007,
+    "RewardType": "ResourceItem",
+    "MasterId": 10027,
+    "AcquireAmount": "520"
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 63270008,
+    "RewardType": "ResourceItem",
+    "MasterId": 10027,
+    "AcquireAmount": "540"
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 63270009,
+    "RewardType": "ResourceItem",
+    "MasterId": 10027,
+    "AcquireAmount": "560"
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 63270010,
+    "RewardType": "ResourceItem",
+    "MasterId": 10027,
+    "AcquireAmount": "580"
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 63270011,
+    "RewardType": "ResourceItem",
+    "MasterId": 10027,
+    "AcquireAmount": "600"
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 63270012,
+    "RewardType": "ResourceItem",
+    "MasterId": 10027,
+    "AcquireAmount": "620"
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 63270013,
+    "RewardType": "ResourceItem",
+    "MasterId": 10027,
+    "AcquireAmount": "640"
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 63270014,
+    "RewardType": "ResourceItem",
+    "MasterId": 10027,
+    "AcquireAmount": "660"
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 63270015,
+    "RewardType": "ResourceItem",
+    "MasterId": 10027,
+    "AcquireAmount": "680"
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 63270016,
+    "RewardType": "ResourceItem",
+    "MasterId": 10027,
+    "AcquireAmount": "700"
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 63270017,
+    "RewardType": "ResourceItem",
+    "MasterId": 10027,
+    "AcquireAmount": "720"
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 63270018,
+    "RewardType": "ResourceItem",
+    "MasterId": 10027,
+    "AcquireAmount": "740"
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 63270019,
+    "RewardType": "ResourceItem",
+    "MasterId": 10027,
+    "AcquireAmount": "760"
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 63270020,
+    "RewardType": "ResourceItem",
+    "MasterId": 10027,
+    "AcquireAmount": "780"
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 63270021,
+    "RewardType": "ResourceItem",
+    "MasterId": 10027,
+    "AcquireAmount": "800"
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 63270022,
+    "RewardType": "ResourceItem",
+    "MasterId": 10027,
+    "AcquireAmount": "820"
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 63270023,
+    "RewardType": "ResourceItem",
+    "MasterId": 10027,
+    "AcquireAmount": "840"
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 63270024,
+    "RewardType": "ResourceItem",
+    "MasterId": 10027,
+    "AcquireAmount": "860"
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 63270025,
+    "RewardType": "ResourceItem",
+    "MasterId": 10027,
+    "AcquireAmount": "880"
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 63270026,
+    "RewardType": "ResourceItem",
+    "MasterId": 10027,
+    "AcquireAmount": "900"
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 63270027,
+    "RewardType": "ResourceItem",
+    "MasterId": 10027,
+    "AcquireAmount": "920"
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 63270028,
+    "RewardType": "ResourceItem",
+    "MasterId": 10027,
+    "AcquireAmount": "940"
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 63270029,
+    "RewardType": "ResourceItem",
+    "MasterId": 10027,
+    "AcquireAmount": "960"
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 63270030,
+    "RewardType": "ResourceItem",
+    "MasterId": 10027,
+    "AcquireAmount": "980"
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 63270031,
+    "RewardType": "ResourceItem",
+    "MasterId": 10027,
+    "AcquireAmount": "1000"
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 63270032,
+    "RewardType": "ResourceItem",
+    "MasterId": 10027,
+    "AcquireAmount": "1020"
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 63270033,
+    "RewardType": "ResourceItem",
+    "MasterId": 10027,
+    "AcquireAmount": "1040"
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 63270034,
+    "RewardType": "ResourceItem",
+    "MasterId": 10027,
+    "AcquireAmount": "1060"
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 63270035,
+    "RewardType": "ResourceItem",
+    "MasterId": 10027,
+    "AcquireAmount": "1080"
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 63270036,
+    "RewardType": "ResourceItem",
+    "MasterId": 10027,
+    "AcquireAmount": "1100"
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 63270037,
+    "RewardType": "ResourceItem",
+    "MasterId": 10027,
+    "AcquireAmount": "1120"
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 63270038,
+    "RewardType": "ResourceItem",
+    "MasterId": 10027,
+    "AcquireAmount": "1140"
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 63270039,
+    "RewardType": "ResourceItem",
+    "MasterId": 10027,
+    "AcquireAmount": "1160"
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 63270040,
+    "RewardType": "ResourceItem",
+    "MasterId": 10027,
+    "AcquireAmount": "1180"
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 63270041,
+    "RewardType": "ResourceItem",
+    "MasterId": 10027,
+    "AcquireAmount": "1200"
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 63270042,
+    "RewardType": "ResourceItem",
+    "MasterId": 10027,
+    "AcquireAmount": "1220"
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 63270043,
+    "RewardType": "ResourceItem",
+    "MasterId": 10027,
+    "AcquireAmount": "1240"
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 63270044,
+    "RewardType": "ResourceItem",
+    "MasterId": 10027,
+    "AcquireAmount": "1260"
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 63270045,
+    "RewardType": "ResourceItem",
+    "MasterId": 10027,
+    "AcquireAmount": "1280"
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 63270046,
+    "RewardType": "ResourceItem",
+    "MasterId": 10027,
+    "AcquireAmount": "1300"
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 63270047,
+    "RewardType": "ResourceItem",
+    "MasterId": 10027,
+    "AcquireAmount": "1320"
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 63270048,
+    "RewardType": "ResourceItem",
+    "MasterId": 10027,
+    "AcquireAmount": "1340"
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 63270049,
+    "RewardType": "ResourceItem",
+    "MasterId": 10027,
+    "AcquireAmount": "1360"
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 63270050,
+    "RewardType": "ResourceItem",
+    "MasterId": 10027,
+    "AcquireAmount": "1380"
   }
 ]

@@ -482,6 +482,32 @@
     "DescriptionTextKey": 2147483647
   },
   {
+    "Version": "260510.1.0",
+    "Id": 102706011,
+    "PossessionEffectId": 101506011,
+    "PossessionEffectValueReferenceType": "Level",
+    "ContentsProgressId": 0,
+    "ContentsLevelRate": 0.0,
+    "MaxContentesLevelRangeValueGroupId": 0,
+    "EvaluateConditionId": 102706000,
+    "PossessionEffectTargetType": "Party",
+    "TargetIds": [],
+    "DescriptionTextKey": 2147483647
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 102706012,
+    "PossessionEffectId": 101506012,
+    "PossessionEffectValueReferenceType": "Level",
+    "ContentsProgressId": 0,
+    "ContentsLevelRate": 0.0,
+    "MaxContentesLevelRangeValueGroupId": 0,
+    "EvaluateConditionId": 102706000,
+    "PossessionEffectTargetType": "Party",
+    "TargetIds": [],
+    "DescriptionTextKey": 2147483647
+  },
+  {
     "Version": "260410.1.0",
     "Id": 1001300100,
     "PossessionEffectId": 1001300100,

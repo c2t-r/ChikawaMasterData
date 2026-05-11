@@ -404,5 +404,19 @@
     "HuntType": "Gem",
     "DifficultyLockGroupId": 1026,
     "SubHuntType": "Event"
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 1027,
+    "OutGameAssetId": 1,
+    "InGameUnderBgAssetId": 241,
+    "ContentLockId": 0,
+    "SubHuntEntryId": 1027,
+    "SubHuntAdRewardId": 1027,
+    "SubHuntStageGroupId": 1027,
+    "SubHuntTextKeyId": 10001,
+    "HuntType": "Gem",
+    "DifficultyLockGroupId": 1027,
+    "SubHuntType": "Event"
   }
 ]

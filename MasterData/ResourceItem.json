@@ -565,5 +565,14 @@
     "IconName": "resourceitem_icon_event_ticket_01",
     "Rarity": "Rare",
     "InventoryType": "Big"
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 10027,
+    "NameTextKey": -391751249,
+    "DescriptionTextKey": 1153563724,
+    "IconName": "resourceitem_icon_event_ticket_03",
+    "Rarity": "Rare",
+    "InventoryType": "Big"
   }
 ]

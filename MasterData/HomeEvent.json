@@ -1582,6 +1582,34 @@
     "TypeAnimationId": 1001
   },
   {
+    "Version": "260510.1.0",
+    "Id": 101011,
+    "Type": "Item",
+    "TypeId": 101,
+    "TypeAnimationId": 1011
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 101012,
+    "Type": "Item",
+    "TypeId": 101,
+    "TypeAnimationId": 1012
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 101041,
+    "Type": "Item",
+    "TypeId": 104,
+    "TypeAnimationId": 1041
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 101042,
+    "Type": "Item",
+    "TypeId": 104,
+    "TypeAnimationId": 1042
+  },
+  {
     "Version": "250850.1.0",
     "Id": 210011,
     "Type": "Character",

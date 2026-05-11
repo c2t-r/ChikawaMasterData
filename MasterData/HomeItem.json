@@ -2520,5 +2520,57 @@
     "ExperienceGroupId": 19,
     "PossessionEffectId": 3501,
     "RewardAcquisitionRouteViewConditionId": 0
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 101,
+    "ViewConditionId": 2605101,
+    "HomeBackgroundType": "All",
+    "AssetId": 223018,
+    "SlotNum": 2,
+    "EventZone": {
+      "x": 0.0,
+      "y": 0.0,
+      "width": 5.0,
+      "height": 4.0
+    },
+    "BodyZone": {
+      "x": 0.0,
+      "y": 0.5,
+      "width": 4.0,
+      "height": 3.0
+    },
+    "NameTextKey": -560452310,
+    "RarityId": 1,
+    "MaxLevel": 2,
+    "ExperienceGroupId": 19,
+    "PossessionEffectId": 3501,
+    "RewardAcquisitionRouteViewConditionId": 0
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 104,
+    "ViewConditionId": 2605102,
+    "HomeBackgroundType": "All",
+    "AssetId": 113023,
+    "SlotNum": 1,
+    "EventZone": {
+      "x": 0.0,
+      "y": 0.5,
+      "width": 3.0,
+      "height": 3.0
+    },
+    "BodyZone": {
+      "x": 0.0,
+      "y": 0.0,
+      "width": 2.0,
+      "height": 2.0
+    },
+    "NameTextKey": 1200716944,
+    "RarityId": 1,
+    "MaxLevel": 2,
+    "ExperienceGroupId": 19,
+    "PossessionEffectId": 3501,
+    "RewardAcquisitionRouteViewConditionId": 0
   }
 ]

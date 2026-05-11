@@ -201,5 +201,12 @@
     "GroupId": 1026,
     "Difficulty": 1,
     "UnlockAtJST": "2026-03-27 15:00:00"
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 1027,
+    "GroupId": 1027,
+    "Difficulty": 1,
+    "UnlockAtJST": "2026-04-28 15:00:00"
   }
 ]

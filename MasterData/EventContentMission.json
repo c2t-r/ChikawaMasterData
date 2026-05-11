@@ -148,5 +148,11 @@
     "Id": 102602,
     "DailyMissionGroupId": 5026,
     "ConstantMissionGroupId": 5126
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 102702,
+    "DailyMissionGroupId": 5027,
+    "ConstantMissionGroupId": 5127
   }
 ]

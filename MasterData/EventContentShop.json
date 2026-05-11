@@ -310,5 +310,17 @@
     "Id": 102605,
     "ShopType": "Default",
     "ShopGroupId": 1141
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 102704,
+    "ShopType": "Exchange",
+    "ShopGroupId": 1152
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 102705,
+    "ShopType": "Default",
+    "ShopGroupId": 1151
   }
 ]

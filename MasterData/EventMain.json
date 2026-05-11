@@ -323,5 +323,18 @@
     "GuideId": 3001,
     "TutorialGuideId": 15,
     "PointLimitedResourceItemId": 10141
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 27,
+    "NameTextKey": 546459223,
+    "AssetId": 30,
+    "BackgroundEffectId": 0,
+    "TermId": 27,
+    "ContentGroupId": 27,
+    "BgmId": 10028,
+    "GuideId": 3001,
+    "TutorialGuideId": 15,
+    "PointLimitedResourceItemId": 10151
   }
 ]

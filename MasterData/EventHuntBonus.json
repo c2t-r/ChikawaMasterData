@@ -1428,5 +1428,45 @@
     "ConditionMasterId": 37014,
     "ConditionValue": 0,
     "Rate": 200
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 27010,
+    "GroupId": 1027,
+    "ConditionTextKey": 698395560,
+    "ConditionType": "CostumePossession",
+    "ConditionMasterId": 31015,
+    "ConditionValue": 0,
+    "Rate": 200
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 27020,
+    "GroupId": 1027,
+    "ConditionTextKey": 991233094,
+    "ConditionType": "CostumePossession",
+    "ConditionMasterId": 32015,
+    "ConditionValue": 0,
+    "Rate": 200
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 27050,
+    "GroupId": 1027,
+    "ConditionTextKey": 511597466,
+    "ConditionType": "CostumePossession",
+    "ConditionMasterId": 34015,
+    "ConditionValue": 0,
+    "Rate": 200
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 27060,
+    "GroupId": 1027,
+    "ConditionTextKey": -1267231983,
+    "ConditionType": "CostumePossession",
+    "ConditionMasterId": 36015,
+    "ConditionValue": 0,
+    "Rate": 200
   }
 ]

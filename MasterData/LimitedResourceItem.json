@@ -412,5 +412,23 @@
     "AssetId": 1001,
     "Rarity": "Rare",
     "InventoryType": "Simple"
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 10151,
+    "NameTextKey": 1744421706,
+    "DescriptionTextKey": 868666586,
+    "AssetId": 1003,
+    "Rarity": "Rare",
+    "InventoryType": "Simple"
+  },
+  {
+    "Version": "260510.1.0",
+    "Id": 10155,
+    "NameTextKey": 1620313939,
+    "DescriptionTextKey": -1429234336,
+    "AssetId": 3003,
+    "Rarity": "SuperRare",
+    "InventoryType": "Simple"
   }
 ]
