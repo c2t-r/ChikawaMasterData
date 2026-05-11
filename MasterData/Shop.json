@@ -1378,6 +1378,19 @@
     "HeaderId": 5
   },
   {
+    "Version": "260430.1.0",
+    "Id": 46,
+    "SortOrder": 14,
+    "DateTermId": 75315820,
+    "NameTextKey": 266884971,
+    "TabTextKey": 2106520840,
+    "TabIconAssetId": 10,
+    "BackGroundId": 4,
+    "TutorialFunctionType": "Unknown",
+    "IsExchange": false,
+    "HeaderId": 5
+  },
+  {
     "Version": "260410.1.0",
     "Id": 1142,
     "SortOrder": 10,
@@ -1388,6 +1401,19 @@
     "BackGroundId": 10,
     "TutorialFunctionType": "Unknown",
     "IsExchange": true,
+    "HeaderId": 5
+  },
+  {
+    "Version": "260430.1.0",
+    "Id": 4017,
+    "SortOrder": 10,
+    "DateTermId": 73017000,
+    "NameTextKey": -488753022,
+    "TabTextKey": -488753022,
+    "TabIconAssetId": 2,
+    "BackGroundId": 10,
+    "TutorialFunctionType": "Unknown",
+    "IsExchange": false,
     "HeaderId": 5
   }
 ]

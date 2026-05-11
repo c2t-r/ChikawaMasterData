@@ -1310,6 +1310,56 @@
     "ValueType": "Permil"
   },
   {
+    "Version": "260430.1.0",
+    "Id": 710017,
+    "LevelRangeType": "Default",
+    "RangeStartLevel": 201,
+    "RangeEndLevel": 220,
+    "StartValue": "1008000",
+    "EndValue": "1920000",
+    "ValueType": "Permil"
+  },
+  {
+    "Version": "260430.1.0",
+    "Id": 710018,
+    "LevelRangeType": "Default",
+    "RangeStartLevel": 221,
+    "RangeEndLevel": 240,
+    "StartValue": "2016000",
+    "EndValue": "3840000",
+    "ValueType": "Permil"
+  },
+  {
+    "Version": "260430.1.0",
+    "Id": 710019,
+    "LevelRangeType": "Default",
+    "RangeStartLevel": 241,
+    "RangeEndLevel": 260,
+    "StartValue": "4032000",
+    "EndValue": "7680000",
+    "ValueType": "Permil"
+  },
+  {
+    "Version": "260430.1.0",
+    "Id": 710210,
+    "LevelRangeType": "Default",
+    "RangeStartLevel": 261,
+    "RangeEndLevel": 280,
+    "StartValue": "8066000",
+    "EndValue": "15400000",
+    "ValueType": "Permil"
+  },
+  {
+    "Version": "260430.1.0",
+    "Id": 710211,
+    "LevelRangeType": "Default",
+    "RangeStartLevel": 281,
+    "RangeEndLevel": 300,
+    "StartValue": "16170000",
+    "EndValue": "30800000",
+    "ValueType": "Permil"
+  },
+  {
     "Version": "250330.1.0",
     "Id": 71002,
     "LevelRangeType": "Default",
@@ -1377,6 +1427,56 @@
     "RangeEndLevel": 200,
     "StartValue": "184000",
     "EndValue": "640000",
+    "ValueType": "Permil"
+  },
+  {
+    "Version": "260430.1.0",
+    "Id": 710027,
+    "LevelRangeType": "Default",
+    "RangeStartLevel": 201,
+    "RangeEndLevel": 220,
+    "StartValue": "672000",
+    "EndValue": "1280000",
+    "ValueType": "Permil"
+  },
+  {
+    "Version": "260430.1.0",
+    "Id": 710028,
+    "LevelRangeType": "Default",
+    "RangeStartLevel": 221,
+    "RangeEndLevel": 240,
+    "StartValue": "1344000",
+    "EndValue": "2560000",
+    "ValueType": "Permil"
+  },
+  {
+    "Version": "260430.1.0",
+    "Id": 710029,
+    "LevelRangeType": "Default",
+    "RangeStartLevel": 241,
+    "RangeEndLevel": 260,
+    "StartValue": "2688000",
+    "EndValue": "5120000",
+    "ValueType": "Permil"
+  },
+  {
+    "Version": "260430.1.0",
+    "Id": 710310,
+    "LevelRangeType": "Default",
+    "RangeStartLevel": 261,
+    "RangeEndLevel": 280,
+    "StartValue": "5379000",
+    "EndValue": "10300000",
+    "ValueType": "Permil"
+  },
+  {
+    "Version": "260430.1.0",
+    "Id": 710311,
+    "LevelRangeType": "Default",
+    "RangeStartLevel": 281,
+    "RangeEndLevel": 300,
+    "StartValue": "10810000",
+    "EndValue": "20500000",
     "ValueType": "Permil"
   },
   {
@@ -1450,6 +1550,56 @@
     "ValueType": "Permil"
   },
   {
+    "Version": "260430.1.0",
+    "Id": 710037,
+    "LevelRangeType": "Default",
+    "RangeStartLevel": 201,
+    "RangeEndLevel": 220,
+    "StartValue": "37980",
+    "EndValue": "47000",
+    "ValueType": "Permil"
+  },
+  {
+    "Version": "260430.1.0",
+    "Id": 710038,
+    "LevelRangeType": "Default",
+    "RangeStartLevel": 221,
+    "RangeEndLevel": 240,
+    "StartValue": "47600",
+    "EndValue": "59000",
+    "ValueType": "Permil"
+  },
+  {
+    "Version": "260430.1.0",
+    "Id": 710039,
+    "LevelRangeType": "Default",
+    "RangeStartLevel": 241,
+    "RangeEndLevel": 260,
+    "StartValue": "59750",
+    "EndValue": "74000",
+    "ValueType": "Permil"
+  },
+  {
+    "Version": "260430.1.0",
+    "Id": 710410,
+    "LevelRangeType": "Default",
+    "RangeStartLevel": 261,
+    "RangeEndLevel": 280,
+    "StartValue": "74950",
+    "EndValue": "93000",
+    "ValueType": "Permil"
+  },
+  {
+    "Version": "260430.1.0",
+    "Id": 710411,
+    "LevelRangeType": "Default",
+    "RangeStartLevel": 281,
+    "RangeEndLevel": 300,
+    "StartValue": "94350",
+    "EndValue": "120000",
+    "ValueType": "Permil"
+  },
+  {
     "Version": "250330.1.0",
     "Id": 71004,
     "LevelRangeType": "Default",
@@ -1517,6 +1667,56 @@
     "RangeEndLevel": 200,
     "StartValue": "12650",
     "EndValue": "25000",
+    "ValueType": "Permil"
+  },
+  {
+    "Version": "260430.1.0",
+    "Id": 710047,
+    "LevelRangeType": "Default",
+    "RangeStartLevel": 201,
+    "RangeEndLevel": 220,
+    "StartValue": "25300",
+    "EndValue": "31000",
+    "ValueType": "Permil"
+  },
+  {
+    "Version": "260430.1.0",
+    "Id": 710048,
+    "LevelRangeType": "Default",
+    "RangeStartLevel": 221,
+    "RangeEndLevel": 240,
+    "StartValue": "31400",
+    "EndValue": "39000",
+    "ValueType": "Permil"
+  },
+  {
+    "Version": "260430.1.0",
+    "Id": 710049,
+    "LevelRangeType": "Default",
+    "RangeStartLevel": 241,
+    "RangeEndLevel": 260,
+    "StartValue": "39500",
+    "EndValue": "49000",
+    "ValueType": "Permil"
+  },
+  {
+    "Version": "260430.1.0",
+    "Id": 710510,
+    "LevelRangeType": "Default",
+    "RangeStartLevel": 261,
+    "RangeEndLevel": 280,
+    "StartValue": "49600",
+    "EndValue": "61000",
+    "ValueType": "Permil"
+  },
+  {
+    "Version": "260430.1.0",
+    "Id": 710511,
+    "LevelRangeType": "Default",
+    "RangeStartLevel": 281,
+    "RangeEndLevel": 300,
+    "StartValue": "61750",
+    "EndValue": "76000",
     "ValueType": "Permil"
   },
   {
@@ -1590,6 +1790,56 @@
     "ValueType": "Permil"
   },
   {
+    "Version": "260430.1.0",
+    "Id": 710057,
+    "LevelRangeType": "Default",
+    "RangeStartLevel": 201,
+    "RangeEndLevel": 220,
+    "StartValue": "100800",
+    "EndValue": "192000",
+    "ValueType": "Permil"
+  },
+  {
+    "Version": "260430.1.0",
+    "Id": 710058,
+    "LevelRangeType": "Default",
+    "RangeStartLevel": 221,
+    "RangeEndLevel": 240,
+    "StartValue": "201600",
+    "EndValue": "384000",
+    "ValueType": "Permil"
+  },
+  {
+    "Version": "260430.1.0",
+    "Id": 710059,
+    "LevelRangeType": "Default",
+    "RangeStartLevel": 241,
+    "RangeEndLevel": 260,
+    "StartValue": "403200",
+    "EndValue": "768000",
+    "ValueType": "Permil"
+  },
+  {
+    "Version": "260430.1.0",
+    "Id": 710610,
+    "LevelRangeType": "Default",
+    "RangeStartLevel": 261,
+    "RangeEndLevel": 280,
+    "StartValue": "806600",
+    "EndValue": "1540000",
+    "ValueType": "Permil"
+  },
+  {
+    "Version": "260430.1.0",
+    "Id": 710611,
+    "LevelRangeType": "Default",
+    "RangeStartLevel": 281,
+    "RangeEndLevel": 300,
+    "StartValue": "1617000",
+    "EndValue": "3080000",
+    "ValueType": "Permil"
+  },
+  {
     "Version": "250330.1.0",
     "Id": 71006,
     "LevelRangeType": "Default",
@@ -1657,6 +1907,56 @@
     "RangeEndLevel": 200,
     "StartValue": "18400",
     "EndValue": "64000",
+    "ValueType": "Permil"
+  },
+  {
+    "Version": "260430.1.0",
+    "Id": 710067,
+    "LevelRangeType": "Default",
+    "RangeStartLevel": 201,
+    "RangeEndLevel": 220,
+    "StartValue": "67200",
+    "EndValue": "128000",
+    "ValueType": "Permil"
+  },
+  {
+    "Version": "260430.1.0",
+    "Id": 710068,
+    "LevelRangeType": "Default",
+    "RangeStartLevel": 221,
+    "RangeEndLevel": 240,
+    "StartValue": "134400",
+    "EndValue": "256000",
+    "ValueType": "Permil"
+  },
+  {
+    "Version": "260430.1.0",
+    "Id": 710069,
+    "LevelRangeType": "Default",
+    "RangeStartLevel": 241,
+    "RangeEndLevel": 260,
+    "StartValue": "268800",
+    "EndValue": "512000",
+    "ValueType": "Permil"
+  },
+  {
+    "Version": "260430.1.0",
+    "Id": 710710,
+    "LevelRangeType": "Default",
+    "RangeStartLevel": 261,
+    "RangeEndLevel": 280,
+    "StartValue": "537900",
+    "EndValue": "1030000",
+    "ValueType": "Permil"
+  },
+  {
+    "Version": "260430.1.0",
+    "Id": 710711,
+    "LevelRangeType": "Default",
+    "RangeStartLevel": 281,
+    "RangeEndLevel": 300,
+    "StartValue": "1081000",
+    "EndValue": "2050000",
     "ValueType": "Permil"
   },
   {
@@ -1730,6 +2030,56 @@
     "ValueType": "Permil"
   },
   {
+    "Version": "260430.1.0",
+    "Id": 710077,
+    "LevelRangeType": "Default",
+    "RangeStartLevel": 201,
+    "RangeEndLevel": 220,
+    "StartValue": "504000",
+    "EndValue": "960000",
+    "ValueType": "Permil"
+  },
+  {
+    "Version": "260430.1.0",
+    "Id": 710078,
+    "LevelRangeType": "Default",
+    "RangeStartLevel": 221,
+    "RangeEndLevel": 240,
+    "StartValue": "1008000",
+    "EndValue": "1920000",
+    "ValueType": "Permil"
+  },
+  {
+    "Version": "260430.1.0",
+    "Id": 710079,
+    "LevelRangeType": "Default",
+    "RangeStartLevel": 241,
+    "RangeEndLevel": 260,
+    "StartValue": "2016000",
+    "EndValue": "3840000",
+    "ValueType": "Permil"
+  },
+  {
+    "Version": "260430.1.0",
+    "Id": 710810,
+    "LevelRangeType": "Default",
+    "RangeStartLevel": 261,
+    "RangeEndLevel": 280,
+    "StartValue": "4032000",
+    "EndValue": "7680000",
+    "ValueType": "Permil"
+  },
+  {
+    "Version": "260430.1.0",
+    "Id": 710811,
+    "LevelRangeType": "Default",
+    "RangeStartLevel": 281,
+    "RangeEndLevel": 300,
+    "StartValue": "8066000",
+    "EndValue": "15400000",
+    "ValueType": "Permil"
+  },
+  {
     "Version": "250330.1.0",
     "Id": 71008,
     "LevelRangeType": "Default",
@@ -1797,6 +2147,56 @@
     "RangeEndLevel": 200,
     "StartValue": "92000",
     "EndValue": "320000",
+    "ValueType": "Permil"
+  },
+  {
+    "Version": "260430.1.0",
+    "Id": 710087,
+    "LevelRangeType": "Default",
+    "RangeStartLevel": 201,
+    "RangeEndLevel": 220,
+    "StartValue": "336000",
+    "EndValue": "640000",
+    "ValueType": "Permil"
+  },
+  {
+    "Version": "260430.1.0",
+    "Id": 710088,
+    "LevelRangeType": "Default",
+    "RangeStartLevel": 221,
+    "RangeEndLevel": 240,
+    "StartValue": "672000",
+    "EndValue": "1280000",
+    "ValueType": "Permil"
+  },
+  {
+    "Version": "260430.1.0",
+    "Id": 710089,
+    "LevelRangeType": "Default",
+    "RangeStartLevel": 241,
+    "RangeEndLevel": 260,
+    "StartValue": "1344000",
+    "EndValue": "2560000",
+    "ValueType": "Permil"
+  },
+  {
+    "Version": "260430.1.0",
+    "Id": 710910,
+    "LevelRangeType": "Default",
+    "RangeStartLevel": 261,
+    "RangeEndLevel": 280,
+    "StartValue": "2688000",
+    "EndValue": "5120000",
+    "ValueType": "Permil"
+  },
+  {
+    "Version": "260430.1.0",
+    "Id": 710911,
+    "LevelRangeType": "Default",
+    "RangeStartLevel": 281,
+    "RangeEndLevel": 300,
+    "StartValue": "5379000",
+    "EndValue": "10300000",
     "ValueType": "Permil"
   },
   {
@@ -1870,6 +2270,56 @@
     "ValueType": "Permil"
   },
   {
+    "Version": "260430.1.0",
+    "Id": 710097,
+    "LevelRangeType": "Default",
+    "RangeStartLevel": 201,
+    "RangeEndLevel": 220,
+    "StartValue": "504000",
+    "EndValue": "960000",
+    "ValueType": "Permil"
+  },
+  {
+    "Version": "260430.1.0",
+    "Id": 710098,
+    "LevelRangeType": "Default",
+    "RangeStartLevel": 221,
+    "RangeEndLevel": 240,
+    "StartValue": "1008000",
+    "EndValue": "1920000",
+    "ValueType": "Permil"
+  },
+  {
+    "Version": "260430.1.0",
+    "Id": 710099,
+    "LevelRangeType": "Default",
+    "RangeStartLevel": 241,
+    "RangeEndLevel": 260,
+    "StartValue": "2016000",
+    "EndValue": "3840000",
+    "ValueType": "Permil"
+  },
+  {
+    "Version": "260430.1.0",
+    "Id": 711010,
+    "LevelRangeType": "Default",
+    "RangeStartLevel": 261,
+    "RangeEndLevel": 280,
+    "StartValue": "4032000",
+    "EndValue": "7680000",
+    "ValueType": "Permil"
+  },
+  {
+    "Version": "260430.1.0",
+    "Id": 711011,
+    "LevelRangeType": "Default",
+    "RangeStartLevel": 281,
+    "RangeEndLevel": 300,
+    "StartValue": "8066000",
+    "EndValue": "15400000",
+    "ValueType": "Permil"
+  },
+  {
     "Version": "250330.1.0",
     "Id": 71010,
     "LevelRangeType": "Default",
@@ -1937,6 +2387,56 @@
     "RangeEndLevel": 200,
     "StartValue": "92000",
     "EndValue": "320000",
+    "ValueType": "Permil"
+  },
+  {
+    "Version": "260430.1.0",
+    "Id": 710107,
+    "LevelRangeType": "Default",
+    "RangeStartLevel": 201,
+    "RangeEndLevel": 220,
+    "StartValue": "336000",
+    "EndValue": "640000",
+    "ValueType": "Permil"
+  },
+  {
+    "Version": "260430.1.0",
+    "Id": 710108,
+    "LevelRangeType": "Default",
+    "RangeStartLevel": 221,
+    "RangeEndLevel": 240,
+    "StartValue": "672000",
+    "EndValue": "1280000",
+    "ValueType": "Permil"
+  },
+  {
+    "Version": "260430.1.0",
+    "Id": 710109,
+    "LevelRangeType": "Default",
+    "RangeStartLevel": 241,
+    "RangeEndLevel": 260,
+    "StartValue": "1344000",
+    "EndValue": "2560000",
+    "ValueType": "Permil"
+  },
+  {
+    "Version": "260430.1.0",
+    "Id": 711110,
+    "LevelRangeType": "Default",
+    "RangeStartLevel": 261,
+    "RangeEndLevel": 280,
+    "StartValue": "2688000",
+    "EndValue": "5120000",
+    "ValueType": "Permil"
+  },
+  {
+    "Version": "260430.1.0",
+    "Id": 711111,
+    "LevelRangeType": "Default",
+    "RangeStartLevel": 281,
+    "RangeEndLevel": 300,
+    "StartValue": "5379000",
+    "EndValue": "10300000",
     "ValueType": "Permil"
   },
   {
@@ -2010,6 +2510,56 @@
     "ValueType": "Permil"
   },
   {
+    "Version": "260430.1.0",
+    "Id": 710117,
+    "LevelRangeType": "Default",
+    "RangeStartLevel": 201,
+    "RangeEndLevel": 220,
+    "StartValue": "2290",
+    "EndValue": "2930",
+    "ValueType": "Permil"
+  },
+  {
+    "Version": "260430.1.0",
+    "Id": 710118,
+    "LevelRangeType": "Default",
+    "RangeStartLevel": 221,
+    "RangeEndLevel": 240,
+    "StartValue": "2980",
+    "EndValue": "3810",
+    "ValueType": "Permil"
+  },
+  {
+    "Version": "260430.1.0",
+    "Id": 710119,
+    "LevelRangeType": "Default",
+    "RangeStartLevel": 241,
+    "RangeEndLevel": 260,
+    "StartValue": "3870",
+    "EndValue": "4950",
+    "ValueType": "Permil"
+  },
+  {
+    "Version": "260430.1.0",
+    "Id": 711210,
+    "LevelRangeType": "Default",
+    "RangeStartLevel": 261,
+    "RangeEndLevel": 280,
+    "StartValue": "5030",
+    "EndValue": "6430",
+    "ValueType": "Permil"
+  },
+  {
+    "Version": "260430.1.0",
+    "Id": 711211,
+    "LevelRangeType": "Default",
+    "RangeStartLevel": 281,
+    "RangeEndLevel": 300,
+    "StartValue": "6530",
+    "EndValue": "8360",
+    "ValueType": "Permil"
+  },
+  {
     "Version": "250330.1.0",
     "Id": 71012,
     "LevelRangeType": "Default",
@@ -2077,6 +2627,56 @@
     "RangeEndLevel": 200,
     "StartValue": "1130",
     "EndValue": "1500",
+    "ValueType": "Permil"
+  },
+  {
+    "Version": "260430.1.0",
+    "Id": 710127,
+    "LevelRangeType": "Default",
+    "RangeStartLevel": 201,
+    "RangeEndLevel": 220,
+    "StartValue": "1530",
+    "EndValue": "1950",
+    "ValueType": "Permil"
+  },
+  {
+    "Version": "260430.1.0",
+    "Id": 710128,
+    "LevelRangeType": "Default",
+    "RangeStartLevel": 221,
+    "RangeEndLevel": 240,
+    "StartValue": "1980",
+    "EndValue": "2540",
+    "ValueType": "Permil"
+  },
+  {
+    "Version": "260430.1.0",
+    "Id": 710129,
+    "LevelRangeType": "Default",
+    "RangeStartLevel": 241,
+    "RangeEndLevel": 260,
+    "StartValue": "2580",
+    "EndValue": "3300",
+    "ValueType": "Permil"
+  },
+  {
+    "Version": "260430.1.0",
+    "Id": 711310,
+    "LevelRangeType": "Default",
+    "RangeStartLevel": 261,
+    "RangeEndLevel": 280,
+    "StartValue": "3350",
+    "EndValue": "4290",
+    "ValueType": "Permil"
+  },
+  {
+    "Version": "260430.1.0",
+    "Id": 711311,
+    "LevelRangeType": "Default",
+    "RangeStartLevel": 281,
+    "RangeEndLevel": 300,
+    "StartValue": "4360",
+    "EndValue": "5570",
     "ValueType": "Permil"
   },
   {
@@ -2150,6 +2750,56 @@
     "ValueType": "Permil"
   },
   {
+    "Version": "260430.1.0",
+    "Id": 720017,
+    "LevelRangeType": "Default",
+    "RangeStartLevel": 201,
+    "RangeEndLevel": 220,
+    "StartValue": "20160000",
+    "EndValue": "38400000",
+    "ValueType": "Permil"
+  },
+  {
+    "Version": "260430.1.0",
+    "Id": 720018,
+    "LevelRangeType": "Default",
+    "RangeStartLevel": 221,
+    "RangeEndLevel": 240,
+    "StartValue": "40320000",
+    "EndValue": "76800000",
+    "ValueType": "Permil"
+  },
+  {
+    "Version": "260430.1.0",
+    "Id": 720019,
+    "LevelRangeType": "Default",
+    "RangeStartLevel": 241,
+    "RangeEndLevel": 260,
+    "StartValue": "80660000",
+    "EndValue": "154000000",
+    "ValueType": "Permil"
+  },
+  {
+    "Version": "260430.1.0",
+    "Id": 720210,
+    "LevelRangeType": "Default",
+    "RangeStartLevel": 261,
+    "RangeEndLevel": 280,
+    "StartValue": "161700000",
+    "EndValue": "308000000",
+    "ValueType": "Permil"
+  },
+  {
+    "Version": "260430.1.0",
+    "Id": 720211,
+    "LevelRangeType": "Default",
+    "RangeStartLevel": 281,
+    "RangeEndLevel": 300,
+    "StartValue": "323350000",
+    "EndValue": "615000000",
+    "ValueType": "Permil"
+  },
+  {
     "Version": "250330.1.0",
     "Id": 72002,
     "LevelRangeType": "Default",
@@ -2217,6 +2867,56 @@
     "RangeEndLevel": 200,
     "StartValue": "3680000",
     "EndValue": "12800000",
+    "ValueType": "Permil"
+  },
+  {
+    "Version": "260430.1.0",
+    "Id": 720027,
+    "LevelRangeType": "Default",
+    "RangeStartLevel": 201,
+    "RangeEndLevel": 220,
+    "StartValue": "13440000",
+    "EndValue": "25600000",
+    "ValueType": "Permil"
+  },
+  {
+    "Version": "260430.1.0",
+    "Id": 720028,
+    "LevelRangeType": "Default",
+    "RangeStartLevel": 221,
+    "RangeEndLevel": 240,
+    "StartValue": "26880000",
+    "EndValue": "51200000",
+    "ValueType": "Permil"
+  },
+  {
+    "Version": "260430.1.0",
+    "Id": 720029,
+    "LevelRangeType": "Default",
+    "RangeStartLevel": 241,
+    "RangeEndLevel": 260,
+    "StartValue": "53790000",
+    "EndValue": "103000000",
+    "ValueType": "Permil"
+  },
+  {
+    "Version": "260430.1.0",
+    "Id": 720310,
+    "LevelRangeType": "Default",
+    "RangeStartLevel": 261,
+    "RangeEndLevel": 280,
+    "StartValue": "108100000",
+    "EndValue": "205000000",
+    "ValueType": "Permil"
+  },
+  {
+    "Version": "260430.1.0",
+    "Id": 720311,
+    "LevelRangeType": "Default",
+    "RangeStartLevel": 281,
+    "RangeEndLevel": 300,
+    "StartValue": "215250000",
+    "EndValue": "410000000",
     "ValueType": "Permil"
   },
   {
@@ -2290,6 +2990,56 @@
     "ValueType": "Permil"
   },
   {
+    "Version": "260430.1.0",
+    "Id": 720037,
+    "LevelRangeType": "Default",
+    "RangeStartLevel": 201,
+    "RangeEndLevel": 220,
+    "StartValue": "759500",
+    "EndValue": "940000",
+    "ValueType": "Permil"
+  },
+  {
+    "Version": "260430.1.0",
+    "Id": 720038,
+    "LevelRangeType": "Default",
+    "RangeStartLevel": 221,
+    "RangeEndLevel": 240,
+    "StartValue": "953000",
+    "EndValue": "1200000",
+    "ValueType": "Permil"
+  },
+  {
+    "Version": "260430.1.0",
+    "Id": 720039,
+    "LevelRangeType": "Default",
+    "RangeStartLevel": 241,
+    "RangeEndLevel": 260,
+    "StartValue": "1215000",
+    "EndValue": "1500000",
+    "ValueType": "Permil"
+  },
+  {
+    "Version": "260430.1.0",
+    "Id": 720410,
+    "LevelRangeType": "Default",
+    "RangeStartLevel": 261,
+    "RangeEndLevel": 280,
+    "StartValue": "1520000",
+    "EndValue": "1900000",
+    "ValueType": "Permil"
+  },
+  {
+    "Version": "260430.1.0",
+    "Id": 720411,
+    "LevelRangeType": "Default",
+    "RangeStartLevel": 281,
+    "RangeEndLevel": 300,
+    "StartValue": "1925000",
+    "EndValue": "2400000",
+    "ValueType": "Permil"
+  },
+  {
     "Version": "250330.1.0",
     "Id": 72004,
     "LevelRangeType": "Default",
@@ -2357,6 +3107,56 @@
     "RangeEndLevel": 200,
     "StartValue": "262500",
     "EndValue": "500000",
+    "ValueType": "Permil"
+  },
+  {
+    "Version": "260430.1.0",
+    "Id": 720047,
+    "LevelRangeType": "Default",
+    "RangeStartLevel": 201,
+    "RangeEndLevel": 220,
+    "StartValue": "506500",
+    "EndValue": "630000",
+    "ValueType": "Permil"
+  },
+  {
+    "Version": "260430.1.0",
+    "Id": 720048,
+    "LevelRangeType": "Default",
+    "RangeStartLevel": 221,
+    "RangeEndLevel": 240,
+    "StartValue": "638000",
+    "EndValue": "790000",
+    "ValueType": "Permil"
+  },
+  {
+    "Version": "260430.1.0",
+    "Id": 720049,
+    "LevelRangeType": "Default",
+    "RangeStartLevel": 241,
+    "RangeEndLevel": 260,
+    "StartValue": "800000",
+    "EndValue": "990000",
+    "ValueType": "Permil"
+  },
+  {
+    "Version": "260430.1.0",
+    "Id": 720510,
+    "LevelRangeType": "Default",
+    "RangeStartLevel": 261,
+    "RangeEndLevel": 280,
+    "StartValue": "1000500",
+    "EndValue": "1200000",
+    "ValueType": "Permil"
+  },
+  {
+    "Version": "260430.1.0",
+    "Id": 720511,
+    "LevelRangeType": "Default",
+    "RangeStartLevel": 281,
+    "RangeEndLevel": 300,
+    "StartValue": "1215000",
+    "EndValue": "1500000",
     "ValueType": "Permil"
   },
   {
@@ -2430,6 +3230,56 @@
     "ValueType": "Permil"
   },
   {
+    "Version": "260430.1.0",
+    "Id": 720057,
+    "LevelRangeType": "Default",
+    "RangeStartLevel": 201,
+    "RangeEndLevel": 220,
+    "StartValue": "201600",
+    "EndValue": "384000",
+    "ValueType": "Permil"
+  },
+  {
+    "Version": "260430.1.0",
+    "Id": 720058,
+    "LevelRangeType": "Default",
+    "RangeStartLevel": 221,
+    "RangeEndLevel": 240,
+    "StartValue": "403200",
+    "EndValue": "768000",
+    "ValueType": "Permil"
+  },
+  {
+    "Version": "260430.1.0",
+    "Id": 720059,
+    "LevelRangeType": "Default",
+    "RangeStartLevel": 241,
+    "RangeEndLevel": 260,
+    "StartValue": "806600",
+    "EndValue": "1540000",
+    "ValueType": "Permil"
+  },
+  {
+    "Version": "260430.1.0",
+    "Id": 720610,
+    "LevelRangeType": "Default",
+    "RangeStartLevel": 261,
+    "RangeEndLevel": 280,
+    "StartValue": "1617000",
+    "EndValue": "3080000",
+    "ValueType": "Permil"
+  },
+  {
+    "Version": "260430.1.0",
+    "Id": 720611,
+    "LevelRangeType": "Default",
+    "RangeStartLevel": 281,
+    "RangeEndLevel": 300,
+    "StartValue": "3233500",
+    "EndValue": "6150000",
+    "ValueType": "Permil"
+  },
+  {
     "Version": "250330.1.0",
     "Id": 72006,
     "LevelRangeType": "Default",
@@ -2497,6 +3347,56 @@
     "RangeEndLevel": 200,
     "StartValue": "36800",
     "EndValue": "128000",
+    "ValueType": "Permil"
+  },
+  {
+    "Version": "260430.1.0",
+    "Id": 720067,
+    "LevelRangeType": "Default",
+    "RangeStartLevel": 201,
+    "RangeEndLevel": 220,
+    "StartValue": "134400",
+    "EndValue": "256000",
+    "ValueType": "Permil"
+  },
+  {
+    "Version": "260430.1.0",
+    "Id": 720068,
+    "LevelRangeType": "Default",
+    "RangeStartLevel": 221,
+    "RangeEndLevel": 240,
+    "StartValue": "268800",
+    "EndValue": "512000",
+    "ValueType": "Permil"
+  },
+  {
+    "Version": "260430.1.0",
+    "Id": 720069,
+    "LevelRangeType": "Default",
+    "RangeStartLevel": 241,
+    "RangeEndLevel": 260,
+    "StartValue": "537900",
+    "EndValue": "1030000",
+    "ValueType": "Permil"
+  },
+  {
+    "Version": "260430.1.0",
+    "Id": 720710,
+    "LevelRangeType": "Default",
+    "RangeStartLevel": 261,
+    "RangeEndLevel": 280,
+    "StartValue": "1081000",
+    "EndValue": "2050000",
+    "ValueType": "Permil"
+  },
+  {
+    "Version": "260430.1.0",
+    "Id": 720711,
+    "LevelRangeType": "Default",
+    "RangeStartLevel": 281,
+    "RangeEndLevel": 300,
+    "StartValue": "2152500",
+    "EndValue": "4100000",
     "ValueType": "Permil"
   },
   {
@@ -2570,6 +3470,56 @@
     "ValueType": "Permil"
   },
   {
+    "Version": "260430.1.0",
+    "Id": 720077,
+    "LevelRangeType": "Default",
+    "RangeStartLevel": 201,
+    "RangeEndLevel": 220,
+    "StartValue": "1008000",
+    "EndValue": "1920000",
+    "ValueType": "Permil"
+  },
+  {
+    "Version": "260430.1.0",
+    "Id": 720078,
+    "LevelRangeType": "Default",
+    "RangeStartLevel": 221,
+    "RangeEndLevel": 240,
+    "StartValue": "2016000",
+    "EndValue": "3840000",
+    "ValueType": "Permil"
+  },
+  {
+    "Version": "260430.1.0",
+    "Id": 720079,
+    "LevelRangeType": "Default",
+    "RangeStartLevel": 241,
+    "RangeEndLevel": 260,
+    "StartValue": "4032000",
+    "EndValue": "7680000",
+    "ValueType": "Permil"
+  },
+  {
+    "Version": "260430.1.0",
+    "Id": 720810,
+    "LevelRangeType": "Default",
+    "RangeStartLevel": 261,
+    "RangeEndLevel": 280,
+    "StartValue": "8066000",
+    "EndValue": "15400000",
+    "ValueType": "Permil"
+  },
+  {
+    "Version": "260430.1.0",
+    "Id": 720811,
+    "LevelRangeType": "Default",
+    "RangeStartLevel": 281,
+    "RangeEndLevel": 300,
+    "StartValue": "16170000",
+    "EndValue": "30800000",
+    "ValueType": "Permil"
+  },
+  {
     "Version": "250330.1.0",
     "Id": 72008,
     "LevelRangeType": "Default",
@@ -2637,6 +3587,56 @@
     "RangeEndLevel": 200,
     "StartValue": "184000",
     "EndValue": "640000",
+    "ValueType": "Permil"
+  },
+  {
+    "Version": "260430.1.0",
+    "Id": 720087,
+    "LevelRangeType": "Default",
+    "RangeStartLevel": 201,
+    "RangeEndLevel": 220,
+    "StartValue": "672000",
+    "EndValue": "1280000",
+    "ValueType": "Permil"
+  },
+  {
+    "Version": "260430.1.0",
+    "Id": 720088,
+    "LevelRangeType": "Default",
+    "RangeStartLevel": 221,
+    "RangeEndLevel": 240,
+    "StartValue": "1344000",
+    "EndValue": "2560000",
+    "ValueType": "Permil"
+  },
+  {
+    "Version": "260430.1.0",
+    "Id": 720089,
+    "LevelRangeType": "Default",
+    "RangeStartLevel": 241,
+    "RangeEndLevel": 260,
+    "StartValue": "2688000",
+    "EndValue": "5120000",
+    "ValueType": "Permil"
+  },
+  {
+    "Version": "260430.1.0",
+    "Id": 720910,
+    "LevelRangeType": "Default",
+    "RangeStartLevel": 261,
+    "RangeEndLevel": 280,
+    "StartValue": "5379000",
+    "EndValue": "10300000",
+    "ValueType": "Permil"
+  },
+  {
+    "Version": "260430.1.0",
+    "Id": 720911,
+    "LevelRangeType": "Default",
+    "RangeStartLevel": 281,
+    "RangeEndLevel": 300,
+    "StartValue": "10810000",
+    "EndValue": "20500000",
     "ValueType": "Permil"
   },
   {
@@ -2710,6 +3710,56 @@
     "ValueType": "Permil"
   },
   {
+    "Version": "260430.1.0",
+    "Id": 720097,
+    "LevelRangeType": "Default",
+    "RangeStartLevel": 201,
+    "RangeEndLevel": 220,
+    "StartValue": "1008000",
+    "EndValue": "1920000",
+    "ValueType": "Permil"
+  },
+  {
+    "Version": "260430.1.0",
+    "Id": 720098,
+    "LevelRangeType": "Default",
+    "RangeStartLevel": 221,
+    "RangeEndLevel": 240,
+    "StartValue": "2016000",
+    "EndValue": "3840000",
+    "ValueType": "Permil"
+  },
+  {
+    "Version": "260430.1.0",
+    "Id": 720099,
+    "LevelRangeType": "Default",
+    "RangeStartLevel": 241,
+    "RangeEndLevel": 260,
+    "StartValue": "4032000",
+    "EndValue": "7680000",
+    "ValueType": "Permil"
+  },
+  {
+    "Version": "260430.1.0",
+    "Id": 721010,
+    "LevelRangeType": "Default",
+    "RangeStartLevel": 261,
+    "RangeEndLevel": 280,
+    "StartValue": "8066000",
+    "EndValue": "15400000",
+    "ValueType": "Permil"
+  },
+  {
+    "Version": "260430.1.0",
+    "Id": 721011,
+    "LevelRangeType": "Default",
+    "RangeStartLevel": 281,
+    "RangeEndLevel": 300,
+    "StartValue": "16170000",
+    "EndValue": "30800000",
+    "ValueType": "Permil"
+  },
+  {
     "Version": "250330.1.0",
     "Id": 72010,
     "LevelRangeType": "Default",
@@ -2777,6 +3827,56 @@
     "RangeEndLevel": 200,
     "StartValue": "184000",
     "EndValue": "640000",
+    "ValueType": "Permil"
+  },
+  {
+    "Version": "260430.1.0",
+    "Id": 720107,
+    "LevelRangeType": "Default",
+    "RangeStartLevel": 201,
+    "RangeEndLevel": 220,
+    "StartValue": "672000",
+    "EndValue": "1280000",
+    "ValueType": "Permil"
+  },
+  {
+    "Version": "260430.1.0",
+    "Id": 720108,
+    "LevelRangeType": "Default",
+    "RangeStartLevel": 221,
+    "RangeEndLevel": 240,
+    "StartValue": "1344000",
+    "EndValue": "2560000",
+    "ValueType": "Permil"
+  },
+  {
+    "Version": "260430.1.0",
+    "Id": 720109,
+    "LevelRangeType": "Default",
+    "RangeStartLevel": 241,
+    "RangeEndLevel": 260,
+    "StartValue": "2688000",
+    "EndValue": "5120000",
+    "ValueType": "Permil"
+  },
+  {
+    "Version": "260430.1.0",
+    "Id": 721110,
+    "LevelRangeType": "Default",
+    "RangeStartLevel": 261,
+    "RangeEndLevel": 280,
+    "StartValue": "5379000",
+    "EndValue": "10300000",
+    "ValueType": "Permil"
+  },
+  {
+    "Version": "260430.1.0",
+    "Id": 721111,
+    "LevelRangeType": "Default",
+    "RangeStartLevel": 281,
+    "RangeEndLevel": 300,
+    "StartValue": "10810000",
+    "EndValue": "20500000",
     "ValueType": "Permil"
   },
   {
@@ -2850,6 +3950,56 @@
     "ValueType": "Permil"
   },
   {
+    "Version": "260430.1.0",
+    "Id": 720117,
+    "LevelRangeType": "Default",
+    "RangeStartLevel": 201,
+    "RangeEndLevel": 220,
+    "StartValue": "3050",
+    "EndValue": "3900",
+    "ValueType": "Permil"
+  },
+  {
+    "Version": "260430.1.0",
+    "Id": 720118,
+    "LevelRangeType": "Default",
+    "RangeStartLevel": 221,
+    "RangeEndLevel": 240,
+    "StartValue": "3960",
+    "EndValue": "5070",
+    "ValueType": "Permil"
+  },
+  {
+    "Version": "260430.1.0",
+    "Id": 720119,
+    "LevelRangeType": "Default",
+    "RangeStartLevel": 241,
+    "RangeEndLevel": 260,
+    "StartValue": "5150",
+    "EndValue": "6600",
+    "ValueType": "Permil"
+  },
+  {
+    "Version": "260430.1.0",
+    "Id": 721210,
+    "LevelRangeType": "Default",
+    "RangeStartLevel": 261,
+    "RangeEndLevel": 280,
+    "StartValue": "6700",
+    "EndValue": "8570",
+    "ValueType": "Permil"
+  },
+  {
+    "Version": "260430.1.0",
+    "Id": 721211,
+    "LevelRangeType": "Default",
+    "RangeStartLevel": 281,
+    "RangeEndLevel": 300,
+    "StartValue": "8710",
+    "EndValue": "11200",
+    "ValueType": "Permil"
+  },
+  {
     "Version": "250330.1.0",
     "Id": 72012,
     "LevelRangeType": "Default",
@@ -2917,6 +4067,56 @@
     "RangeEndLevel": 200,
     "StartValue": "1710",
     "EndValue": "2250",
+    "ValueType": "Permil"
+  },
+  {
+    "Version": "260430.1.0",
+    "Id": 720127,
+    "LevelRangeType": "Default",
+    "RangeStartLevel": 201,
+    "RangeEndLevel": 220,
+    "StartValue": "2290",
+    "EndValue": "2930",
+    "ValueType": "Permil"
+  },
+  {
+    "Version": "260430.1.0",
+    "Id": 720128,
+    "LevelRangeType": "Default",
+    "RangeStartLevel": 221,
+    "RangeEndLevel": 240,
+    "StartValue": "2980",
+    "EndValue": "3810",
+    "ValueType": "Permil"
+  },
+  {
+    "Version": "260430.1.0",
+    "Id": 720129,
+    "LevelRangeType": "Default",
+    "RangeStartLevel": 241,
+    "RangeEndLevel": 260,
+    "StartValue": "3870",
+    "EndValue": "4950",
+    "ValueType": "Permil"
+  },
+  {
+    "Version": "260430.1.0",
+    "Id": 721310,
+    "LevelRangeType": "Default",
+    "RangeStartLevel": 261,
+    "RangeEndLevel": 280,
+    "StartValue": "5030",
+    "EndValue": "6430",
+    "ValueType": "Permil"
+  },
+  {
+    "Version": "260430.1.0",
+    "Id": 721311,
+    "LevelRangeType": "Default",
+    "RangeStartLevel": 281,
+    "RangeEndLevel": 300,
+    "StartValue": "6530",
+    "EndValue": "8360",
     "ValueType": "Permil"
   },
   {
@@ -2990,6 +4190,56 @@
     "ValueType": "Permil"
   },
   {
+    "Version": "260430.1.0",
+    "Id": 730017,
+    "LevelRangeType": "Default",
+    "RangeStartLevel": 201,
+    "RangeEndLevel": 220,
+    "StartValue": "403200000",
+    "EndValue": "768000000",
+    "ValueType": "Permil"
+  },
+  {
+    "Version": "260430.1.0",
+    "Id": 730018,
+    "LevelRangeType": "Default",
+    "RangeStartLevel": 221,
+    "RangeEndLevel": 240,
+    "StartValue": "806600000",
+    "EndValue": "1540000000",
+    "ValueType": "Permil"
+  },
+  {
+    "Version": "260430.1.0",
+    "Id": 730019,
+    "LevelRangeType": "Default",
+    "RangeStartLevel": 241,
+    "RangeEndLevel": 260,
+    "StartValue": "1617000000",
+    "EndValue": "3080000000",
+    "ValueType": "Permil"
+  },
+  {
+    "Version": "260430.1.0",
+    "Id": 730210,
+    "LevelRangeType": "Default",
+    "RangeStartLevel": 261,
+    "RangeEndLevel": 280,
+    "StartValue": "3233500000",
+    "EndValue": "6150000000",
+    "ValueType": "Permil"
+  },
+  {
+    "Version": "260430.1.0",
+    "Id": 730211,
+    "LevelRangeType": "Default",
+    "RangeStartLevel": 281,
+    "RangeEndLevel": 300,
+    "StartValue": "6457500000",
+    "EndValue": "12300000000",
+    "ValueType": "Permil"
+  },
+  {
     "Version": "250330.1.0",
     "Id": 73002,
     "LevelRangeType": "Default",
@@ -3057,6 +4307,56 @@
     "RangeEndLevel": 200,
     "StartValue": "73600000",
     "EndValue": "256000000",
+    "ValueType": "Permil"
+  },
+  {
+    "Version": "260430.1.0",
+    "Id": 730027,
+    "LevelRangeType": "Default",
+    "RangeStartLevel": 201,
+    "RangeEndLevel": 220,
+    "StartValue": "268800000",
+    "EndValue": "512000000",
+    "ValueType": "Permil"
+  },
+  {
+    "Version": "260430.1.0",
+    "Id": 730028,
+    "LevelRangeType": "Default",
+    "RangeStartLevel": 221,
+    "RangeEndLevel": 240,
+    "StartValue": "537900000",
+    "EndValue": "1030000000",
+    "ValueType": "Permil"
+  },
+  {
+    "Version": "260430.1.0",
+    "Id": 730029,
+    "LevelRangeType": "Default",
+    "RangeStartLevel": 241,
+    "RangeEndLevel": 260,
+    "StartValue": "1081000000",
+    "EndValue": "2050000000",
+    "ValueType": "Permil"
+  },
+  {
+    "Version": "260430.1.0",
+    "Id": 730310,
+    "LevelRangeType": "Default",
+    "RangeStartLevel": 261,
+    "RangeEndLevel": 280,
+    "StartValue": "2152500000",
+    "EndValue": "4100000000",
+    "ValueType": "Permil"
+  },
+  {
+    "Version": "260430.1.0",
+    "Id": 730311,
+    "LevelRangeType": "Default",
+    "RangeStartLevel": 281,
+    "RangeEndLevel": 300,
+    "StartValue": "4305000000",
+    "EndValue": "8200000000",
     "ValueType": "Permil"
   },
   {
@@ -3130,6 +4430,56 @@
     "ValueType": "Permil"
   },
   {
+    "Version": "260430.1.0",
+    "Id": 730037,
+    "LevelRangeType": "Default",
+    "RangeStartLevel": 201,
+    "RangeEndLevel": 220,
+    "StartValue": "15200000",
+    "EndValue": "19000000",
+    "ValueType": "Permil"
+  },
+  {
+    "Version": "260430.1.0",
+    "Id": 730038,
+    "LevelRangeType": "Default",
+    "RangeStartLevel": 221,
+    "RangeEndLevel": 240,
+    "StartValue": "19250000",
+    "EndValue": "24000000",
+    "ValueType": "Permil"
+  },
+  {
+    "Version": "260430.1.0",
+    "Id": 730039,
+    "LevelRangeType": "Default",
+    "RangeStartLevel": 241,
+    "RangeEndLevel": 260,
+    "StartValue": "24300000",
+    "EndValue": "30000000",
+    "ValueType": "Permil"
+  },
+  {
+    "Version": "260430.1.0",
+    "Id": 730410,
+    "LevelRangeType": "Default",
+    "RangeStartLevel": 261,
+    "RangeEndLevel": 280,
+    "StartValue": "30400000",
+    "EndValue": "38000000",
+    "ValueType": "Permil"
+  },
+  {
+    "Version": "260430.1.0",
+    "Id": 730411,
+    "LevelRangeType": "Default",
+    "RangeStartLevel": 281,
+    "RangeEndLevel": 300,
+    "StartValue": "38500000",
+    "EndValue": "48000000",
+    "ValueType": "Permil"
+  },
+  {
     "Version": "250330.1.0",
     "Id": 73004,
     "LevelRangeType": "Default",
@@ -3197,6 +4547,56 @@
     "RangeEndLevel": 200,
     "StartValue": "5155000",
     "EndValue": "10000000",
+    "ValueType": "Permil"
+  },
+  {
+    "Version": "260430.1.0",
+    "Id": 730047,
+    "LevelRangeType": "Default",
+    "RangeStartLevel": 201,
+    "RangeEndLevel": 220,
+    "StartValue": "10150000",
+    "EndValue": "13000000",
+    "ValueType": "Permil"
+  },
+  {
+    "Version": "260430.1.0",
+    "Id": 730048,
+    "LevelRangeType": "Default",
+    "RangeStartLevel": 221,
+    "RangeEndLevel": 240,
+    "StartValue": "13150000",
+    "EndValue": "16000000",
+    "ValueType": "Permil"
+  },
+  {
+    "Version": "260430.1.0",
+    "Id": 730049,
+    "LevelRangeType": "Default",
+    "RangeStartLevel": 241,
+    "RangeEndLevel": 260,
+    "StartValue": "16200000",
+    "EndValue": "20000000",
+    "ValueType": "Permil"
+  },
+  {
+    "Version": "260430.1.0",
+    "Id": 730510,
+    "LevelRangeType": "Default",
+    "RangeStartLevel": 261,
+    "RangeEndLevel": 280,
+    "StartValue": "20250000",
+    "EndValue": "25000000",
+    "ValueType": "Permil"
+  },
+  {
+    "Version": "260430.1.0",
+    "Id": 730511,
+    "LevelRangeType": "Default",
+    "RangeStartLevel": 281,
+    "RangeEndLevel": 300,
+    "StartValue": "25300000",
+    "EndValue": "31000000",
     "ValueType": "Permil"
   },
   {
@@ -3270,6 +4670,56 @@
     "ValueType": "Permil"
   },
   {
+    "Version": "260430.1.0",
+    "Id": 730057,
+    "LevelRangeType": "Default",
+    "RangeStartLevel": 201,
+    "RangeEndLevel": 220,
+    "StartValue": "403200",
+    "EndValue": "768000",
+    "ValueType": "Permil"
+  },
+  {
+    "Version": "260430.1.0",
+    "Id": 730058,
+    "LevelRangeType": "Default",
+    "RangeStartLevel": 221,
+    "RangeEndLevel": 240,
+    "StartValue": "806600",
+    "EndValue": "1540000",
+    "ValueType": "Permil"
+  },
+  {
+    "Version": "260430.1.0",
+    "Id": 730059,
+    "LevelRangeType": "Default",
+    "RangeStartLevel": 241,
+    "RangeEndLevel": 260,
+    "StartValue": "1617000",
+    "EndValue": "3080000",
+    "ValueType": "Permil"
+  },
+  {
+    "Version": "260430.1.0",
+    "Id": 730610,
+    "LevelRangeType": "Default",
+    "RangeStartLevel": 261,
+    "RangeEndLevel": 280,
+    "StartValue": "3233500",
+    "EndValue": "6150000",
+    "ValueType": "Permil"
+  },
+  {
+    "Version": "260430.1.0",
+    "Id": 730611,
+    "LevelRangeType": "Default",
+    "RangeStartLevel": 281,
+    "RangeEndLevel": 300,
+    "StartValue": "6457500",
+    "EndValue": "12300000",
+    "ValueType": "Permil"
+  },
+  {
     "Version": "250330.1.0",
     "Id": 73006,
     "LevelRangeType": "Default",
@@ -3337,6 +4787,56 @@
     "RangeEndLevel": 200,
     "StartValue": "73600",
     "EndValue": "256000",
+    "ValueType": "Permil"
+  },
+  {
+    "Version": "260430.1.0",
+    "Id": 730067,
+    "LevelRangeType": "Default",
+    "RangeStartLevel": 201,
+    "RangeEndLevel": 220,
+    "StartValue": "268800",
+    "EndValue": "512000",
+    "ValueType": "Permil"
+  },
+  {
+    "Version": "260430.1.0",
+    "Id": 730068,
+    "LevelRangeType": "Default",
+    "RangeStartLevel": 221,
+    "RangeEndLevel": 240,
+    "StartValue": "537900",
+    "EndValue": "1030000",
+    "ValueType": "Permil"
+  },
+  {
+    "Version": "260430.1.0",
+    "Id": 730069,
+    "LevelRangeType": "Default",
+    "RangeStartLevel": 241,
+    "RangeEndLevel": 260,
+    "StartValue": "1081000",
+    "EndValue": "2050000",
+    "ValueType": "Permil"
+  },
+  {
+    "Version": "260430.1.0",
+    "Id": 730710,
+    "LevelRangeType": "Default",
+    "RangeStartLevel": 261,
+    "RangeEndLevel": 280,
+    "StartValue": "2152500",
+    "EndValue": "4100000",
+    "ValueType": "Permil"
+  },
+  {
+    "Version": "260430.1.0",
+    "Id": 730711,
+    "LevelRangeType": "Default",
+    "RangeStartLevel": 281,
+    "RangeEndLevel": 300,
+    "StartValue": "4305000",
+    "EndValue": "8200000",
     "ValueType": "Permil"
   },
   {
@@ -3410,6 +4910,56 @@
     "ValueType": "Permil"
   },
   {
+    "Version": "260430.1.0",
+    "Id": 730077,
+    "LevelRangeType": "Default",
+    "RangeStartLevel": 201,
+    "RangeEndLevel": 220,
+    "StartValue": "2016000",
+    "EndValue": "3840000",
+    "ValueType": "Permil"
+  },
+  {
+    "Version": "260430.1.0",
+    "Id": 730078,
+    "LevelRangeType": "Default",
+    "RangeStartLevel": 221,
+    "RangeEndLevel": 240,
+    "StartValue": "4032000",
+    "EndValue": "7680000",
+    "ValueType": "Permil"
+  },
+  {
+    "Version": "260430.1.0",
+    "Id": 730079,
+    "LevelRangeType": "Default",
+    "RangeStartLevel": 241,
+    "RangeEndLevel": 260,
+    "StartValue": "8066000",
+    "EndValue": "15400000",
+    "ValueType": "Permil"
+  },
+  {
+    "Version": "260430.1.0",
+    "Id": 730810,
+    "LevelRangeType": "Default",
+    "RangeStartLevel": 261,
+    "RangeEndLevel": 280,
+    "StartValue": "16170000",
+    "EndValue": "30800000",
+    "ValueType": "Permil"
+  },
+  {
+    "Version": "260430.1.0",
+    "Id": 730811,
+    "LevelRangeType": "Default",
+    "RangeStartLevel": 281,
+    "RangeEndLevel": 300,
+    "StartValue": "32335000",
+    "EndValue": "61500000",
+    "ValueType": "Permil"
+  },
+  {
     "Version": "250330.1.0",
     "Id": 73008,
     "LevelRangeType": "Default",
@@ -3477,6 +5027,56 @@
     "RangeEndLevel": 200,
     "StartValue": "368000",
     "EndValue": "1280000",
+    "ValueType": "Permil"
+  },
+  {
+    "Version": "260430.1.0",
+    "Id": 730087,
+    "LevelRangeType": "Default",
+    "RangeStartLevel": 201,
+    "RangeEndLevel": 220,
+    "StartValue": "1344000",
+    "EndValue": "2560000",
+    "ValueType": "Permil"
+  },
+  {
+    "Version": "260430.1.0",
+    "Id": 730088,
+    "LevelRangeType": "Default",
+    "RangeStartLevel": 221,
+    "RangeEndLevel": 240,
+    "StartValue": "2688000",
+    "EndValue": "5120000",
+    "ValueType": "Permil"
+  },
+  {
+    "Version": "260430.1.0",
+    "Id": 730089,
+    "LevelRangeType": "Default",
+    "RangeStartLevel": 241,
+    "RangeEndLevel": 260,
+    "StartValue": "5379000",
+    "EndValue": "10300000",
+    "ValueType": "Permil"
+  },
+  {
+    "Version": "260430.1.0",
+    "Id": 730910,
+    "LevelRangeType": "Default",
+    "RangeStartLevel": 261,
+    "RangeEndLevel": 280,
+    "StartValue": "10810000",
+    "EndValue": "20500000",
+    "ValueType": "Permil"
+  },
+  {
+    "Version": "260430.1.0",
+    "Id": 730911,
+    "LevelRangeType": "Default",
+    "RangeStartLevel": 281,
+    "RangeEndLevel": 300,
+    "StartValue": "21525000",
+    "EndValue": "41000000",
     "ValueType": "Permil"
   },
   {
@@ -3550,6 +5150,56 @@
     "ValueType": "Permil"
   },
   {
+    "Version": "260430.1.0",
+    "Id": 730097,
+    "LevelRangeType": "Default",
+    "RangeStartLevel": 201,
+    "RangeEndLevel": 220,
+    "StartValue": "2016000",
+    "EndValue": "3840000",
+    "ValueType": "Permil"
+  },
+  {
+    "Version": "260430.1.0",
+    "Id": 730098,
+    "LevelRangeType": "Default",
+    "RangeStartLevel": 221,
+    "RangeEndLevel": 240,
+    "StartValue": "4032000",
+    "EndValue": "7680000",
+    "ValueType": "Permil"
+  },
+  {
+    "Version": "260430.1.0",
+    "Id": 730099,
+    "LevelRangeType": "Default",
+    "RangeStartLevel": 241,
+    "RangeEndLevel": 260,
+    "StartValue": "8066000",
+    "EndValue": "15400000",
+    "ValueType": "Permil"
+  },
+  {
+    "Version": "260430.1.0",
+    "Id": 731010,
+    "LevelRangeType": "Default",
+    "RangeStartLevel": 261,
+    "RangeEndLevel": 280,
+    "StartValue": "16170000",
+    "EndValue": "30800000",
+    "ValueType": "Permil"
+  },
+  {
+    "Version": "260430.1.0",
+    "Id": 731011,
+    "LevelRangeType": "Default",
+    "RangeStartLevel": 281,
+    "RangeEndLevel": 300,
+    "StartValue": "32335000",
+    "EndValue": "61500000",
+    "ValueType": "Permil"
+  },
+  {
     "Version": "250330.1.0",
     "Id": 73010,
     "LevelRangeType": "Default",
@@ -3617,6 +5267,56 @@
     "RangeEndLevel": 200,
     "StartValue": "368000",
     "EndValue": "1280000",
+    "ValueType": "Permil"
+  },
+  {
+    "Version": "260430.1.0",
+    "Id": 730107,
+    "LevelRangeType": "Default",
+    "RangeStartLevel": 201,
+    "RangeEndLevel": 220,
+    "StartValue": "1344000",
+    "EndValue": "2560000",
+    "ValueType": "Permil"
+  },
+  {
+    "Version": "260430.1.0",
+    "Id": 730108,
+    "LevelRangeType": "Default",
+    "RangeStartLevel": 221,
+    "RangeEndLevel": 240,
+    "StartValue": "2688000",
+    "EndValue": "5120000",
+    "ValueType": "Permil"
+  },
+  {
+    "Version": "260430.1.0",
+    "Id": 730109,
+    "LevelRangeType": "Default",
+    "RangeStartLevel": 241,
+    "RangeEndLevel": 260,
+    "StartValue": "5379000",
+    "EndValue": "10300000",
+    "ValueType": "Permil"
+  },
+  {
+    "Version": "260430.1.0",
+    "Id": 731110,
+    "LevelRangeType": "Default",
+    "RangeStartLevel": 261,
+    "RangeEndLevel": 280,
+    "StartValue": "10810000",
+    "EndValue": "20500000",
+    "ValueType": "Permil"
+  },
+  {
+    "Version": "260430.1.0",
+    "Id": 731111,
+    "LevelRangeType": "Default",
+    "RangeStartLevel": 281,
+    "RangeEndLevel": 300,
+    "StartValue": "21525000",
+    "EndValue": "41000000",
     "ValueType": "Permil"
   },
   {
@@ -3690,6 +5390,56 @@
     "ValueType": "Permil"
   },
   {
+    "Version": "260430.1.0",
+    "Id": 730117,
+    "LevelRangeType": "Default",
+    "RangeStartLevel": 201,
+    "RangeEndLevel": 220,
+    "StartValue": "4570",
+    "EndValue": "5850",
+    "ValueType": "Permil"
+  },
+  {
+    "Version": "260430.1.0",
+    "Id": 730118,
+    "LevelRangeType": "Default",
+    "RangeStartLevel": 221,
+    "RangeEndLevel": 240,
+    "StartValue": "5940",
+    "EndValue": "7610",
+    "ValueType": "Permil"
+  },
+  {
+    "Version": "260430.1.0",
+    "Id": 730119,
+    "LevelRangeType": "Default",
+    "RangeStartLevel": 241,
+    "RangeEndLevel": 260,
+    "StartValue": "7730",
+    "EndValue": "9890",
+    "ValueType": "Permil"
+  },
+  {
+    "Version": "260430.1.0",
+    "Id": 731210,
+    "LevelRangeType": "Default",
+    "RangeStartLevel": 261,
+    "RangeEndLevel": 280,
+    "StartValue": "10050",
+    "EndValue": "12900",
+    "ValueType": "Permil"
+  },
+  {
+    "Version": "260430.1.0",
+    "Id": 731211,
+    "LevelRangeType": "Default",
+    "RangeStartLevel": 281,
+    "RangeEndLevel": 300,
+    "StartValue": "13100",
+    "EndValue": "16800",
+    "ValueType": "Permil"
+  },
+  {
     "Version": "250330.1.0",
     "Id": 73012,
     "LevelRangeType": "Default",
@@ -3757,6 +5507,56 @@
     "RangeEndLevel": 200,
     "StartValue": "2270",
     "EndValue": "3000",
+    "ValueType": "Permil"
+  },
+  {
+    "Version": "260430.1.0",
+    "Id": 730127,
+    "LevelRangeType": "Default",
+    "RangeStartLevel": 201,
+    "RangeEndLevel": 220,
+    "StartValue": "3050",
+    "EndValue": "3900",
+    "ValueType": "Permil"
+  },
+  {
+    "Version": "260430.1.0",
+    "Id": 730128,
+    "LevelRangeType": "Default",
+    "RangeStartLevel": 221,
+    "RangeEndLevel": 240,
+    "StartValue": "3960",
+    "EndValue": "5070",
+    "ValueType": "Permil"
+  },
+  {
+    "Version": "260430.1.0",
+    "Id": 730129,
+    "LevelRangeType": "Default",
+    "RangeStartLevel": 241,
+    "RangeEndLevel": 260,
+    "StartValue": "5150",
+    "EndValue": "6600",
+    "ValueType": "Permil"
+  },
+  {
+    "Version": "260430.1.0",
+    "Id": 731310,
+    "LevelRangeType": "Default",
+    "RangeStartLevel": 261,
+    "RangeEndLevel": 280,
+    "StartValue": "6700",
+    "EndValue": "8570",
+    "ValueType": "Permil"
+  },
+  {
+    "Version": "260430.1.0",
+    "Id": 731311,
+    "LevelRangeType": "Default",
+    "RangeStartLevel": 281,
+    "RangeEndLevel": 300,
+    "StartValue": "8710",
+    "EndValue": "11200",
     "ValueType": "Permil"
   },
   {

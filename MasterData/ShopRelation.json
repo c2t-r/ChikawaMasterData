@@ -786,6 +786,12 @@
     "ShopId": 1141
   },
   {
+    "Version": "260430.1.0",
+    "Id": 52,
+    "ShopGroupId": 3,
+    "ShopId": 46
+  },
+  {
     "Version": "260410.1.0",
     "Id": 11420,
     "ShopGroupId": 1142,
@@ -802,5 +808,11 @@
     "Id": 11431,
     "ShopGroupId": 3,
     "ShopId": 1143
+  },
+  {
+    "Version": "260430.1.0",
+    "Id": 40170,
+    "ShopGroupId": 36,
+    "ShopId": 4017
   }
 ]

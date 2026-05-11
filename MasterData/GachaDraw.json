@@ -1215,6 +1215,36 @@
     "LimitId": 33006
   },
   {
+    "Version": "260430.1.0",
+    "Id": 84,
+    "ConsumeId": 29,
+    "DrawCount": 10,
+    "LimitCount": 3,
+    "LimitRefreshType": "Never",
+    "LimitRefreshHourJST": "0",
+    "CoolTimeMinutes": 0,
+    "IsAd": false,
+    "IsAuto": false,
+    "ConfirmAttentionTextKey": -655082204,
+    "PremiseDrawId": 0,
+    "LimitId": 33013
+  },
+  {
+    "Version": "260430.1.0",
+    "Id": 85,
+    "ConsumeId": 29,
+    "DrawCount": 10,
+    "LimitCount": 3,
+    "LimitRefreshType": "Never",
+    "LimitRefreshHourJST": "0",
+    "CoolTimeMinutes": 0,
+    "IsAd": false,
+    "IsAuto": true,
+    "ConfirmAttentionTextKey": 128163841,
+    "PremiseDrawId": 0,
+    "LimitId": 33013
+  },
+  {
     "Version": "260420.1.0",
     "Id": 6041030,
     "ConsumeId": 29,

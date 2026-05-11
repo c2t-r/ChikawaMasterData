@@ -852,6 +852,26 @@
     "DateTermId": 0
   },
   {
+    "Version": "260430.1.0",
+    "Id": 33013,
+    "ViewConditionId": 3301300,
+    "ContentLockId": 2,
+    "DisplayBannerId": 101,
+    "BackgroundType": "PaidArmor",
+    "NameTextKey": 86852278,
+    "GachaIconIds": [
+      1,
+      2
+    ],
+    "GachaPrizeGroupId": 205,
+    "TopGachaDrawGroupRelationId": 76,
+    "ResultGachaDrawGroupRelationId": 77,
+    "GachaExperienceGroupId": 0,
+    "AdRewardId": 0,
+    "ProbabilityAttentionTextKey": -612960492,
+    "DateTermId": 0
+  },
+  {
     "Version": "260420.1.0",
     "Id": 604103,
     "ViewConditionId": 604103,

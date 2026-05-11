@@ -568,17 +568,17 @@
     "DateTermRepeatOptionId": 2
   },
   {
-    "Version": "250850.1.0",
+    "Version": "260430.1.0",
     "Id": 7101,
-    "ConditionDateTermId": 10020,
+    "ConditionDateTermId": 10041,
     "ResetType": "WeeklyFriday",
     "RefreshHourJST": "15",
     "DateTermRepeatOptionId": 2
   },
   {
-    "Version": "250850.1.0",
+    "Version": "260430.1.0",
     "Id": 7102,
-    "ConditionDateTermId": 10021,
+    "ConditionDateTermId": 10042,
     "ResetType": "WeeklyFriday",
     "RefreshHourJST": "15",
     "DateTermRepeatOptionId": 2
@@ -1075,6 +1075,22 @@
     "Version": "260410.1.0",
     "Id": 5126,
     "ConditionDateTermId": 72014130,
+    "ResetType": "MissionTermEnd",
+    "RefreshHourJST": "15",
+    "DateTermRepeatOptionId": 1
+  },
+  {
+    "Version": "260430.1.0",
+    "Id": 4390,
+    "ConditionDateTermId": 73017000,
+    "ResetType": "MissionTermEnd",
+    "RefreshHourJST": "15",
+    "DateTermRepeatOptionId": 1
+  },
+  {
+    "Version": "260430.1.0",
+    "Id": 4400,
+    "ConditionDateTermId": 2604301,
     "ResetType": "MissionTermEnd",
     "RefreshHourJST": "15",
     "DateTermRepeatOptionId": 1

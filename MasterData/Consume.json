@@ -952,6 +952,41 @@
     "ConsumeAmount": "40"
   },
   {
+    "Version": "260430.1.0",
+    "Id": 2016,
+    "ConsumeType": "ResourceItem",
+    "MasterId": 12,
+    "ConsumeAmount": "45"
+  },
+  {
+    "Version": "260430.1.0",
+    "Id": 2017,
+    "ConsumeType": "ResourceItem",
+    "MasterId": 12,
+    "ConsumeAmount": "50"
+  },
+  {
+    "Version": "260430.1.0",
+    "Id": 2018,
+    "ConsumeType": "ResourceItem",
+    "MasterId": 12,
+    "ConsumeAmount": "55"
+  },
+  {
+    "Version": "260430.1.0",
+    "Id": 2019,
+    "ConsumeType": "ResourceItem",
+    "MasterId": 12,
+    "ConsumeAmount": "60"
+  },
+  {
+    "Version": "260430.1.0",
+    "Id": 2020,
+    "ConsumeType": "ResourceItem",
+    "MasterId": 12,
+    "ConsumeAmount": "65"
+  },
+  {
     "Version": "250330.1.0",
     "Id": 10101,
     "ConsumeType": "ResourceItem",
@@ -9527,6 +9562,13 @@
     "ConsumeAmount": "0"
   },
   {
+    "Version": "260430.1.0",
+    "Id": 20315820,
+    "ConsumeType": "None",
+    "MasterId": 0,
+    "ConsumeAmount": "0"
+  },
+  {
     "Version": "260420.1.0",
     "Id": 21142010,
     "ConsumeType": "ResourceItem",
@@ -9637,5 +9679,82 @@
     "ConsumeType": "LimitedResourceItem",
     "MasterId": 10144,
     "ConsumeAmount": "1"
+  },
+  {
+    "Version": "260430.1.0",
+    "Id": 20320530,
+    "ConsumeType": "None",
+    "MasterId": 0,
+    "ConsumeAmount": "0"
+  },
+  {
+    "Version": "260430.1.0",
+    "Id": 20320540,
+    "ConsumeType": "None",
+    "MasterId": 0,
+    "ConsumeAmount": "0"
+  },
+  {
+    "Version": "260430.1.0",
+    "Id": 20320550,
+    "ConsumeType": "None",
+    "MasterId": 0,
+    "ConsumeAmount": "0"
+  },
+  {
+    "Version": "260430.1.0",
+    "Id": 20320560,
+    "ConsumeType": "None",
+    "MasterId": 0,
+    "ConsumeAmount": "0"
+  },
+  {
+    "Version": "260430.1.0",
+    "Id": 20320570,
+    "ConsumeType": "None",
+    "MasterId": 0,
+    "ConsumeAmount": "0"
+  },
+  {
+    "Version": "260430.1.0",
+    "Id": 20320580,
+    "ConsumeType": "None",
+    "MasterId": 0,
+    "ConsumeAmount": "0"
+  },
+  {
+    "Version": "260430.1.0",
+    "Id": 20320590,
+    "ConsumeType": "None",
+    "MasterId": 0,
+    "ConsumeAmount": "0"
+  },
+  {
+    "Version": "260430.1.0",
+    "Id": 24017010,
+    "ConsumeType": "None",
+    "MasterId": 0,
+    "ConsumeAmount": "0"
+  },
+  {
+    "Version": "260430.1.0",
+    "Id": 24017020,
+    "ConsumeType": "None",
+    "MasterId": 0,
+    "ConsumeAmount": "0"
+  },
+  {
+    "Version": "260430.1.0",
+    "Id": 24017030,
+    "ConsumeType": "None",
+    "MasterId": 0,
+    "ConsumeAmount": "0"
+  },
+  {
+    "Version": "260430.1.0",
+    "Id": 24017040,
+    "ConsumeType": "None",
+    "MasterId": 0,
+    "ConsumeAmount": "0"
   }
 ]

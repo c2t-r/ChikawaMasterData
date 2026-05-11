@@ -753,6 +753,20 @@
     "DescriptionTextKey": 2147483647
   },
   {
+    "Version": "260430.1.0",
+    "Id": 1041,
+    "RewardIds": [
+      11005000,
+      130020,
+      120100
+    ],
+    "NameTextKey": -1350085154,
+    "IconName": "rewards_set",
+    "DescriptionType": "None",
+    "DescriptionGroupId": 0,
+    "DescriptionTextKey": 2147483647
+  },
+  {
     "Version": "250330.1.0",
     "Id": 10001,
     "RewardIds": [
@@ -26622,6 +26636,62 @@
     "RewardIds": [
       300003,
       13500000,
+      320020
+    ],
+    "NameTextKey": -1978328818,
+    "IconName": "sample",
+    "DescriptionType": "None",
+    "DescriptionGroupId": 0,
+    "DescriptionTextKey": 2147483647
+  },
+  {
+    "Version": "260430.1.0",
+    "Id": 300200205,
+    "RewardIds": [
+      300001,
+      13150000,
+      320020
+    ],
+    "NameTextKey": -1978328818,
+    "IconName": "sample",
+    "DescriptionType": "None",
+    "DescriptionGroupId": 0,
+    "DescriptionTextKey": 2147483647
+  },
+  {
+    "Version": "260430.1.0",
+    "Id": 300200206,
+    "RewardIds": [
+      300002,
+      13250000,
+      320020
+    ],
+    "NameTextKey": -1978328818,
+    "IconName": "sample",
+    "DescriptionType": "None",
+    "DescriptionGroupId": 0,
+    "DescriptionTextKey": 2147483647
+  },
+  {
+    "Version": "260430.1.0",
+    "Id": 300200207,
+    "RewardIds": [
+      300002,
+      13400000,
+      320020
+    ],
+    "NameTextKey": -1978328818,
+    "IconName": "sample",
+    "DescriptionType": "None",
+    "DescriptionGroupId": 0,
+    "DescriptionTextKey": 2147483647
+  },
+  {
+    "Version": "260430.1.0",
+    "Id": 300200208,
+    "RewardIds": [
+      300003,
+      13750000,
       320020
     ],
     "NameTextKey": -1978328818,
@@ -58108,6 +58178,19 @@
     "DescriptionTextKey": 2147483647
   },
   {
+    "Version": "260430.1.0",
+    "Id": 20315820,
+    "RewardIds": [
+      12003200,
+      11003200
+    ],
+    "NameTextKey": -1978328818,
+    "IconName": "sample",
+    "DescriptionType": "None",
+    "DescriptionGroupId": 0,
+    "DescriptionTextKey": 2147483647
+  },
+  {
     "Version": "260410.1.0",
     "Id": 200000026,
     "RewardIds": [
@@ -58724,6 +58807,170 @@
     "Id": 2102097,
     "RewardIds": [
       2097
+    ],
+    "NameTextKey": -1978328818,
+    "IconName": "sample",
+    "DescriptionType": "None",
+    "DescriptionGroupId": 0,
+    "DescriptionTextKey": 2147483647
+  },
+  {
+    "Version": "260430.1.0",
+    "Id": 20320530,
+    "RewardIds": [
+      12003200,
+      130020
+    ],
+    "NameTextKey": -1978328818,
+    "IconName": "sample",
+    "DescriptionType": "None",
+    "DescriptionGroupId": 0,
+    "DescriptionTextKey": 2147483647
+  },
+  {
+    "Version": "260430.1.0",
+    "Id": 20320540,
+    "RewardIds": [
+      12003200,
+      120200
+    ],
+    "NameTextKey": -1978328818,
+    "IconName": "sample",
+    "DescriptionType": "None",
+    "DescriptionGroupId": 0,
+    "DescriptionTextKey": 2147483647
+  },
+  {
+    "Version": "260430.1.0",
+    "Id": 20320550,
+    "RewardIds": [
+      12003200,
+      320040
+    ],
+    "NameTextKey": -1978328818,
+    "IconName": "sample",
+    "DescriptionType": "None",
+    "DescriptionGroupId": 0,
+    "DescriptionTextKey": 2147483647
+  },
+  {
+    "Version": "260430.1.0",
+    "Id": 20320560,
+    "RewardIds": [
+      12003200,
+      330040
+    ],
+    "NameTextKey": -1978328818,
+    "IconName": "sample",
+    "DescriptionType": "None",
+    "DescriptionGroupId": 0,
+    "DescriptionTextKey": 2147483647
+  },
+  {
+    "Version": "260430.1.0",
+    "Id": 20320570,
+    "RewardIds": [
+      12008000,
+      189998,
+      120050
+    ],
+    "NameTextKey": -1978328818,
+    "IconName": "sample",
+    "DescriptionType": "None",
+    "DescriptionGroupId": 0,
+    "DescriptionTextKey": 2147483647
+  },
+  {
+    "Version": "260430.1.0",
+    "Id": 20320580,
+    "RewardIds": [
+      12008000,
+      13009120,
+      120050
+    ],
+    "NameTextKey": -1978328818,
+    "IconName": "sample",
+    "DescriptionType": "None",
+    "DescriptionGroupId": 0,
+    "DescriptionTextKey": 2147483647
+  },
+  {
+    "Version": "260430.1.0",
+    "Id": 20320590,
+    "RewardIds": [
+      12008000,
+      16200000,
+      120050
+    ],
+    "NameTextKey": -1978328818,
+    "IconName": "sample",
+    "DescriptionType": "None",
+    "DescriptionGroupId": 0,
+    "DescriptionTextKey": 2147483647
+  },
+  {
+    "Version": "260430.1.0",
+    "Id": 24017000,
+    "RewardIds": [
+      11000500,
+      13100000,
+      320015
+    ],
+    "NameTextKey": -1978328818,
+    "IconName": "sample",
+    "DescriptionType": "None",
+    "DescriptionGroupId": 0,
+    "DescriptionTextKey": 2147483647
+  },
+  {
+    "Version": "260430.1.0",
+    "Id": 24017010,
+    "RewardIds": [
+      12004800,
+      13300000,
+      320010
+    ],
+    "NameTextKey": -1978328818,
+    "IconName": "sample",
+    "DescriptionType": "None",
+    "DescriptionGroupId": 0,
+    "DescriptionTextKey": 2147483647
+  },
+  {
+    "Version": "260430.1.0",
+    "Id": 24017020,
+    "RewardIds": [
+      12008000,
+      13600000,
+      320030
+    ],
+    "NameTextKey": -1978328818,
+    "IconName": "sample",
+    "DescriptionType": "None",
+    "DescriptionGroupId": 0,
+    "DescriptionTextKey": 2147483647
+  },
+  {
+    "Version": "260430.1.0",
+    "Id": 24017030,
+    "RewardIds": [
+      12015000,
+      15000120,
+      320060
+    ],
+    "NameTextKey": -1978328818,
+    "IconName": "sample",
+    "DescriptionType": "None",
+    "DescriptionGroupId": 0,
+    "DescriptionTextKey": 2147483647
+  },
+  {
+    "Version": "260430.1.0",
+    "Id": 24017040,
+    "RewardIds": [
+      12030000,
+      15000250,
+      320140
     ],
     "NameTextKey": -1978328818,
     "IconName": "sample",

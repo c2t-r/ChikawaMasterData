@@ -1894,5 +1894,89 @@
     "AssetName": "force_appeal_7013",
     "Priority": 395895,
     "IgnoreLimit": false
+  },
+  {
+    "Version": "260430.1.0",
+    "Id": 7017,
+    "StartAtJST": "2026-04-17 15:00:00",
+    "EndAtJST": "2026-05-01 14:59:59",
+    "AppealStartAtJST": "2026-04-17 15:00:00",
+    "AppealEndAtJST": "2026-05-01 14:59:59",
+    "DateHeadTextKey": -998419800,
+    "AssetName": "force_appeal_7017",
+    "Priority": 395829,
+    "IgnoreLimit": false
+  },
+  {
+    "Version": "260430.1.0",
+    "Id": 4027,
+    "StartAtJST": "2026-04-17 15:00:00",
+    "EndAtJST": "2026-04-20 14:59:59",
+    "AppealStartAtJST": "2026-04-17 15:00:00",
+    "AppealEndAtJST": "2026-04-20 14:59:59",
+    "DateHeadTextKey": 1518997849,
+    "AssetName": "force_appeal_4027",
+    "Priority": 395828,
+    "IgnoreLimit": false
+  },
+  {
+    "Version": "260430.1.0",
+    "Id": 4026,
+    "StartAtJST": "2026-04-17 15:00:00",
+    "EndAtJST": "2026-04-23 14:59:59",
+    "AppealStartAtJST": "2026-04-17 15:00:00",
+    "AppealEndAtJST": "2026-04-23 14:59:59",
+    "DateHeadTextKey": 1518997849,
+    "AssetName": "force_appeal_4026",
+    "Priority": 395827,
+    "IgnoreLimit": false
+  },
+  {
+    "Version": "260430.1.0",
+    "Id": 7018,
+    "StartAtJST": "2026-04-24 15:00:00",
+    "EndAtJST": "2026-04-30 14:59:59",
+    "AppealStartAtJST": "2026-04-24 15:00:00",
+    "AppealEndAtJST": "2026-04-30 14:59:59",
+    "DateHeadTextKey": 1518997849,
+    "AssetName": "force_appeal_7018",
+    "Priority": 395759,
+    "IgnoreLimit": false
+  },
+  {
+    "Version": "260430.1.0",
+    "Id": 4028,
+    "StartAtJST": "2026-04-24 15:00:00",
+    "EndAtJST": "2026-05-31 14:59:59",
+    "AppealStartAtJST": "2026-04-24 15:00:00",
+    "AppealEndAtJST": "2026-05-31 14:59:59",
+    "DateHeadTextKey": 1518997849,
+    "AssetName": "force_appeal_4028",
+    "Priority": 395758,
+    "IgnoreLimit": false
+  },
+  {
+    "Version": "260430.1.0",
+    "Id": 1402702,
+    "StartAtJST": "2026-04-24 15:00:00",
+    "EndAtJST": "2026-04-27 14:59:59",
+    "AppealStartAtJST": "2026-04-24 15:00:00",
+    "AppealEndAtJST": "2026-04-27 14:59:59",
+    "DateHeadTextKey": 1518997849,
+    "AssetName": "force_appeal_4027",
+    "Priority": 395757,
+    "IgnoreLimit": false
+  },
+  {
+    "Version": "260430.1.0",
+    "Id": 1402003,
+    "StartAtJST": "2026-04-27 00:00:00",
+    "EndAtJST": "2026-04-27 23:59:59",
+    "AppealStartAtJST": "2026-04-27 00:00:00",
+    "AppealEndAtJST": "2026-04-27 23:59:59",
+    "DateHeadTextKey": 1518997849,
+    "AssetName": "force_appeal_4020",
+    "Priority": 395724,
+    "IgnoreLimit": true
   }
 ]

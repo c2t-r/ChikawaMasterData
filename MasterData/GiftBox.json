@@ -454,5 +454,29 @@
     "DistributionEndsAtJST": "2026-04-17 14:59:59",
     "ExpiresAtJST": "2026-04-24 14:59:59",
     "AdRewardId": 0
+  },
+  {
+    "Version": "260430.1.0",
+    "Id": 43,
+    "NameTextKey": -1350085154,
+    "DistributionType": "Once",
+    "ScheduleType": "All",
+    "RewardGroupId": 1041,
+    "DistributionStartsAtJST": "2026-04-24 15:00:00",
+    "DistributionEndsAtJST": "2026-05-31 14:59:59",
+    "ExpiresAtJST": "2026-06-07 14:59:59",
+    "AdRewardId": 0
+  },
+  {
+    "Version": "260430.1.0",
+    "Id": 44,
+    "NameTextKey": -1279661706,
+    "DistributionType": "Once",
+    "ScheduleType": "All",
+    "RewardGroupId": 1035,
+    "DistributionStartsAtJST": "2026-04-27 00:00:00",
+    "DistributionEndsAtJST": "2026-04-27 23:59:59",
+    "ExpiresAtJST": "2026-05-04 23:59:59",
+    "AdRewardId": 0
   }
 ]

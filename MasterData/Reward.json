@@ -15869,6 +15869,13 @@
     "AcquireAmount": "30B"
   },
   {
+    "Version": "260430.1.0",
+    "Id": 13400000,
+    "RewardType": "ResourceItem",
+    "MasterId": 201,
+    "AcquireAmount": "40B"
+  },
+  {
     "Version": "250640.1.0",
     "Id": 13500000,
     "RewardType": "ResourceItem",
@@ -15881,6 +15888,13 @@
     "RewardType": "ResourceItem",
     "MasterId": 201,
     "AcquireAmount": "60B"
+  },
+  {
+    "Version": "260430.1.0",
+    "Id": 13750000,
+    "RewardType": "ResourceItem",
+    "MasterId": 201,
+    "AcquireAmount": "75B"
   },
   {
     "Version": "260130.1.0",

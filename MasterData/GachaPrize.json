@@ -368,6 +368,14 @@
     "ViewMaxRarity": "LegendRare"
   },
   {
+    "Version": "260430.1.0",
+    "Id": 47,
+    "GroupId": 206,
+    "PrizeRelationTableGroupId": 206,
+    "Level": 0,
+    "ViewMaxRarity": "LegendRare"
+  },
+  {
     "Version": "260420.1.0",
     "Id": 604103,
     "GroupId": 604103,
