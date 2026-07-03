@@ -1,26 +1,26 @@
 [
   {
-    "Version": "250330.1.0",
-    "Id": 1,
-    "EvaluateConditionOrGroupId": 1,
-    "EvaluateConditionId": 12100030
+    "version": "250330.1.0",
+    "id": 1,
+    "evaluateConditionOrGroupId": 1,
+    "evaluateConditionId": 12100030
   },
   {
-    "Version": "250330.1.0",
-    "Id": 2,
-    "EvaluateConditionOrGroupId": 2,
-    "EvaluateConditionId": 2020101
+    "version": "250330.1.0",
+    "id": 2,
+    "evaluateConditionOrGroupId": 2,
+    "evaluateConditionId": 2020101
   },
   {
-    "Version": "250330.1.0",
-    "Id": 3,
-    "EvaluateConditionOrGroupId": 3,
-    "EvaluateConditionId": 14100010
+    "version": "250330.1.0",
+    "id": 3,
+    "evaluateConditionOrGroupId": 3,
+    "evaluateConditionId": 14100010
   },
   {
-    "Version": "250330.1.0",
-    "Id": 4,
-    "EvaluateConditionOrGroupId": 4,
-    "EvaluateConditionId": 14100030
+    "version": "250330.1.0",
+    "id": 4,
+    "evaluateConditionOrGroupId": 4,
+    "evaluateConditionId": 14100030
   }
 ]

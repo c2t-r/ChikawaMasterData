@@ -1,43 +1,43 @@
 [
   {
-    "Version": "250330.1.0",
-    "Id": 1,
-    "PossessionEffectIds": [
+    "version": "250330.1.0",
+    "id": 1,
+    "possessionEffectIds": [
       4001
     ],
-    "ExperienceGroupId": 50,
-    "NameTextKey": -1940248675,
-    "AdRewardId": 10
+    "experienceGroupId": 50,
+    "nameTextKey": -1940248675,
+    "adRewardId": 10
   },
   {
-    "Version": "250330.1.0",
-    "Id": 2,
-    "PossessionEffectIds": [
+    "version": "250330.1.0",
+    "id": 2,
+    "possessionEffectIds": [
       4002
     ],
-    "ExperienceGroupId": 50,
-    "NameTextKey": 1355729994,
-    "AdRewardId": 10
+    "experienceGroupId": 50,
+    "nameTextKey": 1355729994,
+    "adRewardId": 10
   },
   {
-    "Version": "250330.1.0",
-    "Id": 3,
-    "PossessionEffectIds": [
+    "version": "250330.1.0",
+    "id": 3,
+    "possessionEffectIds": [
       4003
     ],
-    "ExperienceGroupId": 50,
-    "NameTextKey": -1128032357,
-    "AdRewardId": 10
+    "experienceGroupId": 50,
+    "nameTextKey": -1128032357,
+    "adRewardId": 10
   },
   {
-    "Version": "250330.1.0",
-    "Id": 4,
-    "PossessionEffectIds": [
+    "version": "250330.1.0",
+    "id": 4,
+    "possessionEffectIds": [
       4004,
       4005
     ],
-    "ExperienceGroupId": 51,
-    "NameTextKey": 0,
-    "AdRewardId": 0
+    "experienceGroupId": 51,
+    "nameTextKey": 0,
+    "adRewardId": 0
   }
 ]

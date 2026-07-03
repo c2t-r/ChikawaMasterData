@@ -1,140 +1,140 @@
 [
   {
-    "Version": "250330.1.0",
-    "Id": 11,
-    "GroupId": 10,
-    "NameTextKey": 1688484041
+    "version": "250330.1.0",
+    "id": 11,
+    "groupId": 10,
+    "nameTextKey": 1688484041
   },
   {
-    "Version": "250330.1.0",
-    "Id": 12,
-    "GroupId": 10,
-    "NameTextKey": -38966925
+    "version": "250330.1.0",
+    "id": 12,
+    "groupId": 10,
+    "nameTextKey": -38966925
   },
   {
-    "Version": "250330.1.0",
-    "Id": 21,
-    "GroupId": 20,
-    "NameTextKey": 1688484041
+    "version": "250330.1.0",
+    "id": 21,
+    "groupId": 20,
+    "nameTextKey": 1688484041
   },
   {
-    "Version": "250330.1.0",
-    "Id": 22,
-    "GroupId": 20,
-    "NameTextKey": -38966925
+    "version": "250330.1.0",
+    "id": 22,
+    "groupId": 20,
+    "nameTextKey": -38966925
   },
   {
-    "Version": "250330.1.0",
-    "Id": 23,
-    "GroupId": 20,
-    "NameTextKey": -1968547355
+    "version": "250330.1.0",
+    "id": 23,
+    "groupId": 20,
+    "nameTextKey": -1968547355
   },
   {
-    "Version": "250330.1.0",
-    "Id": 24,
-    "GroupId": 20,
-    "NameTextKey": 349097030
+    "version": "250330.1.0",
+    "id": 24,
+    "groupId": 20,
+    "nameTextKey": 349097030
   },
   {
-    "Version": "250330.1.0",
-    "Id": 31,
-    "GroupId": 30,
-    "NameTextKey": -294072667
+    "version": "250330.1.0",
+    "id": 31,
+    "groupId": 30,
+    "nameTextKey": -294072667
   },
   {
-    "Version": "250330.1.0",
-    "Id": 32,
-    "GroupId": 30,
-    "NameTextKey": 2003935007
+    "version": "250330.1.0",
+    "id": 32,
+    "groupId": 30,
+    "nameTextKey": 2003935007
   },
   {
-    "Version": "250330.1.0",
-    "Id": 33,
-    "GroupId": 30,
-    "NameTextKey": 7778185
+    "version": "250330.1.0",
+    "id": 33,
+    "groupId": 30,
+    "nameTextKey": 7778185
   },
   {
-    "Version": "250330.1.0",
-    "Id": 34,
-    "GroupId": 30,
-    "NameTextKey": -1642972630
+    "version": "250330.1.0",
+    "id": 34,
+    "groupId": 30,
+    "nameTextKey": -1642972630
   },
   {
-    "Version": "250330.1.0",
-    "Id": 41,
-    "GroupId": 40,
-    "NameTextKey": -1968547355
+    "version": "250330.1.0",
+    "id": 41,
+    "groupId": 40,
+    "nameTextKey": -1968547355
   },
   {
-    "Version": "250330.1.0",
-    "Id": 51,
-    "GroupId": 50,
-    "NameTextKey": -99258918
+    "version": "250330.1.0",
+    "id": 51,
+    "groupId": 50,
+    "nameTextKey": -99258918
   },
   {
-    "Version": "250330.1.0",
-    "Id": 61,
-    "GroupId": 60,
-    "NameTextKey": 1685190777
+    "version": "250330.1.0",
+    "id": 61,
+    "groupId": 60,
+    "nameTextKey": 1685190777
   },
   {
-    "Version": "260410.1.0",
-    "Id": 71,
-    "GroupId": 70,
-    "NameTextKey": 1880906502
+    "version": "260410.1.0",
+    "id": 71,
+    "groupId": 70,
+    "nameTextKey": 1880906502
   },
   {
-    "Version": "250330.1.0",
-    "Id": 72,
-    "GroupId": 70,
-    "NameTextKey": 2003935007
+    "version": "250330.1.0",
+    "id": 72,
+    "groupId": 70,
+    "nameTextKey": 2003935007
   },
   {
-    "Version": "250330.1.0",
-    "Id": 73,
-    "GroupId": 70,
-    "NameTextKey": 7778185
+    "version": "250330.1.0",
+    "id": 73,
+    "groupId": 70,
+    "nameTextKey": 7778185
   },
   {
-    "Version": "250330.1.0",
-    "Id": 74,
-    "GroupId": 70,
-    "NameTextKey": -1642972630
+    "version": "250330.1.0",
+    "id": 74,
+    "groupId": 70,
+    "nameTextKey": -1642972630
   },
   {
-    "Version": "260410.1.0",
-    "Id": 75,
-    "GroupId": 70,
-    "NameTextKey": 119237520
+    "version": "260410.1.0",
+    "id": 75,
+    "groupId": 70,
+    "nameTextKey": 119237520
   },
   {
-    "Version": "260410.1.0",
-    "Id": 76,
-    "GroupId": 70,
-    "NameTextKey": -1750829567
+    "version": "260410.1.0",
+    "id": 76,
+    "groupId": 70,
+    "nameTextKey": -1750829567
   },
   {
-    "Version": "260410.1.0",
-    "Id": 77,
-    "GroupId": 70,
-    "NameTextKey": -526170473
+    "version": "260410.1.0",
+    "id": 77,
+    "groupId": 70,
+    "nameTextKey": -526170473
   },
   {
-    "Version": "251010.1.0",
-    "Id": 81,
-    "GroupId": 80,
-    "NameTextKey": 786970370
+    "version": "251010.1.0",
+    "id": 81,
+    "groupId": 80,
+    "nameTextKey": 786970370
   },
   {
-    "Version": "251010.1.0",
-    "Id": 91,
-    "GroupId": 90,
-    "NameTextKey": -1332960607
+    "version": "251010.1.0",
+    "id": 91,
+    "groupId": 90,
+    "nameTextKey": -1332960607
   },
   {
-    "Version": "260110.1.0",
-    "Id": 101,
-    "GroupId": 100,
-    "NameTextKey": 326551791
+    "version": "260110.1.0",
+    "id": 101,
+    "groupId": 100,
+    "nameTextKey": 326551791
   }
 ]

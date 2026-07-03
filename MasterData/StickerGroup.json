@@ -1,51 +1,51 @@
 [
   {
-    "Version": "260410.1.0",
-    "Id": 1,
-    "NameTextKey": -1693678648,
-    "SortOrder": 10,
-    "TapAreaType": "Default"
+    "version": "260410.1.0",
+    "id": 1,
+    "nameTextKey": -1693678648,
+    "sortOrder": 10,
+    "tapAreaType": "Default"
   },
   {
-    "Version": "260410.1.0",
-    "Id": 2,
-    "NameTextKey": 33935986,
-    "SortOrder": 20,
-    "TapAreaType": "Circle"
+    "version": "260410.1.0",
+    "id": 2,
+    "nameTextKey": 33935986,
+    "sortOrder": 20,
+    "tapAreaType": "Circle"
   },
   {
-    "Version": "260410.1.0",
-    "Id": 3,
-    "NameTextKey": 1963123428,
-    "SortOrder": 30,
-    "TapAreaType": "Default"
+    "version": "260410.1.0",
+    "id": 3,
+    "nameTextKey": 1963123428,
+    "sortOrder": 30,
+    "tapAreaType": "Default"
   },
   {
-    "Version": "260410.1.0",
-    "Id": 4,
-    "NameTextKey": -345606329,
-    "SortOrder": 40,
-    "TapAreaType": "Default"
+    "version": "260410.1.0",
+    "id": 4,
+    "nameTextKey": -345606329,
+    "sortOrder": 40,
+    "tapAreaType": "Default"
   },
   {
-    "Version": "260410.1.0",
-    "Id": 5,
-    "NameTextKey": -1671346223,
-    "SortOrder": 50,
-    "TapAreaType": "Default"
+    "version": "260410.1.0",
+    "id": 5,
+    "nameTextKey": -1671346223,
+    "sortOrder": 50,
+    "tapAreaType": "Default"
   },
   {
-    "Version": "260410.1.0",
-    "Id": 6,
-    "NameTextKey": 90707563,
-    "SortOrder": 60,
-    "TapAreaType": "Default"
+    "version": "260410.1.0",
+    "id": 6,
+    "nameTextKey": 90707563,
+    "sortOrder": 60,
+    "tapAreaType": "Default"
   },
   {
-    "Version": "260410.1.0",
-    "Id": 7,
-    "NameTextKey": 1919887101,
-    "SortOrder": 70,
-    "TapAreaType": "Default"
+    "version": "260410.1.0",
+    "id": 7,
+    "nameTextKey": 1919887101,
+    "sortOrder": 70,
+    "tapAreaType": "Default"
   }
 ]

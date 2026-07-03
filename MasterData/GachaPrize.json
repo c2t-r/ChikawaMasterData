@@ -1,410 +1,594 @@
 [
   {
-    "Version": "250330.1.0",
-    "Id": 1,
-    "GroupId": 1,
-    "PrizeRelationTableGroupId": 1,
-    "Level": 1,
-    "ViewMaxRarity": "Normal"
+    "version": "250330.1.0",
+    "id": 1,
+    "groupId": 1,
+    "prizeRelationTableGroupId": 1,
+    "level": 1,
+    "viewMaxRarity": "Normal"
   },
   {
-    "Version": "250330.1.0",
-    "Id": 2,
-    "GroupId": 1,
-    "PrizeRelationTableGroupId": 2,
-    "Level": 2,
-    "ViewMaxRarity": "NormalRare"
+    "version": "250330.1.0",
+    "id": 2,
+    "groupId": 1,
+    "prizeRelationTableGroupId": 2,
+    "level": 2,
+    "viewMaxRarity": "NormalRare"
   },
   {
-    "Version": "250330.1.0",
-    "Id": 3,
-    "GroupId": 1,
-    "PrizeRelationTableGroupId": 3,
-    "Level": 3,
-    "ViewMaxRarity": "Rare"
+    "version": "250330.1.0",
+    "id": 3,
+    "groupId": 1,
+    "prizeRelationTableGroupId": 3,
+    "level": 3,
+    "viewMaxRarity": "Rare"
   },
   {
-    "Version": "250330.1.0",
-    "Id": 4,
-    "GroupId": 1,
-    "PrizeRelationTableGroupId": 4,
-    "Level": 4,
-    "ViewMaxRarity": "SuperRare"
+    "version": "250330.1.0",
+    "id": 4,
+    "groupId": 1,
+    "prizeRelationTableGroupId": 4,
+    "level": 4,
+    "viewMaxRarity": "SuperRare"
   },
   {
-    "Version": "250330.1.0",
-    "Id": 5,
-    "GroupId": 1,
-    "PrizeRelationTableGroupId": 5,
-    "Level": 5,
-    "ViewMaxRarity": "HyperRare"
+    "version": "250330.1.0",
+    "id": 5,
+    "groupId": 1,
+    "prizeRelationTableGroupId": 5,
+    "level": 5,
+    "viewMaxRarity": "HyperRare"
   },
   {
-    "Version": "250330.1.0",
-    "Id": 6,
-    "GroupId": 1,
-    "PrizeRelationTableGroupId": 6,
-    "Level": 6,
-    "ViewMaxRarity": "UltraRare"
+    "version": "250330.1.0",
+    "id": 6,
+    "groupId": 1,
+    "prizeRelationTableGroupId": 6,
+    "level": 6,
+    "viewMaxRarity": "UltraRare"
   },
   {
-    "Version": "250330.1.0",
-    "Id": 7,
-    "GroupId": 1,
-    "PrizeRelationTableGroupId": 7,
-    "Level": 7,
-    "ViewMaxRarity": "LegendRare"
+    "version": "250330.1.0",
+    "id": 7,
+    "groupId": 1,
+    "prizeRelationTableGroupId": 7,
+    "level": 7,
+    "viewMaxRarity": "LegendRare"
   },
   {
-    "Version": "250330.1.0",
-    "Id": 8,
-    "GroupId": 1,
-    "PrizeRelationTableGroupId": 8,
-    "Level": 8,
-    "ViewMaxRarity": "LegendRare"
+    "version": "250330.1.0",
+    "id": 8,
+    "groupId": 1,
+    "prizeRelationTableGroupId": 8,
+    "level": 8,
+    "viewMaxRarity": "LegendRare"
   },
   {
-    "Version": "250330.1.0",
-    "Id": 9,
-    "GroupId": 1,
-    "PrizeRelationTableGroupId": 9,
-    "Level": 9,
-    "ViewMaxRarity": "LegendRare"
+    "version": "250330.1.0",
+    "id": 9,
+    "groupId": 1,
+    "prizeRelationTableGroupId": 9,
+    "level": 9,
+    "viewMaxRarity": "LegendRare"
   },
   {
-    "Version": "250330.1.0",
-    "Id": 10,
-    "GroupId": 1,
-    "PrizeRelationTableGroupId": 10,
-    "Level": 10,
-    "ViewMaxRarity": "LegendRare"
+    "version": "250330.1.0",
+    "id": 10,
+    "groupId": 1,
+    "prizeRelationTableGroupId": 10,
+    "level": 10,
+    "viewMaxRarity": "LegendRare"
   },
   {
-    "Version": "260115.1.0",
-    "Id": 23,
-    "GroupId": 1,
-    "PrizeRelationTableGroupId": 26,
-    "Level": 11,
-    "ViewMaxRarity": "LegendRare"
+    "version": "260115.1.0",
+    "id": 23,
+    "groupId": 1,
+    "prizeRelationTableGroupId": 26,
+    "level": 11,
+    "viewMaxRarity": "LegendRare"
   },
   {
-    "Version": "260115.1.0",
-    "Id": 24,
-    "GroupId": 1,
-    "PrizeRelationTableGroupId": 27,
-    "Level": 12,
-    "ViewMaxRarity": "LegendRare"
+    "version": "260115.1.0",
+    "id": 24,
+    "groupId": 1,
+    "prizeRelationTableGroupId": 27,
+    "level": 12,
+    "viewMaxRarity": "LegendRare"
   },
   {
-    "Version": "260115.1.0",
-    "Id": 25,
-    "GroupId": 1,
-    "PrizeRelationTableGroupId": 28,
-    "Level": 13,
-    "ViewMaxRarity": "LegendRare"
+    "version": "260115.1.0",
+    "id": 25,
+    "groupId": 1,
+    "prizeRelationTableGroupId": 28,
+    "level": 13,
+    "viewMaxRarity": "LegendRare"
   },
   {
-    "Version": "260115.1.0",
-    "Id": 26,
-    "GroupId": 1,
-    "PrizeRelationTableGroupId": 29,
-    "Level": 14,
-    "ViewMaxRarity": "LegendRare"
+    "version": "260115.1.0",
+    "id": 26,
+    "groupId": 1,
+    "prizeRelationTableGroupId": 29,
+    "level": 14,
+    "viewMaxRarity": "LegendRare"
   },
   {
-    "Version": "260115.1.0",
-    "Id": 27,
-    "GroupId": 1,
-    "PrizeRelationTableGroupId": 30,
-    "Level": 15,
-    "ViewMaxRarity": "LegendRare"
+    "version": "260115.1.0",
+    "id": 27,
+    "groupId": 1,
+    "prizeRelationTableGroupId": 30,
+    "level": 15,
+    "viewMaxRarity": "LegendRare"
   },
   {
-    "Version": "250330.1.0",
-    "Id": 11,
-    "GroupId": 2,
-    "PrizeRelationTableGroupId": 11,
-    "Level": 1,
-    "ViewMaxRarity": "Normal"
+    "version": "250330.1.0",
+    "id": 11,
+    "groupId": 2,
+    "prizeRelationTableGroupId": 11,
+    "level": 1,
+    "viewMaxRarity": "Normal"
   },
   {
-    "Version": "250330.1.0",
-    "Id": 12,
-    "GroupId": 2,
-    "PrizeRelationTableGroupId": 12,
-    "Level": 2,
-    "ViewMaxRarity": "NormalRare"
+    "version": "250330.1.0",
+    "id": 12,
+    "groupId": 2,
+    "prizeRelationTableGroupId": 12,
+    "level": 2,
+    "viewMaxRarity": "NormalRare"
   },
   {
-    "Version": "250330.1.0",
-    "Id": 13,
-    "GroupId": 2,
-    "PrizeRelationTableGroupId": 13,
-    "Level": 3,
-    "ViewMaxRarity": "Rare"
+    "version": "250330.1.0",
+    "id": 13,
+    "groupId": 2,
+    "prizeRelationTableGroupId": 13,
+    "level": 3,
+    "viewMaxRarity": "Rare"
   },
   {
-    "Version": "250330.1.0",
-    "Id": 14,
-    "GroupId": 2,
-    "PrizeRelationTableGroupId": 14,
-    "Level": 4,
-    "ViewMaxRarity": "SuperRare"
+    "version": "250330.1.0",
+    "id": 14,
+    "groupId": 2,
+    "prizeRelationTableGroupId": 14,
+    "level": 4,
+    "viewMaxRarity": "SuperRare"
   },
   {
-    "Version": "250330.1.0",
-    "Id": 15,
-    "GroupId": 2,
-    "PrizeRelationTableGroupId": 15,
-    "Level": 5,
-    "ViewMaxRarity": "HyperRare"
+    "version": "250330.1.0",
+    "id": 15,
+    "groupId": 2,
+    "prizeRelationTableGroupId": 15,
+    "level": 5,
+    "viewMaxRarity": "HyperRare"
   },
   {
-    "Version": "250330.1.0",
-    "Id": 16,
-    "GroupId": 2,
-    "PrizeRelationTableGroupId": 16,
-    "Level": 6,
-    "ViewMaxRarity": "UltraRare"
+    "version": "250330.1.0",
+    "id": 16,
+    "groupId": 2,
+    "prizeRelationTableGroupId": 16,
+    "level": 6,
+    "viewMaxRarity": "UltraRare"
   },
   {
-    "Version": "250330.1.0",
-    "Id": 17,
-    "GroupId": 2,
-    "PrizeRelationTableGroupId": 17,
-    "Level": 7,
-    "ViewMaxRarity": "LegendRare"
+    "version": "250330.1.0",
+    "id": 17,
+    "groupId": 2,
+    "prizeRelationTableGroupId": 17,
+    "level": 7,
+    "viewMaxRarity": "LegendRare"
   },
   {
-    "Version": "250330.1.0",
-    "Id": 18,
-    "GroupId": 2,
-    "PrizeRelationTableGroupId": 18,
-    "Level": 8,
-    "ViewMaxRarity": "LegendRare"
+    "version": "250330.1.0",
+    "id": 18,
+    "groupId": 2,
+    "prizeRelationTableGroupId": 18,
+    "level": 8,
+    "viewMaxRarity": "LegendRare"
   },
   {
-    "Version": "250330.1.0",
-    "Id": 19,
-    "GroupId": 2,
-    "PrizeRelationTableGroupId": 19,
-    "Level": 9,
-    "ViewMaxRarity": "LegendRare"
+    "version": "250330.1.0",
+    "id": 19,
+    "groupId": 2,
+    "prizeRelationTableGroupId": 19,
+    "level": 9,
+    "viewMaxRarity": "LegendRare"
   },
   {
-    "Version": "250330.1.0",
-    "Id": 20,
-    "GroupId": 2,
-    "PrizeRelationTableGroupId": 20,
-    "Level": 10,
-    "ViewMaxRarity": "LegendRare"
+    "version": "250330.1.0",
+    "id": 20,
+    "groupId": 2,
+    "prizeRelationTableGroupId": 20,
+    "level": 10,
+    "viewMaxRarity": "LegendRare"
   },
   {
-    "Version": "260115.1.0",
-    "Id": 28,
-    "GroupId": 2,
-    "PrizeRelationTableGroupId": 31,
-    "Level": 11,
-    "ViewMaxRarity": "LegendRare"
+    "version": "260115.1.0",
+    "id": 28,
+    "groupId": 2,
+    "prizeRelationTableGroupId": 31,
+    "level": 11,
+    "viewMaxRarity": "LegendRare"
   },
   {
-    "Version": "260115.1.0",
-    "Id": 29,
-    "GroupId": 2,
-    "PrizeRelationTableGroupId": 32,
-    "Level": 12,
-    "ViewMaxRarity": "LegendRare"
+    "version": "260115.1.0",
+    "id": 29,
+    "groupId": 2,
+    "prizeRelationTableGroupId": 32,
+    "level": 12,
+    "viewMaxRarity": "LegendRare"
   },
   {
-    "Version": "260115.1.0",
-    "Id": 30,
-    "GroupId": 2,
-    "PrizeRelationTableGroupId": 33,
-    "Level": 13,
-    "ViewMaxRarity": "LegendRare"
+    "version": "260115.1.0",
+    "id": 30,
+    "groupId": 2,
+    "prizeRelationTableGroupId": 33,
+    "level": 13,
+    "viewMaxRarity": "LegendRare"
   },
   {
-    "Version": "260115.1.0",
-    "Id": 31,
-    "GroupId": 2,
-    "PrizeRelationTableGroupId": 34,
-    "Level": 14,
-    "ViewMaxRarity": "LegendRare"
+    "version": "260115.1.0",
+    "id": 31,
+    "groupId": 2,
+    "prizeRelationTableGroupId": 34,
+    "level": 14,
+    "viewMaxRarity": "LegendRare"
   },
   {
-    "Version": "260115.1.0",
-    "Id": 32,
-    "GroupId": 2,
-    "PrizeRelationTableGroupId": 35,
-    "Level": 15,
-    "ViewMaxRarity": "LegendRare"
+    "version": "260115.1.0",
+    "id": 32,
+    "groupId": 2,
+    "prizeRelationTableGroupId": 35,
+    "level": 15,
+    "viewMaxRarity": "LegendRare"
   },
   {
-    "Version": "250330.1.0",
-    "Id": 21,
-    "GroupId": 3,
-    "PrizeRelationTableGroupId": 22,
-    "Level": 0,
-    "ViewMaxRarity": "SuperRare"
+    "version": "250330.1.0",
+    "id": 21,
+    "groupId": 3,
+    "prizeRelationTableGroupId": 22,
+    "level": 0,
+    "viewMaxRarity": "SuperRare"
   },
   {
-    "Version": "250330.1.0",
-    "Id": 22,
-    "GroupId": 4,
-    "PrizeRelationTableGroupId": 24,
-    "Level": 0,
-    "ViewMaxRarity": "HyperRare"
+    "version": "250330.1.0",
+    "id": 22,
+    "groupId": 4,
+    "prizeRelationTableGroupId": 24,
+    "level": 0,
+    "viewMaxRarity": "HyperRare"
   },
   {
-    "Version": "260115.1.0",
-    "Id": 33,
-    "GroupId": 101,
-    "PrizeRelationTableGroupId": 101,
-    "Level": 0,
-    "ViewMaxRarity": "LegendRare"
+    "version": "260115.1.0",
+    "id": 33,
+    "groupId": 101,
+    "prizeRelationTableGroupId": 101,
+    "level": 0,
+    "viewMaxRarity": "LegendRare"
   },
   {
-    "Version": "260115.1.0",
-    "Id": 34,
-    "GroupId": 102,
-    "PrizeRelationTableGroupId": 102,
-    "Level": 0,
-    "ViewMaxRarity": "LegendRare"
+    "version": "260115.1.0",
+    "id": 34,
+    "groupId": 102,
+    "prizeRelationTableGroupId": 102,
+    "level": 0,
+    "viewMaxRarity": "LegendRare"
   },
   {
-    "Version": "260130.1.0",
-    "Id": 35,
-    "GroupId": 103,
-    "PrizeRelationTableGroupId": 103,
-    "Level": 0,
-    "ViewMaxRarity": "LegendRare"
+    "version": "260130.1.0",
+    "id": 35,
+    "groupId": 103,
+    "prizeRelationTableGroupId": 103,
+    "level": 0,
+    "viewMaxRarity": "LegendRare"
   },
   {
-    "Version": "260230.1.0",
-    "Id": 36,
-    "GroupId": 104,
-    "PrizeRelationTableGroupId": 104,
-    "Level": 0,
-    "ViewMaxRarity": "LegendRare"
+    "version": "260230.1.0",
+    "id": 36,
+    "groupId": 104,
+    "prizeRelationTableGroupId": 104,
+    "level": 0,
+    "viewMaxRarity": "LegendRare"
   },
   {
-    "Version": "260230.1.0",
-    "Id": 37,
-    "GroupId": 105,
-    "PrizeRelationTableGroupId": 105,
-    "Level": 0,
-    "ViewMaxRarity": "LegendRare"
+    "version": "260230.1.0",
+    "id": 37,
+    "groupId": 105,
+    "prizeRelationTableGroupId": 105,
+    "level": 0,
+    "viewMaxRarity": "LegendRare"
   },
   {
-    "Version": "260330.1.0",
-    "Id": 38,
-    "GroupId": 106,
-    "PrizeRelationTableGroupId": 106,
-    "Level": 0,
-    "ViewMaxRarity": "LegendRare"
+    "version": "260330.1.0",
+    "id": 38,
+    "groupId": 106,
+    "prizeRelationTableGroupId": 106,
+    "level": 0,
+    "viewMaxRarity": "LegendRare"
   },
   {
-    "Version": "260330.1.0",
-    "Id": 39,
-    "GroupId": 107,
-    "PrizeRelationTableGroupId": 107,
-    "Level": 0,
-    "ViewMaxRarity": "LegendRare"
+    "version": "260330.1.0",
+    "id": 39,
+    "groupId": 107,
+    "prizeRelationTableGroupId": 107,
+    "level": 0,
+    "viewMaxRarity": "LegendRare"
   },
   {
-    "Version": "260410.1.0",
-    "Id": 40,
-    "GroupId": 108,
-    "PrizeRelationTableGroupId": 108,
-    "Level": 0,
-    "ViewMaxRarity": "LegendRare"
+    "version": "260410.1.0",
+    "id": 40,
+    "groupId": 108,
+    "prizeRelationTableGroupId": 108,
+    "level": 0,
+    "viewMaxRarity": "LegendRare"
   },
   {
-    "Version": "260410.1.0",
-    "Id": 41,
-    "GroupId": 5,
-    "PrizeRelationTableGroupId": 200,
-    "Level": 0,
-    "ViewMaxRarity": "SuperRare"
+    "version": "260410.1.0",
+    "id": 41,
+    "groupId": 5,
+    "prizeRelationTableGroupId": 200,
+    "level": 0,
+    "viewMaxRarity": "SuperRare"
   },
   {
-    "Version": "260410.1.0",
-    "Id": 44,
-    "GroupId": 6,
-    "PrizeRelationTableGroupId": 203,
-    "Level": 0,
-    "ViewMaxRarity": "SuperRare"
+    "version": "260410.1.0",
+    "id": 44,
+    "groupId": 6,
+    "prizeRelationTableGroupId": 203,
+    "level": 0,
+    "viewMaxRarity": "SuperRare"
   },
   {
-    "Version": "260410.1.0",
-    "Id": 42,
-    "GroupId": 201,
-    "PrizeRelationTableGroupId": 201,
-    "Level": 0,
-    "ViewMaxRarity": "LegendRare"
+    "version": "260410.1.0",
+    "id": 42,
+    "groupId": 201,
+    "prizeRelationTableGroupId": 201,
+    "level": 0,
+    "viewMaxRarity": "LegendRare"
   },
   {
-    "Version": "260410.1.0",
-    "Id": 43,
-    "GroupId": 202,
-    "PrizeRelationTableGroupId": 202,
-    "Level": 0,
-    "ViewMaxRarity": "LegendRare"
+    "version": "260410.1.0",
+    "id": 43,
+    "groupId": 202,
+    "prizeRelationTableGroupId": 202,
+    "level": 0,
+    "viewMaxRarity": "LegendRare"
   },
   {
-    "Version": "260410.1.0",
-    "Id": 45,
-    "GroupId": 7,
-    "PrizeRelationTableGroupId": 204,
-    "Level": 0,
-    "ViewMaxRarity": "HyperRare"
+    "version": "260410.1.0",
+    "id": 45,
+    "groupId": 7,
+    "prizeRelationTableGroupId": 204,
+    "level": 0,
+    "viewMaxRarity": "HyperRare"
   },
   {
-    "Version": "260420.1.0",
-    "Id": 46,
-    "GroupId": 205,
-    "PrizeRelationTableGroupId": 205,
-    "Level": 0,
-    "ViewMaxRarity": "LegendRare"
+    "version": "260420.1.0",
+    "id": 46,
+    "groupId": 205,
+    "prizeRelationTableGroupId": 205,
+    "level": 0,
+    "viewMaxRarity": "LegendRare"
   },
   {
-    "Version": "260430.1.0",
-    "Id": 47,
-    "GroupId": 206,
-    "PrizeRelationTableGroupId": 206,
-    "Level": 0,
-    "ViewMaxRarity": "LegendRare"
+    "version": "260430.1.0",
+    "id": 47,
+    "groupId": 206,
+    "prizeRelationTableGroupId": 206,
+    "level": 0,
+    "viewMaxRarity": "LegendRare"
   },
   {
-    "Version": "260420.1.0",
-    "Id": 604103,
-    "GroupId": 604103,
-    "PrizeRelationTableGroupId": 604103,
-    "Level": 0,
-    "ViewMaxRarity": "HyperRare"
+    "version": "260710.1.0",
+    "id": 48,
+    "groupId": 207,
+    "prizeRelationTableGroupId": 207,
+    "level": 0,
+    "viewMaxRarity": "SuperRare"
   },
   {
-    "Version": "260510.1.0",
-    "Id": 604283,
-    "GroupId": 604283,
-    "PrizeRelationTableGroupId": 604283,
-    "Level": 0,
-    "ViewMaxRarity": "HyperRare"
+    "version": "260420.1.0",
+    "id": 604103,
+    "groupId": 604103,
+    "prizeRelationTableGroupId": 604103,
+    "level": 0,
+    "viewMaxRarity": "HyperRare"
   },
   {
-    "Version": "260510.1.0",
-    "Id": 605011,
-    "GroupId": 6050110,
-    "PrizeRelationTableGroupId": 6050110,
-    "Level": 0,
-    "ViewMaxRarity": "LegendRare"
+    "version": "260510.1.0",
+    "id": 604283,
+    "groupId": 604283,
+    "prizeRelationTableGroupId": 604283,
+    "level": 0,
+    "viewMaxRarity": "HyperRare"
   },
   {
-    "Version": "260510.1.0",
-    "Id": 605012,
-    "GroupId": 605012,
-    "PrizeRelationTableGroupId": 605012,
-    "Level": 0,
-    "ViewMaxRarity": "LegendRare"
+    "version": "260510.1.0",
+    "id": 605011,
+    "groupId": 6050110,
+    "prizeRelationTableGroupId": 6050110,
+    "level": 0,
+    "viewMaxRarity": "LegendRare"
+  },
+  {
+    "version": "260510.1.0",
+    "id": 605012,
+    "groupId": 605012,
+    "prizeRelationTableGroupId": 605012,
+    "level": 0,
+    "viewMaxRarity": "LegendRare"
+  },
+  {
+    "version": "260530.1.0",
+    "id": 605121,
+    "groupId": 6051210,
+    "prizeRelationTableGroupId": 6051210,
+    "level": 0,
+    "viewMaxRarity": "LegendRare"
+  },
+  {
+    "version": "260530.1.0",
+    "id": 605122,
+    "groupId": 6051220,
+    "prizeRelationTableGroupId": 6051220,
+    "level": 0,
+    "viewMaxRarity": "LegendRare"
+  },
+  {
+    "version": "260530.1.0",
+    "id": 605123,
+    "groupId": 6051230,
+    "prizeRelationTableGroupId": 6051230,
+    "level": 0,
+    "viewMaxRarity": "HyperRare"
+  },
+  {
+    "version": "260610.1.0",
+    "id": 605293,
+    "groupId": 6052930,
+    "prizeRelationTableGroupId": 6052930,
+    "level": 0,
+    "viewMaxRarity": "HyperRare"
+  },
+  {
+    "version": "260610.1.0",
+    "id": 605291,
+    "groupId": 6052910,
+    "prizeRelationTableGroupId": 6052910,
+    "level": 0,
+    "viewMaxRarity": "LegendRare"
+  },
+  {
+    "version": "260610.1.0",
+    "id": 606011,
+    "groupId": 6060110,
+    "prizeRelationTableGroupId": 6060110,
+    "level": 0,
+    "viewMaxRarity": "LegendRare"
+  },
+  {
+    "version": "260610.1.0",
+    "id": 606052,
+    "groupId": 6060520,
+    "prizeRelationTableGroupId": 6060520,
+    "level": 0,
+    "viewMaxRarity": "LegendRare"
+  },
+  {
+    "version": "260630.1.0",
+    "id": 606123,
+    "groupId": 6061230,
+    "prizeRelationTableGroupId": 6061230,
+    "level": 0,
+    "viewMaxRarity": "HyperRare"
+  },
+  {
+    "version": "260610.1.0",
+    "id": 606013,
+    "groupId": 6060130,
+    "prizeRelationTableGroupId": 6060130,
+    "level": 0,
+    "viewMaxRarity": "HyperRare"
+  },
+  {
+    "version": "260630.1.0",
+    "id": 606122,
+    "groupId": 6061220,
+    "prizeRelationTableGroupId": 6061220,
+    "level": 0,
+    "viewMaxRarity": "LegendRare"
+  },
+  {
+    "version": "260630.1.0",
+    "id": 606133,
+    "groupId": 6061330,
+    "prizeRelationTableGroupId": 6061330,
+    "level": 0,
+    "viewMaxRarity": "HyperRare"
+  },
+  {
+    "version": "260630.1.0",
+    "id": 606143,
+    "groupId": 6061430,
+    "prizeRelationTableGroupId": 6061430,
+    "level": 0,
+    "viewMaxRarity": "HyperRare"
+  },
+  {
+    "version": "260630.1.0",
+    "id": 606192,
+    "groupId": 6061920,
+    "prizeRelationTableGroupId": 6061920,
+    "level": 0,
+    "viewMaxRarity": "LegendRare"
+  },
+  {
+    "version": "260710.1.0",
+    "id": 606263,
+    "groupId": 6062630,
+    "prizeRelationTableGroupId": 6062630,
+    "level": 0,
+    "viewMaxRarity": "HyperRare"
+  },
+  {
+    "version": "260710.1.0",
+    "id": 607013,
+    "groupId": 6070130,
+    "prizeRelationTableGroupId": 6070130,
+    "level": 0,
+    "viewMaxRarity": "HyperRare"
+  },
+  {
+    "version": "260710.1.0",
+    "id": 607023,
+    "groupId": 6070230,
+    "prizeRelationTableGroupId": 6070230,
+    "level": 0,
+    "viewMaxRarity": "HyperRare"
+  },
+  {
+    "version": "260710.1.0",
+    "id": 607033,
+    "groupId": 6070330,
+    "prizeRelationTableGroupId": 6070330,
+    "level": 0,
+    "viewMaxRarity": "HyperRare"
+  },
+  {
+    "version": "260710.1.0",
+    "id": 607043,
+    "groupId": 6070430,
+    "prizeRelationTableGroupId": 6070430,
+    "level": 0,
+    "viewMaxRarity": "HyperRare"
+  },
+  {
+    "version": "260710.1.0",
+    "id": 607053,
+    "groupId": 6070530,
+    "prizeRelationTableGroupId": 6070530,
+    "level": 0,
+    "viewMaxRarity": "HyperRare"
+  },
+  {
+    "version": "260710.1.0",
+    "id": 607063,
+    "groupId": 6070630,
+    "prizeRelationTableGroupId": 6070630,
+    "level": 0,
+    "viewMaxRarity": "HyperRare"
+  },
+  {
+    "version": "260710.1.0",
+    "id": 606273,
+    "groupId": 6062730,
+    "prizeRelationTableGroupId": 6062730,
+    "level": 0,
+    "viewMaxRarity": "HyperRare"
+  },
+  {
+    "version": "260710.1.0",
+    "id": 606261,
+    "groupId": 6062610,
+    "prizeRelationTableGroupId": 6062610,
+    "level": 0,
+    "viewMaxRarity": "LegendRare"
   }
 ]

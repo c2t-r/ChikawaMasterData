@@ -1,37 +1,37 @@
 [
   {
-    "Version": "250330.1.0",
-    "Id": 1,
-    "ConditionCategory": "TimeZone",
-    "Value": 1,
-    "ComparisonOperatorType": "Equal"
+    "version": "250330.1.0",
+    "id": 1,
+    "conditionCategory": "TimeZone",
+    "value": 1,
+    "comparisonOperatorType": "Equal"
   },
   {
-    "Version": "250330.1.0",
-    "Id": 2,
-    "ConditionCategory": "TimeZone",
-    "Value": 2,
-    "ComparisonOperatorType": "Equal"
+    "version": "250330.1.0",
+    "id": 2,
+    "conditionCategory": "TimeZone",
+    "value": 2,
+    "comparisonOperatorType": "Equal"
   },
   {
-    "Version": "250330.1.0",
-    "Id": 3,
-    "ConditionCategory": "TimeZone",
-    "Value": 3,
-    "ComparisonOperatorType": "Equal"
+    "version": "250330.1.0",
+    "id": 3,
+    "conditionCategory": "TimeZone",
+    "value": 3,
+    "comparisonOperatorType": "Equal"
   },
   {
-    "Version": "250330.1.0",
-    "Id": 4,
-    "ConditionCategory": "TimeZone",
-    "Value": 4,
-    "ComparisonOperatorType": "Equal"
+    "version": "250330.1.0",
+    "id": 4,
+    "conditionCategory": "TimeZone",
+    "value": 4,
+    "comparisonOperatorType": "Equal"
   },
   {
-    "Version": "250330.1.0",
-    "Id": 5,
-    "ConditionCategory": "TimeZone",
-    "Value": 5,
-    "ComparisonOperatorType": "Equal"
+    "version": "250330.1.0",
+    "id": 5,
+    "conditionCategory": "TimeZone",
+    "value": 5,
+    "comparisonOperatorType": "Equal"
   }
 ]

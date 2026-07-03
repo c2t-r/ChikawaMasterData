@@ -1,12 +1,12 @@
 [
   {
-    "Version": "260410.1.0",
-    "Id": 1,
-    "CharaId": 1,
-    "AssistId": 3005,
-    "AssetId": 10013005,
-    "EquipPossessionEffectId": 1001300100,
-    "RarityPossessionEffectIds": [
+    "version": "260410.1.0",
+    "id": 1,
+    "charaId": 1,
+    "assistId": 3005,
+    "assetId": 10013005,
+    "equipPossessionEffectId": 1001300100,
+    "rarityPossessionEffectIds": [
       1001300101,
       1001300102,
       1001300103,
@@ -18,7 +18,7 @@
       1001300109,
       1001300110
     ],
-    "RarityPossessionEffectUnlockRaritys": [
+    "rarityPossessionEffectUnlockRaritys": [
       2,
       3,
       4,
@@ -32,13 +32,13 @@
     ]
   },
   {
-    "Version": "260410.1.0",
-    "Id": 2,
-    "CharaId": 1,
-    "AssistId": 3004,
-    "AssetId": 10013004,
-    "EquipPossessionEffectId": 1001300200,
-    "RarityPossessionEffectIds": [
+    "version": "260410.1.0",
+    "id": 2,
+    "charaId": 1,
+    "assistId": 3004,
+    "assetId": 10013004,
+    "equipPossessionEffectId": 1001300200,
+    "rarityPossessionEffectIds": [
       1001300201,
       1001300202,
       1001300203,
@@ -50,7 +50,7 @@
       1001300209,
       1001300210
     ],
-    "RarityPossessionEffectUnlockRaritys": [
+    "rarityPossessionEffectUnlockRaritys": [
       2,
       3,
       4,
@@ -64,13 +64,13 @@
     ]
   },
   {
-    "Version": "260410.1.0",
-    "Id": 3,
-    "CharaId": 1,
-    "AssistId": 3006,
-    "AssetId": 10013006,
-    "EquipPossessionEffectId": 1001300300,
-    "RarityPossessionEffectIds": [
+    "version": "260410.1.0",
+    "id": 3,
+    "charaId": 1,
+    "assistId": 3006,
+    "assetId": 10013006,
+    "equipPossessionEffectId": 1001300300,
+    "rarityPossessionEffectIds": [
       1001300301,
       1001300302,
       1001300303,
@@ -82,7 +82,7 @@
       1001300309,
       1001300310
     ],
-    "RarityPossessionEffectUnlockRaritys": [
+    "rarityPossessionEffectUnlockRaritys": [
       2,
       3,
       4,
@@ -96,13 +96,13 @@
     ]
   },
   {
-    "Version": "260410.1.0",
-    "Id": 4,
-    "CharaId": 1,
-    "AssistId": 3003,
-    "AssetId": 10013003,
-    "EquipPossessionEffectId": 1001300400,
-    "RarityPossessionEffectIds": [
+    "version": "260410.1.0",
+    "id": 4,
+    "charaId": 1,
+    "assistId": 3003,
+    "assetId": 10013003,
+    "equipPossessionEffectId": 1001300400,
+    "rarityPossessionEffectIds": [
       1001300401,
       1001300402,
       1001300403,
@@ -114,7 +114,7 @@
       1001300409,
       1001300410
     ],
-    "RarityPossessionEffectUnlockRaritys": [
+    "rarityPossessionEffectUnlockRaritys": [
       2,
       3,
       4,
@@ -128,13 +128,13 @@
     ]
   },
   {
-    "Version": "260410.1.0",
-    "Id": 5,
-    "CharaId": 1,
-    "AssistId": 3011,
-    "AssetId": 10013011,
-    "EquipPossessionEffectId": 1001300500,
-    "RarityPossessionEffectIds": [
+    "version": "260410.1.0",
+    "id": 5,
+    "charaId": 1,
+    "assistId": 3011,
+    "assetId": 10013011,
+    "equipPossessionEffectId": 1001300500,
+    "rarityPossessionEffectIds": [
       1001300501,
       1001300502,
       1001300503,
@@ -146,7 +146,7 @@
       1001300509,
       1001300510
     ],
-    "RarityPossessionEffectUnlockRaritys": [
+    "rarityPossessionEffectUnlockRaritys": [
       2,
       3,
       4,
@@ -160,13 +160,13 @@
     ]
   },
   {
-    "Version": "260410.1.0",
-    "Id": 6,
-    "CharaId": 1,
-    "AssistId": 3008,
-    "AssetId": 10013008,
-    "EquipPossessionEffectId": 1001300600,
-    "RarityPossessionEffectIds": [
+    "version": "260410.1.0",
+    "id": 6,
+    "charaId": 1,
+    "assistId": 3008,
+    "assetId": 10013008,
+    "equipPossessionEffectId": 1001300600,
+    "rarityPossessionEffectIds": [
       1001300601,
       1001300602,
       1001300603,
@@ -178,7 +178,7 @@
       1001300609,
       1001300610
     ],
-    "RarityPossessionEffectUnlockRaritys": [
+    "rarityPossessionEffectUnlockRaritys": [
       2,
       3,
       4,
@@ -192,13 +192,13 @@
     ]
   },
   {
-    "Version": "260410.1.0",
-    "Id": 7,
-    "CharaId": 1,
-    "AssistId": 3002,
-    "AssetId": 10013002,
-    "EquipPossessionEffectId": 1001300700,
-    "RarityPossessionEffectIds": [
+    "version": "260410.1.0",
+    "id": 7,
+    "charaId": 1,
+    "assistId": 3002,
+    "assetId": 10013002,
+    "equipPossessionEffectId": 1001300700,
+    "rarityPossessionEffectIds": [
       1001300701,
       1001300702,
       1001300703,
@@ -210,7 +210,7 @@
       1001300709,
       1001300710
     ],
-    "RarityPossessionEffectUnlockRaritys": [
+    "rarityPossessionEffectUnlockRaritys": [
       2,
       3,
       4,
@@ -224,13 +224,13 @@
     ]
   },
   {
-    "Version": "260410.1.0",
-    "Id": 8,
-    "CharaId": 1,
-    "AssistId": 3015,
-    "AssetId": 10013015,
-    "EquipPossessionEffectId": 1001300800,
-    "RarityPossessionEffectIds": [
+    "version": "260410.1.0",
+    "id": 8,
+    "charaId": 1,
+    "assistId": 3015,
+    "assetId": 10013015,
+    "equipPossessionEffectId": 1001300800,
+    "rarityPossessionEffectIds": [
       1001300801,
       1001300802,
       1001300803,
@@ -242,7 +242,7 @@
       1001300809,
       1001300810
     ],
-    "RarityPossessionEffectUnlockRaritys": [
+    "rarityPossessionEffectUnlockRaritys": [
       2,
       3,
       4,
@@ -256,13 +256,13 @@
     ]
   },
   {
-    "Version": "260410.1.0",
-    "Id": 9,
-    "CharaId": 1,
-    "AssistId": 3009,
-    "AssetId": 10013009,
-    "EquipPossessionEffectId": 1001300900,
-    "RarityPossessionEffectIds": [
+    "version": "260410.1.0",
+    "id": 9,
+    "charaId": 1,
+    "assistId": 3009,
+    "assetId": 10013009,
+    "equipPossessionEffectId": 1001300900,
+    "rarityPossessionEffectIds": [
       1001300901,
       1001300902,
       1001300903,
@@ -274,7 +274,7 @@
       1001300909,
       1001300910
     ],
-    "RarityPossessionEffectUnlockRaritys": [
+    "rarityPossessionEffectUnlockRaritys": [
       2,
       3,
       4,
@@ -288,13 +288,13 @@
     ]
   },
   {
-    "Version": "260410.1.0",
-    "Id": 10,
-    "CharaId": 1,
-    "AssistId": 3007,
-    "AssetId": 10013007,
-    "EquipPossessionEffectId": 1001301100,
-    "RarityPossessionEffectIds": [
+    "version": "260410.1.0",
+    "id": 10,
+    "charaId": 1,
+    "assistId": 3007,
+    "assetId": 10013007,
+    "equipPossessionEffectId": 1001301100,
+    "rarityPossessionEffectIds": [
       1001301101,
       1001301102,
       1001301103,
@@ -306,7 +306,7 @@
       1001301109,
       1001301110
     ],
-    "RarityPossessionEffectUnlockRaritys": [
+    "rarityPossessionEffectUnlockRaritys": [
       2,
       3,
       4,
@@ -320,13 +320,13 @@
     ]
   },
   {
-    "Version": "260410.1.0",
-    "Id": 11,
-    "CharaId": 1,
-    "AssistId": 3022,
-    "AssetId": 10013022,
-    "EquipPossessionEffectId": 1001301200,
-    "RarityPossessionEffectIds": [
+    "version": "260410.1.0",
+    "id": 11,
+    "charaId": 1,
+    "assistId": 3022,
+    "assetId": 10013022,
+    "equipPossessionEffectId": 1001301200,
+    "rarityPossessionEffectIds": [
       1001301201,
       1001301202,
       1001301203,
@@ -338,7 +338,7 @@
       1001301209,
       1001301210
     ],
-    "RarityPossessionEffectUnlockRaritys": [
+    "rarityPossessionEffectUnlockRaritys": [
       2,
       3,
       4,
@@ -352,13 +352,13 @@
     ]
   },
   {
-    "Version": "260410.1.0",
-    "Id": 12,
-    "CharaId": 1,
-    "AssistId": 3018,
-    "AssetId": 10013018,
-    "EquipPossessionEffectId": 1001301300,
-    "RarityPossessionEffectIds": [
+    "version": "260410.1.0",
+    "id": 12,
+    "charaId": 1,
+    "assistId": 3018,
+    "assetId": 10013018,
+    "equipPossessionEffectId": 1001301300,
+    "rarityPossessionEffectIds": [
       1001301301,
       1001301302,
       1001301303,
@@ -370,7 +370,7 @@
       1001301309,
       1001301310
     ],
-    "RarityPossessionEffectUnlockRaritys": [
+    "rarityPossessionEffectUnlockRaritys": [
       2,
       3,
       4,
@@ -384,13 +384,13 @@
     ]
   },
   {
-    "Version": "260410.1.0",
-    "Id": 13,
-    "CharaId": 1,
-    "AssistId": 3012,
-    "AssetId": 10013012,
-    "EquipPossessionEffectId": 1001301400,
-    "RarityPossessionEffectIds": [
+    "version": "260410.1.0",
+    "id": 13,
+    "charaId": 1,
+    "assistId": 3012,
+    "assetId": 10013012,
+    "equipPossessionEffectId": 1001301400,
+    "rarityPossessionEffectIds": [
       1001301401,
       1001301402,
       1001301403,
@@ -402,7 +402,7 @@
       1001301409,
       1001301410
     ],
-    "RarityPossessionEffectUnlockRaritys": [
+    "rarityPossessionEffectUnlockRaritys": [
       2,
       3,
       4,
@@ -416,13 +416,13 @@
     ]
   },
   {
-    "Version": "260410.1.0",
-    "Id": 14,
-    "CharaId": 1,
-    "AssistId": 3013,
-    "AssetId": 10013013,
-    "EquipPossessionEffectId": 1001301500,
-    "RarityPossessionEffectIds": [
+    "version": "260410.1.0",
+    "id": 14,
+    "charaId": 1,
+    "assistId": 3013,
+    "assetId": 10013013,
+    "equipPossessionEffectId": 1001301500,
+    "rarityPossessionEffectIds": [
       1001301501,
       1001301502,
       1001301503,
@@ -434,7 +434,7 @@
       1001301509,
       1001301510
     ],
-    "RarityPossessionEffectUnlockRaritys": [
+    "rarityPossessionEffectUnlockRaritys": [
       2,
       3,
       4,
@@ -448,13 +448,13 @@
     ]
   },
   {
-    "Version": "260410.1.0",
-    "Id": 15,
-    "CharaId": 1,
-    "AssistId": 3017,
-    "AssetId": 10013017,
-    "EquipPossessionEffectId": 1001301600,
-    "RarityPossessionEffectIds": [
+    "version": "260410.1.0",
+    "id": 15,
+    "charaId": 1,
+    "assistId": 3017,
+    "assetId": 10013017,
+    "equipPossessionEffectId": 1001301600,
+    "rarityPossessionEffectIds": [
       1001301601,
       1001301602,
       1001301603,
@@ -466,7 +466,7 @@
       1001301609,
       1001301610
     ],
-    "RarityPossessionEffectUnlockRaritys": [
+    "rarityPossessionEffectUnlockRaritys": [
       2,
       3,
       4,
@@ -480,13 +480,13 @@
     ]
   },
   {
-    "Version": "260410.1.0",
-    "Id": 16,
-    "CharaId": 1,
-    "AssistId": 3016,
-    "AssetId": 10013016,
-    "EquipPossessionEffectId": 1001301700,
-    "RarityPossessionEffectIds": [
+    "version": "260410.1.0",
+    "id": 16,
+    "charaId": 1,
+    "assistId": 3016,
+    "assetId": 10013016,
+    "equipPossessionEffectId": 1001301700,
+    "rarityPossessionEffectIds": [
       1001301701,
       1001301702,
       1001301703,
@@ -498,7 +498,7 @@
       1001301709,
       1001301710
     ],
-    "RarityPossessionEffectUnlockRaritys": [
+    "rarityPossessionEffectUnlockRaritys": [
       2,
       3,
       4,
@@ -512,13 +512,13 @@
     ]
   },
   {
-    "Version": "260410.1.0",
-    "Id": 17,
-    "CharaId": 1,
-    "AssistId": 3014,
-    "AssetId": 10013014,
-    "EquipPossessionEffectId": 1001301800,
-    "RarityPossessionEffectIds": [
+    "version": "260410.1.0",
+    "id": 17,
+    "charaId": 1,
+    "assistId": 3014,
+    "assetId": 10013014,
+    "equipPossessionEffectId": 1001301800,
+    "rarityPossessionEffectIds": [
       1001301801,
       1001301802,
       1001301803,
@@ -530,7 +530,7 @@
       1001301809,
       1001301810
     ],
-    "RarityPossessionEffectUnlockRaritys": [
+    "rarityPossessionEffectUnlockRaritys": [
       2,
       3,
       4,
@@ -544,13 +544,13 @@
     ]
   },
   {
-    "Version": "260410.1.0",
-    "Id": 18,
-    "CharaId": 1,
-    "AssistId": 3019,
-    "AssetId": 10013019,
-    "EquipPossessionEffectId": 1001301900,
-    "RarityPossessionEffectIds": [
+    "version": "260410.1.0",
+    "id": 18,
+    "charaId": 1,
+    "assistId": 3019,
+    "assetId": 10013019,
+    "equipPossessionEffectId": 1001301900,
+    "rarityPossessionEffectIds": [
       1001301901,
       1001301902,
       1001301903,
@@ -562,7 +562,7 @@
       1001301909,
       1001301910
     ],
-    "RarityPossessionEffectUnlockRaritys": [
+    "rarityPossessionEffectUnlockRaritys": [
       2,
       3,
       4,
@@ -576,13 +576,13 @@
     ]
   },
   {
-    "Version": "260410.1.0",
-    "Id": 19,
-    "CharaId": 1,
-    "AssistId": 3001,
-    "AssetId": 10013001,
-    "EquipPossessionEffectId": 1001302000,
-    "RarityPossessionEffectIds": [
+    "version": "260410.1.0",
+    "id": 19,
+    "charaId": 1,
+    "assistId": 3001,
+    "assetId": 10013001,
+    "equipPossessionEffectId": 1001302000,
+    "rarityPossessionEffectIds": [
       1001302001,
       1001302002,
       1001302003,
@@ -594,7 +594,7 @@
       1001302009,
       1001302010
     ],
-    "RarityPossessionEffectUnlockRaritys": [
+    "rarityPossessionEffectUnlockRaritys": [
       2,
       3,
       4,
@@ -608,13 +608,13 @@
     ]
   },
   {
-    "Version": "260410.1.0",
-    "Id": 20,
-    "CharaId": 1,
-    "AssistId": 3020,
-    "AssetId": 10013020,
-    "EquipPossessionEffectId": 1001302100,
-    "RarityPossessionEffectIds": [
+    "version": "260410.1.0",
+    "id": 20,
+    "charaId": 1,
+    "assistId": 3020,
+    "assetId": 10013020,
+    "equipPossessionEffectId": 1001302100,
+    "rarityPossessionEffectIds": [
       1001302101,
       1001302102,
       1001302103,
@@ -626,7 +626,7 @@
       1001302109,
       1001302110
     ],
-    "RarityPossessionEffectUnlockRaritys": [
+    "rarityPossessionEffectUnlockRaritys": [
       2,
       3,
       4,
@@ -640,13 +640,13 @@
     ]
   },
   {
-    "Version": "260410.1.0",
-    "Id": 21,
-    "CharaId": 1,
-    "AssistId": 3021,
-    "AssetId": 10013021,
-    "EquipPossessionEffectId": 1001302200,
-    "RarityPossessionEffectIds": [
+    "version": "260410.1.0",
+    "id": 21,
+    "charaId": 1,
+    "assistId": 3021,
+    "assetId": 10013021,
+    "equipPossessionEffectId": 1001302200,
+    "rarityPossessionEffectIds": [
       1001302201,
       1001302202,
       1001302203,
@@ -658,7 +658,7 @@
       1001302209,
       1001302210
     ],
-    "RarityPossessionEffectUnlockRaritys": [
+    "rarityPossessionEffectUnlockRaritys": [
       2,
       3,
       4,
@@ -672,13 +672,13 @@
     ]
   },
   {
-    "Version": "260410.1.0",
-    "Id": 22,
-    "CharaId": 2,
-    "AssistId": 3005,
-    "AssetId": 10023005,
-    "EquipPossessionEffectId": 1002300100,
-    "RarityPossessionEffectIds": [
+    "version": "260410.1.0",
+    "id": 22,
+    "charaId": 2,
+    "assistId": 3005,
+    "assetId": 10023005,
+    "equipPossessionEffectId": 1002300100,
+    "rarityPossessionEffectIds": [
       1002300101,
       1002300102,
       1002300103,
@@ -690,7 +690,7 @@
       1002300109,
       1002300110
     ],
-    "RarityPossessionEffectUnlockRaritys": [
+    "rarityPossessionEffectUnlockRaritys": [
       2,
       3,
       4,
@@ -704,13 +704,13 @@
     ]
   },
   {
-    "Version": "260410.1.0",
-    "Id": 23,
-    "CharaId": 2,
-    "AssistId": 3004,
-    "AssetId": 10023004,
-    "EquipPossessionEffectId": 1002300200,
-    "RarityPossessionEffectIds": [
+    "version": "260410.1.0",
+    "id": 23,
+    "charaId": 2,
+    "assistId": 3004,
+    "assetId": 10023004,
+    "equipPossessionEffectId": 1002300200,
+    "rarityPossessionEffectIds": [
       1002300201,
       1002300202,
       1002300203,
@@ -722,7 +722,7 @@
       1002300209,
       1002300210
     ],
-    "RarityPossessionEffectUnlockRaritys": [
+    "rarityPossessionEffectUnlockRaritys": [
       2,
       3,
       4,
@@ -736,13 +736,13 @@
     ]
   },
   {
-    "Version": "260410.1.0",
-    "Id": 24,
-    "CharaId": 2,
-    "AssistId": 3006,
-    "AssetId": 10023006,
-    "EquipPossessionEffectId": 1002300300,
-    "RarityPossessionEffectIds": [
+    "version": "260410.1.0",
+    "id": 24,
+    "charaId": 2,
+    "assistId": 3006,
+    "assetId": 10023006,
+    "equipPossessionEffectId": 1002300300,
+    "rarityPossessionEffectIds": [
       1002300301,
       1002300302,
       1002300303,
@@ -754,7 +754,7 @@
       1002300309,
       1002300310
     ],
-    "RarityPossessionEffectUnlockRaritys": [
+    "rarityPossessionEffectUnlockRaritys": [
       2,
       3,
       4,
@@ -768,13 +768,13 @@
     ]
   },
   {
-    "Version": "260410.1.0",
-    "Id": 25,
-    "CharaId": 2,
-    "AssistId": 3003,
-    "AssetId": 10023003,
-    "EquipPossessionEffectId": 1002300400,
-    "RarityPossessionEffectIds": [
+    "version": "260410.1.0",
+    "id": 25,
+    "charaId": 2,
+    "assistId": 3003,
+    "assetId": 10023003,
+    "equipPossessionEffectId": 1002300400,
+    "rarityPossessionEffectIds": [
       1002300401,
       1002300402,
       1002300403,
@@ -786,7 +786,7 @@
       1002300409,
       1002300410
     ],
-    "RarityPossessionEffectUnlockRaritys": [
+    "rarityPossessionEffectUnlockRaritys": [
       2,
       3,
       4,
@@ -800,13 +800,13 @@
     ]
   },
   {
-    "Version": "260410.1.0",
-    "Id": 26,
-    "CharaId": 2,
-    "AssistId": 3011,
-    "AssetId": 10023011,
-    "EquipPossessionEffectId": 1002300500,
-    "RarityPossessionEffectIds": [
+    "version": "260410.1.0",
+    "id": 26,
+    "charaId": 2,
+    "assistId": 3011,
+    "assetId": 10023011,
+    "equipPossessionEffectId": 1002300500,
+    "rarityPossessionEffectIds": [
       1002300501,
       1002300502,
       1002300503,
@@ -818,7 +818,7 @@
       1002300509,
       1002300510
     ],
-    "RarityPossessionEffectUnlockRaritys": [
+    "rarityPossessionEffectUnlockRaritys": [
       2,
       3,
       4,
@@ -832,13 +832,13 @@
     ]
   },
   {
-    "Version": "260410.1.0",
-    "Id": 27,
-    "CharaId": 2,
-    "AssistId": 3008,
-    "AssetId": 10023008,
-    "EquipPossessionEffectId": 1002300600,
-    "RarityPossessionEffectIds": [
+    "version": "260410.1.0",
+    "id": 27,
+    "charaId": 2,
+    "assistId": 3008,
+    "assetId": 10023008,
+    "equipPossessionEffectId": 1002300600,
+    "rarityPossessionEffectIds": [
       1002300601,
       1002300602,
       1002300603,
@@ -850,7 +850,7 @@
       1002300609,
       1002300610
     ],
-    "RarityPossessionEffectUnlockRaritys": [
+    "rarityPossessionEffectUnlockRaritys": [
       2,
       3,
       4,
@@ -864,13 +864,13 @@
     ]
   },
   {
-    "Version": "260410.1.0",
-    "Id": 28,
-    "CharaId": 2,
-    "AssistId": 3002,
-    "AssetId": 10023002,
-    "EquipPossessionEffectId": 1002300700,
-    "RarityPossessionEffectIds": [
+    "version": "260410.1.0",
+    "id": 28,
+    "charaId": 2,
+    "assistId": 3002,
+    "assetId": 10023002,
+    "equipPossessionEffectId": 1002300700,
+    "rarityPossessionEffectIds": [
       1002300701,
       1002300702,
       1002300703,
@@ -882,7 +882,7 @@
       1002300709,
       1002300710
     ],
-    "RarityPossessionEffectUnlockRaritys": [
+    "rarityPossessionEffectUnlockRaritys": [
       2,
       3,
       4,
@@ -896,13 +896,13 @@
     ]
   },
   {
-    "Version": "260410.1.0",
-    "Id": 29,
-    "CharaId": 2,
-    "AssistId": 3015,
-    "AssetId": 10023015,
-    "EquipPossessionEffectId": 1002300800,
-    "RarityPossessionEffectIds": [
+    "version": "260410.1.0",
+    "id": 29,
+    "charaId": 2,
+    "assistId": 3015,
+    "assetId": 10023015,
+    "equipPossessionEffectId": 1002300800,
+    "rarityPossessionEffectIds": [
       1002300801,
       1002300802,
       1002300803,
@@ -914,7 +914,7 @@
       1002300809,
       1002300810
     ],
-    "RarityPossessionEffectUnlockRaritys": [
+    "rarityPossessionEffectUnlockRaritys": [
       2,
       3,
       4,
@@ -928,13 +928,13 @@
     ]
   },
   {
-    "Version": "260410.1.0",
-    "Id": 30,
-    "CharaId": 2,
-    "AssistId": 3009,
-    "AssetId": 10023009,
-    "EquipPossessionEffectId": 1002300900,
-    "RarityPossessionEffectIds": [
+    "version": "260410.1.0",
+    "id": 30,
+    "charaId": 2,
+    "assistId": 3009,
+    "assetId": 10023009,
+    "equipPossessionEffectId": 1002300900,
+    "rarityPossessionEffectIds": [
       1002300901,
       1002300902,
       1002300903,
@@ -946,7 +946,7 @@
       1002300909,
       1002300910
     ],
-    "RarityPossessionEffectUnlockRaritys": [
+    "rarityPossessionEffectUnlockRaritys": [
       2,
       3,
       4,
@@ -960,13 +960,13 @@
     ]
   },
   {
-    "Version": "260410.1.0",
-    "Id": 31,
-    "CharaId": 2,
-    "AssistId": 3007,
-    "AssetId": 10023007,
-    "EquipPossessionEffectId": 1002301100,
-    "RarityPossessionEffectIds": [
+    "version": "260410.1.0",
+    "id": 31,
+    "charaId": 2,
+    "assistId": 3007,
+    "assetId": 10023007,
+    "equipPossessionEffectId": 1002301100,
+    "rarityPossessionEffectIds": [
       1002301101,
       1002301102,
       1002301103,
@@ -978,7 +978,7 @@
       1002301109,
       1002301110
     ],
-    "RarityPossessionEffectUnlockRaritys": [
+    "rarityPossessionEffectUnlockRaritys": [
       2,
       3,
       4,
@@ -992,13 +992,13 @@
     ]
   },
   {
-    "Version": "260410.1.0",
-    "Id": 32,
-    "CharaId": 2,
-    "AssistId": 3022,
-    "AssetId": 10023022,
-    "EquipPossessionEffectId": 1002301200,
-    "RarityPossessionEffectIds": [
+    "version": "260410.1.0",
+    "id": 32,
+    "charaId": 2,
+    "assistId": 3022,
+    "assetId": 10023022,
+    "equipPossessionEffectId": 1002301200,
+    "rarityPossessionEffectIds": [
       1002301201,
       1002301202,
       1002301203,
@@ -1010,7 +1010,7 @@
       1002301209,
       1002301210
     ],
-    "RarityPossessionEffectUnlockRaritys": [
+    "rarityPossessionEffectUnlockRaritys": [
       2,
       3,
       4,
@@ -1024,13 +1024,13 @@
     ]
   },
   {
-    "Version": "260410.1.0",
-    "Id": 33,
-    "CharaId": 2,
-    "AssistId": 3018,
-    "AssetId": 10023018,
-    "EquipPossessionEffectId": 1002301300,
-    "RarityPossessionEffectIds": [
+    "version": "260410.1.0",
+    "id": 33,
+    "charaId": 2,
+    "assistId": 3018,
+    "assetId": 10023018,
+    "equipPossessionEffectId": 1002301300,
+    "rarityPossessionEffectIds": [
       1002301301,
       1002301302,
       1002301303,
@@ -1042,7 +1042,7 @@
       1002301309,
       1002301310
     ],
-    "RarityPossessionEffectUnlockRaritys": [
+    "rarityPossessionEffectUnlockRaritys": [
       2,
       3,
       4,
@@ -1056,13 +1056,13 @@
     ]
   },
   {
-    "Version": "260410.1.0",
-    "Id": 34,
-    "CharaId": 2,
-    "AssistId": 3012,
-    "AssetId": 10023012,
-    "EquipPossessionEffectId": 1002301400,
-    "RarityPossessionEffectIds": [
+    "version": "260410.1.0",
+    "id": 34,
+    "charaId": 2,
+    "assistId": 3012,
+    "assetId": 10023012,
+    "equipPossessionEffectId": 1002301400,
+    "rarityPossessionEffectIds": [
       1002301401,
       1002301402,
       1002301403,
@@ -1074,7 +1074,7 @@
       1002301409,
       1002301410
     ],
-    "RarityPossessionEffectUnlockRaritys": [
+    "rarityPossessionEffectUnlockRaritys": [
       2,
       3,
       4,
@@ -1088,13 +1088,13 @@
     ]
   },
   {
-    "Version": "260410.1.0",
-    "Id": 35,
-    "CharaId": 2,
-    "AssistId": 3013,
-    "AssetId": 10023013,
-    "EquipPossessionEffectId": 1002301500,
-    "RarityPossessionEffectIds": [
+    "version": "260410.1.0",
+    "id": 35,
+    "charaId": 2,
+    "assistId": 3013,
+    "assetId": 10023013,
+    "equipPossessionEffectId": 1002301500,
+    "rarityPossessionEffectIds": [
       1002301501,
       1002301502,
       1002301503,
@@ -1106,7 +1106,7 @@
       1002301509,
       1002301510
     ],
-    "RarityPossessionEffectUnlockRaritys": [
+    "rarityPossessionEffectUnlockRaritys": [
       2,
       3,
       4,
@@ -1120,13 +1120,13 @@
     ]
   },
   {
-    "Version": "260410.1.0",
-    "Id": 36,
-    "CharaId": 2,
-    "AssistId": 3017,
-    "AssetId": 10023017,
-    "EquipPossessionEffectId": 1002301600,
-    "RarityPossessionEffectIds": [
+    "version": "260410.1.0",
+    "id": 36,
+    "charaId": 2,
+    "assistId": 3017,
+    "assetId": 10023017,
+    "equipPossessionEffectId": 1002301600,
+    "rarityPossessionEffectIds": [
       1002301601,
       1002301602,
       1002301603,
@@ -1138,7 +1138,7 @@
       1002301609,
       1002301610
     ],
-    "RarityPossessionEffectUnlockRaritys": [
+    "rarityPossessionEffectUnlockRaritys": [
       2,
       3,
       4,
@@ -1152,13 +1152,13 @@
     ]
   },
   {
-    "Version": "260410.1.0",
-    "Id": 37,
-    "CharaId": 2,
-    "AssistId": 3016,
-    "AssetId": 10023016,
-    "EquipPossessionEffectId": 1002301700,
-    "RarityPossessionEffectIds": [
+    "version": "260410.1.0",
+    "id": 37,
+    "charaId": 2,
+    "assistId": 3016,
+    "assetId": 10023016,
+    "equipPossessionEffectId": 1002301700,
+    "rarityPossessionEffectIds": [
       1002301701,
       1002301702,
       1002301703,
@@ -1170,7 +1170,7 @@
       1002301709,
       1002301710
     ],
-    "RarityPossessionEffectUnlockRaritys": [
+    "rarityPossessionEffectUnlockRaritys": [
       2,
       3,
       4,
@@ -1184,13 +1184,13 @@
     ]
   },
   {
-    "Version": "260410.1.0",
-    "Id": 38,
-    "CharaId": 2,
-    "AssistId": 3014,
-    "AssetId": 10023014,
-    "EquipPossessionEffectId": 1002301800,
-    "RarityPossessionEffectIds": [
+    "version": "260410.1.0",
+    "id": 38,
+    "charaId": 2,
+    "assistId": 3014,
+    "assetId": 10023014,
+    "equipPossessionEffectId": 1002301800,
+    "rarityPossessionEffectIds": [
       1002301801,
       1002301802,
       1002301803,
@@ -1202,7 +1202,7 @@
       1002301809,
       1002301810
     ],
-    "RarityPossessionEffectUnlockRaritys": [
+    "rarityPossessionEffectUnlockRaritys": [
       2,
       3,
       4,
@@ -1216,13 +1216,13 @@
     ]
   },
   {
-    "Version": "260410.1.0",
-    "Id": 39,
-    "CharaId": 2,
-    "AssistId": 3019,
-    "AssetId": 10023019,
-    "EquipPossessionEffectId": 1002301900,
-    "RarityPossessionEffectIds": [
+    "version": "260410.1.0",
+    "id": 39,
+    "charaId": 2,
+    "assistId": 3019,
+    "assetId": 10023019,
+    "equipPossessionEffectId": 1002301900,
+    "rarityPossessionEffectIds": [
       1002301901,
       1002301902,
       1002301903,
@@ -1234,7 +1234,7 @@
       1002301909,
       1002301910
     ],
-    "RarityPossessionEffectUnlockRaritys": [
+    "rarityPossessionEffectUnlockRaritys": [
       2,
       3,
       4,
@@ -1248,13 +1248,13 @@
     ]
   },
   {
-    "Version": "260410.1.0",
-    "Id": 40,
-    "CharaId": 2,
-    "AssistId": 3001,
-    "AssetId": 10023001,
-    "EquipPossessionEffectId": 1002302000,
-    "RarityPossessionEffectIds": [
+    "version": "260410.1.0",
+    "id": 40,
+    "charaId": 2,
+    "assistId": 3001,
+    "assetId": 10023001,
+    "equipPossessionEffectId": 1002302000,
+    "rarityPossessionEffectIds": [
       1002302001,
       1002302002,
       1002302003,
@@ -1266,7 +1266,7 @@
       1002302009,
       1002302010
     ],
-    "RarityPossessionEffectUnlockRaritys": [
+    "rarityPossessionEffectUnlockRaritys": [
       2,
       3,
       4,
@@ -1280,13 +1280,13 @@
     ]
   },
   {
-    "Version": "260410.1.0",
-    "Id": 41,
-    "CharaId": 2,
-    "AssistId": 3020,
-    "AssetId": 10023020,
-    "EquipPossessionEffectId": 1002302100,
-    "RarityPossessionEffectIds": [
+    "version": "260410.1.0",
+    "id": 41,
+    "charaId": 2,
+    "assistId": 3020,
+    "assetId": 10023020,
+    "equipPossessionEffectId": 1002302100,
+    "rarityPossessionEffectIds": [
       1002302101,
       1002302102,
       1002302103,
@@ -1298,7 +1298,7 @@
       1002302109,
       1002302110
     ],
-    "RarityPossessionEffectUnlockRaritys": [
+    "rarityPossessionEffectUnlockRaritys": [
       2,
       3,
       4,
@@ -1312,13 +1312,13 @@
     ]
   },
   {
-    "Version": "260410.1.0",
-    "Id": 42,
-    "CharaId": 2,
-    "AssistId": 3021,
-    "AssetId": 10023021,
-    "EquipPossessionEffectId": 1002302200,
-    "RarityPossessionEffectIds": [
+    "version": "260410.1.0",
+    "id": 42,
+    "charaId": 2,
+    "assistId": 3021,
+    "assetId": 10023021,
+    "equipPossessionEffectId": 1002302200,
+    "rarityPossessionEffectIds": [
       1002302201,
       1002302202,
       1002302203,
@@ -1330,7 +1330,7 @@
       1002302209,
       1002302210
     ],
-    "RarityPossessionEffectUnlockRaritys": [
+    "rarityPossessionEffectUnlockRaritys": [
       2,
       3,
       4,
@@ -1344,13 +1344,13 @@
     ]
   },
   {
-    "Version": "260410.1.0",
-    "Id": 43,
-    "CharaId": 3,
-    "AssistId": 3005,
-    "AssetId": 10033005,
-    "EquipPossessionEffectId": 1003300100,
-    "RarityPossessionEffectIds": [
+    "version": "260410.1.0",
+    "id": 43,
+    "charaId": 3,
+    "assistId": 3005,
+    "assetId": 10033005,
+    "equipPossessionEffectId": 1003300100,
+    "rarityPossessionEffectIds": [
       1003300101,
       1003300102,
       1003300103,
@@ -1362,7 +1362,7 @@
       1003300109,
       1003300110
     ],
-    "RarityPossessionEffectUnlockRaritys": [
+    "rarityPossessionEffectUnlockRaritys": [
       2,
       3,
       4,
@@ -1376,13 +1376,13 @@
     ]
   },
   {
-    "Version": "260410.1.0",
-    "Id": 44,
-    "CharaId": 3,
-    "AssistId": 3004,
-    "AssetId": 10033004,
-    "EquipPossessionEffectId": 1003300200,
-    "RarityPossessionEffectIds": [
+    "version": "260410.1.0",
+    "id": 44,
+    "charaId": 3,
+    "assistId": 3004,
+    "assetId": 10033004,
+    "equipPossessionEffectId": 1003300200,
+    "rarityPossessionEffectIds": [
       1003300201,
       1003300202,
       1003300203,
@@ -1394,7 +1394,7 @@
       1003300209,
       1003300210
     ],
-    "RarityPossessionEffectUnlockRaritys": [
+    "rarityPossessionEffectUnlockRaritys": [
       2,
       3,
       4,
@@ -1408,13 +1408,13 @@
     ]
   },
   {
-    "Version": "260410.1.0",
-    "Id": 45,
-    "CharaId": 3,
-    "AssistId": 3006,
-    "AssetId": 10033006,
-    "EquipPossessionEffectId": 1003300300,
-    "RarityPossessionEffectIds": [
+    "version": "260410.1.0",
+    "id": 45,
+    "charaId": 3,
+    "assistId": 3006,
+    "assetId": 10033006,
+    "equipPossessionEffectId": 1003300300,
+    "rarityPossessionEffectIds": [
       1003300301,
       1003300302,
       1003300303,
@@ -1426,7 +1426,7 @@
       1003300309,
       1003300310
     ],
-    "RarityPossessionEffectUnlockRaritys": [
+    "rarityPossessionEffectUnlockRaritys": [
       2,
       3,
       4,
@@ -1440,13 +1440,13 @@
     ]
   },
   {
-    "Version": "260410.1.0",
-    "Id": 46,
-    "CharaId": 3,
-    "AssistId": 3003,
-    "AssetId": 10033003,
-    "EquipPossessionEffectId": 1003300400,
-    "RarityPossessionEffectIds": [
+    "version": "260410.1.0",
+    "id": 46,
+    "charaId": 3,
+    "assistId": 3003,
+    "assetId": 10033003,
+    "equipPossessionEffectId": 1003300400,
+    "rarityPossessionEffectIds": [
       1003300401,
       1003300402,
       1003300403,
@@ -1458,7 +1458,7 @@
       1003300409,
       1003300410
     ],
-    "RarityPossessionEffectUnlockRaritys": [
+    "rarityPossessionEffectUnlockRaritys": [
       2,
       3,
       4,
@@ -1472,13 +1472,13 @@
     ]
   },
   {
-    "Version": "260410.1.0",
-    "Id": 47,
-    "CharaId": 3,
-    "AssistId": 3011,
-    "AssetId": 10033011,
-    "EquipPossessionEffectId": 1003300500,
-    "RarityPossessionEffectIds": [
+    "version": "260410.1.0",
+    "id": 47,
+    "charaId": 3,
+    "assistId": 3011,
+    "assetId": 10033011,
+    "equipPossessionEffectId": 1003300500,
+    "rarityPossessionEffectIds": [
       1003300501,
       1003300502,
       1003300503,
@@ -1490,7 +1490,7 @@
       1003300509,
       1003300510
     ],
-    "RarityPossessionEffectUnlockRaritys": [
+    "rarityPossessionEffectUnlockRaritys": [
       2,
       3,
       4,
@@ -1504,13 +1504,13 @@
     ]
   },
   {
-    "Version": "260410.1.0",
-    "Id": 48,
-    "CharaId": 3,
-    "AssistId": 3008,
-    "AssetId": 10033008,
-    "EquipPossessionEffectId": 1003300600,
-    "RarityPossessionEffectIds": [
+    "version": "260410.1.0",
+    "id": 48,
+    "charaId": 3,
+    "assistId": 3008,
+    "assetId": 10033008,
+    "equipPossessionEffectId": 1003300600,
+    "rarityPossessionEffectIds": [
       1003300601,
       1003300602,
       1003300603,
@@ -1522,7 +1522,7 @@
       1003300609,
       1003300610
     ],
-    "RarityPossessionEffectUnlockRaritys": [
+    "rarityPossessionEffectUnlockRaritys": [
       2,
       3,
       4,
@@ -1536,13 +1536,13 @@
     ]
   },
   {
-    "Version": "260410.1.0",
-    "Id": 49,
-    "CharaId": 3,
-    "AssistId": 3002,
-    "AssetId": 10033002,
-    "EquipPossessionEffectId": 1003300700,
-    "RarityPossessionEffectIds": [
+    "version": "260410.1.0",
+    "id": 49,
+    "charaId": 3,
+    "assistId": 3002,
+    "assetId": 10033002,
+    "equipPossessionEffectId": 1003300700,
+    "rarityPossessionEffectIds": [
       1003300701,
       1003300702,
       1003300703,
@@ -1554,7 +1554,7 @@
       1003300709,
       1003300710
     ],
-    "RarityPossessionEffectUnlockRaritys": [
+    "rarityPossessionEffectUnlockRaritys": [
       2,
       3,
       4,
@@ -1568,13 +1568,13 @@
     ]
   },
   {
-    "Version": "260410.1.0",
-    "Id": 50,
-    "CharaId": 3,
-    "AssistId": 3015,
-    "AssetId": 10033015,
-    "EquipPossessionEffectId": 1003300800,
-    "RarityPossessionEffectIds": [
+    "version": "260410.1.0",
+    "id": 50,
+    "charaId": 3,
+    "assistId": 3015,
+    "assetId": 10033015,
+    "equipPossessionEffectId": 1003300800,
+    "rarityPossessionEffectIds": [
       1003300801,
       1003300802,
       1003300803,
@@ -1586,7 +1586,7 @@
       1003300809,
       1003300810
     ],
-    "RarityPossessionEffectUnlockRaritys": [
+    "rarityPossessionEffectUnlockRaritys": [
       2,
       3,
       4,
@@ -1600,13 +1600,13 @@
     ]
   },
   {
-    "Version": "260410.1.0",
-    "Id": 51,
-    "CharaId": 3,
-    "AssistId": 3009,
-    "AssetId": 10033009,
-    "EquipPossessionEffectId": 1003300900,
-    "RarityPossessionEffectIds": [
+    "version": "260410.1.0",
+    "id": 51,
+    "charaId": 3,
+    "assistId": 3009,
+    "assetId": 10033009,
+    "equipPossessionEffectId": 1003300900,
+    "rarityPossessionEffectIds": [
       1003300901,
       1003300902,
       1003300903,
@@ -1618,7 +1618,7 @@
       1003300909,
       1003300910
     ],
-    "RarityPossessionEffectUnlockRaritys": [
+    "rarityPossessionEffectUnlockRaritys": [
       2,
       3,
       4,
@@ -1632,13 +1632,13 @@
     ]
   },
   {
-    "Version": "260410.1.0",
-    "Id": 52,
-    "CharaId": 3,
-    "AssistId": 3007,
-    "AssetId": 10033007,
-    "EquipPossessionEffectId": 1003301100,
-    "RarityPossessionEffectIds": [
+    "version": "260410.1.0",
+    "id": 52,
+    "charaId": 3,
+    "assistId": 3007,
+    "assetId": 10033007,
+    "equipPossessionEffectId": 1003301100,
+    "rarityPossessionEffectIds": [
       1003301101,
       1003301102,
       1003301103,
@@ -1650,7 +1650,7 @@
       1003301109,
       1003301110
     ],
-    "RarityPossessionEffectUnlockRaritys": [
+    "rarityPossessionEffectUnlockRaritys": [
       2,
       3,
       4,
@@ -1664,13 +1664,13 @@
     ]
   },
   {
-    "Version": "260410.1.0",
-    "Id": 53,
-    "CharaId": 3,
-    "AssistId": 3022,
-    "AssetId": 10033022,
-    "EquipPossessionEffectId": 1003301200,
-    "RarityPossessionEffectIds": [
+    "version": "260410.1.0",
+    "id": 53,
+    "charaId": 3,
+    "assistId": 3022,
+    "assetId": 10033022,
+    "equipPossessionEffectId": 1003301200,
+    "rarityPossessionEffectIds": [
       1003301201,
       1003301202,
       1003301203,
@@ -1682,7 +1682,7 @@
       1003301209,
       1003301210
     ],
-    "RarityPossessionEffectUnlockRaritys": [
+    "rarityPossessionEffectUnlockRaritys": [
       2,
       3,
       4,
@@ -1696,13 +1696,13 @@
     ]
   },
   {
-    "Version": "260410.1.0",
-    "Id": 54,
-    "CharaId": 3,
-    "AssistId": 3018,
-    "AssetId": 10033018,
-    "EquipPossessionEffectId": 1003301300,
-    "RarityPossessionEffectIds": [
+    "version": "260410.1.0",
+    "id": 54,
+    "charaId": 3,
+    "assistId": 3018,
+    "assetId": 10033018,
+    "equipPossessionEffectId": 1003301300,
+    "rarityPossessionEffectIds": [
       1003301301,
       1003301302,
       1003301303,
@@ -1714,7 +1714,7 @@
       1003301309,
       1003301310
     ],
-    "RarityPossessionEffectUnlockRaritys": [
+    "rarityPossessionEffectUnlockRaritys": [
       2,
       3,
       4,
@@ -1728,13 +1728,13 @@
     ]
   },
   {
-    "Version": "260410.1.0",
-    "Id": 55,
-    "CharaId": 3,
-    "AssistId": 3012,
-    "AssetId": 10033012,
-    "EquipPossessionEffectId": 1003301400,
-    "RarityPossessionEffectIds": [
+    "version": "260410.1.0",
+    "id": 55,
+    "charaId": 3,
+    "assistId": 3012,
+    "assetId": 10033012,
+    "equipPossessionEffectId": 1003301400,
+    "rarityPossessionEffectIds": [
       1003301401,
       1003301402,
       1003301403,
@@ -1746,7 +1746,7 @@
       1003301409,
       1003301410
     ],
-    "RarityPossessionEffectUnlockRaritys": [
+    "rarityPossessionEffectUnlockRaritys": [
       2,
       3,
       4,
@@ -1760,13 +1760,13 @@
     ]
   },
   {
-    "Version": "260410.1.0",
-    "Id": 56,
-    "CharaId": 3,
-    "AssistId": 3013,
-    "AssetId": 10033013,
-    "EquipPossessionEffectId": 1003301500,
-    "RarityPossessionEffectIds": [
+    "version": "260410.1.0",
+    "id": 56,
+    "charaId": 3,
+    "assistId": 3013,
+    "assetId": 10033013,
+    "equipPossessionEffectId": 1003301500,
+    "rarityPossessionEffectIds": [
       1003301501,
       1003301502,
       1003301503,
@@ -1778,7 +1778,7 @@
       1003301509,
       1003301510
     ],
-    "RarityPossessionEffectUnlockRaritys": [
+    "rarityPossessionEffectUnlockRaritys": [
       2,
       3,
       4,
@@ -1792,13 +1792,13 @@
     ]
   },
   {
-    "Version": "260410.1.0",
-    "Id": 57,
-    "CharaId": 3,
-    "AssistId": 3017,
-    "AssetId": 10033017,
-    "EquipPossessionEffectId": 1003301600,
-    "RarityPossessionEffectIds": [
+    "version": "260410.1.0",
+    "id": 57,
+    "charaId": 3,
+    "assistId": 3017,
+    "assetId": 10033017,
+    "equipPossessionEffectId": 1003301600,
+    "rarityPossessionEffectIds": [
       1003301601,
       1003301602,
       1003301603,
@@ -1810,7 +1810,7 @@
       1003301609,
       1003301610
     ],
-    "RarityPossessionEffectUnlockRaritys": [
+    "rarityPossessionEffectUnlockRaritys": [
       2,
       3,
       4,
@@ -1824,13 +1824,13 @@
     ]
   },
   {
-    "Version": "260410.1.0",
-    "Id": 58,
-    "CharaId": 3,
-    "AssistId": 3016,
-    "AssetId": 10033016,
-    "EquipPossessionEffectId": 1003301700,
-    "RarityPossessionEffectIds": [
+    "version": "260410.1.0",
+    "id": 58,
+    "charaId": 3,
+    "assistId": 3016,
+    "assetId": 10033016,
+    "equipPossessionEffectId": 1003301700,
+    "rarityPossessionEffectIds": [
       1003301701,
       1003301702,
       1003301703,
@@ -1842,7 +1842,7 @@
       1003301709,
       1003301710
     ],
-    "RarityPossessionEffectUnlockRaritys": [
+    "rarityPossessionEffectUnlockRaritys": [
       2,
       3,
       4,
@@ -1856,13 +1856,13 @@
     ]
   },
   {
-    "Version": "260410.1.0",
-    "Id": 59,
-    "CharaId": 3,
-    "AssistId": 3014,
-    "AssetId": 10033014,
-    "EquipPossessionEffectId": 1003301800,
-    "RarityPossessionEffectIds": [
+    "version": "260410.1.0",
+    "id": 59,
+    "charaId": 3,
+    "assistId": 3014,
+    "assetId": 10033014,
+    "equipPossessionEffectId": 1003301800,
+    "rarityPossessionEffectIds": [
       1003301801,
       1003301802,
       1003301803,
@@ -1874,7 +1874,7 @@
       1003301809,
       1003301810
     ],
-    "RarityPossessionEffectUnlockRaritys": [
+    "rarityPossessionEffectUnlockRaritys": [
       2,
       3,
       4,
@@ -1888,13 +1888,13 @@
     ]
   },
   {
-    "Version": "260410.1.0",
-    "Id": 60,
-    "CharaId": 3,
-    "AssistId": 3019,
-    "AssetId": 10033019,
-    "EquipPossessionEffectId": 1003301900,
-    "RarityPossessionEffectIds": [
+    "version": "260410.1.0",
+    "id": 60,
+    "charaId": 3,
+    "assistId": 3019,
+    "assetId": 10033019,
+    "equipPossessionEffectId": 1003301900,
+    "rarityPossessionEffectIds": [
       1003301901,
       1003301902,
       1003301903,
@@ -1906,7 +1906,7 @@
       1003301909,
       1003301910
     ],
-    "RarityPossessionEffectUnlockRaritys": [
+    "rarityPossessionEffectUnlockRaritys": [
       2,
       3,
       4,
@@ -1920,13 +1920,13 @@
     ]
   },
   {
-    "Version": "260410.1.0",
-    "Id": 61,
-    "CharaId": 3,
-    "AssistId": 3001,
-    "AssetId": 10033001,
-    "EquipPossessionEffectId": 1003302000,
-    "RarityPossessionEffectIds": [
+    "version": "260410.1.0",
+    "id": 61,
+    "charaId": 3,
+    "assistId": 3001,
+    "assetId": 10033001,
+    "equipPossessionEffectId": 1003302000,
+    "rarityPossessionEffectIds": [
       1003302001,
       1003302002,
       1003302003,
@@ -1938,7 +1938,7 @@
       1003302009,
       1003302010
     ],
-    "RarityPossessionEffectUnlockRaritys": [
+    "rarityPossessionEffectUnlockRaritys": [
       2,
       3,
       4,
@@ -1952,13 +1952,13 @@
     ]
   },
   {
-    "Version": "260410.1.0",
-    "Id": 62,
-    "CharaId": 3,
-    "AssistId": 3020,
-    "AssetId": 10033020,
-    "EquipPossessionEffectId": 1003302100,
-    "RarityPossessionEffectIds": [
+    "version": "260410.1.0",
+    "id": 62,
+    "charaId": 3,
+    "assistId": 3020,
+    "assetId": 10033020,
+    "equipPossessionEffectId": 1003302100,
+    "rarityPossessionEffectIds": [
       1003302101,
       1003302102,
       1003302103,
@@ -1970,7 +1970,7 @@
       1003302109,
       1003302110
     ],
-    "RarityPossessionEffectUnlockRaritys": [
+    "rarityPossessionEffectUnlockRaritys": [
       2,
       3,
       4,
@@ -1984,13 +1984,13 @@
     ]
   },
   {
-    "Version": "260410.1.0",
-    "Id": 63,
-    "CharaId": 3,
-    "AssistId": 3021,
-    "AssetId": 10033021,
-    "EquipPossessionEffectId": 1003302200,
-    "RarityPossessionEffectIds": [
+    "version": "260410.1.0",
+    "id": 63,
+    "charaId": 3,
+    "assistId": 3021,
+    "assetId": 10033021,
+    "equipPossessionEffectId": 1003302200,
+    "rarityPossessionEffectIds": [
       1003302201,
       1003302202,
       1003302203,
@@ -2002,7 +2002,7 @@
       1003302209,
       1003302210
     ],
-    "RarityPossessionEffectUnlockRaritys": [
+    "rarityPossessionEffectUnlockRaritys": [
       2,
       3,
       4,
@@ -2016,13 +2016,13 @@
     ]
   },
   {
-    "Version": "260410.1.0",
-    "Id": 64,
-    "CharaId": 4,
-    "AssistId": 3005,
-    "AssetId": 10043005,
-    "EquipPossessionEffectId": 1004300100,
-    "RarityPossessionEffectIds": [
+    "version": "260410.1.0",
+    "id": 64,
+    "charaId": 4,
+    "assistId": 3005,
+    "assetId": 10043005,
+    "equipPossessionEffectId": 1004300100,
+    "rarityPossessionEffectIds": [
       1004300101,
       1004300102,
       1004300103,
@@ -2034,7 +2034,7 @@
       1004300109,
       1004300110
     ],
-    "RarityPossessionEffectUnlockRaritys": [
+    "rarityPossessionEffectUnlockRaritys": [
       2,
       3,
       4,
@@ -2048,13 +2048,13 @@
     ]
   },
   {
-    "Version": "260410.1.0",
-    "Id": 65,
-    "CharaId": 4,
-    "AssistId": 3004,
-    "AssetId": 10043004,
-    "EquipPossessionEffectId": 1004300200,
-    "RarityPossessionEffectIds": [
+    "version": "260410.1.0",
+    "id": 65,
+    "charaId": 4,
+    "assistId": 3004,
+    "assetId": 10043004,
+    "equipPossessionEffectId": 1004300200,
+    "rarityPossessionEffectIds": [
       1004300201,
       1004300202,
       1004300203,
@@ -2066,7 +2066,7 @@
       1004300209,
       1004300210
     ],
-    "RarityPossessionEffectUnlockRaritys": [
+    "rarityPossessionEffectUnlockRaritys": [
       2,
       3,
       4,
@@ -2080,13 +2080,13 @@
     ]
   },
   {
-    "Version": "260410.1.0",
-    "Id": 66,
-    "CharaId": 4,
-    "AssistId": 3006,
-    "AssetId": 10043006,
-    "EquipPossessionEffectId": 1004300300,
-    "RarityPossessionEffectIds": [
+    "version": "260410.1.0",
+    "id": 66,
+    "charaId": 4,
+    "assistId": 3006,
+    "assetId": 10043006,
+    "equipPossessionEffectId": 1004300300,
+    "rarityPossessionEffectIds": [
       1004300301,
       1004300302,
       1004300303,
@@ -2098,7 +2098,7 @@
       1004300309,
       1004300310
     ],
-    "RarityPossessionEffectUnlockRaritys": [
+    "rarityPossessionEffectUnlockRaritys": [
       2,
       3,
       4,
@@ -2112,13 +2112,13 @@
     ]
   },
   {
-    "Version": "260410.1.0",
-    "Id": 67,
-    "CharaId": 4,
-    "AssistId": 3003,
-    "AssetId": 10043003,
-    "EquipPossessionEffectId": 1004300400,
-    "RarityPossessionEffectIds": [
+    "version": "260410.1.0",
+    "id": 67,
+    "charaId": 4,
+    "assistId": 3003,
+    "assetId": 10043003,
+    "equipPossessionEffectId": 1004300400,
+    "rarityPossessionEffectIds": [
       1004300401,
       1004300402,
       1004300403,
@@ -2130,7 +2130,7 @@
       1004300409,
       1004300410
     ],
-    "RarityPossessionEffectUnlockRaritys": [
+    "rarityPossessionEffectUnlockRaritys": [
       2,
       3,
       4,
@@ -2144,13 +2144,13 @@
     ]
   },
   {
-    "Version": "260410.1.0",
-    "Id": 68,
-    "CharaId": 4,
-    "AssistId": 3011,
-    "AssetId": 10043011,
-    "EquipPossessionEffectId": 1004300500,
-    "RarityPossessionEffectIds": [
+    "version": "260410.1.0",
+    "id": 68,
+    "charaId": 4,
+    "assistId": 3011,
+    "assetId": 10043011,
+    "equipPossessionEffectId": 1004300500,
+    "rarityPossessionEffectIds": [
       1004300501,
       1004300502,
       1004300503,
@@ -2162,7 +2162,7 @@
       1004300509,
       1004300510
     ],
-    "RarityPossessionEffectUnlockRaritys": [
+    "rarityPossessionEffectUnlockRaritys": [
       2,
       3,
       4,
@@ -2176,13 +2176,13 @@
     ]
   },
   {
-    "Version": "260410.1.0",
-    "Id": 69,
-    "CharaId": 4,
-    "AssistId": 3008,
-    "AssetId": 10043008,
-    "EquipPossessionEffectId": 1004300600,
-    "RarityPossessionEffectIds": [
+    "version": "260410.1.0",
+    "id": 69,
+    "charaId": 4,
+    "assistId": 3008,
+    "assetId": 10043008,
+    "equipPossessionEffectId": 1004300600,
+    "rarityPossessionEffectIds": [
       1004300601,
       1004300602,
       1004300603,
@@ -2194,7 +2194,7 @@
       1004300609,
       1004300610
     ],
-    "RarityPossessionEffectUnlockRaritys": [
+    "rarityPossessionEffectUnlockRaritys": [
       2,
       3,
       4,
@@ -2208,13 +2208,13 @@
     ]
   },
   {
-    "Version": "260410.1.0",
-    "Id": 70,
-    "CharaId": 4,
-    "AssistId": 3002,
-    "AssetId": 10043002,
-    "EquipPossessionEffectId": 1004300700,
-    "RarityPossessionEffectIds": [
+    "version": "260410.1.0",
+    "id": 70,
+    "charaId": 4,
+    "assistId": 3002,
+    "assetId": 10043002,
+    "equipPossessionEffectId": 1004300700,
+    "rarityPossessionEffectIds": [
       1004300701,
       1004300702,
       1004300703,
@@ -2226,7 +2226,7 @@
       1004300709,
       1004300710
     ],
-    "RarityPossessionEffectUnlockRaritys": [
+    "rarityPossessionEffectUnlockRaritys": [
       2,
       3,
       4,
@@ -2240,13 +2240,13 @@
     ]
   },
   {
-    "Version": "260410.1.0",
-    "Id": 71,
-    "CharaId": 4,
-    "AssistId": 3015,
-    "AssetId": 10043015,
-    "EquipPossessionEffectId": 1004300800,
-    "RarityPossessionEffectIds": [
+    "version": "260410.1.0",
+    "id": 71,
+    "charaId": 4,
+    "assistId": 3015,
+    "assetId": 10043015,
+    "equipPossessionEffectId": 1004300800,
+    "rarityPossessionEffectIds": [
       1004300801,
       1004300802,
       1004300803,
@@ -2258,7 +2258,7 @@
       1004300809,
       1004300810
     ],
-    "RarityPossessionEffectUnlockRaritys": [
+    "rarityPossessionEffectUnlockRaritys": [
       2,
       3,
       4,
@@ -2272,13 +2272,13 @@
     ]
   },
   {
-    "Version": "260410.1.0",
-    "Id": 72,
-    "CharaId": 4,
-    "AssistId": 3009,
-    "AssetId": 10043009,
-    "EquipPossessionEffectId": 1004300900,
-    "RarityPossessionEffectIds": [
+    "version": "260410.1.0",
+    "id": 72,
+    "charaId": 4,
+    "assistId": 3009,
+    "assetId": 10043009,
+    "equipPossessionEffectId": 1004300900,
+    "rarityPossessionEffectIds": [
       1004300901,
       1004300902,
       1004300903,
@@ -2290,7 +2290,7 @@
       1004300909,
       1004300910
     ],
-    "RarityPossessionEffectUnlockRaritys": [
+    "rarityPossessionEffectUnlockRaritys": [
       2,
       3,
       4,
@@ -2304,13 +2304,13 @@
     ]
   },
   {
-    "Version": "260410.1.0",
-    "Id": 73,
-    "CharaId": 4,
-    "AssistId": 3007,
-    "AssetId": 10043007,
-    "EquipPossessionEffectId": 1004301100,
-    "RarityPossessionEffectIds": [
+    "version": "260410.1.0",
+    "id": 73,
+    "charaId": 4,
+    "assistId": 3007,
+    "assetId": 10043007,
+    "equipPossessionEffectId": 1004301100,
+    "rarityPossessionEffectIds": [
       1004301101,
       1004301102,
       1004301103,
@@ -2322,7 +2322,7 @@
       1004301109,
       1004301110
     ],
-    "RarityPossessionEffectUnlockRaritys": [
+    "rarityPossessionEffectUnlockRaritys": [
       2,
       3,
       4,
@@ -2336,13 +2336,13 @@
     ]
   },
   {
-    "Version": "260410.1.0",
-    "Id": 74,
-    "CharaId": 4,
-    "AssistId": 3022,
-    "AssetId": 10043022,
-    "EquipPossessionEffectId": 1004301200,
-    "RarityPossessionEffectIds": [
+    "version": "260410.1.0",
+    "id": 74,
+    "charaId": 4,
+    "assistId": 3022,
+    "assetId": 10043022,
+    "equipPossessionEffectId": 1004301200,
+    "rarityPossessionEffectIds": [
       1004301201,
       1004301202,
       1004301203,
@@ -2354,7 +2354,7 @@
       1004301209,
       1004301210
     ],
-    "RarityPossessionEffectUnlockRaritys": [
+    "rarityPossessionEffectUnlockRaritys": [
       2,
       3,
       4,
@@ -2368,13 +2368,13 @@
     ]
   },
   {
-    "Version": "260410.1.0",
-    "Id": 75,
-    "CharaId": 4,
-    "AssistId": 3018,
-    "AssetId": 10043018,
-    "EquipPossessionEffectId": 1004301300,
-    "RarityPossessionEffectIds": [
+    "version": "260410.1.0",
+    "id": 75,
+    "charaId": 4,
+    "assistId": 3018,
+    "assetId": 10043018,
+    "equipPossessionEffectId": 1004301300,
+    "rarityPossessionEffectIds": [
       1004301301,
       1004301302,
       1004301303,
@@ -2386,7 +2386,7 @@
       1004301309,
       1004301310
     ],
-    "RarityPossessionEffectUnlockRaritys": [
+    "rarityPossessionEffectUnlockRaritys": [
       2,
       3,
       4,
@@ -2400,13 +2400,13 @@
     ]
   },
   {
-    "Version": "260410.1.0",
-    "Id": 76,
-    "CharaId": 4,
-    "AssistId": 3012,
-    "AssetId": 10043012,
-    "EquipPossessionEffectId": 1004301400,
-    "RarityPossessionEffectIds": [
+    "version": "260410.1.0",
+    "id": 76,
+    "charaId": 4,
+    "assistId": 3012,
+    "assetId": 10043012,
+    "equipPossessionEffectId": 1004301400,
+    "rarityPossessionEffectIds": [
       1004301401,
       1004301402,
       1004301403,
@@ -2418,7 +2418,7 @@
       1004301409,
       1004301410
     ],
-    "RarityPossessionEffectUnlockRaritys": [
+    "rarityPossessionEffectUnlockRaritys": [
       2,
       3,
       4,
@@ -2432,13 +2432,13 @@
     ]
   },
   {
-    "Version": "260410.1.0",
-    "Id": 77,
-    "CharaId": 4,
-    "AssistId": 3013,
-    "AssetId": 10043013,
-    "EquipPossessionEffectId": 1004301500,
-    "RarityPossessionEffectIds": [
+    "version": "260410.1.0",
+    "id": 77,
+    "charaId": 4,
+    "assistId": 3013,
+    "assetId": 10043013,
+    "equipPossessionEffectId": 1004301500,
+    "rarityPossessionEffectIds": [
       1004301501,
       1004301502,
       1004301503,
@@ -2450,7 +2450,7 @@
       1004301509,
       1004301510
     ],
-    "RarityPossessionEffectUnlockRaritys": [
+    "rarityPossessionEffectUnlockRaritys": [
       2,
       3,
       4,
@@ -2464,13 +2464,13 @@
     ]
   },
   {
-    "Version": "260410.1.0",
-    "Id": 78,
-    "CharaId": 4,
-    "AssistId": 3017,
-    "AssetId": 10043017,
-    "EquipPossessionEffectId": 1004301600,
-    "RarityPossessionEffectIds": [
+    "version": "260410.1.0",
+    "id": 78,
+    "charaId": 4,
+    "assistId": 3017,
+    "assetId": 10043017,
+    "equipPossessionEffectId": 1004301600,
+    "rarityPossessionEffectIds": [
       1004301601,
       1004301602,
       1004301603,
@@ -2482,7 +2482,7 @@
       1004301609,
       1004301610
     ],
-    "RarityPossessionEffectUnlockRaritys": [
+    "rarityPossessionEffectUnlockRaritys": [
       2,
       3,
       4,
@@ -2496,13 +2496,13 @@
     ]
   },
   {
-    "Version": "260410.1.0",
-    "Id": 79,
-    "CharaId": 4,
-    "AssistId": 3016,
-    "AssetId": 10043016,
-    "EquipPossessionEffectId": 1004301700,
-    "RarityPossessionEffectIds": [
+    "version": "260410.1.0",
+    "id": 79,
+    "charaId": 4,
+    "assistId": 3016,
+    "assetId": 10043016,
+    "equipPossessionEffectId": 1004301700,
+    "rarityPossessionEffectIds": [
       1004301701,
       1004301702,
       1004301703,
@@ -2514,7 +2514,7 @@
       1004301709,
       1004301710
     ],
-    "RarityPossessionEffectUnlockRaritys": [
+    "rarityPossessionEffectUnlockRaritys": [
       2,
       3,
       4,
@@ -2528,13 +2528,13 @@
     ]
   },
   {
-    "Version": "260410.1.0",
-    "Id": 80,
-    "CharaId": 4,
-    "AssistId": 3014,
-    "AssetId": 10043014,
-    "EquipPossessionEffectId": 1004301800,
-    "RarityPossessionEffectIds": [
+    "version": "260410.1.0",
+    "id": 80,
+    "charaId": 4,
+    "assistId": 3014,
+    "assetId": 10043014,
+    "equipPossessionEffectId": 1004301800,
+    "rarityPossessionEffectIds": [
       1004301801,
       1004301802,
       1004301803,
@@ -2546,7 +2546,7 @@
       1004301809,
       1004301810
     ],
-    "RarityPossessionEffectUnlockRaritys": [
+    "rarityPossessionEffectUnlockRaritys": [
       2,
       3,
       4,
@@ -2560,13 +2560,13 @@
     ]
   },
   {
-    "Version": "260410.1.0",
-    "Id": 81,
-    "CharaId": 4,
-    "AssistId": 3019,
-    "AssetId": 10043019,
-    "EquipPossessionEffectId": 1004301900,
-    "RarityPossessionEffectIds": [
+    "version": "260410.1.0",
+    "id": 81,
+    "charaId": 4,
+    "assistId": 3019,
+    "assetId": 10043019,
+    "equipPossessionEffectId": 1004301900,
+    "rarityPossessionEffectIds": [
       1004301901,
       1004301902,
       1004301903,
@@ -2578,7 +2578,7 @@
       1004301909,
       1004301910
     ],
-    "RarityPossessionEffectUnlockRaritys": [
+    "rarityPossessionEffectUnlockRaritys": [
       2,
       3,
       4,
@@ -2592,13 +2592,13 @@
     ]
   },
   {
-    "Version": "260410.1.0",
-    "Id": 82,
-    "CharaId": 4,
-    "AssistId": 3001,
-    "AssetId": 10043001,
-    "EquipPossessionEffectId": 1004302000,
-    "RarityPossessionEffectIds": [
+    "version": "260410.1.0",
+    "id": 82,
+    "charaId": 4,
+    "assistId": 3001,
+    "assetId": 10043001,
+    "equipPossessionEffectId": 1004302000,
+    "rarityPossessionEffectIds": [
       1004302001,
       1004302002,
       1004302003,
@@ -2610,7 +2610,7 @@
       1004302009,
       1004302010
     ],
-    "RarityPossessionEffectUnlockRaritys": [
+    "rarityPossessionEffectUnlockRaritys": [
       2,
       3,
       4,
@@ -2624,13 +2624,13 @@
     ]
   },
   {
-    "Version": "260410.1.0",
-    "Id": 83,
-    "CharaId": 4,
-    "AssistId": 3020,
-    "AssetId": 10043020,
-    "EquipPossessionEffectId": 1004302100,
-    "RarityPossessionEffectIds": [
+    "version": "260410.1.0",
+    "id": 83,
+    "charaId": 4,
+    "assistId": 3020,
+    "assetId": 10043020,
+    "equipPossessionEffectId": 1004302100,
+    "rarityPossessionEffectIds": [
       1004302101,
       1004302102,
       1004302103,
@@ -2642,7 +2642,7 @@
       1004302109,
       1004302110
     ],
-    "RarityPossessionEffectUnlockRaritys": [
+    "rarityPossessionEffectUnlockRaritys": [
       2,
       3,
       4,
@@ -2656,13 +2656,13 @@
     ]
   },
   {
-    "Version": "260410.1.0",
-    "Id": 84,
-    "CharaId": 4,
-    "AssistId": 3021,
-    "AssetId": 10043021,
-    "EquipPossessionEffectId": 1004302200,
-    "RarityPossessionEffectIds": [
+    "version": "260410.1.0",
+    "id": 84,
+    "charaId": 4,
+    "assistId": 3021,
+    "assetId": 10043021,
+    "equipPossessionEffectId": 1004302200,
+    "rarityPossessionEffectIds": [
       1004302201,
       1004302202,
       1004302203,
@@ -2674,7 +2674,7 @@
       1004302209,
       1004302210
     ],
-    "RarityPossessionEffectUnlockRaritys": [
+    "rarityPossessionEffectUnlockRaritys": [
       2,
       3,
       4,
@@ -2688,13 +2688,13 @@
     ]
   },
   {
-    "Version": "260410.1.0",
-    "Id": 85,
-    "CharaId": 5,
-    "AssistId": 3005,
-    "AssetId": 10053005,
-    "EquipPossessionEffectId": 1005300100,
-    "RarityPossessionEffectIds": [
+    "version": "260410.1.0",
+    "id": 85,
+    "charaId": 5,
+    "assistId": 3005,
+    "assetId": 10053005,
+    "equipPossessionEffectId": 1005300100,
+    "rarityPossessionEffectIds": [
       1005300101,
       1005300102,
       1005300103,
@@ -2706,7 +2706,7 @@
       1005300109,
       1005300110
     ],
-    "RarityPossessionEffectUnlockRaritys": [
+    "rarityPossessionEffectUnlockRaritys": [
       2,
       3,
       4,
@@ -2720,13 +2720,13 @@
     ]
   },
   {
-    "Version": "260410.1.0",
-    "Id": 86,
-    "CharaId": 5,
-    "AssistId": 3004,
-    "AssetId": 10053004,
-    "EquipPossessionEffectId": 1005300200,
-    "RarityPossessionEffectIds": [
+    "version": "260410.1.0",
+    "id": 86,
+    "charaId": 5,
+    "assistId": 3004,
+    "assetId": 10053004,
+    "equipPossessionEffectId": 1005300200,
+    "rarityPossessionEffectIds": [
       1005300201,
       1005300202,
       1005300203,
@@ -2738,7 +2738,7 @@
       1005300209,
       1005300210
     ],
-    "RarityPossessionEffectUnlockRaritys": [
+    "rarityPossessionEffectUnlockRaritys": [
       2,
       3,
       4,
@@ -2752,13 +2752,13 @@
     ]
   },
   {
-    "Version": "260410.1.0",
-    "Id": 87,
-    "CharaId": 5,
-    "AssistId": 3006,
-    "AssetId": 10053006,
-    "EquipPossessionEffectId": 1005300300,
-    "RarityPossessionEffectIds": [
+    "version": "260410.1.0",
+    "id": 87,
+    "charaId": 5,
+    "assistId": 3006,
+    "assetId": 10053006,
+    "equipPossessionEffectId": 1005300300,
+    "rarityPossessionEffectIds": [
       1005300301,
       1005300302,
       1005300303,
@@ -2770,7 +2770,7 @@
       1005300309,
       1005300310
     ],
-    "RarityPossessionEffectUnlockRaritys": [
+    "rarityPossessionEffectUnlockRaritys": [
       2,
       3,
       4,
@@ -2784,13 +2784,13 @@
     ]
   },
   {
-    "Version": "260410.1.0",
-    "Id": 88,
-    "CharaId": 5,
-    "AssistId": 3003,
-    "AssetId": 10053003,
-    "EquipPossessionEffectId": 1005300400,
-    "RarityPossessionEffectIds": [
+    "version": "260410.1.0",
+    "id": 88,
+    "charaId": 5,
+    "assistId": 3003,
+    "assetId": 10053003,
+    "equipPossessionEffectId": 1005300400,
+    "rarityPossessionEffectIds": [
       1005300401,
       1005300402,
       1005300403,
@@ -2802,7 +2802,7 @@
       1005300409,
       1005300410
     ],
-    "RarityPossessionEffectUnlockRaritys": [
+    "rarityPossessionEffectUnlockRaritys": [
       2,
       3,
       4,
@@ -2816,13 +2816,13 @@
     ]
   },
   {
-    "Version": "260410.1.0",
-    "Id": 89,
-    "CharaId": 5,
-    "AssistId": 3011,
-    "AssetId": 10053011,
-    "EquipPossessionEffectId": 1005300500,
-    "RarityPossessionEffectIds": [
+    "version": "260410.1.0",
+    "id": 89,
+    "charaId": 5,
+    "assistId": 3011,
+    "assetId": 10053011,
+    "equipPossessionEffectId": 1005300500,
+    "rarityPossessionEffectIds": [
       1005300501,
       1005300502,
       1005300503,
@@ -2834,7 +2834,7 @@
       1005300509,
       1005300510
     ],
-    "RarityPossessionEffectUnlockRaritys": [
+    "rarityPossessionEffectUnlockRaritys": [
       2,
       3,
       4,
@@ -2848,13 +2848,13 @@
     ]
   },
   {
-    "Version": "260410.1.0",
-    "Id": 90,
-    "CharaId": 5,
-    "AssistId": 3008,
-    "AssetId": 10053008,
-    "EquipPossessionEffectId": 1005300600,
-    "RarityPossessionEffectIds": [
+    "version": "260410.1.0",
+    "id": 90,
+    "charaId": 5,
+    "assistId": 3008,
+    "assetId": 10053008,
+    "equipPossessionEffectId": 1005300600,
+    "rarityPossessionEffectIds": [
       1005300601,
       1005300602,
       1005300603,
@@ -2866,7 +2866,7 @@
       1005300609,
       1005300610
     ],
-    "RarityPossessionEffectUnlockRaritys": [
+    "rarityPossessionEffectUnlockRaritys": [
       2,
       3,
       4,
@@ -2880,13 +2880,13 @@
     ]
   },
   {
-    "Version": "260410.1.0",
-    "Id": 91,
-    "CharaId": 5,
-    "AssistId": 3002,
-    "AssetId": 10053002,
-    "EquipPossessionEffectId": 1005300700,
-    "RarityPossessionEffectIds": [
+    "version": "260410.1.0",
+    "id": 91,
+    "charaId": 5,
+    "assistId": 3002,
+    "assetId": 10053002,
+    "equipPossessionEffectId": 1005300700,
+    "rarityPossessionEffectIds": [
       1005300701,
       1005300702,
       1005300703,
@@ -2898,7 +2898,7 @@
       1005300709,
       1005300710
     ],
-    "RarityPossessionEffectUnlockRaritys": [
+    "rarityPossessionEffectUnlockRaritys": [
       2,
       3,
       4,
@@ -2912,13 +2912,13 @@
     ]
   },
   {
-    "Version": "260410.1.0",
-    "Id": 92,
-    "CharaId": 5,
-    "AssistId": 3015,
-    "AssetId": 10053015,
-    "EquipPossessionEffectId": 1005300800,
-    "RarityPossessionEffectIds": [
+    "version": "260410.1.0",
+    "id": 92,
+    "charaId": 5,
+    "assistId": 3015,
+    "assetId": 10053015,
+    "equipPossessionEffectId": 1005300800,
+    "rarityPossessionEffectIds": [
       1005300801,
       1005300802,
       1005300803,
@@ -2930,7 +2930,7 @@
       1005300809,
       1005300810
     ],
-    "RarityPossessionEffectUnlockRaritys": [
+    "rarityPossessionEffectUnlockRaritys": [
       2,
       3,
       4,
@@ -2944,13 +2944,13 @@
     ]
   },
   {
-    "Version": "260410.1.0",
-    "Id": 93,
-    "CharaId": 5,
-    "AssistId": 3009,
-    "AssetId": 10053009,
-    "EquipPossessionEffectId": 1005300900,
-    "RarityPossessionEffectIds": [
+    "version": "260410.1.0",
+    "id": 93,
+    "charaId": 5,
+    "assistId": 3009,
+    "assetId": 10053009,
+    "equipPossessionEffectId": 1005300900,
+    "rarityPossessionEffectIds": [
       1005300901,
       1005300902,
       1005300903,
@@ -2962,7 +2962,7 @@
       1005300909,
       1005300910
     ],
-    "RarityPossessionEffectUnlockRaritys": [
+    "rarityPossessionEffectUnlockRaritys": [
       2,
       3,
       4,
@@ -2976,13 +2976,13 @@
     ]
   },
   {
-    "Version": "260410.1.0",
-    "Id": 94,
-    "CharaId": 5,
-    "AssistId": 3007,
-    "AssetId": 10053007,
-    "EquipPossessionEffectId": 1005301100,
-    "RarityPossessionEffectIds": [
+    "version": "260410.1.0",
+    "id": 94,
+    "charaId": 5,
+    "assistId": 3007,
+    "assetId": 10053007,
+    "equipPossessionEffectId": 1005301100,
+    "rarityPossessionEffectIds": [
       1005301101,
       1005301102,
       1005301103,
@@ -2994,7 +2994,7 @@
       1005301109,
       1005301110
     ],
-    "RarityPossessionEffectUnlockRaritys": [
+    "rarityPossessionEffectUnlockRaritys": [
       2,
       3,
       4,
@@ -3008,13 +3008,13 @@
     ]
   },
   {
-    "Version": "260410.1.0",
-    "Id": 95,
-    "CharaId": 5,
-    "AssistId": 3022,
-    "AssetId": 10053022,
-    "EquipPossessionEffectId": 1005301200,
-    "RarityPossessionEffectIds": [
+    "version": "260410.1.0",
+    "id": 95,
+    "charaId": 5,
+    "assistId": 3022,
+    "assetId": 10053022,
+    "equipPossessionEffectId": 1005301200,
+    "rarityPossessionEffectIds": [
       1005301201,
       1005301202,
       1005301203,
@@ -3026,7 +3026,7 @@
       1005301209,
       1005301210
     ],
-    "RarityPossessionEffectUnlockRaritys": [
+    "rarityPossessionEffectUnlockRaritys": [
       2,
       3,
       4,
@@ -3040,13 +3040,13 @@
     ]
   },
   {
-    "Version": "260410.1.0",
-    "Id": 96,
-    "CharaId": 5,
-    "AssistId": 3018,
-    "AssetId": 10053018,
-    "EquipPossessionEffectId": 1005301300,
-    "RarityPossessionEffectIds": [
+    "version": "260410.1.0",
+    "id": 96,
+    "charaId": 5,
+    "assistId": 3018,
+    "assetId": 10053018,
+    "equipPossessionEffectId": 1005301300,
+    "rarityPossessionEffectIds": [
       1005301301,
       1005301302,
       1005301303,
@@ -3058,7 +3058,7 @@
       1005301309,
       1005301310
     ],
-    "RarityPossessionEffectUnlockRaritys": [
+    "rarityPossessionEffectUnlockRaritys": [
       2,
       3,
       4,
@@ -3072,13 +3072,13 @@
     ]
   },
   {
-    "Version": "260410.1.0",
-    "Id": 97,
-    "CharaId": 5,
-    "AssistId": 3012,
-    "AssetId": 10053012,
-    "EquipPossessionEffectId": 1005301400,
-    "RarityPossessionEffectIds": [
+    "version": "260410.1.0",
+    "id": 97,
+    "charaId": 5,
+    "assistId": 3012,
+    "assetId": 10053012,
+    "equipPossessionEffectId": 1005301400,
+    "rarityPossessionEffectIds": [
       1005301401,
       1005301402,
       1005301403,
@@ -3090,7 +3090,7 @@
       1005301409,
       1005301410
     ],
-    "RarityPossessionEffectUnlockRaritys": [
+    "rarityPossessionEffectUnlockRaritys": [
       2,
       3,
       4,
@@ -3104,13 +3104,13 @@
     ]
   },
   {
-    "Version": "260410.1.0",
-    "Id": 98,
-    "CharaId": 5,
-    "AssistId": 3013,
-    "AssetId": 10053013,
-    "EquipPossessionEffectId": 1005301500,
-    "RarityPossessionEffectIds": [
+    "version": "260410.1.0",
+    "id": 98,
+    "charaId": 5,
+    "assistId": 3013,
+    "assetId": 10053013,
+    "equipPossessionEffectId": 1005301500,
+    "rarityPossessionEffectIds": [
       1005301501,
       1005301502,
       1005301503,
@@ -3122,7 +3122,7 @@
       1005301509,
       1005301510
     ],
-    "RarityPossessionEffectUnlockRaritys": [
+    "rarityPossessionEffectUnlockRaritys": [
       2,
       3,
       4,
@@ -3136,13 +3136,13 @@
     ]
   },
   {
-    "Version": "260410.1.0",
-    "Id": 99,
-    "CharaId": 5,
-    "AssistId": 3017,
-    "AssetId": 10053017,
-    "EquipPossessionEffectId": 1005301600,
-    "RarityPossessionEffectIds": [
+    "version": "260410.1.0",
+    "id": 99,
+    "charaId": 5,
+    "assistId": 3017,
+    "assetId": 10053017,
+    "equipPossessionEffectId": 1005301600,
+    "rarityPossessionEffectIds": [
       1005301601,
       1005301602,
       1005301603,
@@ -3154,7 +3154,7 @@
       1005301609,
       1005301610
     ],
-    "RarityPossessionEffectUnlockRaritys": [
+    "rarityPossessionEffectUnlockRaritys": [
       2,
       3,
       4,
@@ -3168,13 +3168,13 @@
     ]
   },
   {
-    "Version": "260410.1.0",
-    "Id": 100,
-    "CharaId": 5,
-    "AssistId": 3016,
-    "AssetId": 10053016,
-    "EquipPossessionEffectId": 1005301700,
-    "RarityPossessionEffectIds": [
+    "version": "260410.1.0",
+    "id": 100,
+    "charaId": 5,
+    "assistId": 3016,
+    "assetId": 10053016,
+    "equipPossessionEffectId": 1005301700,
+    "rarityPossessionEffectIds": [
       1005301701,
       1005301702,
       1005301703,
@@ -3186,7 +3186,7 @@
       1005301709,
       1005301710
     ],
-    "RarityPossessionEffectUnlockRaritys": [
+    "rarityPossessionEffectUnlockRaritys": [
       2,
       3,
       4,
@@ -3200,13 +3200,13 @@
     ]
   },
   {
-    "Version": "260410.1.0",
-    "Id": 101,
-    "CharaId": 5,
-    "AssistId": 3014,
-    "AssetId": 10053014,
-    "EquipPossessionEffectId": 1005301800,
-    "RarityPossessionEffectIds": [
+    "version": "260410.1.0",
+    "id": 101,
+    "charaId": 5,
+    "assistId": 3014,
+    "assetId": 10053014,
+    "equipPossessionEffectId": 1005301800,
+    "rarityPossessionEffectIds": [
       1005301801,
       1005301802,
       1005301803,
@@ -3218,7 +3218,7 @@
       1005301809,
       1005301810
     ],
-    "RarityPossessionEffectUnlockRaritys": [
+    "rarityPossessionEffectUnlockRaritys": [
       2,
       3,
       4,
@@ -3232,13 +3232,13 @@
     ]
   },
   {
-    "Version": "260410.1.0",
-    "Id": 102,
-    "CharaId": 5,
-    "AssistId": 3019,
-    "AssetId": 10053019,
-    "EquipPossessionEffectId": 1005301900,
-    "RarityPossessionEffectIds": [
+    "version": "260410.1.0",
+    "id": 102,
+    "charaId": 5,
+    "assistId": 3019,
+    "assetId": 10053019,
+    "equipPossessionEffectId": 1005301900,
+    "rarityPossessionEffectIds": [
       1005301901,
       1005301902,
       1005301903,
@@ -3250,7 +3250,7 @@
       1005301909,
       1005301910
     ],
-    "RarityPossessionEffectUnlockRaritys": [
+    "rarityPossessionEffectUnlockRaritys": [
       2,
       3,
       4,
@@ -3264,13 +3264,13 @@
     ]
   },
   {
-    "Version": "260410.1.0",
-    "Id": 103,
-    "CharaId": 5,
-    "AssistId": 3001,
-    "AssetId": 10053001,
-    "EquipPossessionEffectId": 1005302000,
-    "RarityPossessionEffectIds": [
+    "version": "260410.1.0",
+    "id": 103,
+    "charaId": 5,
+    "assistId": 3001,
+    "assetId": 10053001,
+    "equipPossessionEffectId": 1005302000,
+    "rarityPossessionEffectIds": [
       1005302001,
       1005302002,
       1005302003,
@@ -3282,7 +3282,7 @@
       1005302009,
       1005302010
     ],
-    "RarityPossessionEffectUnlockRaritys": [
+    "rarityPossessionEffectUnlockRaritys": [
       2,
       3,
       4,
@@ -3296,13 +3296,13 @@
     ]
   },
   {
-    "Version": "260410.1.0",
-    "Id": 104,
-    "CharaId": 5,
-    "AssistId": 3020,
-    "AssetId": 10053020,
-    "EquipPossessionEffectId": 1005302100,
-    "RarityPossessionEffectIds": [
+    "version": "260410.1.0",
+    "id": 104,
+    "charaId": 5,
+    "assistId": 3020,
+    "assetId": 10053020,
+    "equipPossessionEffectId": 1005302100,
+    "rarityPossessionEffectIds": [
       1005302101,
       1005302102,
       1005302103,
@@ -3314,7 +3314,7 @@
       1005302109,
       1005302110
     ],
-    "RarityPossessionEffectUnlockRaritys": [
+    "rarityPossessionEffectUnlockRaritys": [
       2,
       3,
       4,
@@ -3328,13 +3328,13 @@
     ]
   },
   {
-    "Version": "260410.1.0",
-    "Id": 105,
-    "CharaId": 5,
-    "AssistId": 3021,
-    "AssetId": 10053021,
-    "EquipPossessionEffectId": 1005302200,
-    "RarityPossessionEffectIds": [
+    "version": "260410.1.0",
+    "id": 105,
+    "charaId": 5,
+    "assistId": 3021,
+    "assetId": 10053021,
+    "equipPossessionEffectId": 1005302200,
+    "rarityPossessionEffectIds": [
       1005302201,
       1005302202,
       1005302203,
@@ -3346,7 +3346,7 @@
       1005302209,
       1005302210
     ],
-    "RarityPossessionEffectUnlockRaritys": [
+    "rarityPossessionEffectUnlockRaritys": [
       2,
       3,
       4,
@@ -3360,13 +3360,13 @@
     ]
   },
   {
-    "Version": "260410.1.0",
-    "Id": 106,
-    "CharaId": 6,
-    "AssistId": 3005,
-    "AssetId": 10063005,
-    "EquipPossessionEffectId": 1006300100,
-    "RarityPossessionEffectIds": [
+    "version": "260410.1.0",
+    "id": 106,
+    "charaId": 6,
+    "assistId": 3005,
+    "assetId": 10063005,
+    "equipPossessionEffectId": 1006300100,
+    "rarityPossessionEffectIds": [
       1006300101,
       1006300102,
       1006300103,
@@ -3378,7 +3378,7 @@
       1006300109,
       1006300110
     ],
-    "RarityPossessionEffectUnlockRaritys": [
+    "rarityPossessionEffectUnlockRaritys": [
       2,
       3,
       4,
@@ -3392,13 +3392,13 @@
     ]
   },
   {
-    "Version": "260410.1.0",
-    "Id": 107,
-    "CharaId": 6,
-    "AssistId": 3004,
-    "AssetId": 10063004,
-    "EquipPossessionEffectId": 1006300200,
-    "RarityPossessionEffectIds": [
+    "version": "260410.1.0",
+    "id": 107,
+    "charaId": 6,
+    "assistId": 3004,
+    "assetId": 10063004,
+    "equipPossessionEffectId": 1006300200,
+    "rarityPossessionEffectIds": [
       1006300201,
       1006300202,
       1006300203,
@@ -3410,7 +3410,7 @@
       1006300209,
       1006300210
     ],
-    "RarityPossessionEffectUnlockRaritys": [
+    "rarityPossessionEffectUnlockRaritys": [
       2,
       3,
       4,
@@ -3424,13 +3424,13 @@
     ]
   },
   {
-    "Version": "260410.1.0",
-    "Id": 108,
-    "CharaId": 6,
-    "AssistId": 3006,
-    "AssetId": 10063006,
-    "EquipPossessionEffectId": 1006300300,
-    "RarityPossessionEffectIds": [
+    "version": "260410.1.0",
+    "id": 108,
+    "charaId": 6,
+    "assistId": 3006,
+    "assetId": 10063006,
+    "equipPossessionEffectId": 1006300300,
+    "rarityPossessionEffectIds": [
       1006300301,
       1006300302,
       1006300303,
@@ -3442,7 +3442,7 @@
       1006300309,
       1006300310
     ],
-    "RarityPossessionEffectUnlockRaritys": [
+    "rarityPossessionEffectUnlockRaritys": [
       2,
       3,
       4,
@@ -3456,13 +3456,13 @@
     ]
   },
   {
-    "Version": "260410.1.0",
-    "Id": 109,
-    "CharaId": 6,
-    "AssistId": 3003,
-    "AssetId": 10063003,
-    "EquipPossessionEffectId": 1006300400,
-    "RarityPossessionEffectIds": [
+    "version": "260410.1.0",
+    "id": 109,
+    "charaId": 6,
+    "assistId": 3003,
+    "assetId": 10063003,
+    "equipPossessionEffectId": 1006300400,
+    "rarityPossessionEffectIds": [
       1006300401,
       1006300402,
       1006300403,
@@ -3474,7 +3474,7 @@
       1006300409,
       1006300410
     ],
-    "RarityPossessionEffectUnlockRaritys": [
+    "rarityPossessionEffectUnlockRaritys": [
       2,
       3,
       4,
@@ -3488,13 +3488,13 @@
     ]
   },
   {
-    "Version": "260410.1.0",
-    "Id": 110,
-    "CharaId": 6,
-    "AssistId": 3011,
-    "AssetId": 10063011,
-    "EquipPossessionEffectId": 1006300500,
-    "RarityPossessionEffectIds": [
+    "version": "260410.1.0",
+    "id": 110,
+    "charaId": 6,
+    "assistId": 3011,
+    "assetId": 10063011,
+    "equipPossessionEffectId": 1006300500,
+    "rarityPossessionEffectIds": [
       1006300501,
       1006300502,
       1006300503,
@@ -3506,7 +3506,7 @@
       1006300509,
       1006300510
     ],
-    "RarityPossessionEffectUnlockRaritys": [
+    "rarityPossessionEffectUnlockRaritys": [
       2,
       3,
       4,
@@ -3520,13 +3520,13 @@
     ]
   },
   {
-    "Version": "260410.1.0",
-    "Id": 111,
-    "CharaId": 6,
-    "AssistId": 3008,
-    "AssetId": 10063008,
-    "EquipPossessionEffectId": 1006300600,
-    "RarityPossessionEffectIds": [
+    "version": "260410.1.0",
+    "id": 111,
+    "charaId": 6,
+    "assistId": 3008,
+    "assetId": 10063008,
+    "equipPossessionEffectId": 1006300600,
+    "rarityPossessionEffectIds": [
       1006300601,
       1006300602,
       1006300603,
@@ -3538,7 +3538,7 @@
       1006300609,
       1006300610
     ],
-    "RarityPossessionEffectUnlockRaritys": [
+    "rarityPossessionEffectUnlockRaritys": [
       2,
       3,
       4,
@@ -3552,13 +3552,13 @@
     ]
   },
   {
-    "Version": "260410.1.0",
-    "Id": 112,
-    "CharaId": 6,
-    "AssistId": 3002,
-    "AssetId": 10063002,
-    "EquipPossessionEffectId": 1006300700,
-    "RarityPossessionEffectIds": [
+    "version": "260410.1.0",
+    "id": 112,
+    "charaId": 6,
+    "assistId": 3002,
+    "assetId": 10063002,
+    "equipPossessionEffectId": 1006300700,
+    "rarityPossessionEffectIds": [
       1006300701,
       1006300702,
       1006300703,
@@ -3570,7 +3570,7 @@
       1006300709,
       1006300710
     ],
-    "RarityPossessionEffectUnlockRaritys": [
+    "rarityPossessionEffectUnlockRaritys": [
       2,
       3,
       4,
@@ -3584,13 +3584,13 @@
     ]
   },
   {
-    "Version": "260410.1.0",
-    "Id": 113,
-    "CharaId": 6,
-    "AssistId": 3015,
-    "AssetId": 10063015,
-    "EquipPossessionEffectId": 1006300800,
-    "RarityPossessionEffectIds": [
+    "version": "260410.1.0",
+    "id": 113,
+    "charaId": 6,
+    "assistId": 3015,
+    "assetId": 10063015,
+    "equipPossessionEffectId": 1006300800,
+    "rarityPossessionEffectIds": [
       1006300801,
       1006300802,
       1006300803,
@@ -3602,7 +3602,7 @@
       1006300809,
       1006300810
     ],
-    "RarityPossessionEffectUnlockRaritys": [
+    "rarityPossessionEffectUnlockRaritys": [
       2,
       3,
       4,
@@ -3616,13 +3616,13 @@
     ]
   },
   {
-    "Version": "260410.1.0",
-    "Id": 114,
-    "CharaId": 6,
-    "AssistId": 3009,
-    "AssetId": 10063009,
-    "EquipPossessionEffectId": 1006300900,
-    "RarityPossessionEffectIds": [
+    "version": "260410.1.0",
+    "id": 114,
+    "charaId": 6,
+    "assistId": 3009,
+    "assetId": 10063009,
+    "equipPossessionEffectId": 1006300900,
+    "rarityPossessionEffectIds": [
       1006300901,
       1006300902,
       1006300903,
@@ -3634,7 +3634,7 @@
       1006300909,
       1006300910
     ],
-    "RarityPossessionEffectUnlockRaritys": [
+    "rarityPossessionEffectUnlockRaritys": [
       2,
       3,
       4,
@@ -3648,13 +3648,13 @@
     ]
   },
   {
-    "Version": "260410.1.0",
-    "Id": 115,
-    "CharaId": 6,
-    "AssistId": 3007,
-    "AssetId": 10063007,
-    "EquipPossessionEffectId": 1006301100,
-    "RarityPossessionEffectIds": [
+    "version": "260410.1.0",
+    "id": 115,
+    "charaId": 6,
+    "assistId": 3007,
+    "assetId": 10063007,
+    "equipPossessionEffectId": 1006301100,
+    "rarityPossessionEffectIds": [
       1006301101,
       1006301102,
       1006301103,
@@ -3666,7 +3666,7 @@
       1006301109,
       1006301110
     ],
-    "RarityPossessionEffectUnlockRaritys": [
+    "rarityPossessionEffectUnlockRaritys": [
       2,
       3,
       4,
@@ -3680,13 +3680,13 @@
     ]
   },
   {
-    "Version": "260410.1.0",
-    "Id": 116,
-    "CharaId": 6,
-    "AssistId": 3022,
-    "AssetId": 10063022,
-    "EquipPossessionEffectId": 1006301200,
-    "RarityPossessionEffectIds": [
+    "version": "260410.1.0",
+    "id": 116,
+    "charaId": 6,
+    "assistId": 3022,
+    "assetId": 10063022,
+    "equipPossessionEffectId": 1006301200,
+    "rarityPossessionEffectIds": [
       1006301201,
       1006301202,
       1006301203,
@@ -3698,7 +3698,7 @@
       1006301209,
       1006301210
     ],
-    "RarityPossessionEffectUnlockRaritys": [
+    "rarityPossessionEffectUnlockRaritys": [
       2,
       3,
       4,
@@ -3712,13 +3712,13 @@
     ]
   },
   {
-    "Version": "260410.1.0",
-    "Id": 117,
-    "CharaId": 6,
-    "AssistId": 3018,
-    "AssetId": 10063018,
-    "EquipPossessionEffectId": 1006301300,
-    "RarityPossessionEffectIds": [
+    "version": "260410.1.0",
+    "id": 117,
+    "charaId": 6,
+    "assistId": 3018,
+    "assetId": 10063018,
+    "equipPossessionEffectId": 1006301300,
+    "rarityPossessionEffectIds": [
       1006301301,
       1006301302,
       1006301303,
@@ -3730,7 +3730,7 @@
       1006301309,
       1006301310
     ],
-    "RarityPossessionEffectUnlockRaritys": [
+    "rarityPossessionEffectUnlockRaritys": [
       2,
       3,
       4,
@@ -3744,13 +3744,13 @@
     ]
   },
   {
-    "Version": "260410.1.0",
-    "Id": 118,
-    "CharaId": 6,
-    "AssistId": 3012,
-    "AssetId": 10063012,
-    "EquipPossessionEffectId": 1006301400,
-    "RarityPossessionEffectIds": [
+    "version": "260410.1.0",
+    "id": 118,
+    "charaId": 6,
+    "assistId": 3012,
+    "assetId": 10063012,
+    "equipPossessionEffectId": 1006301400,
+    "rarityPossessionEffectIds": [
       1006301401,
       1006301402,
       1006301403,
@@ -3762,7 +3762,7 @@
       1006301409,
       1006301410
     ],
-    "RarityPossessionEffectUnlockRaritys": [
+    "rarityPossessionEffectUnlockRaritys": [
       2,
       3,
       4,
@@ -3776,13 +3776,13 @@
     ]
   },
   {
-    "Version": "260410.1.0",
-    "Id": 119,
-    "CharaId": 6,
-    "AssistId": 3013,
-    "AssetId": 10063013,
-    "EquipPossessionEffectId": 1006301500,
-    "RarityPossessionEffectIds": [
+    "version": "260410.1.0",
+    "id": 119,
+    "charaId": 6,
+    "assistId": 3013,
+    "assetId": 10063013,
+    "equipPossessionEffectId": 1006301500,
+    "rarityPossessionEffectIds": [
       1006301501,
       1006301502,
       1006301503,
@@ -3794,7 +3794,7 @@
       1006301509,
       1006301510
     ],
-    "RarityPossessionEffectUnlockRaritys": [
+    "rarityPossessionEffectUnlockRaritys": [
       2,
       3,
       4,
@@ -3808,13 +3808,13 @@
     ]
   },
   {
-    "Version": "260410.1.0",
-    "Id": 120,
-    "CharaId": 6,
-    "AssistId": 3017,
-    "AssetId": 10063017,
-    "EquipPossessionEffectId": 1006301600,
-    "RarityPossessionEffectIds": [
+    "version": "260410.1.0",
+    "id": 120,
+    "charaId": 6,
+    "assistId": 3017,
+    "assetId": 10063017,
+    "equipPossessionEffectId": 1006301600,
+    "rarityPossessionEffectIds": [
       1006301601,
       1006301602,
       1006301603,
@@ -3826,7 +3826,7 @@
       1006301609,
       1006301610
     ],
-    "RarityPossessionEffectUnlockRaritys": [
+    "rarityPossessionEffectUnlockRaritys": [
       2,
       3,
       4,
@@ -3840,13 +3840,13 @@
     ]
   },
   {
-    "Version": "260410.1.0",
-    "Id": 121,
-    "CharaId": 6,
-    "AssistId": 3016,
-    "AssetId": 10063016,
-    "EquipPossessionEffectId": 1006301700,
-    "RarityPossessionEffectIds": [
+    "version": "260410.1.0",
+    "id": 121,
+    "charaId": 6,
+    "assistId": 3016,
+    "assetId": 10063016,
+    "equipPossessionEffectId": 1006301700,
+    "rarityPossessionEffectIds": [
       1006301701,
       1006301702,
       1006301703,
@@ -3858,7 +3858,7 @@
       1006301709,
       1006301710
     ],
-    "RarityPossessionEffectUnlockRaritys": [
+    "rarityPossessionEffectUnlockRaritys": [
       2,
       3,
       4,
@@ -3872,13 +3872,13 @@
     ]
   },
   {
-    "Version": "260410.1.0",
-    "Id": 122,
-    "CharaId": 6,
-    "AssistId": 3014,
-    "AssetId": 10063014,
-    "EquipPossessionEffectId": 1006301800,
-    "RarityPossessionEffectIds": [
+    "version": "260410.1.0",
+    "id": 122,
+    "charaId": 6,
+    "assistId": 3014,
+    "assetId": 10063014,
+    "equipPossessionEffectId": 1006301800,
+    "rarityPossessionEffectIds": [
       1006301801,
       1006301802,
       1006301803,
@@ -3890,7 +3890,7 @@
       1006301809,
       1006301810
     ],
-    "RarityPossessionEffectUnlockRaritys": [
+    "rarityPossessionEffectUnlockRaritys": [
       2,
       3,
       4,
@@ -3904,13 +3904,13 @@
     ]
   },
   {
-    "Version": "260410.1.0",
-    "Id": 123,
-    "CharaId": 6,
-    "AssistId": 3019,
-    "AssetId": 10063019,
-    "EquipPossessionEffectId": 1006301900,
-    "RarityPossessionEffectIds": [
+    "version": "260410.1.0",
+    "id": 123,
+    "charaId": 6,
+    "assistId": 3019,
+    "assetId": 10063019,
+    "equipPossessionEffectId": 1006301900,
+    "rarityPossessionEffectIds": [
       1006301901,
       1006301902,
       1006301903,
@@ -3922,7 +3922,7 @@
       1006301909,
       1006301910
     ],
-    "RarityPossessionEffectUnlockRaritys": [
+    "rarityPossessionEffectUnlockRaritys": [
       2,
       3,
       4,
@@ -3936,13 +3936,13 @@
     ]
   },
   {
-    "Version": "260410.1.0",
-    "Id": 124,
-    "CharaId": 6,
-    "AssistId": 3001,
-    "AssetId": 10063001,
-    "EquipPossessionEffectId": 1006302000,
-    "RarityPossessionEffectIds": [
+    "version": "260410.1.0",
+    "id": 124,
+    "charaId": 6,
+    "assistId": 3001,
+    "assetId": 10063001,
+    "equipPossessionEffectId": 1006302000,
+    "rarityPossessionEffectIds": [
       1006302001,
       1006302002,
       1006302003,
@@ -3954,7 +3954,7 @@
       1006302009,
       1006302010
     ],
-    "RarityPossessionEffectUnlockRaritys": [
+    "rarityPossessionEffectUnlockRaritys": [
       2,
       3,
       4,
@@ -3968,13 +3968,13 @@
     ]
   },
   {
-    "Version": "260410.1.0",
-    "Id": 125,
-    "CharaId": 6,
-    "AssistId": 3020,
-    "AssetId": 10063020,
-    "EquipPossessionEffectId": 1006302100,
-    "RarityPossessionEffectIds": [
+    "version": "260410.1.0",
+    "id": 125,
+    "charaId": 6,
+    "assistId": 3020,
+    "assetId": 10063020,
+    "equipPossessionEffectId": 1006302100,
+    "rarityPossessionEffectIds": [
       1006302101,
       1006302102,
       1006302103,
@@ -3986,7 +3986,7 @@
       1006302109,
       1006302110
     ],
-    "RarityPossessionEffectUnlockRaritys": [
+    "rarityPossessionEffectUnlockRaritys": [
       2,
       3,
       4,
@@ -4000,13 +4000,13 @@
     ]
   },
   {
-    "Version": "260410.1.0",
-    "Id": 126,
-    "CharaId": 6,
-    "AssistId": 3021,
-    "AssetId": 10063021,
-    "EquipPossessionEffectId": 1006302200,
-    "RarityPossessionEffectIds": [
+    "version": "260410.1.0",
+    "id": 126,
+    "charaId": 6,
+    "assistId": 3021,
+    "assetId": 10063021,
+    "equipPossessionEffectId": 1006302200,
+    "rarityPossessionEffectIds": [
       1006302201,
       1006302202,
       1006302203,
@@ -4018,7 +4018,7 @@
       1006302209,
       1006302210
     ],
-    "RarityPossessionEffectUnlockRaritys": [
+    "rarityPossessionEffectUnlockRaritys": [
       2,
       3,
       4,
@@ -4032,13 +4032,13 @@
     ]
   },
   {
-    "Version": "260410.1.0",
-    "Id": 127,
-    "CharaId": 7,
-    "AssistId": 3005,
-    "AssetId": 10073005,
-    "EquipPossessionEffectId": 1007300100,
-    "RarityPossessionEffectIds": [
+    "version": "260410.1.0",
+    "id": 127,
+    "charaId": 7,
+    "assistId": 3005,
+    "assetId": 10073005,
+    "equipPossessionEffectId": 1007300100,
+    "rarityPossessionEffectIds": [
       1007300101,
       1007300102,
       1007300103,
@@ -4050,7 +4050,7 @@
       1007300109,
       1007300110
     ],
-    "RarityPossessionEffectUnlockRaritys": [
+    "rarityPossessionEffectUnlockRaritys": [
       2,
       3,
       4,
@@ -4064,13 +4064,13 @@
     ]
   },
   {
-    "Version": "260410.1.0",
-    "Id": 128,
-    "CharaId": 7,
-    "AssistId": 3004,
-    "AssetId": 10073004,
-    "EquipPossessionEffectId": 1007300200,
-    "RarityPossessionEffectIds": [
+    "version": "260410.1.0",
+    "id": 128,
+    "charaId": 7,
+    "assistId": 3004,
+    "assetId": 10073004,
+    "equipPossessionEffectId": 1007300200,
+    "rarityPossessionEffectIds": [
       1007300201,
       1007300202,
       1007300203,
@@ -4082,7 +4082,7 @@
       1007300209,
       1007300210
     ],
-    "RarityPossessionEffectUnlockRaritys": [
+    "rarityPossessionEffectUnlockRaritys": [
       2,
       3,
       4,
@@ -4096,13 +4096,13 @@
     ]
   },
   {
-    "Version": "260410.1.0",
-    "Id": 129,
-    "CharaId": 7,
-    "AssistId": 3006,
-    "AssetId": 10073006,
-    "EquipPossessionEffectId": 1007300300,
-    "RarityPossessionEffectIds": [
+    "version": "260410.1.0",
+    "id": 129,
+    "charaId": 7,
+    "assistId": 3006,
+    "assetId": 10073006,
+    "equipPossessionEffectId": 1007300300,
+    "rarityPossessionEffectIds": [
       1007300301,
       1007300302,
       1007300303,
@@ -4114,7 +4114,7 @@
       1007300309,
       1007300310
     ],
-    "RarityPossessionEffectUnlockRaritys": [
+    "rarityPossessionEffectUnlockRaritys": [
       2,
       3,
       4,
@@ -4128,13 +4128,13 @@
     ]
   },
   {
-    "Version": "260410.1.0",
-    "Id": 130,
-    "CharaId": 7,
-    "AssistId": 3003,
-    "AssetId": 10073003,
-    "EquipPossessionEffectId": 1007300400,
-    "RarityPossessionEffectIds": [
+    "version": "260410.1.0",
+    "id": 130,
+    "charaId": 7,
+    "assistId": 3003,
+    "assetId": 10073003,
+    "equipPossessionEffectId": 1007300400,
+    "rarityPossessionEffectIds": [
       1007300401,
       1007300402,
       1007300403,
@@ -4146,7 +4146,7 @@
       1007300409,
       1007300410
     ],
-    "RarityPossessionEffectUnlockRaritys": [
+    "rarityPossessionEffectUnlockRaritys": [
       2,
       3,
       4,
@@ -4160,13 +4160,13 @@
     ]
   },
   {
-    "Version": "260410.1.0",
-    "Id": 131,
-    "CharaId": 7,
-    "AssistId": 3011,
-    "AssetId": 10073011,
-    "EquipPossessionEffectId": 1007300500,
-    "RarityPossessionEffectIds": [
+    "version": "260410.1.0",
+    "id": 131,
+    "charaId": 7,
+    "assistId": 3011,
+    "assetId": 10073011,
+    "equipPossessionEffectId": 1007300500,
+    "rarityPossessionEffectIds": [
       1007300501,
       1007300502,
       1007300503,
@@ -4178,7 +4178,7 @@
       1007300509,
       1007300510
     ],
-    "RarityPossessionEffectUnlockRaritys": [
+    "rarityPossessionEffectUnlockRaritys": [
       2,
       3,
       4,
@@ -4192,13 +4192,13 @@
     ]
   },
   {
-    "Version": "260410.1.0",
-    "Id": 132,
-    "CharaId": 7,
-    "AssistId": 3008,
-    "AssetId": 10073008,
-    "EquipPossessionEffectId": 1007300600,
-    "RarityPossessionEffectIds": [
+    "version": "260410.1.0",
+    "id": 132,
+    "charaId": 7,
+    "assistId": 3008,
+    "assetId": 10073008,
+    "equipPossessionEffectId": 1007300600,
+    "rarityPossessionEffectIds": [
       1007300601,
       1007300602,
       1007300603,
@@ -4210,7 +4210,7 @@
       1007300609,
       1007300610
     ],
-    "RarityPossessionEffectUnlockRaritys": [
+    "rarityPossessionEffectUnlockRaritys": [
       2,
       3,
       4,
@@ -4224,13 +4224,13 @@
     ]
   },
   {
-    "Version": "260410.1.0",
-    "Id": 133,
-    "CharaId": 7,
-    "AssistId": 3002,
-    "AssetId": 10073002,
-    "EquipPossessionEffectId": 1007300700,
-    "RarityPossessionEffectIds": [
+    "version": "260410.1.0",
+    "id": 133,
+    "charaId": 7,
+    "assistId": 3002,
+    "assetId": 10073002,
+    "equipPossessionEffectId": 1007300700,
+    "rarityPossessionEffectIds": [
       1007300701,
       1007300702,
       1007300703,
@@ -4242,7 +4242,7 @@
       1007300709,
       1007300710
     ],
-    "RarityPossessionEffectUnlockRaritys": [
+    "rarityPossessionEffectUnlockRaritys": [
       2,
       3,
       4,
@@ -4256,13 +4256,13 @@
     ]
   },
   {
-    "Version": "260410.1.0",
-    "Id": 134,
-    "CharaId": 7,
-    "AssistId": 3015,
-    "AssetId": 10073015,
-    "EquipPossessionEffectId": 1007300800,
-    "RarityPossessionEffectIds": [
+    "version": "260410.1.0",
+    "id": 134,
+    "charaId": 7,
+    "assistId": 3015,
+    "assetId": 10073015,
+    "equipPossessionEffectId": 1007300800,
+    "rarityPossessionEffectIds": [
       1007300801,
       1007300802,
       1007300803,
@@ -4274,7 +4274,7 @@
       1007300809,
       1007300810
     ],
-    "RarityPossessionEffectUnlockRaritys": [
+    "rarityPossessionEffectUnlockRaritys": [
       2,
       3,
       4,
@@ -4288,13 +4288,13 @@
     ]
   },
   {
-    "Version": "260410.1.0",
-    "Id": 135,
-    "CharaId": 7,
-    "AssistId": 3009,
-    "AssetId": 10073009,
-    "EquipPossessionEffectId": 1007300900,
-    "RarityPossessionEffectIds": [
+    "version": "260410.1.0",
+    "id": 135,
+    "charaId": 7,
+    "assistId": 3009,
+    "assetId": 10073009,
+    "equipPossessionEffectId": 1007300900,
+    "rarityPossessionEffectIds": [
       1007300901,
       1007300902,
       1007300903,
@@ -4306,7 +4306,7 @@
       1007300909,
       1007300910
     ],
-    "RarityPossessionEffectUnlockRaritys": [
+    "rarityPossessionEffectUnlockRaritys": [
       2,
       3,
       4,
@@ -4320,13 +4320,13 @@
     ]
   },
   {
-    "Version": "260410.1.0",
-    "Id": 136,
-    "CharaId": 7,
-    "AssistId": 3007,
-    "AssetId": 10073007,
-    "EquipPossessionEffectId": 1007301100,
-    "RarityPossessionEffectIds": [
+    "version": "260410.1.0",
+    "id": 136,
+    "charaId": 7,
+    "assistId": 3007,
+    "assetId": 10073007,
+    "equipPossessionEffectId": 1007301100,
+    "rarityPossessionEffectIds": [
       1007301101,
       1007301102,
       1007301103,
@@ -4338,7 +4338,7 @@
       1007301109,
       1007301110
     ],
-    "RarityPossessionEffectUnlockRaritys": [
+    "rarityPossessionEffectUnlockRaritys": [
       2,
       3,
       4,
@@ -4352,13 +4352,13 @@
     ]
   },
   {
-    "Version": "260410.1.0",
-    "Id": 137,
-    "CharaId": 7,
-    "AssistId": 3022,
-    "AssetId": 10073022,
-    "EquipPossessionEffectId": 1007301200,
-    "RarityPossessionEffectIds": [
+    "version": "260410.1.0",
+    "id": 137,
+    "charaId": 7,
+    "assistId": 3022,
+    "assetId": 10073022,
+    "equipPossessionEffectId": 1007301200,
+    "rarityPossessionEffectIds": [
       1007301201,
       1007301202,
       1007301203,
@@ -4370,7 +4370,7 @@
       1007301209,
       1007301210
     ],
-    "RarityPossessionEffectUnlockRaritys": [
+    "rarityPossessionEffectUnlockRaritys": [
       2,
       3,
       4,
@@ -4384,13 +4384,13 @@
     ]
   },
   {
-    "Version": "260410.1.0",
-    "Id": 138,
-    "CharaId": 7,
-    "AssistId": 3018,
-    "AssetId": 10073018,
-    "EquipPossessionEffectId": 1007301300,
-    "RarityPossessionEffectIds": [
+    "version": "260410.1.0",
+    "id": 138,
+    "charaId": 7,
+    "assistId": 3018,
+    "assetId": 10073018,
+    "equipPossessionEffectId": 1007301300,
+    "rarityPossessionEffectIds": [
       1007301301,
       1007301302,
       1007301303,
@@ -4402,7 +4402,7 @@
       1007301309,
       1007301310
     ],
-    "RarityPossessionEffectUnlockRaritys": [
+    "rarityPossessionEffectUnlockRaritys": [
       2,
       3,
       4,
@@ -4416,13 +4416,13 @@
     ]
   },
   {
-    "Version": "260410.1.0",
-    "Id": 139,
-    "CharaId": 7,
-    "AssistId": 3012,
-    "AssetId": 10073012,
-    "EquipPossessionEffectId": 1007301400,
-    "RarityPossessionEffectIds": [
+    "version": "260410.1.0",
+    "id": 139,
+    "charaId": 7,
+    "assistId": 3012,
+    "assetId": 10073012,
+    "equipPossessionEffectId": 1007301400,
+    "rarityPossessionEffectIds": [
       1007301401,
       1007301402,
       1007301403,
@@ -4434,7 +4434,7 @@
       1007301409,
       1007301410
     ],
-    "RarityPossessionEffectUnlockRaritys": [
+    "rarityPossessionEffectUnlockRaritys": [
       2,
       3,
       4,
@@ -4448,13 +4448,13 @@
     ]
   },
   {
-    "Version": "260410.1.0",
-    "Id": 140,
-    "CharaId": 7,
-    "AssistId": 3013,
-    "AssetId": 10073013,
-    "EquipPossessionEffectId": 1007301500,
-    "RarityPossessionEffectIds": [
+    "version": "260410.1.0",
+    "id": 140,
+    "charaId": 7,
+    "assistId": 3013,
+    "assetId": 10073013,
+    "equipPossessionEffectId": 1007301500,
+    "rarityPossessionEffectIds": [
       1007301501,
       1007301502,
       1007301503,
@@ -4466,7 +4466,7 @@
       1007301509,
       1007301510
     ],
-    "RarityPossessionEffectUnlockRaritys": [
+    "rarityPossessionEffectUnlockRaritys": [
       2,
       3,
       4,
@@ -4480,13 +4480,13 @@
     ]
   },
   {
-    "Version": "260410.1.0",
-    "Id": 141,
-    "CharaId": 7,
-    "AssistId": 3017,
-    "AssetId": 10073017,
-    "EquipPossessionEffectId": 1007301600,
-    "RarityPossessionEffectIds": [
+    "version": "260410.1.0",
+    "id": 141,
+    "charaId": 7,
+    "assistId": 3017,
+    "assetId": 10073017,
+    "equipPossessionEffectId": 1007301600,
+    "rarityPossessionEffectIds": [
       1007301601,
       1007301602,
       1007301603,
@@ -4498,7 +4498,7 @@
       1007301609,
       1007301610
     ],
-    "RarityPossessionEffectUnlockRaritys": [
+    "rarityPossessionEffectUnlockRaritys": [
       2,
       3,
       4,
@@ -4512,13 +4512,13 @@
     ]
   },
   {
-    "Version": "260410.1.0",
-    "Id": 142,
-    "CharaId": 7,
-    "AssistId": 3016,
-    "AssetId": 10073016,
-    "EquipPossessionEffectId": 1007301700,
-    "RarityPossessionEffectIds": [
+    "version": "260410.1.0",
+    "id": 142,
+    "charaId": 7,
+    "assistId": 3016,
+    "assetId": 10073016,
+    "equipPossessionEffectId": 1007301700,
+    "rarityPossessionEffectIds": [
       1007301701,
       1007301702,
       1007301703,
@@ -4530,7 +4530,7 @@
       1007301709,
       1007301710
     ],
-    "RarityPossessionEffectUnlockRaritys": [
+    "rarityPossessionEffectUnlockRaritys": [
       2,
       3,
       4,
@@ -4544,13 +4544,13 @@
     ]
   },
   {
-    "Version": "260410.1.0",
-    "Id": 143,
-    "CharaId": 7,
-    "AssistId": 3014,
-    "AssetId": 10073014,
-    "EquipPossessionEffectId": 1007301800,
-    "RarityPossessionEffectIds": [
+    "version": "260410.1.0",
+    "id": 143,
+    "charaId": 7,
+    "assistId": 3014,
+    "assetId": 10073014,
+    "equipPossessionEffectId": 1007301800,
+    "rarityPossessionEffectIds": [
       1007301801,
       1007301802,
       1007301803,
@@ -4562,7 +4562,7 @@
       1007301809,
       1007301810
     ],
-    "RarityPossessionEffectUnlockRaritys": [
+    "rarityPossessionEffectUnlockRaritys": [
       2,
       3,
       4,
@@ -4576,13 +4576,13 @@
     ]
   },
   {
-    "Version": "260410.1.0",
-    "Id": 144,
-    "CharaId": 7,
-    "AssistId": 3019,
-    "AssetId": 10073019,
-    "EquipPossessionEffectId": 1007301900,
-    "RarityPossessionEffectIds": [
+    "version": "260410.1.0",
+    "id": 144,
+    "charaId": 7,
+    "assistId": 3019,
+    "assetId": 10073019,
+    "equipPossessionEffectId": 1007301900,
+    "rarityPossessionEffectIds": [
       1007301901,
       1007301902,
       1007301903,
@@ -4594,7 +4594,7 @@
       1007301909,
       1007301910
     ],
-    "RarityPossessionEffectUnlockRaritys": [
+    "rarityPossessionEffectUnlockRaritys": [
       2,
       3,
       4,
@@ -4608,13 +4608,13 @@
     ]
   },
   {
-    "Version": "260410.1.0",
-    "Id": 145,
-    "CharaId": 7,
-    "AssistId": 3001,
-    "AssetId": 10073001,
-    "EquipPossessionEffectId": 1007302000,
-    "RarityPossessionEffectIds": [
+    "version": "260410.1.0",
+    "id": 145,
+    "charaId": 7,
+    "assistId": 3001,
+    "assetId": 10073001,
+    "equipPossessionEffectId": 1007302000,
+    "rarityPossessionEffectIds": [
       1007302001,
       1007302002,
       1007302003,
@@ -4626,7 +4626,7 @@
       1007302009,
       1007302010
     ],
-    "RarityPossessionEffectUnlockRaritys": [
+    "rarityPossessionEffectUnlockRaritys": [
       2,
       3,
       4,
@@ -4640,13 +4640,13 @@
     ]
   },
   {
-    "Version": "260410.1.0",
-    "Id": 146,
-    "CharaId": 7,
-    "AssistId": 3020,
-    "AssetId": 10073020,
-    "EquipPossessionEffectId": 1007302100,
-    "RarityPossessionEffectIds": [
+    "version": "260410.1.0",
+    "id": 146,
+    "charaId": 7,
+    "assistId": 3020,
+    "assetId": 10073020,
+    "equipPossessionEffectId": 1007302100,
+    "rarityPossessionEffectIds": [
       1007302101,
       1007302102,
       1007302103,
@@ -4658,7 +4658,7 @@
       1007302109,
       1007302110
     ],
-    "RarityPossessionEffectUnlockRaritys": [
+    "rarityPossessionEffectUnlockRaritys": [
       2,
       3,
       4,
@@ -4672,13 +4672,13 @@
     ]
   },
   {
-    "Version": "260410.1.0",
-    "Id": 147,
-    "CharaId": 7,
-    "AssistId": 3021,
-    "AssetId": 10073021,
-    "EquipPossessionEffectId": 1007302200,
-    "RarityPossessionEffectIds": [
+    "version": "260410.1.0",
+    "id": 147,
+    "charaId": 7,
+    "assistId": 3021,
+    "assetId": 10073021,
+    "equipPossessionEffectId": 1007302200,
+    "rarityPossessionEffectIds": [
       1007302201,
       1007302202,
       1007302203,
@@ -4690,7 +4690,7 @@
       1007302209,
       1007302210
     ],
-    "RarityPossessionEffectUnlockRaritys": [
+    "rarityPossessionEffectUnlockRaritys": [
       2,
       3,
       4,

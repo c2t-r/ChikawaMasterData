@@ -1,26 +1,26 @@
 [
   {
-    "Version": "250330.1.0",
-    "Id": 1,
-    "Rarity": "SuperRare",
-    "ExperienceGroupId": 31,
-    "EnhanceConsumeIdPerExperience": 16,
-    "UnlockLevelUpperGroupId": 1
+    "version": "250330.1.0",
+    "id": 1,
+    "rarity": "SuperRare",
+    "experienceGroupId": 31,
+    "enhanceConsumeIdPerExperience": 16,
+    "unlockLevelUpperGroupId": 1
   },
   {
-    "Version": "250330.1.0",
-    "Id": 2,
-    "Rarity": "HyperRare",
-    "ExperienceGroupId": 32,
-    "EnhanceConsumeIdPerExperience": 16,
-    "UnlockLevelUpperGroupId": 2
+    "version": "250330.1.0",
+    "id": 2,
+    "rarity": "HyperRare",
+    "experienceGroupId": 32,
+    "enhanceConsumeIdPerExperience": 16,
+    "unlockLevelUpperGroupId": 2
   },
   {
-    "Version": "250330.1.0",
-    "Id": 3,
-    "Rarity": "UltraRare",
-    "ExperienceGroupId": 33,
-    "EnhanceConsumeIdPerExperience": 16,
-    "UnlockLevelUpperGroupId": 3
+    "version": "250330.1.0",
+    "id": 3,
+    "rarity": "UltraRare",
+    "experienceGroupId": 33,
+    "enhanceConsumeIdPerExperience": 16,
+    "unlockLevelUpperGroupId": 3
   }
 ]

@@ -1,42 +1,42 @@
 [
   {
-    "Version": "250850.1.0",
-    "Id": 1,
-    "Number": 1,
-    "IsOther": false,
-    "IsNone": false,
-    "Weight": 40
+    "version": "250850.1.0",
+    "id": 1,
+    "number": 1,
+    "isOther": false,
+    "isNone": false,
+    "weight": 40
   },
   {
-    "Version": "250850.1.0",
-    "Id": 2,
-    "Number": 2,
-    "IsOther": false,
-    "IsNone": false,
-    "Weight": 30
+    "version": "250850.1.0",
+    "id": 2,
+    "number": 2,
+    "isOther": false,
+    "isNone": false,
+    "weight": 30
   },
   {
-    "Version": "250850.1.0",
-    "Id": 3,
-    "Number": 3,
-    "IsOther": false,
-    "IsNone": false,
-    "Weight": 20
+    "version": "250850.1.0",
+    "id": 3,
+    "number": 3,
+    "isOther": false,
+    "isNone": false,
+    "weight": 20
   },
   {
-    "Version": "250850.1.0",
-    "Id": 4,
-    "Number": 4,
-    "IsOther": true,
-    "IsNone": false,
-    "Weight": 5
+    "version": "250850.1.0",
+    "id": 4,
+    "number": 4,
+    "isOther": true,
+    "isNone": false,
+    "weight": 5
   },
   {
-    "Version": "250850.1.0",
-    "Id": 5,
-    "Number": 5,
-    "IsOther": false,
-    "IsNone": true,
-    "Weight": 5
+    "version": "250850.1.0",
+    "id": 5,
+    "number": 5,
+    "isOther": false,
+    "isNone": true,
+    "weight": 5
   }
 ]

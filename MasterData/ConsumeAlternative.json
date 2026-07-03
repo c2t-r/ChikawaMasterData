@@ -1,18 +1,18 @@
 [
   {
-    "Version": "260110.1.0",
-    "Id": 1215,
-    "ConsumeType": "ResourceItem",
-    "ConsumeTargetId": 12,
-    "AlternativeConsumeType": "ResourceItem",
-    "AlternativeConsumeTargetId": 15
+    "version": "260110.1.0",
+    "id": 1215,
+    "consumeType": "ResourceItem",
+    "consumeTargetId": 12,
+    "alternativeConsumeType": "ResourceItem",
+    "alternativeConsumeTargetId": 15
   },
   {
-    "Version": "260110.1.0",
-    "Id": 1216,
-    "ConsumeType": "ResourceItem",
-    "ConsumeTargetId": 12,
-    "AlternativeConsumeType": "ResourceItem",
-    "AlternativeConsumeTargetId": 16
+    "version": "260110.1.0",
+    "id": 1216,
+    "consumeType": "ResourceItem",
+    "consumeTargetId": 12,
+    "alternativeConsumeType": "ResourceItem",
+    "alternativeConsumeTargetId": 16
   }
 ]

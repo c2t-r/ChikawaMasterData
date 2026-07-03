@@ -1,37 +1,37 @@
 [
   {
-    "Version": "250330.1.0",
-    "Id": 1,
-    "AssetId": 1,
-    "RewardId": 200003,
-    "RewardAcquireAssetId": 1
+    "version": "250330.1.0",
+    "id": 1,
+    "assetId": 1,
+    "rewardId": 200003,
+    "rewardAcquireAssetId": 1
   },
   {
-    "Version": "250330.1.0",
-    "Id": 2,
-    "AssetId": 2,
-    "RewardId": 11000050,
-    "RewardAcquireAssetId": 1
+    "version": "250330.1.0",
+    "id": 2,
+    "assetId": 2,
+    "rewardId": 11000050,
+    "rewardAcquireAssetId": 1
   },
   {
-    "Version": "250330.1.0",
-    "Id": 3,
-    "AssetId": 3,
-    "RewardId": 210002,
-    "RewardAcquireAssetId": 11
+    "version": "250330.1.0",
+    "id": 3,
+    "assetId": 3,
+    "rewardId": 210002,
+    "rewardAcquireAssetId": 11
   },
   {
-    "Version": "250330.1.0",
-    "Id": 4,
-    "AssetId": 4,
-    "RewardId": 220002,
-    "RewardAcquireAssetId": 12
+    "version": "250330.1.0",
+    "id": 4,
+    "assetId": 4,
+    "rewardId": 220002,
+    "rewardAcquireAssetId": 12
   },
   {
-    "Version": "250330.1.0",
-    "Id": 5,
-    "AssetId": 5,
-    "RewardId": 100001,
-    "RewardAcquireAssetId": 4
+    "version": "250330.1.0",
+    "id": 5,
+    "assetId": 5,
+    "rewardId": 100001,
+    "rewardAcquireAssetId": 4
   }
 ]

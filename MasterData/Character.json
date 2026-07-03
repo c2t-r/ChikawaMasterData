@@ -1,198 +1,198 @@
 [
   {
-    "Version": "250330.1.0",
-    "Id": 1,
-    "NameTextKey": -1446905296,
-    "AssetId": 1001,
-    "IsMain": true
+    "version": "250330.1.0",
+    "id": 1,
+    "nameTextKey": -1446905296,
+    "assetId": 1001,
+    "isMain": true
   },
   {
-    "Version": "250330.1.0",
-    "Id": 2,
-    "NameTextKey": 818457482,
-    "AssetId": 1002,
-    "IsMain": false
+    "version": "250330.1.0",
+    "id": 2,
+    "nameTextKey": 818457482,
+    "assetId": 1002,
+    "isMain": false
   },
   {
-    "Version": "250330.1.0",
-    "Id": 3,
-    "NameTextKey": 1204787996,
-    "AssetId": 1003,
-    "IsMain": false
+    "version": "250330.1.0",
+    "id": 3,
+    "nameTextKey": 1204787996,
+    "assetId": 1003,
+    "isMain": false
   },
   {
-    "Version": "250330.1.0",
-    "Id": 4,
-    "NameTextKey": -643100993,
-    "AssetId": 1004,
-    "IsMain": false
+    "version": "250330.1.0",
+    "id": 4,
+    "nameTextKey": -643100993,
+    "assetId": 1004,
+    "isMain": false
   },
   {
-    "Version": "250330.1.0",
-    "Id": 5,
-    "NameTextKey": 933588883,
-    "AssetId": 1005,
-    "IsMain": false
+    "version": "250330.1.0",
+    "id": 5,
+    "nameTextKey": 933588883,
+    "assetId": 1005,
+    "isMain": false
   },
   {
-    "Version": "250330.1.0",
-    "Id": 6,
-    "NameTextKey": -1364443607,
-    "AssetId": 1006,
-    "IsMain": false
+    "version": "250330.1.0",
+    "id": 6,
+    "nameTextKey": -1364443607,
+    "assetId": 1006,
+    "isMain": false
   },
   {
-    "Version": "250330.1.0",
-    "Id": 7,
-    "NameTextKey": 1084382981,
-    "AssetId": 1007,
-    "IsMain": false
+    "version": "250330.1.0",
+    "id": 7,
+    "nameTextKey": 1084382981,
+    "assetId": 1007,
+    "isMain": false
   },
   {
-    "Version": "260410.1.0",
-    "Id": 3001,
-    "NameTextKey": 1573536768,
-    "AssetId": 3001,
-    "IsMain": false
+    "version": "260410.1.0",
+    "id": 3001,
+    "nameTextKey": 1573536768,
+    "assetId": 3001,
+    "isMain": false
   },
   {
-    "Version": "260410.1.0",
-    "Id": 3002,
-    "NameTextKey": -993847878,
-    "AssetId": 3002,
-    "IsMain": false
+    "version": "260410.1.0",
+    "id": 3002,
+    "nameTextKey": -993847878,
+    "assetId": 3002,
+    "isMain": false
   },
   {
-    "Version": "260410.1.0",
-    "Id": 3003,
-    "NameTextKey": -1278991060,
-    "AssetId": 3003,
-    "IsMain": false
+    "version": "260410.1.0",
+    "id": 3003,
+    "nameTextKey": -1278991060,
+    "assetId": 3003,
+    "isMain": false
   },
   {
-    "Version": "260410.1.0",
-    "Id": 3004,
-    "NameTextKey": 765505679,
-    "AssetId": 3004,
-    "IsMain": false
+    "version": "260410.1.0",
+    "id": 3004,
+    "nameTextKey": 765505679,
+    "assetId": 3004,
+    "isMain": false
   },
   {
-    "Version": "260410.1.0",
-    "Id": 3005,
-    "NameTextKey": 1520926745,
-    "AssetId": 3005,
-    "IsMain": false
+    "version": "260410.1.0",
+    "id": 3005,
+    "nameTextKey": 1520926745,
+    "assetId": 3005,
+    "isMain": false
   },
   {
-    "Version": "260410.1.0",
-    "Id": 3006,
-    "NameTextKey": -1011953245,
-    "AssetId": 3006,
-    "IsMain": false
+    "version": "260410.1.0",
+    "id": 3006,
+    "nameTextKey": -1011953245,
+    "assetId": 3006,
+    "isMain": false
   },
   {
-    "Version": "260410.1.0",
-    "Id": 3007,
-    "NameTextKey": -1263935179,
-    "AssetId": 3007,
-    "IsMain": false
+    "version": "260410.1.0",
+    "id": 3007,
+    "nameTextKey": -1263935179,
+    "assetId": 3007,
+    "isMain": false
   },
   {
-    "Version": "260410.1.0",
-    "Id": 3008,
-    "NameTextKey": 605486244,
-    "AssetId": 3008,
-    "IsMain": false
+    "version": "260410.1.0",
+    "id": 3008,
+    "nameTextKey": 605486244,
+    "assetId": 3008,
+    "isMain": false
   },
   {
-    "Version": "260410.1.0",
-    "Id": 3009,
-    "NameTextKey": 1393675314,
-    "AssetId": 3009,
-    "IsMain": false
+    "version": "260410.1.0",
+    "id": 3009,
+    "nameTextKey": 1393675314,
+    "assetId": 3009,
+    "isMain": false
   },
   {
-    "Version": "260410.1.0",
-    "Id": 3011,
-    "NameTextKey": 1154577729,
-    "AssetId": 3011,
-    "IsMain": false
+    "version": "260410.1.0",
+    "id": 3011,
+    "nameTextKey": 1154577729,
+    "assetId": 3011,
+    "isMain": false
   },
   {
-    "Version": "260410.1.0",
-    "Id": 3012,
-    "NameTextKey": -573037317,
-    "AssetId": 3012,
-    "IsMain": false
+    "version": "260410.1.0",
+    "id": 3012,
+    "nameTextKey": -573037317,
+    "assetId": 3012,
+    "isMain": false
   },
   {
-    "Version": "260410.1.0",
-    "Id": 3013,
-    "NameTextKey": -1428220819,
-    "AssetId": 3013,
-    "IsMain": false
+    "version": "260410.1.0",
+    "id": 3013,
+    "nameTextKey": -1428220819,
+    "assetId": 3013,
+    "isMain": false
   },
   {
-    "Version": "260410.1.0",
-    "Id": 3014,
-    "NameTextKey": 884703694,
-    "AssetId": 3014,
-    "IsMain": false
+    "version": "260410.1.0",
+    "id": 3014,
+    "nameTextKey": 884703694,
+    "assetId": 3014,
+    "isMain": false
   },
   {
-    "Version": "260410.1.0",
-    "Id": 3015,
-    "NameTextKey": 1136439640,
-    "AssetId": 3015,
-    "IsMain": false
+    "version": "260410.1.0",
+    "id": 3015,
+    "nameTextKey": 1136439640,
+    "assetId": 3015,
+    "isMain": false
   },
   {
-    "Version": "260410.1.0",
-    "Id": 3016,
-    "NameTextKey": -625614622,
-    "AssetId": 3016,
-    "IsMain": false
+    "version": "260410.1.0",
+    "id": 3016,
+    "nameTextKey": -625614622,
+    "assetId": 3016,
+    "isMain": false
   },
   {
-    "Version": "260410.1.0",
-    "Id": 3017,
-    "NameTextKey": -1380790156,
-    "AssetId": 3017,
-    "IsMain": false
+    "version": "260410.1.0",
+    "id": 3017,
+    "nameTextKey": -1380790156,
+    "assetId": 3017,
+    "isMain": false
   },
   {
-    "Version": "260410.1.0",
-    "Id": 3018,
-    "NameTextKey": 1024314853,
-    "AssetId": 3018,
-    "IsMain": false
+    "version": "260410.1.0",
+    "id": 3018,
+    "nameTextKey": 1024314853,
+    "assetId": 3018,
+    "isMain": false
   },
   {
-    "Version": "260410.1.0",
-    "Id": 3019,
-    "NameTextKey": 1242234227,
-    "AssetId": 3019,
-    "IsMain": false
+    "version": "260410.1.0",
+    "id": 3019,
+    "nameTextKey": 1242234227,
+    "assetId": 3019,
+    "isMain": false
   },
   {
-    "Version": "260410.1.0",
-    "Id": 3020,
-    "NameTextKey": 419108372,
-    "AssetId": 3020,
-    "IsMain": false
+    "version": "260410.1.0",
+    "id": 3020,
+    "nameTextKey": 419108372,
+    "assetId": 3020,
+    "isMain": false
   },
   {
-    "Version": "260410.1.0",
-    "Id": 3021,
-    "NameTextKey": 1878795906,
-    "AssetId": 3021,
-    "IsMain": false
+    "version": "260410.1.0",
+    "id": 3021,
+    "nameTextKey": 1878795906,
+    "assetId": 3021,
+    "isMain": false
   },
   {
-    "Version": "260410.1.0",
-    "Id": 3022,
-    "NameTextKey": -151685320,
-    "AssetId": 3022,
-    "IsMain": false
+    "version": "260410.1.0",
+    "id": 3022,
+    "nameTextKey": -151685320,
+    "assetId": 3022,
+    "isMain": false
   }
 ]

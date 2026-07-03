@@ -1,20 +1,20 @@
 [
   {
-    "Version": "250725.1.0",
-    "Id": 1,
-    "HuntEnemyId": 401000100,
-    "SkillEffectType": "StatusAttackDown"
+    "version": "250725.1.0",
+    "id": 1,
+    "huntEnemyId": 401000100,
+    "skillEffectType": "StatusAttackDown"
   },
   {
-    "Version": "250725.1.0",
-    "Id": 2,
-    "HuntEnemyId": 401000120,
-    "SkillEffectType": "Unknown"
+    "version": "250725.1.0",
+    "id": 2,
+    "huntEnemyId": 401000120,
+    "skillEffectType": "Unknown"
   },
   {
-    "Version": "250725.1.0",
-    "Id": 3,
-    "HuntEnemyId": 401000140,
-    "SkillEffectType": "StatusAttackDown"
+    "version": "250725.1.0",
+    "id": 3,
+    "huntEnemyId": 401000140,
+    "skillEffectType": "StatusAttackDown"
   }
 ]

@@ -1,170 +1,170 @@
 [
   {
-    "Version": "250720.1.0",
-    "Id": 111,
-    "PossessionEffectSelectType": "Custom",
-    "TargetId": 91111,
-    "PromotionLevelRangeValueGroupId": 93002
+    "version": "250720.1.0",
+    "id": 111,
+    "possessionEffectSelectType": "Custom",
+    "targetId": 91111,
+    "promotionLevelRangeValueGroupId": 93002
   },
   {
-    "Version": "250720.1.0",
-    "Id": 121,
-    "PossessionEffectSelectType": "Custom",
-    "TargetId": 91121,
-    "PromotionLevelRangeValueGroupId": 93002
+    "version": "250720.1.0",
+    "id": 121,
+    "possessionEffectSelectType": "Custom",
+    "targetId": 91121,
+    "promotionLevelRangeValueGroupId": 93002
   },
   {
-    "Version": "250720.1.0",
-    "Id": 131,
-    "PossessionEffectSelectType": "Custom",
-    "TargetId": 91131,
-    "PromotionLevelRangeValueGroupId": 93002
+    "version": "250720.1.0",
+    "id": 131,
+    "possessionEffectSelectType": "Custom",
+    "targetId": 91131,
+    "promotionLevelRangeValueGroupId": 93002
   },
   {
-    "Version": "250720.1.0",
-    "Id": 141,
-    "PossessionEffectSelectType": "Custom",
-    "TargetId": 91141,
-    "PromotionLevelRangeValueGroupId": 93002
+    "version": "250720.1.0",
+    "id": 141,
+    "possessionEffectSelectType": "Custom",
+    "targetId": 91141,
+    "promotionLevelRangeValueGroupId": 93002
   },
   {
-    "Version": "250720.1.0",
-    "Id": 151,
-    "PossessionEffectSelectType": "Custom",
-    "TargetId": 91151,
-    "PromotionLevelRangeValueGroupId": 93002
+    "version": "250720.1.0",
+    "id": 151,
+    "possessionEffectSelectType": "Custom",
+    "targetId": 91151,
+    "promotionLevelRangeValueGroupId": 93002
   },
   {
-    "Version": "250720.1.0",
-    "Id": 161,
-    "PossessionEffectSelectType": "Custom",
-    "TargetId": 91161,
-    "PromotionLevelRangeValueGroupId": 93002
+    "version": "250720.1.0",
+    "id": 161,
+    "possessionEffectSelectType": "Custom",
+    "targetId": 91161,
+    "promotionLevelRangeValueGroupId": 93002
   },
   {
-    "Version": "250720.1.0",
-    "Id": 171,
-    "PossessionEffectSelectType": "Custom",
-    "TargetId": 91171,
-    "PromotionLevelRangeValueGroupId": 93002
+    "version": "250720.1.0",
+    "id": 171,
+    "possessionEffectSelectType": "Custom",
+    "targetId": 91171,
+    "promotionLevelRangeValueGroupId": 93002
   },
   {
-    "Version": "250720.1.0",
-    "Id": 211,
-    "PossessionEffectSelectType": "Custom",
-    "TargetId": 91211,
-    "PromotionLevelRangeValueGroupId": 93002
+    "version": "250720.1.0",
+    "id": 211,
+    "possessionEffectSelectType": "Custom",
+    "targetId": 91211,
+    "promotionLevelRangeValueGroupId": 93002
   },
   {
-    "Version": "250720.1.0",
-    "Id": 221,
-    "PossessionEffectSelectType": "Custom",
-    "TargetId": 91221,
-    "PromotionLevelRangeValueGroupId": 93002
+    "version": "250720.1.0",
+    "id": 221,
+    "possessionEffectSelectType": "Custom",
+    "targetId": 91221,
+    "promotionLevelRangeValueGroupId": 93002
   },
   {
-    "Version": "250720.1.0",
-    "Id": 231,
-    "PossessionEffectSelectType": "Custom",
-    "TargetId": 91231,
-    "PromotionLevelRangeValueGroupId": 93002
+    "version": "250720.1.0",
+    "id": 231,
+    "possessionEffectSelectType": "Custom",
+    "targetId": 91231,
+    "promotionLevelRangeValueGroupId": 93002
   },
   {
-    "Version": "250720.1.0",
-    "Id": 241,
-    "PossessionEffectSelectType": "Default",
-    "TargetId": 91241,
-    "PromotionLevelRangeValueGroupId": 93002
+    "version": "250720.1.0",
+    "id": 241,
+    "possessionEffectSelectType": "Default",
+    "targetId": 91241,
+    "promotionLevelRangeValueGroupId": 93002
   },
   {
-    "Version": "250720.1.0",
-    "Id": 311,
-    "PossessionEffectSelectType": "Custom",
-    "TargetId": 91311,
-    "PromotionLevelRangeValueGroupId": 93002
+    "version": "250720.1.0",
+    "id": 311,
+    "possessionEffectSelectType": "Custom",
+    "targetId": 91311,
+    "promotionLevelRangeValueGroupId": 93002
   },
   {
-    "Version": "250720.1.0",
-    "Id": 321,
-    "PossessionEffectSelectType": "Custom",
-    "TargetId": 91321,
-    "PromotionLevelRangeValueGroupId": 93002
+    "version": "250720.1.0",
+    "id": 321,
+    "possessionEffectSelectType": "Custom",
+    "targetId": 91321,
+    "promotionLevelRangeValueGroupId": 93002
   },
   {
-    "Version": "250720.1.0",
-    "Id": 331,
-    "PossessionEffectSelectType": "Custom",
-    "TargetId": 91331,
-    "PromotionLevelRangeValueGroupId": 93002
+    "version": "250720.1.0",
+    "id": 331,
+    "possessionEffectSelectType": "Custom",
+    "targetId": 91331,
+    "promotionLevelRangeValueGroupId": 93002
   },
   {
-    "Version": "250720.1.0",
-    "Id": 341,
-    "PossessionEffectSelectType": "Default",
-    "TargetId": 91341,
-    "PromotionLevelRangeValueGroupId": 93002
+    "version": "250720.1.0",
+    "id": 341,
+    "possessionEffectSelectType": "Default",
+    "targetId": 91341,
+    "promotionLevelRangeValueGroupId": 93002
   },
   {
-    "Version": "250720.1.0",
-    "Id": 411,
-    "PossessionEffectSelectType": "Custom",
-    "TargetId": 91411,
-    "PromotionLevelRangeValueGroupId": 93002
+    "version": "250720.1.0",
+    "id": 411,
+    "possessionEffectSelectType": "Custom",
+    "targetId": 91411,
+    "promotionLevelRangeValueGroupId": 93002
   },
   {
-    "Version": "250720.1.0",
-    "Id": 421,
-    "PossessionEffectSelectType": "Custom",
-    "TargetId": 91421,
-    "PromotionLevelRangeValueGroupId": 93002
+    "version": "250720.1.0",
+    "id": 421,
+    "possessionEffectSelectType": "Custom",
+    "targetId": 91421,
+    "promotionLevelRangeValueGroupId": 93002
   },
   {
-    "Version": "250720.1.0",
-    "Id": 431,
-    "PossessionEffectSelectType": "Custom",
-    "TargetId": 91431,
-    "PromotionLevelRangeValueGroupId": 93002
+    "version": "250720.1.0",
+    "id": 431,
+    "possessionEffectSelectType": "Custom",
+    "targetId": 91431,
+    "promotionLevelRangeValueGroupId": 93002
   },
   {
-    "Version": "250720.1.0",
-    "Id": 441,
-    "PossessionEffectSelectType": "Default",
-    "TargetId": 91441,
-    "PromotionLevelRangeValueGroupId": 93002
+    "version": "250720.1.0",
+    "id": 441,
+    "possessionEffectSelectType": "Default",
+    "targetId": 91441,
+    "promotionLevelRangeValueGroupId": 93002
   },
   {
-    "Version": "250720.1.0",
-    "Id": 511,
-    "PossessionEffectSelectType": "Custom",
-    "TargetId": 91511,
-    "PromotionLevelRangeValueGroupId": 93002
+    "version": "250720.1.0",
+    "id": 511,
+    "possessionEffectSelectType": "Custom",
+    "targetId": 91511,
+    "promotionLevelRangeValueGroupId": 93002
   },
   {
-    "Version": "250720.1.0",
-    "Id": 512,
-    "PossessionEffectSelectType": "Custom",
-    "TargetId": 91512,
-    "PromotionLevelRangeValueGroupId": 93002
+    "version": "250720.1.0",
+    "id": 512,
+    "possessionEffectSelectType": "Custom",
+    "targetId": 91512,
+    "promotionLevelRangeValueGroupId": 93002
   },
   {
-    "Version": "250720.1.0",
-    "Id": 521,
-    "PossessionEffectSelectType": "Custom",
-    "TargetId": 91521,
-    "PromotionLevelRangeValueGroupId": 93002
+    "version": "250720.1.0",
+    "id": 521,
+    "possessionEffectSelectType": "Custom",
+    "targetId": 91521,
+    "promotionLevelRangeValueGroupId": 93002
   },
   {
-    "Version": "250720.1.0",
-    "Id": 531,
-    "PossessionEffectSelectType": "Custom",
-    "TargetId": 91531,
-    "PromotionLevelRangeValueGroupId": 93002
+    "version": "250720.1.0",
+    "id": 531,
+    "possessionEffectSelectType": "Custom",
+    "targetId": 91531,
+    "promotionLevelRangeValueGroupId": 93002
   },
   {
-    "Version": "250720.1.0",
-    "Id": 541,
-    "PossessionEffectSelectType": "Default",
-    "TargetId": 91541,
-    "PromotionLevelRangeValueGroupId": 93002
+    "version": "250720.1.0",
+    "id": 541,
+    "possessionEffectSelectType": "Default",
+    "targetId": 91541,
+    "promotionLevelRangeValueGroupId": 93002
   }
 ]

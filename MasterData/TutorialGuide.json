@@ -1,164 +1,170 @@
 [
   {
-    "Version": "250330.1.0",
-    "Id": 1,
-    "TutorialFunctionType": "Cooking",
-    "GuideId": 2
+    "version": "250330.1.0",
+    "id": 1,
+    "tutorialFunctionType": "Cooking",
+    "guideId": 2
   },
   {
-    "Version": "250330.1.0",
-    "Id": 2,
-    "TutorialFunctionType": "Weeding",
-    "GuideId": 3
+    "version": "250330.1.0",
+    "id": 2,
+    "tutorialFunctionType": "Weeding",
+    "guideId": 3
   },
   {
-    "Version": "250330.1.0",
-    "Id": 3,
-    "TutorialFunctionType": "Study",
-    "GuideId": 4
+    "version": "250330.1.0",
+    "id": 3,
+    "tutorialFunctionType": "Study",
+    "guideId": 4
   },
   {
-    "Version": "250330.1.0",
-    "Id": 4,
-    "TutorialFunctionType": "CostumeEnhance",
-    "GuideId": 101
+    "version": "250330.1.0",
+    "id": 4,
+    "tutorialFunctionType": "CostumeEnhance",
+    "guideId": 101
   },
   {
-    "Version": "250330.1.0",
-    "Id": 5,
-    "TutorialFunctionType": "Mastery",
-    "GuideId": 103
+    "version": "250330.1.0",
+    "id": 5,
+    "tutorialFunctionType": "Mastery",
+    "guideId": 103
   },
   {
-    "Version": "250330.1.0",
-    "Id": 6,
-    "TutorialFunctionType": "CostumePromotion",
-    "GuideId": 102
+    "version": "250330.1.0",
+    "id": 6,
+    "tutorialFunctionType": "CostumePromotion",
+    "guideId": 102
   },
   {
-    "Version": "250330.1.0",
-    "Id": 7,
-    "TutorialFunctionType": "MasteryPromotion",
-    "GuideId": 104
+    "version": "250330.1.0",
+    "id": 7,
+    "tutorialFunctionType": "MasteryPromotion",
+    "guideId": 104
   },
   {
-    "Version": "250330.1.0",
-    "Id": 8,
-    "TutorialFunctionType": "SubHuntGem",
-    "GuideId": 105
+    "version": "250330.1.0",
+    "id": 8,
+    "tutorialFunctionType": "SubHuntGem",
+    "guideId": 105
   },
   {
-    "Version": "250330.1.0",
-    "Id": 9,
-    "TutorialFunctionType": "SubHuntGold",
-    "GuideId": 106
+    "version": "250330.1.0",
+    "id": 9,
+    "tutorialFunctionType": "SubHuntGold",
+    "guideId": 106
   },
   {
-    "Version": "250330.1.0",
-    "Id": 10,
-    "TutorialFunctionType": "MemoryTop",
-    "GuideId": 1
+    "version": "250330.1.0",
+    "id": 10,
+    "tutorialFunctionType": "MemoryTop",
+    "guideId": 1
   },
   {
-    "Version": "250330.1.0",
-    "Id": 11,
-    "TutorialFunctionType": "EventTop",
-    "GuideId": 201
+    "version": "250330.1.0",
+    "id": 11,
+    "tutorialFunctionType": "EventTop",
+    "guideId": 201
   },
   {
-    "Version": "250330.1.0",
-    "Id": 12,
-    "TutorialFunctionType": "EventTop",
-    "GuideId": 202
+    "version": "250330.1.0",
+    "id": 12,
+    "tutorialFunctionType": "EventTop",
+    "guideId": 202
   },
   {
-    "Version": "250330.1.0",
-    "Id": 13,
-    "TutorialFunctionType": "LeagueTop",
-    "GuideId": 301
+    "version": "250330.1.0",
+    "id": 13,
+    "tutorialFunctionType": "LeagueTop",
+    "guideId": 301
   },
   {
-    "Version": "250330.1.0",
-    "Id": 14,
-    "TutorialFunctionType": "HomeItemEnhance",
-    "GuideId": 8
+    "version": "250330.1.0",
+    "id": 14,
+    "tutorialFunctionType": "HomeItemEnhance",
+    "guideId": 8
   },
   {
-    "Version": "250330.1.0",
-    "Id": 15,
-    "TutorialFunctionType": "EventTop",
-    "GuideId": 3001
+    "version": "250330.1.0",
+    "id": 15,
+    "tutorialFunctionType": "EventTop",
+    "guideId": 3001
   },
   {
-    "Version": "250330.1.0",
-    "Id": 16,
-    "TutorialFunctionType": "Gacha",
-    "GuideId": 10
+    "version": "250330.1.0",
+    "id": 16,
+    "tutorialFunctionType": "Gacha",
+    "guideId": 10
   },
   {
-    "Version": "250330.1.0",
-    "Id": 17,
-    "TutorialFunctionType": "HuntReward",
-    "GuideId": 11
+    "version": "250330.1.0",
+    "id": 17,
+    "tutorialFunctionType": "HuntReward",
+    "guideId": 11
   },
   {
-    "Version": "250725.1.0",
-    "Id": 18,
-    "TutorialFunctionType": "Treasure",
-    "GuideId": 12
+    "version": "250725.1.0",
+    "id": 18,
+    "tutorialFunctionType": "Treasure",
+    "guideId": 12
   },
   {
-    "Version": "250850.1.0",
-    "Id": 19,
-    "TutorialFunctionType": "HomeCollection",
-    "GuideId": 13
+    "version": "250850.1.0",
+    "id": 19,
+    "tutorialFunctionType": "HomeCollection",
+    "guideId": 13
   },
   {
-    "Version": "250850.1.0",
-    "Id": 20,
-    "TutorialFunctionType": "HomeCharacterGift",
-    "GuideId": 14
+    "version": "250850.1.0",
+    "id": 20,
+    "tutorialFunctionType": "HomeCharacterGift",
+    "guideId": 14
   },
   {
-    "Version": "250725.1.0",
-    "Id": 21,
-    "TutorialFunctionType": "SubHuntTreasure",
-    "GuideId": 107
+    "version": "250725.1.0",
+    "id": 21,
+    "tutorialFunctionType": "SubHuntTreasure",
+    "guideId": 107
   },
   {
-    "Version": "251010.1.0",
-    "Id": 22,
-    "TutorialFunctionType": "ChallengeHunt",
-    "GuideId": 108
+    "version": "251010.1.0",
+    "id": 22,
+    "tutorialFunctionType": "ChallengeHunt",
+    "guideId": 108
   },
   {
-    "Version": "251010.1.0",
-    "Id": 23,
-    "TutorialFunctionType": "ArtBook",
-    "GuideId": 109
+    "version": "251010.1.0",
+    "id": 23,
+    "tutorialFunctionType": "ArtBook",
+    "guideId": 109
   },
   {
-    "Version": "260410.1.0",
-    "Id": 24,
-    "TutorialFunctionType": "StickerNoteTop",
-    "GuideId": 110
+    "version": "260410.1.0",
+    "id": 24,
+    "tutorialFunctionType": "StickerNoteTop",
+    "guideId": 110
   },
   {
-    "Version": "260410.1.0",
-    "Id": 25,
-    "TutorialFunctionType": "SubHuntStrongGem",
-    "GuideId": 112
+    "version": "260410.1.0",
+    "id": 25,
+    "tutorialFunctionType": "SubHuntStrongGem",
+    "guideId": 112
   },
   {
-    "Version": "260410.1.0",
-    "Id": 26,
-    "TutorialFunctionType": "StickerNoteEdit",
-    "GuideId": 111
+    "version": "260410.1.0",
+    "id": 26,
+    "tutorialFunctionType": "StickerNoteEdit",
+    "guideId": 111
   },
   {
-    "Version": "260410.1.0",
-    "Id": 27,
-    "TutorialFunctionType": "Keyholder",
-    "GuideId": 113
+    "version": "260410.1.0",
+    "id": 27,
+    "tutorialFunctionType": "Keyholder",
+    "guideId": 113
+  },
+  {
+    "version": "260535.1.0",
+    "id": 28,
+    "tutorialFunctionType": "Unknown",
+    "guideId": 114
   }
 ]

@@ -1,10 +1,10 @@
 [
   {
-    "Version": "250330.1.0",
-    "Id": 1,
-    "WaitSecond": 180,
-    "LoopSecond": 18,
-    "RoundTripSecond": 22,
-    "RewardCountInDay": 5
+    "version": "250330.1.0",
+    "id": 1,
+    "waitSecond": 180,
+    "loopSecond": 18,
+    "roundTripSecond": 22,
+    "rewardCountInDay": 5
   }
 ]

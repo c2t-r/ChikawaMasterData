@@ -1,56 +1,56 @@
 [
   {
-    "Version": "250330.1.0",
-    "Id": 1,
-    "EvaluateConditionOrGroupRelation": 1,
-    "Value": 0
+    "version": "250330.1.0",
+    "id": "GlobalFooterShop",
+    "evaluateConditionOrGroupRelation": 1,
+    "value": 0
   },
   {
-    "Version": "250330.1.0",
-    "Id": 2,
-    "EvaluateConditionOrGroupRelation": 1,
-    "Value": 1
+    "version": "250330.1.0",
+    "id": "ShopMainTabShop",
+    "evaluateConditionOrGroupRelation": 1,
+    "value": 1
   },
   {
-    "Version": "250330.1.0",
-    "Id": 3,
-    "EvaluateConditionOrGroupRelation": 2,
-    "Value": 1
+    "version": "250330.1.0",
+    "id": "CookingGimmickKitchenBoard",
+    "evaluateConditionOrGroupRelation": 2,
+    "value": 1
   },
   {
-    "Version": "250330.1.0",
-    "Id": 9,
-    "EvaluateConditionOrGroupRelation": 3,
-    "Value": 1
+    "version": "250330.1.0",
+    "id": "CookingGimmickKitchenBoard2",
+    "evaluateConditionOrGroupRelation": 3,
+    "value": 1
   },
   {
-    "Version": "250330.1.0",
-    "Id": 4,
-    "EvaluateConditionOrGroupRelation": 2,
-    "Value": 1
+    "version": "250330.1.0",
+    "id": "CookingKitchenFormationMainSlot",
+    "evaluateConditionOrGroupRelation": 2,
+    "value": 1
   },
   {
-    "Version": "250330.1.0",
-    "Id": 5,
-    "EvaluateConditionOrGroupRelation": 3,
-    "Value": 1
+    "version": "250330.1.0",
+    "id": "CookingKitchenEnhance",
+    "evaluateConditionOrGroupRelation": 3,
+    "value": 1
   },
   {
-    "Version": "250330.1.0",
-    "Id": 6,
-    "EvaluateConditionOrGroupRelation": 4,
-    "Value": 0
+    "version": "250330.1.0",
+    "id": "CookingResearch",
+    "evaluateConditionOrGroupRelation": 4,
+    "value": 0
   },
   {
-    "Version": "250330.1.0",
-    "Id": 7,
-    "EvaluateConditionOrGroupRelation": 4,
-    "Value": 1
+    "version": "250330.1.0",
+    "id": "CookingMenuThumbnail",
+    "evaluateConditionOrGroupRelation": 4,
+    "value": 1
   },
   {
-    "Version": "250330.1.0",
-    "Id": 8,
-    "EvaluateConditionOrGroupRelation": 4,
-    "Value": 1
+    "version": "250330.1.0",
+    "id": "CookingMenuDetailEnhance",
+    "evaluateConditionOrGroupRelation": 4,
+    "value": 1
   }
 ]

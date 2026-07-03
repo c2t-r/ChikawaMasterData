@@ -1,37 +1,37 @@
 [
   {
-    "Version": "250330.1.0",
-    "Id": 1,
-    "Rarity": "Normal"
+    "version": "250330.1.0",
+    "id": 1,
+    "rarity": "Normal"
   },
   {
-    "Version": "250330.1.0",
-    "Id": 2,
-    "Rarity": "NormalRare"
+    "version": "250330.1.0",
+    "id": 2,
+    "rarity": "NormalRare"
   },
   {
-    "Version": "250330.1.0",
-    "Id": 3,
-    "Rarity": "Rare"
+    "version": "250330.1.0",
+    "id": 3,
+    "rarity": "Rare"
   },
   {
-    "Version": "250330.1.0",
-    "Id": 4,
-    "Rarity": "SuperRare"
+    "version": "250330.1.0",
+    "id": 4,
+    "rarity": "SuperRare"
   },
   {
-    "Version": "250330.1.0",
-    "Id": 5,
-    "Rarity": "HyperRare"
+    "version": "250330.1.0",
+    "id": 5,
+    "rarity": "HyperRare"
   },
   {
-    "Version": "250330.1.0",
-    "Id": 6,
-    "Rarity": "UltraRare"
+    "version": "250330.1.0",
+    "id": 6,
+    "rarity": "UltraRare"
   },
   {
-    "Version": "250330.1.0",
-    "Id": 7,
-    "Rarity": "LegendRare"
+    "version": "250330.1.0",
+    "id": 7,
+    "rarity": "LegendRare"
   }
 ]

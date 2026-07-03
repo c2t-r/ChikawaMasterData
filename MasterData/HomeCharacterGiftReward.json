@@ -1,590 +1,590 @@
 [
   {
-    "Version": "250850.1.0",
-    "Id": 100101,
-    "HomeCharacterId": 1001,
-    "RewardId": 200003,
-    "Weight": 67
+    "version": "250850.1.0",
+    "id": 100101,
+    "homeCharacterId": 1001,
+    "rewardId": 200003,
+    "weight": 67
   },
   {
-    "Version": "250850.1.0",
-    "Id": 100102,
-    "HomeCharacterId": 1001,
-    "RewardId": 11000050,
-    "Weight": 30
+    "version": "250850.1.0",
+    "id": 100102,
+    "homeCharacterId": 1001,
+    "rewardId": 11000050,
+    "weight": 30
   },
   {
-    "Version": "250850.1.0",
-    "Id": 100103,
-    "HomeCharacterId": 1001,
-    "RewardId": 130001,
-    "Weight": 3
+    "version": "250850.1.0",
+    "id": 100103,
+    "homeCharacterId": 1001,
+    "rewardId": 130001,
+    "weight": 3
   },
   {
-    "Version": "250850.1.0",
-    "Id": 100201,
-    "HomeCharacterId": 1002,
-    "RewardId": 210001,
-    "Weight": 67
+    "version": "250850.1.0",
+    "id": 100201,
+    "homeCharacterId": 1002,
+    "rewardId": 210001,
+    "weight": 67
   },
   {
-    "Version": "250850.1.0",
-    "Id": 100202,
-    "HomeCharacterId": 1002,
-    "RewardId": 11000050,
-    "Weight": 30
+    "version": "250850.1.0",
+    "id": 100202,
+    "homeCharacterId": 1002,
+    "rewardId": 11000050,
+    "weight": 30
   },
   {
-    "Version": "250850.1.0",
-    "Id": 100203,
-    "HomeCharacterId": 1002,
-    "RewardId": 130001,
-    "Weight": 3
+    "version": "250850.1.0",
+    "id": 100203,
+    "homeCharacterId": 1002,
+    "rewardId": 130001,
+    "weight": 3
   },
   {
-    "Version": "250850.1.0",
-    "Id": 100301,
-    "HomeCharacterId": 1003,
-    "RewardId": 220001,
-    "Weight": 67
+    "version": "250850.1.0",
+    "id": 100301,
+    "homeCharacterId": 1003,
+    "rewardId": 220001,
+    "weight": 67
   },
   {
-    "Version": "250850.1.0",
-    "Id": 100302,
-    "HomeCharacterId": 1003,
-    "RewardId": 11000050,
-    "Weight": 30
+    "version": "250850.1.0",
+    "id": 100302,
+    "homeCharacterId": 1003,
+    "rewardId": 11000050,
+    "weight": 30
   },
   {
-    "Version": "250850.1.0",
-    "Id": 100303,
-    "HomeCharacterId": 1003,
-    "RewardId": 130001,
-    "Weight": 3
+    "version": "250850.1.0",
+    "id": 100303,
+    "homeCharacterId": 1003,
+    "rewardId": 130001,
+    "weight": 3
   },
   {
-    "Version": "250850.1.0",
-    "Id": 100401,
-    "HomeCharacterId": 1004,
-    "RewardId": 200003,
-    "Weight": 67
+    "version": "250850.1.0",
+    "id": 100401,
+    "homeCharacterId": 1004,
+    "rewardId": 200003,
+    "weight": 67
   },
   {
-    "Version": "250850.1.0",
-    "Id": 100402,
-    "HomeCharacterId": 1004,
-    "RewardId": 11000050,
-    "Weight": 30
+    "version": "250850.1.0",
+    "id": 100402,
+    "homeCharacterId": 1004,
+    "rewardId": 11000050,
+    "weight": 30
   },
   {
-    "Version": "250850.1.0",
-    "Id": 100403,
-    "HomeCharacterId": 1004,
-    "RewardId": 130001,
-    "Weight": 3
+    "version": "250850.1.0",
+    "id": 100403,
+    "homeCharacterId": 1004,
+    "rewardId": 130001,
+    "weight": 3
   },
   {
-    "Version": "250850.1.0",
-    "Id": 100501,
-    "HomeCharacterId": 1005,
-    "RewardId": 120001,
-    "Weight": 67
+    "version": "250850.1.0",
+    "id": 100501,
+    "homeCharacterId": 1005,
+    "rewardId": 120001,
+    "weight": 67
   },
   {
-    "Version": "250850.1.0",
-    "Id": 100502,
-    "HomeCharacterId": 1005,
-    "RewardId": 11000050,
-    "Weight": 30
+    "version": "250850.1.0",
+    "id": 100502,
+    "homeCharacterId": 1005,
+    "rewardId": 11000050,
+    "weight": 30
   },
   {
-    "Version": "250850.1.0",
-    "Id": 100503,
-    "HomeCharacterId": 1005,
-    "RewardId": 130001,
-    "Weight": 3
+    "version": "250850.1.0",
+    "id": 100503,
+    "homeCharacterId": 1005,
+    "rewardId": 130001,
+    "weight": 3
   },
   {
-    "Version": "250850.1.0",
-    "Id": 100601,
-    "HomeCharacterId": 1006,
-    "RewardId": 200003,
-    "Weight": 67
+    "version": "250850.1.0",
+    "id": 100601,
+    "homeCharacterId": 1006,
+    "rewardId": 200003,
+    "weight": 67
   },
   {
-    "Version": "250850.1.0",
-    "Id": 100602,
-    "HomeCharacterId": 1006,
-    "RewardId": 11000050,
-    "Weight": 30
+    "version": "250850.1.0",
+    "id": 100602,
+    "homeCharacterId": 1006,
+    "rewardId": 11000050,
+    "weight": 30
   },
   {
-    "Version": "250850.1.0",
-    "Id": 100603,
-    "HomeCharacterId": 1006,
-    "RewardId": 130001,
-    "Weight": 3
+    "version": "250850.1.0",
+    "id": 100603,
+    "homeCharacterId": 1006,
+    "rewardId": 130001,
+    "weight": 3
   },
   {
-    "Version": "250850.1.0",
-    "Id": 100701,
-    "HomeCharacterId": 1007,
-    "RewardId": 120001,
-    "Weight": 67
+    "version": "250850.1.0",
+    "id": 100701,
+    "homeCharacterId": 1007,
+    "rewardId": 120001,
+    "weight": 67
   },
   {
-    "Version": "250850.1.0",
-    "Id": 100702,
-    "HomeCharacterId": 1007,
-    "RewardId": 11000050,
-    "Weight": 30
+    "version": "250850.1.0",
+    "id": 100702,
+    "homeCharacterId": 1007,
+    "rewardId": 11000050,
+    "weight": 30
   },
   {
-    "Version": "250850.1.0",
-    "Id": 100703,
-    "HomeCharacterId": 1007,
-    "RewardId": 130001,
-    "Weight": 3
+    "version": "250850.1.0",
+    "id": 100703,
+    "homeCharacterId": 1007,
+    "rewardId": 130001,
+    "weight": 3
   },
   {
-    "Version": "250850.1.0",
-    "Id": 300101,
-    "HomeCharacterId": 3001,
-    "RewardId": 200001,
-    "Weight": 65
+    "version": "250850.1.0",
+    "id": 300101,
+    "homeCharacterId": 3001,
+    "rewardId": 200001,
+    "weight": 65
   },
   {
-    "Version": "250850.1.0",
-    "Id": 300102,
-    "HomeCharacterId": 3001,
-    "RewardId": 11000050,
-    "Weight": 30
+    "version": "250850.1.0",
+    "id": 300102,
+    "homeCharacterId": 3001,
+    "rewardId": 11000050,
+    "weight": 30
   },
   {
-    "Version": "250850.1.0",
-    "Id": 300103,
-    "HomeCharacterId": 3001,
-    "RewardId": 130001,
-    "Weight": 5
+    "version": "250850.1.0",
+    "id": 300103,
+    "homeCharacterId": 3001,
+    "rewardId": 130001,
+    "weight": 5
   },
   {
-    "Version": "250850.1.0",
-    "Id": 300201,
-    "HomeCharacterId": 3002,
-    "RewardId": 120001,
-    "Weight": 65
+    "version": "250850.1.0",
+    "id": 300201,
+    "homeCharacterId": 3002,
+    "rewardId": 120001,
+    "weight": 65
   },
   {
-    "Version": "250850.1.0",
-    "Id": 300202,
-    "HomeCharacterId": 3002,
-    "RewardId": 11000050,
-    "Weight": 30
+    "version": "250850.1.0",
+    "id": 300202,
+    "homeCharacterId": 3002,
+    "rewardId": 11000050,
+    "weight": 30
   },
   {
-    "Version": "250850.1.0",
-    "Id": 300203,
-    "HomeCharacterId": 3002,
-    "RewardId": 160001,
-    "Weight": 5
+    "version": "250850.1.0",
+    "id": 300203,
+    "homeCharacterId": 3002,
+    "rewardId": 160001,
+    "weight": 5
   },
   {
-    "Version": "250850.1.0",
-    "Id": 300301,
-    "HomeCharacterId": 3003,
-    "RewardId": 120001,
-    "Weight": 65
+    "version": "250850.1.0",
+    "id": 300301,
+    "homeCharacterId": 3003,
+    "rewardId": 120001,
+    "weight": 65
   },
   {
-    "Version": "250850.1.0",
-    "Id": 300302,
-    "HomeCharacterId": 3003,
-    "RewardId": 11000050,
-    "Weight": 30
+    "version": "250850.1.0",
+    "id": 300302,
+    "homeCharacterId": 3003,
+    "rewardId": 11000050,
+    "weight": 30
   },
   {
-    "Version": "250850.1.0",
-    "Id": 300303,
-    "HomeCharacterId": 3003,
-    "RewardId": 160001,
-    "Weight": 5
+    "version": "250850.1.0",
+    "id": 300303,
+    "homeCharacterId": 3003,
+    "rewardId": 160001,
+    "weight": 5
   },
   {
-    "Version": "250850.1.0",
-    "Id": 300401,
-    "HomeCharacterId": 3004,
-    "RewardId": 200001,
-    "Weight": 65
+    "version": "250850.1.0",
+    "id": 300401,
+    "homeCharacterId": 3004,
+    "rewardId": 200001,
+    "weight": 65
   },
   {
-    "Version": "250850.1.0",
-    "Id": 300402,
-    "HomeCharacterId": 3004,
-    "RewardId": 11000050,
-    "Weight": 30
+    "version": "250850.1.0",
+    "id": 300402,
+    "homeCharacterId": 3004,
+    "rewardId": 11000050,
+    "weight": 30
   },
   {
-    "Version": "250850.1.0",
-    "Id": 300403,
-    "HomeCharacterId": 3004,
-    "RewardId": 170001,
-    "Weight": 5
+    "version": "250850.1.0",
+    "id": 300403,
+    "homeCharacterId": 3004,
+    "rewardId": 170001,
+    "weight": 5
   },
   {
-    "Version": "250850.1.0",
-    "Id": 300501,
-    "HomeCharacterId": 3005,
-    "RewardId": 120001,
-    "Weight": 65
+    "version": "250850.1.0",
+    "id": 300501,
+    "homeCharacterId": 3005,
+    "rewardId": 120001,
+    "weight": 65
   },
   {
-    "Version": "250850.1.0",
-    "Id": 300502,
-    "HomeCharacterId": 3005,
-    "RewardId": 11000050,
-    "Weight": 30
+    "version": "250850.1.0",
+    "id": 300502,
+    "homeCharacterId": 3005,
+    "rewardId": 11000050,
+    "weight": 30
   },
   {
-    "Version": "250850.1.0",
-    "Id": 300503,
-    "HomeCharacterId": 3005,
-    "RewardId": 160001,
-    "Weight": 5
+    "version": "250850.1.0",
+    "id": 300503,
+    "homeCharacterId": 3005,
+    "rewardId": 160001,
+    "weight": 5
   },
   {
-    "Version": "250850.1.0",
-    "Id": 300601,
-    "HomeCharacterId": 3006,
-    "RewardId": 200001,
-    "Weight": 65
+    "version": "250850.1.0",
+    "id": 300601,
+    "homeCharacterId": 3006,
+    "rewardId": 200001,
+    "weight": 65
   },
   {
-    "Version": "250850.1.0",
-    "Id": 300602,
-    "HomeCharacterId": 3006,
-    "RewardId": 11000050,
-    "Weight": 30
+    "version": "250850.1.0",
+    "id": 300602,
+    "homeCharacterId": 3006,
+    "rewardId": 11000050,
+    "weight": 30
   },
   {
-    "Version": "250850.1.0",
-    "Id": 300603,
-    "HomeCharacterId": 3006,
-    "RewardId": 270001,
-    "Weight": 5
+    "version": "250850.1.0",
+    "id": 300603,
+    "homeCharacterId": 3006,
+    "rewardId": 270001,
+    "weight": 5
   },
   {
-    "Version": "250850.1.0",
-    "Id": 300701,
-    "HomeCharacterId": 3007,
-    "RewardId": 120001,
-    "Weight": 65
+    "version": "250850.1.0",
+    "id": 300701,
+    "homeCharacterId": 3007,
+    "rewardId": 120001,
+    "weight": 65
   },
   {
-    "Version": "250850.1.0",
-    "Id": 300702,
-    "HomeCharacterId": 3007,
-    "RewardId": 11000050,
-    "Weight": 30
+    "version": "250850.1.0",
+    "id": 300702,
+    "homeCharacterId": 3007,
+    "rewardId": 11000050,
+    "weight": 30
   },
   {
-    "Version": "250850.1.0",
-    "Id": 300703,
-    "HomeCharacterId": 3007,
-    "RewardId": 160001,
-    "Weight": 5
+    "version": "250850.1.0",
+    "id": 300703,
+    "homeCharacterId": 3007,
+    "rewardId": 160001,
+    "weight": 5
   },
   {
-    "Version": "250850.1.0",
-    "Id": 300801,
-    "HomeCharacterId": 3008,
-    "RewardId": 200001,
-    "Weight": 65
+    "version": "250850.1.0",
+    "id": 300801,
+    "homeCharacterId": 3008,
+    "rewardId": 200001,
+    "weight": 65
   },
   {
-    "Version": "250850.1.0",
-    "Id": 300802,
-    "HomeCharacterId": 3008,
-    "RewardId": 11000050,
-    "Weight": 30
+    "version": "250850.1.0",
+    "id": 300802,
+    "homeCharacterId": 3008,
+    "rewardId": 11000050,
+    "weight": 30
   },
   {
-    "Version": "250850.1.0",
-    "Id": 300803,
-    "HomeCharacterId": 3008,
-    "RewardId": 270001,
-    "Weight": 5
+    "version": "250850.1.0",
+    "id": 300803,
+    "homeCharacterId": 3008,
+    "rewardId": 270001,
+    "weight": 5
   },
   {
-    "Version": "250850.1.0",
-    "Id": 300901,
-    "HomeCharacterId": 3009,
-    "RewardId": 120001,
-    "Weight": 65
+    "version": "250850.1.0",
+    "id": 300901,
+    "homeCharacterId": 3009,
+    "rewardId": 120001,
+    "weight": 65
   },
   {
-    "Version": "250850.1.0",
-    "Id": 300902,
-    "HomeCharacterId": 3009,
-    "RewardId": 11000050,
-    "Weight": 30
+    "version": "250850.1.0",
+    "id": 300902,
+    "homeCharacterId": 3009,
+    "rewardId": 11000050,
+    "weight": 30
   },
   {
-    "Version": "250850.1.0",
-    "Id": 300903,
-    "HomeCharacterId": 3009,
-    "RewardId": 270001,
-    "Weight": 5
+    "version": "250850.1.0",
+    "id": 300903,
+    "homeCharacterId": 3009,
+    "rewardId": 270001,
+    "weight": 5
   },
   {
-    "Version": "250850.1.0",
-    "Id": 301001,
-    "HomeCharacterId": 3011,
-    "RewardId": 120001,
-    "Weight": 65
+    "version": "250850.1.0",
+    "id": 301001,
+    "homeCharacterId": 3011,
+    "rewardId": 120001,
+    "weight": 65
   },
   {
-    "Version": "250850.1.0",
-    "Id": 301002,
-    "HomeCharacterId": 3011,
-    "RewardId": 11000050,
-    "Weight": 30
+    "version": "250850.1.0",
+    "id": 301002,
+    "homeCharacterId": 3011,
+    "rewardId": 11000050,
+    "weight": 30
   },
   {
-    "Version": "250850.1.0",
-    "Id": 301003,
-    "HomeCharacterId": 3011,
-    "RewardId": 170001,
-    "Weight": 5
+    "version": "250850.1.0",
+    "id": 301003,
+    "homeCharacterId": 3011,
+    "rewardId": 170001,
+    "weight": 5
   },
   {
-    "Version": "250850.1.0",
-    "Id": 301201,
-    "HomeCharacterId": 3012,
-    "RewardId": 200001,
-    "Weight": 65
+    "version": "250850.1.0",
+    "id": 301201,
+    "homeCharacterId": 3012,
+    "rewardId": 200001,
+    "weight": 65
   },
   {
-    "Version": "250850.1.0",
-    "Id": 301202,
-    "HomeCharacterId": 3012,
-    "RewardId": 11000050,
-    "Weight": 30
+    "version": "250850.1.0",
+    "id": 301202,
+    "homeCharacterId": 3012,
+    "rewardId": 11000050,
+    "weight": 30
   },
   {
-    "Version": "250850.1.0",
-    "Id": 301203,
-    "HomeCharacterId": 3012,
-    "RewardId": 160002,
-    "Weight": 5
+    "version": "250850.1.0",
+    "id": 301203,
+    "homeCharacterId": 3012,
+    "rewardId": 160002,
+    "weight": 5
   },
   {
-    "Version": "250850.1.0",
-    "Id": 301301,
-    "HomeCharacterId": 3013,
-    "RewardId": 120001,
-    "Weight": 65
+    "version": "250850.1.0",
+    "id": 301301,
+    "homeCharacterId": 3013,
+    "rewardId": 120001,
+    "weight": 65
   },
   {
-    "Version": "250850.1.0",
-    "Id": 301302,
-    "HomeCharacterId": 3013,
-    "RewardId": 11000050,
-    "Weight": 30
+    "version": "250850.1.0",
+    "id": 301302,
+    "homeCharacterId": 3013,
+    "rewardId": 11000050,
+    "weight": 30
   },
   {
-    "Version": "250850.1.0",
-    "Id": 301303,
-    "HomeCharacterId": 3013,
-    "RewardId": 170002,
-    "Weight": 5
+    "version": "250850.1.0",
+    "id": 301303,
+    "homeCharacterId": 3013,
+    "rewardId": 170002,
+    "weight": 5
   },
   {
-    "Version": "250850.1.0",
-    "Id": 301401,
-    "HomeCharacterId": 3014,
-    "RewardId": 200001,
-    "Weight": 65
+    "version": "250850.1.0",
+    "id": 301401,
+    "homeCharacterId": 3014,
+    "rewardId": 200001,
+    "weight": 65
   },
   {
-    "Version": "250850.1.0",
-    "Id": 301402,
-    "HomeCharacterId": 3014,
-    "RewardId": 11000050,
-    "Weight": 30
+    "version": "250850.1.0",
+    "id": 301402,
+    "homeCharacterId": 3014,
+    "rewardId": 11000050,
+    "weight": 30
   },
   {
-    "Version": "250850.1.0",
-    "Id": 301403,
-    "HomeCharacterId": 3014,
-    "RewardId": 130001,
-    "Weight": 5
+    "version": "250850.1.0",
+    "id": 301403,
+    "homeCharacterId": 3014,
+    "rewardId": 130001,
+    "weight": 5
   },
   {
-    "Version": "250850.1.0",
-    "Id": 301501,
-    "HomeCharacterId": 3015,
-    "RewardId": 120001,
-    "Weight": 65
+    "version": "250850.1.0",
+    "id": 301501,
+    "homeCharacterId": 3015,
+    "rewardId": 120001,
+    "weight": 65
   },
   {
-    "Version": "250850.1.0",
-    "Id": 301502,
-    "HomeCharacterId": 3015,
-    "RewardId": 11000050,
-    "Weight": 30
+    "version": "250850.1.0",
+    "id": 301502,
+    "homeCharacterId": 3015,
+    "rewardId": 11000050,
+    "weight": 30
   },
   {
-    "Version": "250850.1.0",
-    "Id": 301503,
-    "HomeCharacterId": 3015,
-    "RewardId": 170001,
-    "Weight": 5
+    "version": "250850.1.0",
+    "id": 301503,
+    "homeCharacterId": 3015,
+    "rewardId": 170001,
+    "weight": 5
   },
   {
-    "Version": "250850.1.0",
-    "Id": 301601,
-    "HomeCharacterId": 3016,
-    "RewardId": 200001,
-    "Weight": 65
+    "version": "250850.1.0",
+    "id": 301601,
+    "homeCharacterId": 3016,
+    "rewardId": 200001,
+    "weight": 65
   },
   {
-    "Version": "250850.1.0",
-    "Id": 301602,
-    "HomeCharacterId": 3016,
-    "RewardId": 11000050,
-    "Weight": 30
+    "version": "250850.1.0",
+    "id": 301602,
+    "homeCharacterId": 3016,
+    "rewardId": 11000050,
+    "weight": 30
   },
   {
-    "Version": "250850.1.0",
-    "Id": 301603,
-    "HomeCharacterId": 3016,
-    "RewardId": 130001,
-    "Weight": 5
+    "version": "250850.1.0",
+    "id": 301603,
+    "homeCharacterId": 3016,
+    "rewardId": 130001,
+    "weight": 5
   },
   {
-    "Version": "250850.1.0",
-    "Id": 301701,
-    "HomeCharacterId": 3017,
-    "RewardId": 120001,
-    "Weight": 65
+    "version": "250850.1.0",
+    "id": 301701,
+    "homeCharacterId": 3017,
+    "rewardId": 120001,
+    "weight": 65
   },
   {
-    "Version": "250850.1.0",
-    "Id": 301702,
-    "HomeCharacterId": 3017,
-    "RewardId": 11000050,
-    "Weight": 30
+    "version": "250850.1.0",
+    "id": 301702,
+    "homeCharacterId": 3017,
+    "rewardId": 11000050,
+    "weight": 30
   },
   {
-    "Version": "250850.1.0",
-    "Id": 301703,
-    "HomeCharacterId": 3017,
-    "RewardId": 270002,
-    "Weight": 5
+    "version": "250850.1.0",
+    "id": 301703,
+    "homeCharacterId": 3017,
+    "rewardId": 270002,
+    "weight": 5
   },
   {
-    "Version": "250850.1.0",
-    "Id": 301801,
-    "HomeCharacterId": 3018,
-    "RewardId": 120001,
-    "Weight": 65
+    "version": "250850.1.0",
+    "id": 301801,
+    "homeCharacterId": 3018,
+    "rewardId": 120001,
+    "weight": 65
   },
   {
-    "Version": "250850.1.0",
-    "Id": 301802,
-    "HomeCharacterId": 3018,
-    "RewardId": 11000050,
-    "Weight": 30
+    "version": "250850.1.0",
+    "id": 301802,
+    "homeCharacterId": 3018,
+    "rewardId": 11000050,
+    "weight": 30
   },
   {
-    "Version": "250850.1.0",
-    "Id": 301803,
-    "HomeCharacterId": 3018,
-    "RewardId": 270001,
-    "Weight": 5
+    "version": "250850.1.0",
+    "id": 301803,
+    "homeCharacterId": 3018,
+    "rewardId": 270001,
+    "weight": 5
   },
   {
-    "Version": "250850.1.0",
-    "Id": 301901,
-    "HomeCharacterId": 3019,
-    "RewardId": 200001,
-    "Weight": 65
+    "version": "250850.1.0",
+    "id": 301901,
+    "homeCharacterId": 3019,
+    "rewardId": 200001,
+    "weight": 65
   },
   {
-    "Version": "250850.1.0",
-    "Id": 301902,
-    "HomeCharacterId": 3019,
-    "RewardId": 11000050,
-    "Weight": 30
+    "version": "250850.1.0",
+    "id": 301902,
+    "homeCharacterId": 3019,
+    "rewardId": 11000050,
+    "weight": 30
   },
   {
-    "Version": "250850.1.0",
-    "Id": 301903,
-    "HomeCharacterId": 3019,
-    "RewardId": 130001,
-    "Weight": 5
+    "version": "250850.1.0",
+    "id": 301903,
+    "homeCharacterId": 3019,
+    "rewardId": 130001,
+    "weight": 5
   },
   {
-    "Version": "250850.1.0",
-    "Id": 302001,
-    "HomeCharacterId": 3020,
-    "RewardId": 120001,
-    "Weight": 65
+    "version": "250850.1.0",
+    "id": 302001,
+    "homeCharacterId": 3020,
+    "rewardId": 120001,
+    "weight": 65
   },
   {
-    "Version": "250850.1.0",
-    "Id": 302002,
-    "HomeCharacterId": 3020,
-    "RewardId": 11000050,
-    "Weight": 30
+    "version": "250850.1.0",
+    "id": 302002,
+    "homeCharacterId": 3020,
+    "rewardId": 11000050,
+    "weight": 30
   },
   {
-    "Version": "250850.1.0",
-    "Id": 302003,
-    "HomeCharacterId": 3020,
-    "RewardId": 130001,
-    "Weight": 5
+    "version": "250850.1.0",
+    "id": 302003,
+    "homeCharacterId": 3020,
+    "rewardId": 130001,
+    "weight": 5
   },
   {
-    "Version": "250850.1.0",
-    "Id": 302101,
-    "HomeCharacterId": 3021,
-    "RewardId": 200001,
-    "Weight": 65
+    "version": "250850.1.0",
+    "id": 302101,
+    "homeCharacterId": 3021,
+    "rewardId": 200001,
+    "weight": 65
   },
   {
-    "Version": "250850.1.0",
-    "Id": 302102,
-    "HomeCharacterId": 3021,
-    "RewardId": 11000050,
-    "Weight": 30
+    "version": "250850.1.0",
+    "id": 302102,
+    "homeCharacterId": 3021,
+    "rewardId": 11000050,
+    "weight": 30
   },
   {
-    "Version": "250850.1.0",
-    "Id": 302103,
-    "HomeCharacterId": 3021,
-    "RewardId": 130001,
-    "Weight": 5
+    "version": "250850.1.0",
+    "id": 302103,
+    "homeCharacterId": 3021,
+    "rewardId": 130001,
+    "weight": 5
   },
   {
-    "Version": "250850.1.0",
-    "Id": 302201,
-    "HomeCharacterId": 3022,
-    "RewardId": 120001,
-    "Weight": 65
+    "version": "250850.1.0",
+    "id": 302201,
+    "homeCharacterId": 3022,
+    "rewardId": 120001,
+    "weight": 65
   },
   {
-    "Version": "250850.1.0",
-    "Id": 302202,
-    "HomeCharacterId": 3022,
-    "RewardId": 11000050,
-    "Weight": 30
+    "version": "250850.1.0",
+    "id": 302202,
+    "homeCharacterId": 3022,
+    "rewardId": 11000050,
+    "weight": 30
   },
   {
-    "Version": "250850.1.0",
-    "Id": 302203,
-    "HomeCharacterId": 3022,
-    "RewardId": 170001,
-    "Weight": 5
+    "version": "250850.1.0",
+    "id": 302203,
+    "homeCharacterId": 3022,
+    "rewardId": 170001,
+    "weight": 5
   }
 ]

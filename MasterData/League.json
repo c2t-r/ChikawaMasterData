@@ -1,13 +1,14 @@
 [
   {
-    "Version": "250350.1.0",
-    "Id": 1,
-    "LeagueTermId": 1,
-    "LeagueHuntAdmissionFeeId": 1,
-    "LeagueTierGroupId": 1,
-    "LeagueHuntStageGroupId": 1,
-    "LeagueSeasonShopGroupId": 21,
-    "LeagueDailyShopGroupId": 22,
-    "NameTextKey": -888987144
+    "version": "260615.1.0",
+    "id": 1,
+    "leagueTermId": 3,
+    "leagueHuntAdmissionFeeId": 1,
+    "leagueTierGroupId": 1,
+    "leagueHuntStageGroupId": 1,
+    "leagueSeasonShopGroupId": 21,
+    "leagueDailyShopGroupId": 22,
+    "nameTextKey": -888987144,
+    "gatheringCapacity": 10
   }
 ]

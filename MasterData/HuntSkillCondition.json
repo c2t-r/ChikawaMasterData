@@ -1,20 +1,26 @@
 [
   {
-    "Version": "250330.1.0",
-    "Id": 1,
-    "HuntSkillConditionType": "SpecificCharacter",
-    "TargetId": 1
+    "version": "250330.1.0",
+    "id": 1,
+    "huntSkillConditionType": "SpecificCharacter",
+    "targetId": 1
   },
   {
-    "Version": "260110.1.0",
-    "Id": 31011,
-    "HuntSkillConditionType": "SkillEffectType",
-    "TargetId": 1
+    "version": "260110.1.0",
+    "id": 31011,
+    "huntSkillConditionType": "None",
+    "targetId": 1
   },
   {
-    "Version": "260410.1.0",
-    "Id": 35014,
-    "HuntSkillConditionType": "SkillEffectType",
-    "TargetId": 1
+    "version": "260410.1.0",
+    "id": 35014,
+    "huntSkillConditionType": "None",
+    "targetId": 1
+  },
+  {
+    "version": "260610.1.0",
+    "id": 33016,
+    "huntSkillConditionType": "None",
+    "targetId": 1
   }
 ]

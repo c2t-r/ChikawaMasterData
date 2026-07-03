@@ -1,22 +1,22 @@
 [
   {
-    "Version": "250330.1.0",
-    "Id": 1,
-    "CategoryIcon": "Weapon"
+    "version": "250330.1.0",
+    "id": 1,
+    "categoryIcon": "Weapon"
   },
   {
-    "Version": "250330.1.0",
-    "Id": 2,
-    "CategoryIcon": "Armor"
+    "version": "250330.1.0",
+    "id": 2,
+    "categoryIcon": "Armor"
   },
   {
-    "Version": "250330.1.0",
-    "Id": 3,
-    "CategoryIcon": "AssistSkill"
+    "version": "250330.1.0",
+    "id": 3,
+    "categoryIcon": "AssistSkill"
   },
   {
-    "Version": "260410.1.0",
-    "Id": 4,
-    "CategoryIcon": "KeyHolder"
+    "version": "260410.1.0",
+    "id": 4,
+    "categoryIcon": "KeyHolder"
   }
 ]

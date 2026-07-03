@@ -1,37 +1,37 @@
 [
   {
-    "Version": "250330.1.0",
-    "Id": 101,
-    "ConditionGroupId": 1,
-    "ConditionId": 1,
-    "ConditionOperatorType": "End"
+    "version": "250330.1.0",
+    "id": 101,
+    "conditionGroupId": 1,
+    "conditionId": 1,
+    "conditionOperatorType": "End"
   },
   {
-    "Version": "250330.1.0",
-    "Id": 201,
-    "ConditionGroupId": 2,
-    "ConditionId": 2,
-    "ConditionOperatorType": "End"
+    "version": "250330.1.0",
+    "id": 201,
+    "conditionGroupId": 2,
+    "conditionId": 2,
+    "conditionOperatorType": "End"
   },
   {
-    "Version": "250330.1.0",
-    "Id": 301,
-    "ConditionGroupId": 3,
-    "ConditionId": 3,
-    "ConditionOperatorType": "End"
+    "version": "250330.1.0",
+    "id": 301,
+    "conditionGroupId": 3,
+    "conditionId": 3,
+    "conditionOperatorType": "End"
   },
   {
-    "Version": "250330.1.0",
-    "Id": 401,
-    "ConditionGroupId": 4,
-    "ConditionId": 4,
-    "ConditionOperatorType": "End"
+    "version": "250330.1.0",
+    "id": 401,
+    "conditionGroupId": 4,
+    "conditionId": 4,
+    "conditionOperatorType": "End"
   },
   {
-    "Version": "250330.1.0",
-    "Id": 501,
-    "ConditionGroupId": 5,
-    "ConditionId": 5,
-    "ConditionOperatorType": "End"
+    "version": "250330.1.0",
+    "id": 501,
+    "conditionGroupId": 5,
+    "conditionId": 5,
+    "conditionOperatorType": "End"
   }
 ]

@@ -1,20 +1,20 @@
 [
   {
-    "Version": "250850.1.0",
-    "Id": 1,
-    "MissionGroupId": 6001,
-    "TabTextKey": -184213382,
-    "ViewConditionId": 0,
-    "Priority": 5,
-    "IsShowProgress": true
+    "version": "250850.1.0",
+    "id": 1,
+    "missionGroupId": 6001,
+    "tabTextKey": -184213382,
+    "viewConditionId": 0,
+    "priority": 5,
+    "isShowProgress": true
   },
   {
-    "Version": "260110.1.0",
-    "Id": 2,
-    "MissionGroupId": 6010,
-    "TabTextKey": -1524009491,
-    "ViewConditionId": 0,
-    "Priority": 4,
-    "IsShowProgress": false
+    "version": "260110.1.0",
+    "id": 2,
+    "missionGroupId": 6010,
+    "tabTextKey": -1524009491,
+    "viewConditionId": 0,
+    "priority": 4,
+    "isShowProgress": false
   }
 ]

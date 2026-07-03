@@ -1,12 +1,12 @@
 [
   {
-    "Version": "250330.1.0",
-    "Id": 401,
-    "AdRewardId": 13
+    "version": "250330.1.0",
+    "id": 401,
+    "adRewardId": 13
   },
   {
-    "Version": "250330.1.0",
-    "Id": 402,
-    "AdRewardId": 13
+    "version": "250330.1.0",
+    "id": 402,
+    "adRewardId": 13
   }
 ]

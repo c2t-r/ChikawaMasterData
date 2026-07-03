@@ -1,9 +1,23 @@
 [
   {
-    "Version": "250350.1.0",
-    "Id": 1,
-    "ConditionDateTermId": 2503512,
-    "ResetType": "EveryThirdDay",
-    "RefreshHourJST": "15"
+    "version": "250350.1.0",
+    "id": 1,
+    "conditionDateTermId": 2503512,
+    "resetType": "EveryThirdDay",
+    "refreshHourJst": "15"
+  },
+  {
+    "version": "260535.1.0",
+    "id": 2,
+    "conditionDateTermId": 2605312,
+    "resetType": "EveryThirdDay",
+    "refreshHourJst": "15"
+  },
+  {
+    "version": "260615.1.0",
+    "id": 3,
+    "conditionDateTermId": 2606112,
+    "resetType": "EveryThirdDay",
+    "refreshHourJst": "15"
   }
 ]

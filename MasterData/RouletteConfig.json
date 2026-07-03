@@ -1,8 +1,8 @@
 [
   {
-    "Version": "250330.1.0",
-    "Id": 1,
-    "CoolDownMinutes": 5,
-    "ResetDailyHourJST": 15
+    "version": "250330.1.0",
+    "id": 1,
+    "coolDownMinutes": 5,
+    "resetDailyHourJst": 15
   }
 ]

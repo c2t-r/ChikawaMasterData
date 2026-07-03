@@ -1,18 +1,18 @@
 [
   {
-    "Version": "251010.1.0",
-    "Id": 101507,
-    "OutGameAssetId": 1,
-    "InGameUnderBgAssetId": 105,
-    "HuntStageNameTextKey": -1017702415,
-    "HuntDescriptionTextKey": 590389391
+    "version": "251010.1.0",
+    "id": 101507,
+    "outGameAssetId": 1,
+    "inGameUnderBgAssetId": 105,
+    "huntStageNameTextKey": -1017702415,
+    "huntDescriptionTextKey": 590389391
   },
   {
-    "Version": "260410.1.0",
-    "Id": 102607,
-    "OutGameAssetId": 3,
-    "InGameUnderBgAssetId": 255,
-    "HuntStageNameTextKey": -1017702415,
-    "HuntDescriptionTextKey": 590389391
+    "version": "260410.1.0",
+    "id": 102607,
+    "outGameAssetId": 3,
+    "inGameUnderBgAssetId": 255,
+    "huntStageNameTextKey": -1017702415,
+    "huntDescriptionTextKey": 590389391
   }
 ]

@@ -1,13 +1,13 @@
 [
   {
-    "Version": "250330.1.0",
-    "Id": 1,
-    "NameTextKey": 0,
-    "RouletteRewardGroupId": 1,
-    "FreeLimitCount": 1,
-    "AdLimitCount": 4,
-    "ConditionDateTermId": 0,
-    "Priority": 1,
-    "AdRewardId": 11
+    "version": "250330.1.0",
+    "id": 1,
+    "nameTextKey": 0,
+    "rouletteRewardGroupId": 1,
+    "freeLimitCount": 1,
+    "adLimitCount": 4,
+    "conditionDateTermId": 0,
+    "priority": 1,
+    "adRewardId": 11
   }
 ]

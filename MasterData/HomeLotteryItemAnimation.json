@@ -1,2072 +1,2216 @@
 [
   {
-    "Version": "250330.1.0",
-    "Id": 11,
-    "ItemId": 1,
-    "Level": 1,
-    "AnimationId": 201,
-    "Weight": 10,
-    "ConditionGroupId": 0
-  },
-  {
-    "Version": "250330.1.0",
-    "Id": 12,
-    "ItemId": 1,
-    "Level": 2,
-    "AnimationId": 202,
-    "Weight": 10,
-    "ConditionGroupId": 0
-  },
-  {
-    "Version": "250330.1.0",
-    "Id": 21,
-    "ItemId": 2,
-    "Level": 1,
-    "AnimationId": 201,
-    "Weight": 10,
-    "ConditionGroupId": 0
-  },
-  {
-    "Version": "250330.1.0",
-    "Id": 22,
-    "ItemId": 2,
-    "Level": 2,
-    "AnimationId": 202,
-    "Weight": 10,
-    "ConditionGroupId": 0
-  },
-  {
-    "Version": "250330.1.0",
-    "Id": 31,
-    "ItemId": 3,
-    "Level": 1,
-    "AnimationId": 201,
-    "Weight": 10,
-    "ConditionGroupId": 0
-  },
-  {
-    "Version": "250330.1.0",
-    "Id": 41,
-    "ItemId": 4,
-    "Level": 1,
-    "AnimationId": 201,
-    "Weight": 10,
-    "ConditionGroupId": 0
-  },
-  {
-    "Version": "250330.1.0",
-    "Id": 42,
-    "ItemId": 4,
-    "Level": 2,
-    "AnimationId": 202,
-    "Weight": 10,
-    "ConditionGroupId": 0
-  },
-  {
-    "Version": "250330.1.0",
-    "Id": 43,
-    "ItemId": 4,
-    "Level": 3,
-    "AnimationId": 203,
-    "Weight": 10,
-    "ConditionGroupId": 0
-  },
-  {
-    "Version": "250330.1.0",
-    "Id": 51,
-    "ItemId": 5,
-    "Level": 1,
-    "AnimationId": 201,
-    "Weight": 10,
-    "ConditionGroupId": 0
-  },
-  {
-    "Version": "250330.1.0",
-    "Id": 52,
-    "ItemId": 5,
-    "Level": 2,
-    "AnimationId": 202,
-    "Weight": 10,
-    "ConditionGroupId": 0
-  },
-  {
-    "Version": "250330.1.0",
-    "Id": 61,
-    "ItemId": 6,
-    "Level": 1,
-    "AnimationId": 201,
-    "Weight": 10,
-    "ConditionGroupId": 0
-  },
-  {
-    "Version": "250330.1.0",
-    "Id": 62,
-    "ItemId": 6,
-    "Level": 2,
-    "AnimationId": 202,
-    "Weight": 10,
-    "ConditionGroupId": 0
-  },
-  {
-    "Version": "250330.1.0",
-    "Id": 71,
-    "ItemId": 7,
-    "Level": 1,
-    "AnimationId": 201,
-    "Weight": 10,
-    "ConditionGroupId": 0
-  },
-  {
-    "Version": "250330.1.0",
-    "Id": 72,
-    "ItemId": 7,
-    "Level": 2,
-    "AnimationId": 202,
-    "Weight": 10,
-    "ConditionGroupId": 0
-  },
-  {
-    "Version": "250330.1.0",
-    "Id": 81,
-    "ItemId": 8,
-    "Level": 1,
-    "AnimationId": 201,
-    "Weight": 10,
-    "ConditionGroupId": 0
-  },
-  {
-    "Version": "250330.1.0",
-    "Id": 82,
-    "ItemId": 8,
-    "Level": 2,
-    "AnimationId": 202,
-    "Weight": 10,
-    "ConditionGroupId": 0
-  },
-  {
-    "Version": "250330.1.0",
-    "Id": 91,
-    "ItemId": 9,
-    "Level": 1,
-    "AnimationId": 201,
-    "Weight": 10,
-    "ConditionGroupId": 0
-  },
-  {
-    "Version": "250330.1.0",
-    "Id": 92,
-    "ItemId": 9,
-    "Level": 2,
-    "AnimationId": 202,
-    "Weight": 10,
-    "ConditionGroupId": 0
-  },
-  {
-    "Version": "250330.1.0",
-    "Id": 93,
-    "ItemId": 9,
-    "Level": 3,
-    "AnimationId": 203,
-    "Weight": 10,
-    "ConditionGroupId": 0
-  },
-  {
-    "Version": "250330.1.0",
-    "Id": 101,
-    "ItemId": 10,
-    "Level": 1,
-    "AnimationId": 201,
-    "Weight": 10,
-    "ConditionGroupId": 0
-  },
-  {
-    "Version": "250330.1.0",
-    "Id": 111,
-    "ItemId": 11,
-    "Level": 1,
-    "AnimationId": 201,
-    "Weight": 10,
-    "ConditionGroupId": 0
-  },
-  {
-    "Version": "250330.1.0",
-    "Id": 121,
-    "ItemId": 12,
-    "Level": 1,
-    "AnimationId": 201,
-    "Weight": 10,
-    "ConditionGroupId": 0
-  },
-  {
-    "Version": "250330.1.0",
-    "Id": 122,
-    "ItemId": 12,
-    "Level": 2,
-    "AnimationId": 202,
-    "Weight": 10,
-    "ConditionGroupId": 0
-  },
-  {
-    "Version": "250330.1.0",
-    "Id": 131,
-    "ItemId": 13,
-    "Level": 1,
-    "AnimationId": 201,
-    "Weight": 10,
-    "ConditionGroupId": 0
-  },
-  {
-    "Version": "250330.1.0",
-    "Id": 132,
-    "ItemId": 13,
-    "Level": 2,
-    "AnimationId": 202,
-    "Weight": 10,
-    "ConditionGroupId": 0
-  },
-  {
-    "Version": "250330.1.0",
-    "Id": 133,
-    "ItemId": 13,
-    "Level": 3,
-    "AnimationId": 203,
-    "Weight": 10,
-    "ConditionGroupId": 0
-  },
-  {
-    "Version": "250330.1.0",
-    "Id": 141,
-    "ItemId": 14,
-    "Level": 1,
-    "AnimationId": 201,
-    "Weight": 10,
-    "ConditionGroupId": 0
-  },
-  {
-    "Version": "250330.1.0",
-    "Id": 142,
-    "ItemId": 14,
-    "Level": 2,
-    "AnimationId": 202,
-    "Weight": 10,
-    "ConditionGroupId": 0
-  },
-  {
-    "Version": "250330.1.0",
-    "Id": 151,
-    "ItemId": 15,
-    "Level": 1,
-    "AnimationId": 201,
-    "Weight": 10,
-    "ConditionGroupId": 0
-  },
-  {
-    "Version": "250330.1.0",
-    "Id": 152,
-    "ItemId": 15,
-    "Level": 2,
-    "AnimationId": 202,
-    "Weight": 10,
-    "ConditionGroupId": 0
-  },
-  {
-    "Version": "250330.1.0",
-    "Id": 161,
-    "ItemId": 16,
-    "Level": 1,
-    "AnimationId": 201,
-    "Weight": 10,
-    "ConditionGroupId": 0
-  },
-  {
-    "Version": "250330.1.0",
-    "Id": 162,
-    "ItemId": 16,
-    "Level": 2,
-    "AnimationId": 202,
-    "Weight": 10,
-    "ConditionGroupId": 0
-  },
-  {
-    "Version": "250330.1.0",
-    "Id": 163,
-    "ItemId": 16,
-    "Level": 3,
-    "AnimationId": 203,
-    "Weight": 10,
-    "ConditionGroupId": 0
-  },
-  {
-    "Version": "250330.1.0",
-    "Id": 171,
-    "ItemId": 17,
-    "Level": 1,
-    "AnimationId": 201,
-    "Weight": 10,
-    "ConditionGroupId": 0
-  },
-  {
-    "Version": "250330.1.0",
-    "Id": 181,
-    "ItemId": 18,
-    "Level": 1,
-    "AnimationId": 201,
-    "Weight": 10,
-    "ConditionGroupId": 0
-  },
-  {
-    "Version": "250330.1.0",
-    "Id": 191,
-    "ItemId": 19,
-    "Level": 1,
-    "AnimationId": 201,
-    "Weight": 10,
-    "ConditionGroupId": 0
-  },
-  {
-    "Version": "250330.1.0",
-    "Id": 201,
-    "ItemId": 20,
-    "Level": 1,
-    "AnimationId": 201,
-    "Weight": 10,
-    "ConditionGroupId": 0
-  },
-  {
-    "Version": "250330.1.0",
-    "Id": 202,
-    "ItemId": 20,
-    "Level": 2,
-    "AnimationId": 202,
-    "Weight": 10,
-    "ConditionGroupId": 0
-  },
-  {
-    "Version": "250330.1.0",
-    "Id": 211,
-    "ItemId": 21,
-    "Level": 1,
-    "AnimationId": 201,
-    "Weight": 10,
-    "ConditionGroupId": 0
-  },
-  {
-    "Version": "250330.1.0",
-    "Id": 212,
-    "ItemId": 21,
-    "Level": 2,
-    "AnimationId": 202,
-    "Weight": 10,
-    "ConditionGroupId": 0
-  },
-  {
-    "Version": "250330.1.0",
-    "Id": 221,
-    "ItemId": 22,
-    "Level": 1,
-    "AnimationId": 201,
-    "Weight": 10,
-    "ConditionGroupId": 0
-  },
-  {
-    "Version": "250330.1.0",
-    "Id": 222,
-    "ItemId": 22,
-    "Level": 2,
-    "AnimationId": 202,
-    "Weight": 10,
-    "ConditionGroupId": 0
-  },
-  {
-    "Version": "250330.1.0",
-    "Id": 231,
-    "ItemId": 23,
-    "Level": 1,
-    "AnimationId": 201,
-    "Weight": 10,
-    "ConditionGroupId": 0
-  },
-  {
-    "Version": "250330.1.0",
-    "Id": 232,
-    "ItemId": 23,
-    "Level": 2,
-    "AnimationId": 202,
-    "Weight": 10,
-    "ConditionGroupId": 0
-  },
-  {
-    "Version": "250330.1.0",
-    "Id": 251,
-    "ItemId": 25,
-    "Level": 1,
-    "AnimationId": 201,
-    "Weight": 10,
-    "ConditionGroupId": 0
-  },
-  {
-    "Version": "250330.1.0",
-    "Id": 252,
-    "ItemId": 25,
-    "Level": 2,
-    "AnimationId": 202,
-    "Weight": 10,
-    "ConditionGroupId": 0
-  },
-  {
-    "Version": "250330.1.0",
-    "Id": 253,
-    "ItemId": 25,
-    "Level": 3,
-    "AnimationId": 203,
-    "Weight": 10,
-    "ConditionGroupId": 0
-  },
-  {
-    "Version": "250330.1.0",
-    "Id": 261,
-    "ItemId": 26,
-    "Level": 1,
-    "AnimationId": 201,
-    "Weight": 10,
-    "ConditionGroupId": 0
-  },
-  {
-    "Version": "250330.1.0",
-    "Id": 262,
-    "ItemId": 26,
-    "Level": 2,
-    "AnimationId": 202,
-    "Weight": 10,
-    "ConditionGroupId": 0
-  },
-  {
-    "Version": "250330.1.0",
-    "Id": 263,
-    "ItemId": 26,
-    "Level": 3,
-    "AnimationId": 203,
-    "Weight": 10,
-    "ConditionGroupId": 0
-  },
-  {
-    "Version": "250330.1.0",
-    "Id": 271,
-    "ItemId": 27,
-    "Level": 1,
-    "AnimationId": 201,
-    "Weight": 10,
-    "ConditionGroupId": 0
-  },
-  {
-    "Version": "250330.1.0",
-    "Id": 272,
-    "ItemId": 27,
-    "Level": 2,
-    "AnimationId": 202,
-    "Weight": 10,
-    "ConditionGroupId": 0
-  },
-  {
-    "Version": "250330.1.0",
-    "Id": 273,
-    "ItemId": 27,
-    "Level": 3,
-    "AnimationId": 203,
-    "Weight": 10,
-    "ConditionGroupId": 0
-  },
-  {
-    "Version": "250410.1.0",
-    "Id": 281,
-    "ItemId": 28,
-    "Level": 1,
-    "AnimationId": 201,
-    "Weight": 10,
-    "ConditionGroupId": 0
-  },
-  {
-    "Version": "250410.1.0",
-    "Id": 282,
-    "ItemId": 28,
-    "Level": 2,
-    "AnimationId": 202,
-    "Weight": 10,
-    "ConditionGroupId": 0
-  },
-  {
-    "Version": "250410.1.0",
-    "Id": 283,
-    "ItemId": 28,
-    "Level": 3,
-    "AnimationId": 203,
-    "Weight": 10,
-    "ConditionGroupId": 0
-  },
-  {
-    "Version": "250350.1.0",
-    "Id": 291,
-    "ItemId": 29,
-    "Level": 1,
-    "AnimationId": 201,
-    "Weight": 10,
-    "ConditionGroupId": 0
-  },
-  {
-    "Version": "250350.1.0",
-    "Id": 292,
-    "ItemId": 29,
-    "Level": 2,
-    "AnimationId": 202,
-    "Weight": 10,
-    "ConditionGroupId": 0
-  },
-  {
-    "Version": "250350.1.0",
-    "Id": 293,
-    "ItemId": 29,
-    "Level": 3,
-    "AnimationId": 203,
-    "Weight": 10,
-    "ConditionGroupId": 0
-  },
-  {
-    "Version": "250350.1.0",
-    "Id": 301,
-    "ItemId": 30,
-    "Level": 1,
-    "AnimationId": 201,
-    "Weight": 10,
-    "ConditionGroupId": 0
-  },
-  {
-    "Version": "250350.1.0",
-    "Id": 302,
-    "ItemId": 30,
-    "Level": 2,
-    "AnimationId": 202,
-    "Weight": 10,
-    "ConditionGroupId": 0
-  },
-  {
-    "Version": "250350.1.0",
-    "Id": 303,
-    "ItemId": 30,
-    "Level": 3,
-    "AnimationId": 203,
-    "Weight": 10,
-    "ConditionGroupId": 0
-  },
-  {
-    "Version": "250410.1.0",
-    "Id": 311,
-    "ItemId": 31,
-    "Level": 1,
-    "AnimationId": 201,
-    "Weight": 10,
-    "ConditionGroupId": 0
-  },
-  {
-    "Version": "250410.1.0",
-    "Id": 312,
-    "ItemId": 31,
-    "Level": 2,
-    "AnimationId": 202,
-    "Weight": 10,
-    "ConditionGroupId": 0
-  },
-  {
-    "Version": "250410.1.0",
-    "Id": 313,
-    "ItemId": 31,
-    "Level": 3,
-    "AnimationId": 203,
-    "Weight": 10,
-    "ConditionGroupId": 0
-  },
-  {
-    "Version": "250330.1.0",
-    "Id": 321,
-    "ItemId": 32,
-    "Level": 1,
-    "AnimationId": 201,
-    "Weight": 10,
-    "ConditionGroupId": 0
-  },
-  {
-    "Version": "250330.1.0",
-    "Id": 322,
-    "ItemId": 32,
-    "Level": 2,
-    "AnimationId": 202,
-    "Weight": 10,
-    "ConditionGroupId": 0
-  },
-  {
-    "Version": "250330.1.0",
-    "Id": 323,
-    "ItemId": 32,
-    "Level": 3,
-    "AnimationId": 203,
-    "Weight": 10,
-    "ConditionGroupId": 0
-  },
-  {
-    "Version": "250612.1.0",
-    "Id": 331,
-    "ItemId": 33,
-    "Level": 1,
-    "AnimationId": 201,
-    "Weight": 10,
-    "ConditionGroupId": 0
-  },
-  {
-    "Version": "250610.1.0",
-    "Id": 341,
-    "ItemId": 34,
-    "Level": 1,
-    "AnimationId": 201,
-    "Weight": 10,
-    "ConditionGroupId": 0
-  },
-  {
-    "Version": "250610.1.0",
-    "Id": 342,
-    "ItemId": 34,
-    "Level": 2,
-    "AnimationId": 202,
-    "Weight": 10,
-    "ConditionGroupId": 0
-  },
-  {
-    "Version": "250610.1.0",
-    "Id": 343,
-    "ItemId": 34,
-    "Level": 3,
-    "AnimationId": 203,
-    "Weight": 10,
-    "ConditionGroupId": 0
-  },
-  {
-    "Version": "250612.1.0",
-    "Id": 351,
-    "ItemId": 35,
-    "Level": 1,
-    "AnimationId": 201,
-    "Weight": 10,
-    "ConditionGroupId": 0
-  },
-  {
-    "Version": "250612.1.0",
-    "Id": 371,
-    "ItemId": 37,
-    "Level": 1,
-    "AnimationId": 201,
-    "Weight": 10,
-    "ConditionGroupId": 0
-  },
-  {
-    "Version": "250612.1.0",
-    "Id": 372,
-    "ItemId": 37,
-    "Level": 2,
-    "AnimationId": 202,
-    "Weight": 10,
-    "ConditionGroupId": 0
-  },
-  {
-    "Version": "250612.1.0",
-    "Id": 373,
-    "ItemId": 37,
-    "Level": 3,
-    "AnimationId": 203,
-    "Weight": 10,
-    "ConditionGroupId": 0
-  },
-  {
-    "Version": "250810.1.0",
-    "Id": 381,
-    "ItemId": 38,
-    "Level": 1,
-    "AnimationId": 201,
-    "Weight": 10,
-    "ConditionGroupId": 0
-  },
-  {
-    "Version": "250810.1.0",
-    "Id": 382,
-    "ItemId": 38,
-    "Level": 2,
-    "AnimationId": 202,
-    "Weight": 10,
-    "ConditionGroupId": 0
-  },
-  {
-    "Version": "250810.1.0",
-    "Id": 383,
-    "ItemId": 38,
-    "Level": 3,
-    "AnimationId": 203,
-    "Weight": 10,
-    "ConditionGroupId": 0
-  },
-  {
-    "Version": "250700.1.0",
-    "Id": 391,
-    "ItemId": 39,
-    "Level": 1,
-    "AnimationId": 201,
-    "Weight": 10,
-    "ConditionGroupId": 0
-  },
-  {
-    "Version": "250700.1.0",
-    "Id": 392,
-    "ItemId": 39,
-    "Level": 2,
-    "AnimationId": 202,
-    "Weight": 10,
-    "ConditionGroupId": 0
-  },
-  {
-    "Version": "250700.1.0",
-    "Id": 393,
-    "ItemId": 39,
-    "Level": 3,
-    "AnimationId": 203,
-    "Weight": 10,
-    "ConditionGroupId": 0
-  },
-  {
-    "Version": "250510.1.0",
-    "Id": 411,
-    "ItemId": 41,
-    "Level": 1,
-    "AnimationId": 201,
-    "Weight": 10,
-    "ConditionGroupId": 0
-  },
-  {
-    "Version": "250510.1.0",
-    "Id": 412,
-    "ItemId": 41,
-    "Level": 2,
-    "AnimationId": 202,
-    "Weight": 10,
-    "ConditionGroupId": 0
-  },
-  {
-    "Version": "250510.1.0",
-    "Id": 413,
-    "ItemId": 41,
-    "Level": 3,
-    "AnimationId": 203,
-    "Weight": 10,
-    "ConditionGroupId": 0
-  },
-  {
-    "Version": "250350.1.0",
-    "Id": 421,
-    "ItemId": 42,
-    "Level": 1,
-    "AnimationId": 201,
-    "Weight": 10,
-    "ConditionGroupId": 0
-  },
-  {
-    "Version": "250350.1.0",
-    "Id": 422,
-    "ItemId": 42,
-    "Level": 2,
-    "AnimationId": 202,
-    "Weight": 10,
-    "ConditionGroupId": 0
-  },
-  {
-    "Version": "250410.1.0",
-    "Id": 431,
-    "ItemId": 43,
-    "Level": 1,
-    "AnimationId": 201,
-    "Weight": 10,
-    "ConditionGroupId": 0
-  },
-  {
-    "Version": "250410.1.0",
-    "Id": 432,
-    "ItemId": 43,
-    "Level": 2,
-    "AnimationId": 202,
-    "Weight": 10,
-    "ConditionGroupId": 0
-  },
-  {
-    "Version": "250440.1.0",
-    "Id": 441,
-    "ItemId": 44,
-    "Level": 1,
-    "AnimationId": 201,
-    "Weight": 10,
-    "ConditionGroupId": 0
-  },
-  {
-    "Version": "250440.1.0",
-    "Id": 442,
-    "ItemId": 44,
-    "Level": 2,
-    "AnimationId": 202,
-    "Weight": 10,
-    "ConditionGroupId": 0
-  },
-  {
-    "Version": "250440.1.0",
-    "Id": 443,
-    "ItemId": 44,
-    "Level": 3,
-    "AnimationId": 203,
-    "Weight": 10,
-    "ConditionGroupId": 0
-  },
-  {
-    "Version": "250440.1.0",
-    "Id": 451,
-    "ItemId": 45,
-    "Level": 1,
-    "AnimationId": 201,
-    "Weight": 10,
-    "ConditionGroupId": 0
-  },
-  {
-    "Version": "250440.1.0",
-    "Id": 452,
-    "ItemId": 45,
-    "Level": 2,
-    "AnimationId": 202,
-    "Weight": 10,
-    "ConditionGroupId": 0
-  },
-  {
-    "Version": "250440.1.0",
-    "Id": 453,
-    "ItemId": 45,
-    "Level": 3,
-    "AnimationId": 203,
-    "Weight": 10,
-    "ConditionGroupId": 0
-  },
-  {
-    "Version": "250450.1.0",
-    "Id": 461,
-    "ItemId": 46,
-    "Level": 1,
-    "AnimationId": 201,
-    "Weight": 10,
-    "ConditionGroupId": 0
-  },
-  {
-    "Version": "250450.1.0",
-    "Id": 462,
-    "ItemId": 46,
-    "Level": 2,
-    "AnimationId": 202,
-    "Weight": 10,
-    "ConditionGroupId": 0
-  },
-  {
-    "Version": "250450.1.0",
-    "Id": 463,
-    "ItemId": 46,
-    "Level": 3,
-    "AnimationId": 203,
-    "Weight": 10,
-    "ConditionGroupId": 0
-  },
-  {
-    "Version": "250440.1.0",
-    "Id": 471,
-    "ItemId": 47,
-    "Level": 1,
-    "AnimationId": 201,
-    "Weight": 10,
-    "ConditionGroupId": 0
-  },
-  {
-    "Version": "250440.1.0",
-    "Id": 472,
-    "ItemId": 47,
-    "Level": 2,
-    "AnimationId": 202,
-    "Weight": 10,
-    "ConditionGroupId": 0
-  },
-  {
-    "Version": "250450.1.0",
-    "Id": 481,
-    "ItemId": 48,
-    "Level": 1,
-    "AnimationId": 201,
-    "Weight": 10,
-    "ConditionGroupId": 0
-  },
-  {
-    "Version": "250450.1.0",
-    "Id": 482,
-    "ItemId": 48,
-    "Level": 2,
-    "AnimationId": 202,
-    "Weight": 10,
-    "ConditionGroupId": 0
-  },
-  {
-    "Version": "250550.1.0",
-    "Id": 491,
-    "ItemId": 49,
-    "Level": 1,
-    "AnimationId": 201,
-    "Weight": 10,
-    "ConditionGroupId": 0
-  },
-  {
-    "Version": "250550.1.0",
-    "Id": 492,
-    "ItemId": 49,
-    "Level": 2,
-    "AnimationId": 202,
-    "Weight": 10,
-    "ConditionGroupId": 0
-  },
-  {
-    "Version": "250550.1.0",
-    "Id": 493,
-    "ItemId": 49,
-    "Level": 3,
-    "AnimationId": 203,
-    "Weight": 10,
-    "ConditionGroupId": 0
-  },
-  {
-    "Version": "250550.1.0",
-    "Id": 501,
-    "ItemId": 50,
-    "Level": 1,
-    "AnimationId": 201,
-    "Weight": 10,
-    "ConditionGroupId": 0
-  },
-  {
-    "Version": "250550.1.0",
-    "Id": 502,
-    "ItemId": 50,
-    "Level": 2,
-    "AnimationId": 202,
-    "Weight": 10,
-    "ConditionGroupId": 0
-  },
-  {
-    "Version": "250550.1.0",
-    "Id": 503,
-    "ItemId": 50,
-    "Level": 3,
-    "AnimationId": 203,
-    "Weight": 10,
-    "ConditionGroupId": 0
-  },
-  {
-    "Version": "250550.1.0",
-    "Id": 511,
-    "ItemId": 51,
-    "Level": 1,
-    "AnimationId": 201,
-    "Weight": 10,
-    "ConditionGroupId": 0
-  },
-  {
-    "Version": "250550.1.0",
-    "Id": 512,
-    "ItemId": 51,
-    "Level": 2,
-    "AnimationId": 202,
-    "Weight": 10,
-    "ConditionGroupId": 0
-  },
-  {
-    "Version": "250550.1.0",
-    "Id": 513,
-    "ItemId": 51,
-    "Level": 3,
-    "AnimationId": 203,
-    "Weight": 10,
-    "ConditionGroupId": 0
-  },
-  {
-    "Version": "250550.1.0",
-    "Id": 521,
-    "ItemId": 52,
-    "Level": 1,
-    "AnimationId": 201,
-    "Weight": 10,
-    "ConditionGroupId": 0
-  },
-  {
-    "Version": "250550.1.0",
-    "Id": 522,
-    "ItemId": 52,
-    "Level": 2,
-    "AnimationId": 202,
-    "Weight": 10,
-    "ConditionGroupId": 0
-  },
-  {
-    "Version": "250530.1.0",
-    "Id": 531,
-    "ItemId": 53,
-    "Level": 1,
-    "AnimationId": 201,
-    "Weight": 10,
-    "ConditionGroupId": 0
-  },
-  {
-    "Version": "250530.1.0",
-    "Id": 532,
-    "ItemId": 53,
-    "Level": 2,
-    "AnimationId": 202,
-    "Weight": 10,
-    "ConditionGroupId": 0
-  },
-  {
-    "Version": "250630.1.0",
-    "Id": 541,
-    "ItemId": 54,
-    "Level": 1,
-    "AnimationId": 201,
-    "Weight": 10,
-    "ConditionGroupId": 0
-  },
-  {
-    "Version": "250630.1.0",
-    "Id": 542,
-    "ItemId": 54,
-    "Level": 2,
-    "AnimationId": 202,
-    "Weight": 10,
-    "ConditionGroupId": 0
-  },
-  {
-    "Version": "250610.1.0",
-    "Id": 551,
-    "ItemId": 55,
-    "Level": 1,
-    "AnimationId": 201,
-    "Weight": 10,
-    "ConditionGroupId": 0
-  },
-  {
-    "Version": "250610.1.0",
-    "Id": 552,
-    "ItemId": 55,
-    "Level": 2,
-    "AnimationId": 202,
-    "Weight": 10,
-    "ConditionGroupId": 0
-  },
-  {
-    "Version": "250610.1.0",
-    "Id": 553,
-    "ItemId": 55,
-    "Level": 3,
-    "AnimationId": 203,
-    "Weight": 10,
-    "ConditionGroupId": 0
-  },
-  {
-    "Version": "250630.1.0",
-    "Id": 561,
-    "ItemId": 56,
-    "Level": 1,
-    "AnimationId": 201,
-    "Weight": 10,
-    "ConditionGroupId": 0
-  },
-  {
-    "Version": "250630.1.0",
-    "Id": 562,
-    "ItemId": 56,
-    "Level": 2,
-    "AnimationId": 202,
-    "Weight": 10,
-    "ConditionGroupId": 0
-  },
-  {
-    "Version": "250630.1.0",
-    "Id": 563,
-    "ItemId": 56,
-    "Level": 3,
-    "AnimationId": 203,
-    "Weight": 10,
-    "ConditionGroupId": 0
-  },
-  {
-    "Version": "250610.1.0",
-    "Id": 571,
-    "ItemId": 57,
-    "Level": 1,
-    "AnimationId": 201,
-    "Weight": 10,
-    "ConditionGroupId": 0
-  },
-  {
-    "Version": "250610.1.0",
-    "Id": 572,
-    "ItemId": 57,
-    "Level": 2,
-    "AnimationId": 202,
-    "Weight": 10,
-    "ConditionGroupId": 0
-  },
-  {
-    "Version": "250610.1.0",
-    "Id": 573,
-    "ItemId": 57,
-    "Level": 3,
-    "AnimationId": 203,
-    "Weight": 10,
-    "ConditionGroupId": 0
-  },
-  {
-    "Version": "250610.1.0",
-    "Id": 581,
-    "ItemId": 58,
-    "Level": 1,
-    "AnimationId": 201,
-    "Weight": 10,
-    "ConditionGroupId": 0
-  },
-  {
-    "Version": "250610.1.0",
-    "Id": 582,
-    "ItemId": 58,
-    "Level": 2,
-    "AnimationId": 202,
-    "Weight": 10,
-    "ConditionGroupId": 0
-  },
-  {
-    "Version": "250710.1.0",
-    "Id": 591,
-    "ItemId": 59,
-    "Level": 1,
-    "AnimationId": 201,
-    "Weight": 10,
-    "ConditionGroupId": 0
-  },
-  {
-    "Version": "250710.1.0",
-    "Id": 592,
-    "ItemId": 59,
-    "Level": 2,
-    "AnimationId": 202,
-    "Weight": 10,
-    "ConditionGroupId": 0
-  },
-  {
-    "Version": "250710.1.0",
-    "Id": 593,
-    "ItemId": 59,
-    "Level": 3,
-    "AnimationId": 203,
-    "Weight": 10,
-    "ConditionGroupId": 0
-  },
-  {
-    "Version": "250710.1.0",
-    "Id": 601,
-    "ItemId": 60,
-    "Level": 1,
-    "AnimationId": 201,
-    "Weight": 10,
-    "ConditionGroupId": 0
-  },
-  {
-    "Version": "250710.1.0",
-    "Id": 602,
-    "ItemId": 60,
-    "Level": 2,
-    "AnimationId": 202,
-    "Weight": 10,
-    "ConditionGroupId": 0
-  },
-  {
-    "Version": "250710.1.0",
-    "Id": 603,
-    "ItemId": 60,
-    "Level": 3,
-    "AnimationId": 203,
-    "Weight": 10,
-    "ConditionGroupId": 0
-  },
-  {
-    "Version": "250730.1.0",
-    "Id": 611,
-    "ItemId": 61,
-    "Level": 1,
-    "AnimationId": 201,
-    "Weight": 10,
-    "ConditionGroupId": 0
-  },
-  {
-    "Version": "250730.1.0",
-    "Id": 612,
-    "ItemId": 61,
-    "Level": 2,
-    "AnimationId": 202,
-    "Weight": 10,
-    "ConditionGroupId": 0
-  },
-  {
-    "Version": "250730.1.0",
-    "Id": 613,
-    "ItemId": 61,
-    "Level": 3,
-    "AnimationId": 203,
-    "Weight": 10,
-    "ConditionGroupId": 0
-  },
-  {
-    "Version": "250710.1.0",
-    "Id": 621,
-    "ItemId": 62,
-    "Level": 1,
-    "AnimationId": 201,
-    "Weight": 10,
-    "ConditionGroupId": 0
-  },
-  {
-    "Version": "250710.1.0",
-    "Id": 622,
-    "ItemId": 62,
-    "Level": 2,
-    "AnimationId": 202,
-    "Weight": 10,
-    "ConditionGroupId": 0
-  },
-  {
-    "Version": "250730.1.0",
-    "Id": 631,
-    "ItemId": 63,
-    "Level": 1,
-    "AnimationId": 201,
-    "Weight": 10,
-    "ConditionGroupId": 0
-  },
-  {
-    "Version": "250730.1.0",
-    "Id": 632,
-    "ItemId": 63,
-    "Level": 2,
-    "AnimationId": 202,
-    "Weight": 10,
-    "ConditionGroupId": 0
-  },
-  {
-    "Version": "250810.1.0",
-    "Id": 641,
-    "ItemId": 64,
-    "Level": 1,
-    "AnimationId": 201,
-    "Weight": 10,
-    "ConditionGroupId": 0
-  },
-  {
-    "Version": "250810.1.0",
-    "Id": 642,
-    "ItemId": 64,
-    "Level": 2,
-    "AnimationId": 202,
-    "Weight": 10,
-    "ConditionGroupId": 0
-  },
-  {
-    "Version": "250820.1.0",
-    "Id": 651,
-    "ItemId": 65,
-    "Level": 1,
-    "AnimationId": 201,
-    "Weight": 10,
-    "ConditionGroupId": 0
-  },
-  {
-    "Version": "250820.1.0",
-    "Id": 652,
-    "ItemId": 65,
-    "Level": 2,
-    "AnimationId": 202,
-    "Weight": 10,
-    "ConditionGroupId": 0
-  },
-  {
-    "Version": "250820.1.0",
-    "Id": 661,
-    "ItemId": 66,
-    "Level": 1,
-    "AnimationId": 201,
-    "Weight": 10,
-    "ConditionGroupId": 0
-  },
-  {
-    "Version": "250820.1.0",
-    "Id": 662,
-    "ItemId": 66,
-    "Level": 2,
-    "AnimationId": 202,
-    "Weight": 10,
-    "ConditionGroupId": 0
-  },
-  {
-    "Version": "250820.1.0",
-    "Id": 663,
-    "ItemId": 66,
-    "Level": 3,
-    "AnimationId": 203,
-    "Weight": 10,
-    "ConditionGroupId": 0
-  },
-  {
-    "Version": "250930.1.0",
-    "Id": 671,
-    "ItemId": 67,
-    "Level": 1,
-    "AnimationId": 201,
-    "Weight": 10,
-    "ConditionGroupId": 0
-  },
-  {
-    "Version": "250930.1.0",
-    "Id": 672,
-    "ItemId": 67,
-    "Level": 2,
-    "AnimationId": 202,
-    "Weight": 10,
-    "ConditionGroupId": 0
-  },
-  {
-    "Version": "250930.1.0",
-    "Id": 673,
-    "ItemId": 67,
-    "Level": 3,
-    "AnimationId": 203,
-    "Weight": 10,
-    "ConditionGroupId": 0
-  },
-  {
-    "Version": "250930.1.0",
-    "Id": 681,
-    "ItemId": 68,
-    "Level": 1,
-    "AnimationId": 201,
-    "Weight": 10,
-    "ConditionGroupId": 0
-  },
-  {
-    "Version": "250930.1.0",
-    "Id": 682,
-    "ItemId": 68,
-    "Level": 2,
-    "AnimationId": 202,
-    "Weight": 10,
-    "ConditionGroupId": 0
-  },
-  {
-    "Version": "250910.1.0",
-    "Id": 691,
-    "ItemId": 69,
-    "Level": 1,
-    "AnimationId": 201,
-    "Weight": 10,
-    "ConditionGroupId": 0
-  },
-  {
-    "Version": "250910.1.0",
-    "Id": 692,
-    "ItemId": 69,
-    "Level": 2,
-    "AnimationId": 202,
-    "Weight": 10,
-    "ConditionGroupId": 0
-  },
-  {
-    "Version": "250910.1.0",
-    "Id": 701,
-    "ItemId": 70,
-    "Level": 1,
-    "AnimationId": 201,
-    "Weight": 10,
-    "ConditionGroupId": 0
-  },
-  {
-    "Version": "250910.1.0",
-    "Id": 702,
-    "ItemId": 70,
-    "Level": 2,
-    "AnimationId": 202,
-    "Weight": 10,
-    "ConditionGroupId": 0
-  },
-  {
-    "Version": "250910.1.0",
-    "Id": 703,
-    "ItemId": 70,
-    "Level": 3,
-    "AnimationId": 203,
-    "Weight": 10,
-    "ConditionGroupId": 0
-  },
-  {
-    "Version": "251010.1.0",
-    "Id": 711,
-    "ItemId": 71,
-    "Level": 1,
-    "AnimationId": 201,
-    "Weight": 10,
-    "ConditionGroupId": 0
-  },
-  {
-    "Version": "251010.1.0",
-    "Id": 712,
-    "ItemId": 71,
-    "Level": 2,
-    "AnimationId": 202,
-    "Weight": 10,
-    "ConditionGroupId": 0
-  },
-  {
-    "Version": "251010.1.0",
-    "Id": 713,
-    "ItemId": 71,
-    "Level": 3,
-    "AnimationId": 203,
-    "Weight": 10,
-    "ConditionGroupId": 0
-  },
-  {
-    "Version": "251020.1.0",
-    "Id": 721,
-    "ItemId": 72,
-    "Level": 1,
-    "AnimationId": 201,
-    "Weight": 10,
-    "ConditionGroupId": 0
-  },
-  {
-    "Version": "251020.1.0",
-    "Id": 722,
-    "ItemId": 72,
-    "Level": 2,
-    "AnimationId": 202,
-    "Weight": 10,
-    "ConditionGroupId": 0
-  },
-  {
-    "Version": "251020.1.0",
-    "Id": 723,
-    "ItemId": 72,
-    "Level": 3,
-    "AnimationId": 203,
-    "Weight": 10,
-    "ConditionGroupId": 0
-  },
-  {
-    "Version": "251010.1.0",
-    "Id": 731,
-    "ItemId": 73,
-    "Level": 1,
-    "AnimationId": 201,
-    "Weight": 10,
-    "ConditionGroupId": 0
-  },
-  {
-    "Version": "251010.1.0",
-    "Id": 732,
-    "ItemId": 73,
-    "Level": 2,
-    "AnimationId": 202,
-    "Weight": 10,
-    "ConditionGroupId": 0
-  },
-  {
-    "Version": "251010.1.0",
-    "Id": 741,
-    "ItemId": 74,
-    "Level": 1,
-    "AnimationId": 201,
-    "Weight": 10,
-    "ConditionGroupId": 0
-  },
-  {
-    "Version": "251010.1.0",
-    "Id": 742,
-    "ItemId": 74,
-    "Level": 2,
-    "AnimationId": 202,
-    "Weight": 10,
-    "ConditionGroupId": 0
-  },
-  {
-    "Version": "251010.1.0",
-    "Id": 743,
-    "ItemId": 74,
-    "Level": 3,
-    "AnimationId": 203,
-    "Weight": 10,
-    "ConditionGroupId": 0
-  },
-  {
-    "Version": "251110.1.0",
-    "Id": 751,
-    "ItemId": 75,
-    "Level": 1,
-    "AnimationId": 201,
-    "Weight": 10,
-    "ConditionGroupId": 0
-  },
-  {
-    "Version": "251110.1.0",
-    "Id": 752,
-    "ItemId": 75,
-    "Level": 2,
-    "AnimationId": 202,
-    "Weight": 10,
-    "ConditionGroupId": 0
-  },
-  {
-    "Version": "251110.1.0",
-    "Id": 753,
-    "ItemId": 75,
-    "Level": 3,
-    "AnimationId": 203,
-    "Weight": 10,
-    "ConditionGroupId": 0
-  },
-  {
-    "Version": "251030.1.0",
-    "Id": 761,
-    "ItemId": 76,
-    "Level": 1,
-    "AnimationId": 201,
-    "Weight": 10,
-    "ConditionGroupId": 0
-  },
-  {
-    "Version": "251030.1.0",
-    "Id": 762,
-    "ItemId": 76,
-    "Level": 2,
-    "AnimationId": 202,
-    "Weight": 10,
-    "ConditionGroupId": 0
-  },
-  {
-    "Version": "251110.1.0",
-    "Id": 771,
-    "ItemId": 77,
-    "Level": 1,
-    "AnimationId": 201,
-    "Weight": 10,
-    "ConditionGroupId": 0
-  },
-  {
-    "Version": "251110.1.0",
-    "Id": 772,
-    "ItemId": 77,
-    "Level": 2,
-    "AnimationId": 202,
-    "Weight": 10,
-    "ConditionGroupId": 0
-  },
-  {
-    "Version": "251110.1.0",
-    "Id": 781,
-    "ItemId": 78,
-    "Level": 1,
-    "AnimationId": 201,
-    "Weight": 10,
-    "ConditionGroupId": 0
-  },
-  {
-    "Version": "251110.1.0",
-    "Id": 782,
-    "ItemId": 78,
-    "Level": 2,
-    "AnimationId": 202,
-    "Weight": 10,
-    "ConditionGroupId": 0
-  },
-  {
-    "Version": "251110.1.0",
-    "Id": 783,
-    "ItemId": 78,
-    "Level": 3,
-    "AnimationId": 203,
-    "Weight": 10,
-    "ConditionGroupId": 0
-  },
-  {
-    "Version": "251230.1.0",
-    "Id": 791,
-    "ItemId": 79,
-    "Level": 1,
-    "AnimationId": 201,
-    "Weight": 10,
-    "ConditionGroupId": 0
-  },
-  {
-    "Version": "251230.1.0",
-    "Id": 792,
-    "ItemId": 79,
-    "Level": 2,
-    "AnimationId": 202,
-    "Weight": 10,
-    "ConditionGroupId": 0
-  },
-  {
-    "Version": "251230.1.0",
-    "Id": 793,
-    "ItemId": 79,
-    "Level": 3,
-    "AnimationId": 203,
-    "Weight": 10,
-    "ConditionGroupId": 0
-  },
-  {
-    "Version": "251230.1.0",
-    "Id": 801,
-    "ItemId": 80,
-    "Level": 1,
-    "AnimationId": 201,
-    "Weight": 10,
-    "ConditionGroupId": 0
-  },
-  {
-    "Version": "251230.1.0",
-    "Id": 802,
-    "ItemId": 80,
-    "Level": 2,
-    "AnimationId": 202,
-    "Weight": 10,
-    "ConditionGroupId": 0
-  },
-  {
-    "Version": "251210.1.0",
-    "Id": 811,
-    "ItemId": 81,
-    "Level": 1,
-    "AnimationId": 201,
-    "Weight": 10,
-    "ConditionGroupId": 0
-  },
-  {
-    "Version": "251210.1.0",
-    "Id": 812,
-    "ItemId": 81,
-    "Level": 2,
-    "AnimationId": 202,
-    "Weight": 10,
-    "ConditionGroupId": 0
-  },
-  {
-    "Version": "251210.1.0",
-    "Id": 821,
-    "ItemId": 82,
-    "Level": 1,
-    "AnimationId": 201,
-    "Weight": 10,
-    "ConditionGroupId": 0
-  },
-  {
-    "Version": "251210.1.0",
-    "Id": 822,
-    "ItemId": 82,
-    "Level": 2,
-    "AnimationId": 202,
-    "Weight": 10,
-    "ConditionGroupId": 0
-  },
-  {
-    "Version": "251210.1.0",
-    "Id": 823,
-    "ItemId": 82,
-    "Level": 3,
-    "AnimationId": 203,
-    "Weight": 10,
-    "ConditionGroupId": 0
-  },
-  {
-    "Version": "260130.1.0",
-    "Id": 831,
-    "ItemId": 83,
-    "Level": 1,
-    "AnimationId": 201,
-    "Weight": 10,
-    "ConditionGroupId": 0
-  },
-  {
-    "Version": "260130.1.0",
-    "Id": 832,
-    "ItemId": 83,
-    "Level": 2,
-    "AnimationId": 202,
-    "Weight": 10,
-    "ConditionGroupId": 0
-  },
-  {
-    "Version": "260130.1.0",
-    "Id": 833,
-    "ItemId": 83,
-    "Level": 3,
-    "AnimationId": 203,
-    "Weight": 10,
-    "ConditionGroupId": 0
-  },
-  {
-    "Version": "260110.1.0",
-    "Id": 841,
-    "ItemId": 84,
-    "Level": 1,
-    "AnimationId": 201,
-    "Weight": 10,
-    "ConditionGroupId": 0
-  },
-  {
-    "Version": "260110.1.0",
-    "Id": 842,
-    "ItemId": 84,
-    "Level": 2,
-    "AnimationId": 202,
-    "Weight": 10,
-    "ConditionGroupId": 0
-  },
-  {
-    "Version": "260130.1.0",
-    "Id": 851,
-    "ItemId": 85,
-    "Level": 1,
-    "AnimationId": 201,
-    "Weight": 10,
-    "ConditionGroupId": 0
-  },
-  {
-    "Version": "260130.1.0",
-    "Id": 852,
-    "ItemId": 85,
-    "Level": 2,
-    "AnimationId": 202,
-    "Weight": 10,
-    "ConditionGroupId": 0
-  },
-  {
-    "Version": "260110.1.0",
-    "Id": 861,
-    "ItemId": 86,
-    "Level": 1,
-    "AnimationId": 201,
-    "Weight": 10,
-    "ConditionGroupId": 0
-  },
-  {
-    "Version": "260110.1.0",
-    "Id": 862,
-    "ItemId": 86,
-    "Level": 2,
-    "AnimationId": 202,
-    "Weight": 10,
-    "ConditionGroupId": 0
-  },
-  {
-    "Version": "260110.1.0",
-    "Id": 863,
-    "ItemId": 86,
-    "Level": 3,
-    "AnimationId": 203,
-    "Weight": 10,
-    "ConditionGroupId": 0
-  },
-  {
-    "Version": "260130.1.0",
-    "Id": 871,
-    "ItemId": 87,
-    "Level": 1,
-    "AnimationId": 201,
-    "Weight": 10,
-    "ConditionGroupId": 0
-  },
-  {
-    "Version": "260230.1.0",
-    "Id": 881,
-    "ItemId": 88,
-    "Level": 1,
-    "AnimationId": 201,
-    "Weight": 10,
-    "ConditionGroupId": 0
-  },
-  {
-    "Version": "260230.1.0",
-    "Id": 882,
-    "ItemId": 88,
-    "Level": 2,
-    "AnimationId": 202,
-    "Weight": 10,
-    "ConditionGroupId": 0
-  },
-  {
-    "Version": "260210.1.0",
-    "Id": 891,
-    "ItemId": 89,
-    "Level": 1,
-    "AnimationId": 201,
-    "Weight": 10,
-    "ConditionGroupId": 0
-  },
-  {
-    "Version": "260210.1.0",
-    "Id": 892,
-    "ItemId": 89,
-    "Level": 2,
-    "AnimationId": 202,
-    "Weight": 10,
-    "ConditionGroupId": 0
-  },
-  {
-    "Version": "260230.1.0",
-    "Id": 901,
-    "ItemId": 90,
-    "Level": 1,
-    "AnimationId": 201,
-    "Weight": 10,
-    "ConditionGroupId": 0
-  },
-  {
-    "Version": "260230.1.0",
-    "Id": 902,
-    "ItemId": 90,
-    "Level": 2,
-    "AnimationId": 202,
-    "Weight": 10,
-    "ConditionGroupId": 0
-  },
-  {
-    "Version": "260210.1.0",
-    "Id": 911,
-    "ItemId": 91,
-    "Level": 1,
-    "AnimationId": 201,
-    "Weight": 10,
-    "ConditionGroupId": 0
-  },
-  {
-    "Version": "260210.1.0",
-    "Id": 912,
-    "ItemId": 91,
-    "Level": 2,
-    "AnimationId": 202,
-    "Weight": 10,
-    "ConditionGroupId": 0
-  },
-  {
-    "Version": "260330.1.0",
-    "Id": 921,
-    "ItemId": 92,
-    "Level": 1,
-    "AnimationId": 201,
-    "Weight": 10,
-    "ConditionGroupId": 0
-  },
-  {
-    "Version": "260330.1.0",
-    "Id": 922,
-    "ItemId": 92,
-    "Level": 2,
-    "AnimationId": 202,
-    "Weight": 10,
-    "ConditionGroupId": 0
-  },
-  {
-    "Version": "260310.1.0",
-    "Id": 931,
-    "ItemId": 93,
-    "Level": 1,
-    "AnimationId": 201,
-    "Weight": 10,
-    "ConditionGroupId": 0
-  },
-  {
-    "Version": "260310.1.0",
-    "Id": 932,
-    "ItemId": 93,
-    "Level": 2,
-    "AnimationId": 202,
-    "Weight": 10,
-    "ConditionGroupId": 0
-  },
-  {
-    "Version": "260330.1.0",
-    "Id": 941,
-    "ItemId": 94,
-    "Level": 1,
-    "AnimationId": 201,
-    "Weight": 10,
-    "ConditionGroupId": 0
-  },
-  {
-    "Version": "260330.1.0",
-    "Id": 942,
-    "ItemId": 94,
-    "Level": 2,
-    "AnimationId": 202,
-    "Weight": 10,
-    "ConditionGroupId": 0
-  },
-  {
-    "Version": "260310.1.0",
-    "Id": 951,
-    "ItemId": 95,
-    "Level": 1,
-    "AnimationId": 201,
-    "Weight": 10,
-    "ConditionGroupId": 0
-  },
-  {
-    "Version": "260310.1.0",
-    "Id": 952,
-    "ItemId": 95,
-    "Level": 2,
-    "AnimationId": 202,
-    "Weight": 10,
-    "ConditionGroupId": 0
-  },
-  {
-    "Version": "260410.1.0",
-    "Id": 961,
-    "ItemId": 96,
-    "Level": 1,
-    "AnimationId": 201,
-    "Weight": 10,
-    "ConditionGroupId": 0
-  },
-  {
-    "Version": "260410.1.0",
-    "Id": 962,
-    "ItemId": 96,
-    "Level": 2,
-    "AnimationId": 202,
-    "Weight": 10,
-    "ConditionGroupId": 0
-  },
-  {
-    "Version": "260410.1.0",
-    "Id": 963,
-    "ItemId": 96,
-    "Level": 3,
-    "AnimationId": 203,
-    "Weight": 10,
-    "ConditionGroupId": 0
-  },
-  {
-    "Version": "260420.1.0",
-    "Id": 971,
-    "ItemId": 97,
-    "Level": 1,
-    "AnimationId": 201,
-    "Weight": 10,
-    "ConditionGroupId": 0
-  },
-  {
-    "Version": "260420.1.0",
-    "Id": 972,
-    "ItemId": 97,
-    "Level": 2,
-    "AnimationId": 202,
-    "Weight": 10,
-    "ConditionGroupId": 0
-  },
-  {
-    "Version": "260420.1.0",
-    "Id": 981,
-    "ItemId": 98,
-    "Level": 1,
-    "AnimationId": 201,
-    "Weight": 10,
-    "ConditionGroupId": 0
-  },
-  {
-    "Version": "260420.1.0",
-    "Id": 982,
-    "ItemId": 98,
-    "Level": 2,
-    "AnimationId": 202,
-    "Weight": 10,
-    "ConditionGroupId": 0
-  },
-  {
-    "Version": "260410.1.0",
-    "Id": 991,
-    "ItemId": 99,
-    "Level": 1,
-    "AnimationId": 201,
-    "Weight": 10,
-    "ConditionGroupId": 0
-  },
-  {
-    "Version": "260410.1.0",
-    "Id": 992,
-    "ItemId": 99,
-    "Level": 2,
-    "AnimationId": 202,
-    "Weight": 10,
-    "ConditionGroupId": 0
-  },
-  {
-    "Version": "260410.1.0",
-    "Id": 1001,
-    "ItemId": 100,
-    "Level": 1,
-    "AnimationId": 201,
-    "Weight": 10,
-    "ConditionGroupId": 0
-  },
-  {
-    "Version": "260510.1.0",
-    "Id": 1011,
-    "ItemId": 101,
-    "Level": 1,
-    "AnimationId": 201,
-    "Weight": 10,
-    "ConditionGroupId": 0
-  },
-  {
-    "Version": "260510.1.0",
-    "Id": 1012,
-    "ItemId": 101,
-    "Level": 2,
-    "AnimationId": 202,
-    "Weight": 10,
-    "ConditionGroupId": 0
-  },
-  {
-    "Version": "260510.1.0",
-    "Id": 1041,
-    "ItemId": 104,
-    "Level": 1,
-    "AnimationId": 201,
-    "Weight": 10,
-    "ConditionGroupId": 0
-  },
-  {
-    "Version": "260510.1.0",
-    "Id": 1042,
-    "ItemId": 104,
-    "Level": 2,
-    "AnimationId": 202,
-    "Weight": 10,
-    "ConditionGroupId": 0
+    "version": "250330.1.0",
+    "id": 11,
+    "itemId": 1,
+    "level": 1,
+    "animationId": 201,
+    "weight": 10,
+    "conditionGroupId": 0
+  },
+  {
+    "version": "250330.1.0",
+    "id": 12,
+    "itemId": 1,
+    "level": 2,
+    "animationId": 202,
+    "weight": 10,
+    "conditionGroupId": 0
+  },
+  {
+    "version": "250330.1.0",
+    "id": 21,
+    "itemId": 2,
+    "level": 1,
+    "animationId": 201,
+    "weight": 10,
+    "conditionGroupId": 0
+  },
+  {
+    "version": "250330.1.0",
+    "id": 22,
+    "itemId": 2,
+    "level": 2,
+    "animationId": 202,
+    "weight": 10,
+    "conditionGroupId": 0
+  },
+  {
+    "version": "250330.1.0",
+    "id": 31,
+    "itemId": 3,
+    "level": 1,
+    "animationId": 201,
+    "weight": 10,
+    "conditionGroupId": 0
+  },
+  {
+    "version": "250330.1.0",
+    "id": 41,
+    "itemId": 4,
+    "level": 1,
+    "animationId": 201,
+    "weight": 10,
+    "conditionGroupId": 0
+  },
+  {
+    "version": "250330.1.0",
+    "id": 42,
+    "itemId": 4,
+    "level": 2,
+    "animationId": 202,
+    "weight": 10,
+    "conditionGroupId": 0
+  },
+  {
+    "version": "250330.1.0",
+    "id": 43,
+    "itemId": 4,
+    "level": 3,
+    "animationId": 203,
+    "weight": 10,
+    "conditionGroupId": 0
+  },
+  {
+    "version": "250330.1.0",
+    "id": 51,
+    "itemId": 5,
+    "level": 1,
+    "animationId": 201,
+    "weight": 10,
+    "conditionGroupId": 0
+  },
+  {
+    "version": "250330.1.0",
+    "id": 52,
+    "itemId": 5,
+    "level": 2,
+    "animationId": 202,
+    "weight": 10,
+    "conditionGroupId": 0
+  },
+  {
+    "version": "250330.1.0",
+    "id": 61,
+    "itemId": 6,
+    "level": 1,
+    "animationId": 201,
+    "weight": 10,
+    "conditionGroupId": 0
+  },
+  {
+    "version": "250330.1.0",
+    "id": 62,
+    "itemId": 6,
+    "level": 2,
+    "animationId": 202,
+    "weight": 10,
+    "conditionGroupId": 0
+  },
+  {
+    "version": "250330.1.0",
+    "id": 71,
+    "itemId": 7,
+    "level": 1,
+    "animationId": 201,
+    "weight": 10,
+    "conditionGroupId": 0
+  },
+  {
+    "version": "250330.1.0",
+    "id": 72,
+    "itemId": 7,
+    "level": 2,
+    "animationId": 202,
+    "weight": 10,
+    "conditionGroupId": 0
+  },
+  {
+    "version": "250330.1.0",
+    "id": 81,
+    "itemId": 8,
+    "level": 1,
+    "animationId": 201,
+    "weight": 10,
+    "conditionGroupId": 0
+  },
+  {
+    "version": "250330.1.0",
+    "id": 82,
+    "itemId": 8,
+    "level": 2,
+    "animationId": 202,
+    "weight": 10,
+    "conditionGroupId": 0
+  },
+  {
+    "version": "250330.1.0",
+    "id": 91,
+    "itemId": 9,
+    "level": 1,
+    "animationId": 201,
+    "weight": 10,
+    "conditionGroupId": 0
+  },
+  {
+    "version": "250330.1.0",
+    "id": 92,
+    "itemId": 9,
+    "level": 2,
+    "animationId": 202,
+    "weight": 10,
+    "conditionGroupId": 0
+  },
+  {
+    "version": "250330.1.0",
+    "id": 93,
+    "itemId": 9,
+    "level": 3,
+    "animationId": 203,
+    "weight": 10,
+    "conditionGroupId": 0
+  },
+  {
+    "version": "250330.1.0",
+    "id": 101,
+    "itemId": 10,
+    "level": 1,
+    "animationId": 201,
+    "weight": 10,
+    "conditionGroupId": 0
+  },
+  {
+    "version": "250330.1.0",
+    "id": 111,
+    "itemId": 11,
+    "level": 1,
+    "animationId": 201,
+    "weight": 10,
+    "conditionGroupId": 0
+  },
+  {
+    "version": "250330.1.0",
+    "id": 121,
+    "itemId": 12,
+    "level": 1,
+    "animationId": 201,
+    "weight": 10,
+    "conditionGroupId": 0
+  },
+  {
+    "version": "250330.1.0",
+    "id": 122,
+    "itemId": 12,
+    "level": 2,
+    "animationId": 202,
+    "weight": 10,
+    "conditionGroupId": 0
+  },
+  {
+    "version": "250330.1.0",
+    "id": 131,
+    "itemId": 13,
+    "level": 1,
+    "animationId": 201,
+    "weight": 10,
+    "conditionGroupId": 0
+  },
+  {
+    "version": "250330.1.0",
+    "id": 132,
+    "itemId": 13,
+    "level": 2,
+    "animationId": 202,
+    "weight": 10,
+    "conditionGroupId": 0
+  },
+  {
+    "version": "250330.1.0",
+    "id": 133,
+    "itemId": 13,
+    "level": 3,
+    "animationId": 203,
+    "weight": 10,
+    "conditionGroupId": 0
+  },
+  {
+    "version": "250330.1.0",
+    "id": 141,
+    "itemId": 14,
+    "level": 1,
+    "animationId": 201,
+    "weight": 10,
+    "conditionGroupId": 0
+  },
+  {
+    "version": "250330.1.0",
+    "id": 142,
+    "itemId": 14,
+    "level": 2,
+    "animationId": 202,
+    "weight": 10,
+    "conditionGroupId": 0
+  },
+  {
+    "version": "250330.1.0",
+    "id": 151,
+    "itemId": 15,
+    "level": 1,
+    "animationId": 201,
+    "weight": 10,
+    "conditionGroupId": 0
+  },
+  {
+    "version": "250330.1.0",
+    "id": 152,
+    "itemId": 15,
+    "level": 2,
+    "animationId": 202,
+    "weight": 10,
+    "conditionGroupId": 0
+  },
+  {
+    "version": "250330.1.0",
+    "id": 161,
+    "itemId": 16,
+    "level": 1,
+    "animationId": 201,
+    "weight": 10,
+    "conditionGroupId": 0
+  },
+  {
+    "version": "250330.1.0",
+    "id": 162,
+    "itemId": 16,
+    "level": 2,
+    "animationId": 202,
+    "weight": 10,
+    "conditionGroupId": 0
+  },
+  {
+    "version": "250330.1.0",
+    "id": 163,
+    "itemId": 16,
+    "level": 3,
+    "animationId": 203,
+    "weight": 10,
+    "conditionGroupId": 0
+  },
+  {
+    "version": "250330.1.0",
+    "id": 171,
+    "itemId": 17,
+    "level": 1,
+    "animationId": 201,
+    "weight": 10,
+    "conditionGroupId": 0
+  },
+  {
+    "version": "250330.1.0",
+    "id": 181,
+    "itemId": 18,
+    "level": 1,
+    "animationId": 201,
+    "weight": 10,
+    "conditionGroupId": 0
+  },
+  {
+    "version": "250330.1.0",
+    "id": 191,
+    "itemId": 19,
+    "level": 1,
+    "animationId": 201,
+    "weight": 10,
+    "conditionGroupId": 0
+  },
+  {
+    "version": "250330.1.0",
+    "id": 201,
+    "itemId": 20,
+    "level": 1,
+    "animationId": 201,
+    "weight": 10,
+    "conditionGroupId": 0
+  },
+  {
+    "version": "250330.1.0",
+    "id": 202,
+    "itemId": 20,
+    "level": 2,
+    "animationId": 202,
+    "weight": 10,
+    "conditionGroupId": 0
+  },
+  {
+    "version": "250330.1.0",
+    "id": 211,
+    "itemId": 21,
+    "level": 1,
+    "animationId": 201,
+    "weight": 10,
+    "conditionGroupId": 0
+  },
+  {
+    "version": "250330.1.0",
+    "id": 212,
+    "itemId": 21,
+    "level": 2,
+    "animationId": 202,
+    "weight": 10,
+    "conditionGroupId": 0
+  },
+  {
+    "version": "250330.1.0",
+    "id": 221,
+    "itemId": 22,
+    "level": 1,
+    "animationId": 201,
+    "weight": 10,
+    "conditionGroupId": 0
+  },
+  {
+    "version": "250330.1.0",
+    "id": 222,
+    "itemId": 22,
+    "level": 2,
+    "animationId": 202,
+    "weight": 10,
+    "conditionGroupId": 0
+  },
+  {
+    "version": "250330.1.0",
+    "id": 231,
+    "itemId": 23,
+    "level": 1,
+    "animationId": 201,
+    "weight": 10,
+    "conditionGroupId": 0
+  },
+  {
+    "version": "250330.1.0",
+    "id": 232,
+    "itemId": 23,
+    "level": 2,
+    "animationId": 202,
+    "weight": 10,
+    "conditionGroupId": 0
+  },
+  {
+    "version": "250330.1.0",
+    "id": 251,
+    "itemId": 25,
+    "level": 1,
+    "animationId": 201,
+    "weight": 10,
+    "conditionGroupId": 0
+  },
+  {
+    "version": "250330.1.0",
+    "id": 252,
+    "itemId": 25,
+    "level": 2,
+    "animationId": 202,
+    "weight": 10,
+    "conditionGroupId": 0
+  },
+  {
+    "version": "250330.1.0",
+    "id": 253,
+    "itemId": 25,
+    "level": 3,
+    "animationId": 203,
+    "weight": 10,
+    "conditionGroupId": 0
+  },
+  {
+    "version": "250330.1.0",
+    "id": 261,
+    "itemId": 26,
+    "level": 1,
+    "animationId": 201,
+    "weight": 10,
+    "conditionGroupId": 0
+  },
+  {
+    "version": "250330.1.0",
+    "id": 262,
+    "itemId": 26,
+    "level": 2,
+    "animationId": 202,
+    "weight": 10,
+    "conditionGroupId": 0
+  },
+  {
+    "version": "250330.1.0",
+    "id": 263,
+    "itemId": 26,
+    "level": 3,
+    "animationId": 203,
+    "weight": 10,
+    "conditionGroupId": 0
+  },
+  {
+    "version": "250330.1.0",
+    "id": 271,
+    "itemId": 27,
+    "level": 1,
+    "animationId": 201,
+    "weight": 10,
+    "conditionGroupId": 0
+  },
+  {
+    "version": "250330.1.0",
+    "id": 272,
+    "itemId": 27,
+    "level": 2,
+    "animationId": 202,
+    "weight": 10,
+    "conditionGroupId": 0
+  },
+  {
+    "version": "250330.1.0",
+    "id": 273,
+    "itemId": 27,
+    "level": 3,
+    "animationId": 203,
+    "weight": 10,
+    "conditionGroupId": 0
+  },
+  {
+    "version": "250410.1.0",
+    "id": 281,
+    "itemId": 28,
+    "level": 1,
+    "animationId": 201,
+    "weight": 10,
+    "conditionGroupId": 0
+  },
+  {
+    "version": "250410.1.0",
+    "id": 282,
+    "itemId": 28,
+    "level": 2,
+    "animationId": 202,
+    "weight": 10,
+    "conditionGroupId": 0
+  },
+  {
+    "version": "250410.1.0",
+    "id": 283,
+    "itemId": 28,
+    "level": 3,
+    "animationId": 203,
+    "weight": 10,
+    "conditionGroupId": 0
+  },
+  {
+    "version": "250350.1.0",
+    "id": 291,
+    "itemId": 29,
+    "level": 1,
+    "animationId": 201,
+    "weight": 10,
+    "conditionGroupId": 0
+  },
+  {
+    "version": "250350.1.0",
+    "id": 292,
+    "itemId": 29,
+    "level": 2,
+    "animationId": 202,
+    "weight": 10,
+    "conditionGroupId": 0
+  },
+  {
+    "version": "250350.1.0",
+    "id": 293,
+    "itemId": 29,
+    "level": 3,
+    "animationId": 203,
+    "weight": 10,
+    "conditionGroupId": 0
+  },
+  {
+    "version": "250350.1.0",
+    "id": 301,
+    "itemId": 30,
+    "level": 1,
+    "animationId": 201,
+    "weight": 10,
+    "conditionGroupId": 0
+  },
+  {
+    "version": "250350.1.0",
+    "id": 302,
+    "itemId": 30,
+    "level": 2,
+    "animationId": 202,
+    "weight": 10,
+    "conditionGroupId": 0
+  },
+  {
+    "version": "250350.1.0",
+    "id": 303,
+    "itemId": 30,
+    "level": 3,
+    "animationId": 203,
+    "weight": 10,
+    "conditionGroupId": 0
+  },
+  {
+    "version": "250410.1.0",
+    "id": 311,
+    "itemId": 31,
+    "level": 1,
+    "animationId": 201,
+    "weight": 10,
+    "conditionGroupId": 0
+  },
+  {
+    "version": "250410.1.0",
+    "id": 312,
+    "itemId": 31,
+    "level": 2,
+    "animationId": 202,
+    "weight": 10,
+    "conditionGroupId": 0
+  },
+  {
+    "version": "250410.1.0",
+    "id": 313,
+    "itemId": 31,
+    "level": 3,
+    "animationId": 203,
+    "weight": 10,
+    "conditionGroupId": 0
+  },
+  {
+    "version": "250330.1.0",
+    "id": 321,
+    "itemId": 32,
+    "level": 1,
+    "animationId": 201,
+    "weight": 10,
+    "conditionGroupId": 0
+  },
+  {
+    "version": "250330.1.0",
+    "id": 322,
+    "itemId": 32,
+    "level": 2,
+    "animationId": 202,
+    "weight": 10,
+    "conditionGroupId": 0
+  },
+  {
+    "version": "250330.1.0",
+    "id": 323,
+    "itemId": 32,
+    "level": 3,
+    "animationId": 203,
+    "weight": 10,
+    "conditionGroupId": 0
+  },
+  {
+    "version": "250612.1.0",
+    "id": 331,
+    "itemId": 33,
+    "level": 1,
+    "animationId": 201,
+    "weight": 10,
+    "conditionGroupId": 0
+  },
+  {
+    "version": "250610.1.0",
+    "id": 341,
+    "itemId": 34,
+    "level": 1,
+    "animationId": 201,
+    "weight": 10,
+    "conditionGroupId": 0
+  },
+  {
+    "version": "250610.1.0",
+    "id": 342,
+    "itemId": 34,
+    "level": 2,
+    "animationId": 202,
+    "weight": 10,
+    "conditionGroupId": 0
+  },
+  {
+    "version": "250610.1.0",
+    "id": 343,
+    "itemId": 34,
+    "level": 3,
+    "animationId": 203,
+    "weight": 10,
+    "conditionGroupId": 0
+  },
+  {
+    "version": "250612.1.0",
+    "id": 351,
+    "itemId": 35,
+    "level": 1,
+    "animationId": 201,
+    "weight": 10,
+    "conditionGroupId": 0
+  },
+  {
+    "version": "250612.1.0",
+    "id": 371,
+    "itemId": 37,
+    "level": 1,
+    "animationId": 201,
+    "weight": 10,
+    "conditionGroupId": 0
+  },
+  {
+    "version": "250612.1.0",
+    "id": 372,
+    "itemId": 37,
+    "level": 2,
+    "animationId": 202,
+    "weight": 10,
+    "conditionGroupId": 0
+  },
+  {
+    "version": "250612.1.0",
+    "id": 373,
+    "itemId": 37,
+    "level": 3,
+    "animationId": 203,
+    "weight": 10,
+    "conditionGroupId": 0
+  },
+  {
+    "version": "250810.1.0",
+    "id": 381,
+    "itemId": 38,
+    "level": 1,
+    "animationId": 201,
+    "weight": 10,
+    "conditionGroupId": 0
+  },
+  {
+    "version": "250810.1.0",
+    "id": 382,
+    "itemId": 38,
+    "level": 2,
+    "animationId": 202,
+    "weight": 10,
+    "conditionGroupId": 0
+  },
+  {
+    "version": "250810.1.0",
+    "id": 383,
+    "itemId": 38,
+    "level": 3,
+    "animationId": 203,
+    "weight": 10,
+    "conditionGroupId": 0
+  },
+  {
+    "version": "250700.1.0",
+    "id": 391,
+    "itemId": 39,
+    "level": 1,
+    "animationId": 201,
+    "weight": 10,
+    "conditionGroupId": 0
+  },
+  {
+    "version": "250700.1.0",
+    "id": 392,
+    "itemId": 39,
+    "level": 2,
+    "animationId": 202,
+    "weight": 10,
+    "conditionGroupId": 0
+  },
+  {
+    "version": "250700.1.0",
+    "id": 393,
+    "itemId": 39,
+    "level": 3,
+    "animationId": 203,
+    "weight": 10,
+    "conditionGroupId": 0
+  },
+  {
+    "version": "250510.1.0",
+    "id": 411,
+    "itemId": 41,
+    "level": 1,
+    "animationId": 201,
+    "weight": 10,
+    "conditionGroupId": 0
+  },
+  {
+    "version": "250510.1.0",
+    "id": 412,
+    "itemId": 41,
+    "level": 2,
+    "animationId": 202,
+    "weight": 10,
+    "conditionGroupId": 0
+  },
+  {
+    "version": "250510.1.0",
+    "id": 413,
+    "itemId": 41,
+    "level": 3,
+    "animationId": 203,
+    "weight": 10,
+    "conditionGroupId": 0
+  },
+  {
+    "version": "250350.1.0",
+    "id": 421,
+    "itemId": 42,
+    "level": 1,
+    "animationId": 201,
+    "weight": 10,
+    "conditionGroupId": 0
+  },
+  {
+    "version": "250350.1.0",
+    "id": 422,
+    "itemId": 42,
+    "level": 2,
+    "animationId": 202,
+    "weight": 10,
+    "conditionGroupId": 0
+  },
+  {
+    "version": "250410.1.0",
+    "id": 431,
+    "itemId": 43,
+    "level": 1,
+    "animationId": 201,
+    "weight": 10,
+    "conditionGroupId": 0
+  },
+  {
+    "version": "250410.1.0",
+    "id": 432,
+    "itemId": 43,
+    "level": 2,
+    "animationId": 202,
+    "weight": 10,
+    "conditionGroupId": 0
+  },
+  {
+    "version": "250440.1.0",
+    "id": 441,
+    "itemId": 44,
+    "level": 1,
+    "animationId": 201,
+    "weight": 10,
+    "conditionGroupId": 0
+  },
+  {
+    "version": "250440.1.0",
+    "id": 442,
+    "itemId": 44,
+    "level": 2,
+    "animationId": 202,
+    "weight": 10,
+    "conditionGroupId": 0
+  },
+  {
+    "version": "250440.1.0",
+    "id": 443,
+    "itemId": 44,
+    "level": 3,
+    "animationId": 203,
+    "weight": 10,
+    "conditionGroupId": 0
+  },
+  {
+    "version": "250440.1.0",
+    "id": 451,
+    "itemId": 45,
+    "level": 1,
+    "animationId": 201,
+    "weight": 10,
+    "conditionGroupId": 0
+  },
+  {
+    "version": "250440.1.0",
+    "id": 452,
+    "itemId": 45,
+    "level": 2,
+    "animationId": 202,
+    "weight": 10,
+    "conditionGroupId": 0
+  },
+  {
+    "version": "250440.1.0",
+    "id": 453,
+    "itemId": 45,
+    "level": 3,
+    "animationId": 203,
+    "weight": 10,
+    "conditionGroupId": 0
+  },
+  {
+    "version": "250450.1.0",
+    "id": 461,
+    "itemId": 46,
+    "level": 1,
+    "animationId": 201,
+    "weight": 10,
+    "conditionGroupId": 0
+  },
+  {
+    "version": "250450.1.0",
+    "id": 462,
+    "itemId": 46,
+    "level": 2,
+    "animationId": 202,
+    "weight": 10,
+    "conditionGroupId": 0
+  },
+  {
+    "version": "250450.1.0",
+    "id": 463,
+    "itemId": 46,
+    "level": 3,
+    "animationId": 203,
+    "weight": 10,
+    "conditionGroupId": 0
+  },
+  {
+    "version": "250440.1.0",
+    "id": 471,
+    "itemId": 47,
+    "level": 1,
+    "animationId": 201,
+    "weight": 10,
+    "conditionGroupId": 0
+  },
+  {
+    "version": "250440.1.0",
+    "id": 472,
+    "itemId": 47,
+    "level": 2,
+    "animationId": 202,
+    "weight": 10,
+    "conditionGroupId": 0
+  },
+  {
+    "version": "250450.1.0",
+    "id": 481,
+    "itemId": 48,
+    "level": 1,
+    "animationId": 201,
+    "weight": 10,
+    "conditionGroupId": 0
+  },
+  {
+    "version": "250450.1.0",
+    "id": 482,
+    "itemId": 48,
+    "level": 2,
+    "animationId": 202,
+    "weight": 10,
+    "conditionGroupId": 0
+  },
+  {
+    "version": "250550.1.0",
+    "id": 491,
+    "itemId": 49,
+    "level": 1,
+    "animationId": 201,
+    "weight": 10,
+    "conditionGroupId": 0
+  },
+  {
+    "version": "250550.1.0",
+    "id": 492,
+    "itemId": 49,
+    "level": 2,
+    "animationId": 202,
+    "weight": 10,
+    "conditionGroupId": 0
+  },
+  {
+    "version": "250550.1.0",
+    "id": 493,
+    "itemId": 49,
+    "level": 3,
+    "animationId": 203,
+    "weight": 10,
+    "conditionGroupId": 0
+  },
+  {
+    "version": "250550.1.0",
+    "id": 501,
+    "itemId": 50,
+    "level": 1,
+    "animationId": 201,
+    "weight": 10,
+    "conditionGroupId": 0
+  },
+  {
+    "version": "250550.1.0",
+    "id": 502,
+    "itemId": 50,
+    "level": 2,
+    "animationId": 202,
+    "weight": 10,
+    "conditionGroupId": 0
+  },
+  {
+    "version": "250550.1.0",
+    "id": 503,
+    "itemId": 50,
+    "level": 3,
+    "animationId": 203,
+    "weight": 10,
+    "conditionGroupId": 0
+  },
+  {
+    "version": "250550.1.0",
+    "id": 511,
+    "itemId": 51,
+    "level": 1,
+    "animationId": 201,
+    "weight": 10,
+    "conditionGroupId": 0
+  },
+  {
+    "version": "250550.1.0",
+    "id": 512,
+    "itemId": 51,
+    "level": 2,
+    "animationId": 202,
+    "weight": 10,
+    "conditionGroupId": 0
+  },
+  {
+    "version": "250550.1.0",
+    "id": 513,
+    "itemId": 51,
+    "level": 3,
+    "animationId": 203,
+    "weight": 10,
+    "conditionGroupId": 0
+  },
+  {
+    "version": "250550.1.0",
+    "id": 521,
+    "itemId": 52,
+    "level": 1,
+    "animationId": 201,
+    "weight": 10,
+    "conditionGroupId": 0
+  },
+  {
+    "version": "250550.1.0",
+    "id": 522,
+    "itemId": 52,
+    "level": 2,
+    "animationId": 202,
+    "weight": 10,
+    "conditionGroupId": 0
+  },
+  {
+    "version": "250530.1.0",
+    "id": 531,
+    "itemId": 53,
+    "level": 1,
+    "animationId": 201,
+    "weight": 10,
+    "conditionGroupId": 0
+  },
+  {
+    "version": "250530.1.0",
+    "id": 532,
+    "itemId": 53,
+    "level": 2,
+    "animationId": 202,
+    "weight": 10,
+    "conditionGroupId": 0
+  },
+  {
+    "version": "250630.1.0",
+    "id": 541,
+    "itemId": 54,
+    "level": 1,
+    "animationId": 201,
+    "weight": 10,
+    "conditionGroupId": 0
+  },
+  {
+    "version": "250630.1.0",
+    "id": 542,
+    "itemId": 54,
+    "level": 2,
+    "animationId": 202,
+    "weight": 10,
+    "conditionGroupId": 0
+  },
+  {
+    "version": "250610.1.0",
+    "id": 551,
+    "itemId": 55,
+    "level": 1,
+    "animationId": 201,
+    "weight": 10,
+    "conditionGroupId": 0
+  },
+  {
+    "version": "250610.1.0",
+    "id": 552,
+    "itemId": 55,
+    "level": 2,
+    "animationId": 202,
+    "weight": 10,
+    "conditionGroupId": 0
+  },
+  {
+    "version": "250610.1.0",
+    "id": 553,
+    "itemId": 55,
+    "level": 3,
+    "animationId": 203,
+    "weight": 10,
+    "conditionGroupId": 0
+  },
+  {
+    "version": "250630.1.0",
+    "id": 561,
+    "itemId": 56,
+    "level": 1,
+    "animationId": 201,
+    "weight": 10,
+    "conditionGroupId": 0
+  },
+  {
+    "version": "250630.1.0",
+    "id": 562,
+    "itemId": 56,
+    "level": 2,
+    "animationId": 202,
+    "weight": 10,
+    "conditionGroupId": 0
+  },
+  {
+    "version": "250630.1.0",
+    "id": 563,
+    "itemId": 56,
+    "level": 3,
+    "animationId": 203,
+    "weight": 10,
+    "conditionGroupId": 0
+  },
+  {
+    "version": "250610.1.0",
+    "id": 571,
+    "itemId": 57,
+    "level": 1,
+    "animationId": 201,
+    "weight": 10,
+    "conditionGroupId": 0
+  },
+  {
+    "version": "250610.1.0",
+    "id": 572,
+    "itemId": 57,
+    "level": 2,
+    "animationId": 202,
+    "weight": 10,
+    "conditionGroupId": 0
+  },
+  {
+    "version": "250610.1.0",
+    "id": 573,
+    "itemId": 57,
+    "level": 3,
+    "animationId": 203,
+    "weight": 10,
+    "conditionGroupId": 0
+  },
+  {
+    "version": "250610.1.0",
+    "id": 581,
+    "itemId": 58,
+    "level": 1,
+    "animationId": 201,
+    "weight": 10,
+    "conditionGroupId": 0
+  },
+  {
+    "version": "250610.1.0",
+    "id": 582,
+    "itemId": 58,
+    "level": 2,
+    "animationId": 202,
+    "weight": 10,
+    "conditionGroupId": 0
+  },
+  {
+    "version": "250710.1.0",
+    "id": 591,
+    "itemId": 59,
+    "level": 1,
+    "animationId": 201,
+    "weight": 10,
+    "conditionGroupId": 0
+  },
+  {
+    "version": "250710.1.0",
+    "id": 592,
+    "itemId": 59,
+    "level": 2,
+    "animationId": 202,
+    "weight": 10,
+    "conditionGroupId": 0
+  },
+  {
+    "version": "250710.1.0",
+    "id": 593,
+    "itemId": 59,
+    "level": 3,
+    "animationId": 203,
+    "weight": 10,
+    "conditionGroupId": 0
+  },
+  {
+    "version": "250710.1.0",
+    "id": 601,
+    "itemId": 60,
+    "level": 1,
+    "animationId": 201,
+    "weight": 10,
+    "conditionGroupId": 0
+  },
+  {
+    "version": "250710.1.0",
+    "id": 602,
+    "itemId": 60,
+    "level": 2,
+    "animationId": 202,
+    "weight": 10,
+    "conditionGroupId": 0
+  },
+  {
+    "version": "250710.1.0",
+    "id": 603,
+    "itemId": 60,
+    "level": 3,
+    "animationId": 203,
+    "weight": 10,
+    "conditionGroupId": 0
+  },
+  {
+    "version": "250730.1.0",
+    "id": 611,
+    "itemId": 61,
+    "level": 1,
+    "animationId": 201,
+    "weight": 10,
+    "conditionGroupId": 0
+  },
+  {
+    "version": "250730.1.0",
+    "id": 612,
+    "itemId": 61,
+    "level": 2,
+    "animationId": 202,
+    "weight": 10,
+    "conditionGroupId": 0
+  },
+  {
+    "version": "250730.1.0",
+    "id": 613,
+    "itemId": 61,
+    "level": 3,
+    "animationId": 203,
+    "weight": 10,
+    "conditionGroupId": 0
+  },
+  {
+    "version": "250710.1.0",
+    "id": 621,
+    "itemId": 62,
+    "level": 1,
+    "animationId": 201,
+    "weight": 10,
+    "conditionGroupId": 0
+  },
+  {
+    "version": "250710.1.0",
+    "id": 622,
+    "itemId": 62,
+    "level": 2,
+    "animationId": 202,
+    "weight": 10,
+    "conditionGroupId": 0
+  },
+  {
+    "version": "250730.1.0",
+    "id": 631,
+    "itemId": 63,
+    "level": 1,
+    "animationId": 201,
+    "weight": 10,
+    "conditionGroupId": 0
+  },
+  {
+    "version": "250730.1.0",
+    "id": 632,
+    "itemId": 63,
+    "level": 2,
+    "animationId": 202,
+    "weight": 10,
+    "conditionGroupId": 0
+  },
+  {
+    "version": "250810.1.0",
+    "id": 641,
+    "itemId": 64,
+    "level": 1,
+    "animationId": 201,
+    "weight": 10,
+    "conditionGroupId": 0
+  },
+  {
+    "version": "250810.1.0",
+    "id": 642,
+    "itemId": 64,
+    "level": 2,
+    "animationId": 202,
+    "weight": 10,
+    "conditionGroupId": 0
+  },
+  {
+    "version": "250820.1.0",
+    "id": 651,
+    "itemId": 65,
+    "level": 1,
+    "animationId": 201,
+    "weight": 10,
+    "conditionGroupId": 0
+  },
+  {
+    "version": "250820.1.0",
+    "id": 652,
+    "itemId": 65,
+    "level": 2,
+    "animationId": 202,
+    "weight": 10,
+    "conditionGroupId": 0
+  },
+  {
+    "version": "250820.1.0",
+    "id": 661,
+    "itemId": 66,
+    "level": 1,
+    "animationId": 201,
+    "weight": 10,
+    "conditionGroupId": 0
+  },
+  {
+    "version": "250820.1.0",
+    "id": 662,
+    "itemId": 66,
+    "level": 2,
+    "animationId": 202,
+    "weight": 10,
+    "conditionGroupId": 0
+  },
+  {
+    "version": "250820.1.0",
+    "id": 663,
+    "itemId": 66,
+    "level": 3,
+    "animationId": 203,
+    "weight": 10,
+    "conditionGroupId": 0
+  },
+  {
+    "version": "250930.1.0",
+    "id": 671,
+    "itemId": 67,
+    "level": 1,
+    "animationId": 201,
+    "weight": 10,
+    "conditionGroupId": 0
+  },
+  {
+    "version": "250930.1.0",
+    "id": 672,
+    "itemId": 67,
+    "level": 2,
+    "animationId": 202,
+    "weight": 10,
+    "conditionGroupId": 0
+  },
+  {
+    "version": "250930.1.0",
+    "id": 673,
+    "itemId": 67,
+    "level": 3,
+    "animationId": 203,
+    "weight": 10,
+    "conditionGroupId": 0
+  },
+  {
+    "version": "250930.1.0",
+    "id": 681,
+    "itemId": 68,
+    "level": 1,
+    "animationId": 201,
+    "weight": 10,
+    "conditionGroupId": 0
+  },
+  {
+    "version": "250930.1.0",
+    "id": 682,
+    "itemId": 68,
+    "level": 2,
+    "animationId": 202,
+    "weight": 10,
+    "conditionGroupId": 0
+  },
+  {
+    "version": "250910.1.0",
+    "id": 691,
+    "itemId": 69,
+    "level": 1,
+    "animationId": 201,
+    "weight": 10,
+    "conditionGroupId": 0
+  },
+  {
+    "version": "250910.1.0",
+    "id": 692,
+    "itemId": 69,
+    "level": 2,
+    "animationId": 202,
+    "weight": 10,
+    "conditionGroupId": 0
+  },
+  {
+    "version": "250910.1.0",
+    "id": 701,
+    "itemId": 70,
+    "level": 1,
+    "animationId": 201,
+    "weight": 10,
+    "conditionGroupId": 0
+  },
+  {
+    "version": "250910.1.0",
+    "id": 702,
+    "itemId": 70,
+    "level": 2,
+    "animationId": 202,
+    "weight": 10,
+    "conditionGroupId": 0
+  },
+  {
+    "version": "250910.1.0",
+    "id": 703,
+    "itemId": 70,
+    "level": 3,
+    "animationId": 203,
+    "weight": 10,
+    "conditionGroupId": 0
+  },
+  {
+    "version": "251010.1.0",
+    "id": 711,
+    "itemId": 71,
+    "level": 1,
+    "animationId": 201,
+    "weight": 10,
+    "conditionGroupId": 0
+  },
+  {
+    "version": "251010.1.0",
+    "id": 712,
+    "itemId": 71,
+    "level": 2,
+    "animationId": 202,
+    "weight": 10,
+    "conditionGroupId": 0
+  },
+  {
+    "version": "251010.1.0",
+    "id": 713,
+    "itemId": 71,
+    "level": 3,
+    "animationId": 203,
+    "weight": 10,
+    "conditionGroupId": 0
+  },
+  {
+    "version": "251020.1.0",
+    "id": 721,
+    "itemId": 72,
+    "level": 1,
+    "animationId": 201,
+    "weight": 10,
+    "conditionGroupId": 0
+  },
+  {
+    "version": "251020.1.0",
+    "id": 722,
+    "itemId": 72,
+    "level": 2,
+    "animationId": 202,
+    "weight": 10,
+    "conditionGroupId": 0
+  },
+  {
+    "version": "251020.1.0",
+    "id": 723,
+    "itemId": 72,
+    "level": 3,
+    "animationId": 203,
+    "weight": 10,
+    "conditionGroupId": 0
+  },
+  {
+    "version": "251010.1.0",
+    "id": 731,
+    "itemId": 73,
+    "level": 1,
+    "animationId": 201,
+    "weight": 10,
+    "conditionGroupId": 0
+  },
+  {
+    "version": "251010.1.0",
+    "id": 732,
+    "itemId": 73,
+    "level": 2,
+    "animationId": 202,
+    "weight": 10,
+    "conditionGroupId": 0
+  },
+  {
+    "version": "251010.1.0",
+    "id": 741,
+    "itemId": 74,
+    "level": 1,
+    "animationId": 201,
+    "weight": 10,
+    "conditionGroupId": 0
+  },
+  {
+    "version": "251010.1.0",
+    "id": 742,
+    "itemId": 74,
+    "level": 2,
+    "animationId": 202,
+    "weight": 10,
+    "conditionGroupId": 0
+  },
+  {
+    "version": "251010.1.0",
+    "id": 743,
+    "itemId": 74,
+    "level": 3,
+    "animationId": 203,
+    "weight": 10,
+    "conditionGroupId": 0
+  },
+  {
+    "version": "251110.1.0",
+    "id": 751,
+    "itemId": 75,
+    "level": 1,
+    "animationId": 201,
+    "weight": 10,
+    "conditionGroupId": 0
+  },
+  {
+    "version": "251110.1.0",
+    "id": 752,
+    "itemId": 75,
+    "level": 2,
+    "animationId": 202,
+    "weight": 10,
+    "conditionGroupId": 0
+  },
+  {
+    "version": "251110.1.0",
+    "id": 753,
+    "itemId": 75,
+    "level": 3,
+    "animationId": 203,
+    "weight": 10,
+    "conditionGroupId": 0
+  },
+  {
+    "version": "251030.1.0",
+    "id": 761,
+    "itemId": 76,
+    "level": 1,
+    "animationId": 201,
+    "weight": 10,
+    "conditionGroupId": 0
+  },
+  {
+    "version": "251030.1.0",
+    "id": 762,
+    "itemId": 76,
+    "level": 2,
+    "animationId": 202,
+    "weight": 10,
+    "conditionGroupId": 0
+  },
+  {
+    "version": "251110.1.0",
+    "id": 771,
+    "itemId": 77,
+    "level": 1,
+    "animationId": 201,
+    "weight": 10,
+    "conditionGroupId": 0
+  },
+  {
+    "version": "251110.1.0",
+    "id": 772,
+    "itemId": 77,
+    "level": 2,
+    "animationId": 202,
+    "weight": 10,
+    "conditionGroupId": 0
+  },
+  {
+    "version": "251110.1.0",
+    "id": 781,
+    "itemId": 78,
+    "level": 1,
+    "animationId": 201,
+    "weight": 10,
+    "conditionGroupId": 0
+  },
+  {
+    "version": "251110.1.0",
+    "id": 782,
+    "itemId": 78,
+    "level": 2,
+    "animationId": 202,
+    "weight": 10,
+    "conditionGroupId": 0
+  },
+  {
+    "version": "251110.1.0",
+    "id": 783,
+    "itemId": 78,
+    "level": 3,
+    "animationId": 203,
+    "weight": 10,
+    "conditionGroupId": 0
+  },
+  {
+    "version": "251230.1.0",
+    "id": 791,
+    "itemId": 79,
+    "level": 1,
+    "animationId": 201,
+    "weight": 10,
+    "conditionGroupId": 0
+  },
+  {
+    "version": "251230.1.0",
+    "id": 792,
+    "itemId": 79,
+    "level": 2,
+    "animationId": 202,
+    "weight": 10,
+    "conditionGroupId": 0
+  },
+  {
+    "version": "251230.1.0",
+    "id": 793,
+    "itemId": 79,
+    "level": 3,
+    "animationId": 203,
+    "weight": 10,
+    "conditionGroupId": 0
+  },
+  {
+    "version": "251230.1.0",
+    "id": 801,
+    "itemId": 80,
+    "level": 1,
+    "animationId": 201,
+    "weight": 10,
+    "conditionGroupId": 0
+  },
+  {
+    "version": "251230.1.0",
+    "id": 802,
+    "itemId": 80,
+    "level": 2,
+    "animationId": 202,
+    "weight": 10,
+    "conditionGroupId": 0
+  },
+  {
+    "version": "251210.1.0",
+    "id": 811,
+    "itemId": 81,
+    "level": 1,
+    "animationId": 201,
+    "weight": 10,
+    "conditionGroupId": 0
+  },
+  {
+    "version": "251210.1.0",
+    "id": 812,
+    "itemId": 81,
+    "level": 2,
+    "animationId": 202,
+    "weight": 10,
+    "conditionGroupId": 0
+  },
+  {
+    "version": "251210.1.0",
+    "id": 821,
+    "itemId": 82,
+    "level": 1,
+    "animationId": 201,
+    "weight": 10,
+    "conditionGroupId": 0
+  },
+  {
+    "version": "251210.1.0",
+    "id": 822,
+    "itemId": 82,
+    "level": 2,
+    "animationId": 202,
+    "weight": 10,
+    "conditionGroupId": 0
+  },
+  {
+    "version": "251210.1.0",
+    "id": 823,
+    "itemId": 82,
+    "level": 3,
+    "animationId": 203,
+    "weight": 10,
+    "conditionGroupId": 0
+  },
+  {
+    "version": "260130.1.0",
+    "id": 831,
+    "itemId": 83,
+    "level": 1,
+    "animationId": 201,
+    "weight": 10,
+    "conditionGroupId": 0
+  },
+  {
+    "version": "260130.1.0",
+    "id": 832,
+    "itemId": 83,
+    "level": 2,
+    "animationId": 202,
+    "weight": 10,
+    "conditionGroupId": 0
+  },
+  {
+    "version": "260130.1.0",
+    "id": 833,
+    "itemId": 83,
+    "level": 3,
+    "animationId": 203,
+    "weight": 10,
+    "conditionGroupId": 0
+  },
+  {
+    "version": "260110.1.0",
+    "id": 841,
+    "itemId": 84,
+    "level": 1,
+    "animationId": 201,
+    "weight": 10,
+    "conditionGroupId": 0
+  },
+  {
+    "version": "260110.1.0",
+    "id": 842,
+    "itemId": 84,
+    "level": 2,
+    "animationId": 202,
+    "weight": 10,
+    "conditionGroupId": 0
+  },
+  {
+    "version": "260130.1.0",
+    "id": 851,
+    "itemId": 85,
+    "level": 1,
+    "animationId": 201,
+    "weight": 10,
+    "conditionGroupId": 0
+  },
+  {
+    "version": "260130.1.0",
+    "id": 852,
+    "itemId": 85,
+    "level": 2,
+    "animationId": 202,
+    "weight": 10,
+    "conditionGroupId": 0
+  },
+  {
+    "version": "260110.1.0",
+    "id": 861,
+    "itemId": 86,
+    "level": 1,
+    "animationId": 201,
+    "weight": 10,
+    "conditionGroupId": 0
+  },
+  {
+    "version": "260110.1.0",
+    "id": 862,
+    "itemId": 86,
+    "level": 2,
+    "animationId": 202,
+    "weight": 10,
+    "conditionGroupId": 0
+  },
+  {
+    "version": "260110.1.0",
+    "id": 863,
+    "itemId": 86,
+    "level": 3,
+    "animationId": 203,
+    "weight": 10,
+    "conditionGroupId": 0
+  },
+  {
+    "version": "260130.1.0",
+    "id": 871,
+    "itemId": 87,
+    "level": 1,
+    "animationId": 201,
+    "weight": 10,
+    "conditionGroupId": 0
+  },
+  {
+    "version": "260230.1.0",
+    "id": 881,
+    "itemId": 88,
+    "level": 1,
+    "animationId": 201,
+    "weight": 10,
+    "conditionGroupId": 0
+  },
+  {
+    "version": "260230.1.0",
+    "id": 882,
+    "itemId": 88,
+    "level": 2,
+    "animationId": 202,
+    "weight": 10,
+    "conditionGroupId": 0
+  },
+  {
+    "version": "260210.1.0",
+    "id": 891,
+    "itemId": 89,
+    "level": 1,
+    "animationId": 201,
+    "weight": 10,
+    "conditionGroupId": 0
+  },
+  {
+    "version": "260210.1.0",
+    "id": 892,
+    "itemId": 89,
+    "level": 2,
+    "animationId": 202,
+    "weight": 10,
+    "conditionGroupId": 0
+  },
+  {
+    "version": "260230.1.0",
+    "id": 901,
+    "itemId": 90,
+    "level": 1,
+    "animationId": 201,
+    "weight": 10,
+    "conditionGroupId": 0
+  },
+  {
+    "version": "260230.1.0",
+    "id": 902,
+    "itemId": 90,
+    "level": 2,
+    "animationId": 202,
+    "weight": 10,
+    "conditionGroupId": 0
+  },
+  {
+    "version": "260210.1.0",
+    "id": 911,
+    "itemId": 91,
+    "level": 1,
+    "animationId": 201,
+    "weight": 10,
+    "conditionGroupId": 0
+  },
+  {
+    "version": "260210.1.0",
+    "id": 912,
+    "itemId": 91,
+    "level": 2,
+    "animationId": 202,
+    "weight": 10,
+    "conditionGroupId": 0
+  },
+  {
+    "version": "260330.1.0",
+    "id": 921,
+    "itemId": 92,
+    "level": 1,
+    "animationId": 201,
+    "weight": 10,
+    "conditionGroupId": 0
+  },
+  {
+    "version": "260330.1.0",
+    "id": 922,
+    "itemId": 92,
+    "level": 2,
+    "animationId": 202,
+    "weight": 10,
+    "conditionGroupId": 0
+  },
+  {
+    "version": "260310.1.0",
+    "id": 931,
+    "itemId": 93,
+    "level": 1,
+    "animationId": 201,
+    "weight": 10,
+    "conditionGroupId": 0
+  },
+  {
+    "version": "260310.1.0",
+    "id": 932,
+    "itemId": 93,
+    "level": 2,
+    "animationId": 202,
+    "weight": 10,
+    "conditionGroupId": 0
+  },
+  {
+    "version": "260330.1.0",
+    "id": 941,
+    "itemId": 94,
+    "level": 1,
+    "animationId": 201,
+    "weight": 10,
+    "conditionGroupId": 0
+  },
+  {
+    "version": "260330.1.0",
+    "id": 942,
+    "itemId": 94,
+    "level": 2,
+    "animationId": 202,
+    "weight": 10,
+    "conditionGroupId": 0
+  },
+  {
+    "version": "260310.1.0",
+    "id": 951,
+    "itemId": 95,
+    "level": 1,
+    "animationId": 201,
+    "weight": 10,
+    "conditionGroupId": 0
+  },
+  {
+    "version": "260310.1.0",
+    "id": 952,
+    "itemId": 95,
+    "level": 2,
+    "animationId": 202,
+    "weight": 10,
+    "conditionGroupId": 0
+  },
+  {
+    "version": "260410.1.0",
+    "id": 961,
+    "itemId": 96,
+    "level": 1,
+    "animationId": 201,
+    "weight": 10,
+    "conditionGroupId": 0
+  },
+  {
+    "version": "260410.1.0",
+    "id": 962,
+    "itemId": 96,
+    "level": 2,
+    "animationId": 202,
+    "weight": 10,
+    "conditionGroupId": 0
+  },
+  {
+    "version": "260410.1.0",
+    "id": 963,
+    "itemId": 96,
+    "level": 3,
+    "animationId": 203,
+    "weight": 10,
+    "conditionGroupId": 0
+  },
+  {
+    "version": "260420.1.0",
+    "id": 971,
+    "itemId": 97,
+    "level": 1,
+    "animationId": 201,
+    "weight": 10,
+    "conditionGroupId": 0
+  },
+  {
+    "version": "260420.1.0",
+    "id": 972,
+    "itemId": 97,
+    "level": 2,
+    "animationId": 202,
+    "weight": 10,
+    "conditionGroupId": 0
+  },
+  {
+    "version": "260420.1.0",
+    "id": 981,
+    "itemId": 98,
+    "level": 1,
+    "animationId": 201,
+    "weight": 10,
+    "conditionGroupId": 0
+  },
+  {
+    "version": "260420.1.0",
+    "id": 982,
+    "itemId": 98,
+    "level": 2,
+    "animationId": 202,
+    "weight": 10,
+    "conditionGroupId": 0
+  },
+  {
+    "version": "260410.1.0",
+    "id": 991,
+    "itemId": 99,
+    "level": 1,
+    "animationId": 201,
+    "weight": 10,
+    "conditionGroupId": 0
+  },
+  {
+    "version": "260410.1.0",
+    "id": 992,
+    "itemId": 99,
+    "level": 2,
+    "animationId": 202,
+    "weight": 10,
+    "conditionGroupId": 0
+  },
+  {
+    "version": "260410.1.0",
+    "id": 1001,
+    "itemId": 100,
+    "level": 1,
+    "animationId": 201,
+    "weight": 10,
+    "conditionGroupId": 0
+  },
+  {
+    "version": "260510.1.0",
+    "id": 1011,
+    "itemId": 101,
+    "level": 1,
+    "animationId": 201,
+    "weight": 10,
+    "conditionGroupId": 0
+  },
+  {
+    "version": "260510.1.0",
+    "id": 1012,
+    "itemId": 101,
+    "level": 2,
+    "animationId": 202,
+    "weight": 10,
+    "conditionGroupId": 0
+  },
+  {
+    "version": "260530.1.0",
+    "id": 1021,
+    "itemId": 102,
+    "level": 1,
+    "animationId": 201,
+    "weight": 10,
+    "conditionGroupId": 0
+  },
+  {
+    "version": "260530.1.0",
+    "id": 1022,
+    "itemId": 102,
+    "level": 2,
+    "animationId": 202,
+    "weight": 10,
+    "conditionGroupId": 0
+  },
+  {
+    "version": "260530.1.0",
+    "id": 1031,
+    "itemId": 103,
+    "level": 1,
+    "animationId": 201,
+    "weight": 10,
+    "conditionGroupId": 0
+  },
+  {
+    "version": "260530.1.0",
+    "id": 1032,
+    "itemId": 103,
+    "level": 2,
+    "animationId": 202,
+    "weight": 10,
+    "conditionGroupId": 0
+  },
+  {
+    "version": "260510.1.0",
+    "id": 1041,
+    "itemId": 104,
+    "level": 1,
+    "animationId": 201,
+    "weight": 10,
+    "conditionGroupId": 0
+  },
+  {
+    "version": "260510.1.0",
+    "id": 1042,
+    "itemId": 104,
+    "level": 2,
+    "animationId": 202,
+    "weight": 10,
+    "conditionGroupId": 0
+  },
+  {
+    "version": "260630.1.0",
+    "id": 1051,
+    "itemId": 105,
+    "level": 1,
+    "animationId": 201,
+    "weight": 10,
+    "conditionGroupId": 0
+  },
+  {
+    "version": "260630.1.0",
+    "id": 1052,
+    "itemId": 105,
+    "level": 2,
+    "animationId": 202,
+    "weight": 10,
+    "conditionGroupId": 0
+  },
+  {
+    "version": "260610.1.0",
+    "id": 1061,
+    "itemId": 106,
+    "level": 1,
+    "animationId": 201,
+    "weight": 10,
+    "conditionGroupId": 0
+  },
+  {
+    "version": "260610.1.0",
+    "id": 1062,
+    "itemId": 106,
+    "level": 2,
+    "animationId": 202,
+    "weight": 10,
+    "conditionGroupId": 0
+  },
+  {
+    "version": "260630.1.0",
+    "id": 1071,
+    "itemId": 107,
+    "level": 1,
+    "animationId": 201,
+    "weight": 10,
+    "conditionGroupId": 0
+  },
+  {
+    "version": "260630.1.0",
+    "id": 1072,
+    "itemId": 107,
+    "level": 2,
+    "animationId": 202,
+    "weight": 10,
+    "conditionGroupId": 0
+  },
+  {
+    "version": "260610.1.0",
+    "id": 1081,
+    "itemId": 108,
+    "level": 1,
+    "animationId": 201,
+    "weight": 10,
+    "conditionGroupId": 0
+  },
+  {
+    "version": "260610.1.0",
+    "id": 1082,
+    "itemId": 108,
+    "level": 2,
+    "animationId": 202,
+    "weight": 10,
+    "conditionGroupId": 0
+  },
+  {
+    "version": "260710.1.0",
+    "id": 1101,
+    "itemId": 110,
+    "level": 1,
+    "animationId": 201,
+    "weight": 10,
+    "conditionGroupId": 0
+  },
+  {
+    "version": "260710.1.0",
+    "id": 1102,
+    "itemId": 110,
+    "level": 2,
+    "animationId": 202,
+    "weight": 10,
+    "conditionGroupId": 0
+  },
+  {
+    "version": "260710.1.0",
+    "id": 1121,
+    "itemId": 112,
+    "level": 1,
+    "animationId": 201,
+    "weight": 10,
+    "conditionGroupId": 0
+  },
+  {
+    "version": "260710.1.0",
+    "id": 1122,
+    "itemId": 112,
+    "level": 2,
+    "animationId": 202,
+    "weight": 10,
+    "conditionGroupId": 0
   }
 ]

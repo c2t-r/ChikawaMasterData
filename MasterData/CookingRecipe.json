@@ -1,338 +1,352 @@
 [
   {
-    "Version": "250330.1.0",
-    "Id": 1,
-    "MenuId": 1,
-    "NameTextKey": 1635426029,
-    "HintTextKey": 1829400717
+    "version": "250330.1.0",
+    "id": 1,
+    "menuId": 1,
+    "nameTextKey": 1635426029,
+    "hintTextKey": 1829400717
   },
   {
-    "Version": "250330.1.0",
-    "Id": 2,
-    "MenuId": 2,
-    "NameTextKey": -126628009,
-    "HintTextKey": -201121481
+    "version": "250330.1.0",
+    "id": 2,
+    "menuId": 2,
+    "nameTextKey": -126628009,
+    "hintTextKey": -201121481
   },
   {
-    "Version": "250330.1.0",
-    "Id": 4,
-    "MenuId": 4,
-    "NameTextKey": 286288482,
-    "HintTextKey": 492864514
+    "version": "250330.1.0",
+    "id": 4,
+    "menuId": 4,
+    "nameTextKey": 286288482,
+    "hintTextKey": 492864514
   },
   {
-    "Version": "250330.1.0",
-    "Id": 5,
-    "MenuId": 5,
-    "NameTextKey": 1712806644,
-    "HintTextKey": 1785181332
+    "version": "250330.1.0",
+    "id": 5,
+    "menuId": 5,
+    "nameTextKey": 1712806644,
+    "hintTextKey": 1785181332
   },
   {
-    "Version": "250330.1.0",
-    "Id": 6,
-    "MenuId": 6,
-    "NameTextKey": -14808242,
-    "HintTextKey": -210836178
+    "version": "250330.1.0",
+    "id": 6,
+    "menuId": 6,
+    "nameTextKey": -14808242,
+    "hintTextKey": -210836178
   },
   {
-    "Version": "250330.1.0",
-    "Id": 7,
-    "MenuId": 7,
-    "NameTextKey": -2011612200,
-    "HintTextKey": -2073438792
+    "version": "250330.1.0",
+    "id": 7,
+    "menuId": 7,
+    "nameTextKey": -2011612200,
+    "hintTextKey": -2073438792
   },
   {
-    "Version": "250330.1.0",
-    "Id": 9,
-    "MenuId": 9,
-    "NameTextKey": 1872828127,
-    "HintTextKey": 1674705087
+    "version": "260530.1.0",
+    "id": 8,
+    "menuId": 8,
+    "nameTextKey": 413541961,
+    "hintTextKey": 349620265
   },
   {
-    "Version": "250330.1.0",
-    "Id": 10,
-    "MenuId": 10,
-    "NameTextKey": 258383674,
-    "HintTextKey": 51802458
+    "version": "250330.1.0",
+    "id": 9,
+    "menuId": 9,
+    "nameTextKey": 1872828127,
+    "hintTextKey": 1674705087
   },
   {
-    "Version": "250330.1.0",
-    "Id": 11,
-    "MenuId": 11,
-    "NameTextKey": 2019667884,
-    "HintTextKey": 1947288012
+    "version": "250330.1.0",
+    "id": 10,
+    "menuId": 10,
+    "nameTextKey": 258383674,
+    "hintTextKey": 51802458
   },
   {
-    "Version": "250330.1.0",
-    "Id": 12,
-    "MenuId": 12,
-    "NameTextKey": -513212906,
-    "HintTextKey": -317190026
+    "version": "250330.1.0",
+    "id": 11,
+    "menuId": 11,
+    "nameTextKey": 2019667884,
+    "hintTextKey": 1947288012
   },
   {
-    "Version": "250330.1.0",
-    "Id": 14,
-    "MenuId": 14,
-    "NameTextKey": 134961955,
-    "HintTextKey": 75216195
+    "version": "250330.1.0",
+    "id": 12,
+    "menuId": 12,
+    "nameTextKey": -513212906,
+    "hintTextKey": -317190026
   },
   {
-    "Version": "250330.1.0",
-    "Id": 15,
-    "MenuId": 15,
-    "NameTextKey": 2131520437,
-    "HintTextKey": 1937540565
+    "version": "250330.1.0",
+    "id": 14,
+    "menuId": 14,
+    "nameTextKey": 134961955,
+    "hintTextKey": 75216195
   },
   {
-    "Version": "250330.1.0",
-    "Id": 16,
-    "MenuId": 16,
-    "NameTextKey": -435865073,
-    "HintTextKey": -361376657
+    "version": "250330.1.0",
+    "id": 15,
+    "menuId": 15,
+    "nameTextKey": 2131520437,
+    "hintTextKey": 1937540565
   },
   {
-    "Version": "250330.1.0",
-    "Id": 18,
-    "MenuId": 18,
-    "NameTextKey": 29169416,
-    "HintTextKey": 231602536
+    "version": "250330.1.0",
+    "id": 16,
+    "menuId": 16,
+    "nameTextKey": -435865073,
+    "hintTextKey": -361376657
   },
   {
-    "Version": "250330.1.0",
-    "Id": 19,
-    "MenuId": 19,
-    "NameTextKey": 1991911326,
-    "HintTextKey": 2060110334
+    "version": "250330.1.0",
+    "id": 18,
+    "menuId": 18,
+    "nameTextKey": 29169416,
+    "hintTextKey": 231602536
   },
   {
-    "Version": "250330.1.0",
-    "Id": 20,
-    "MenuId": 20,
-    "NameTextKey": 608947449,
-    "HintTextKey": 674964121
+    "version": "250330.1.0",
+    "id": 19,
+    "menuId": 19,
+    "nameTextKey": 1991911326,
+    "hintTextKey": 2060110334
   },
   {
-    "Version": "250330.1.0",
-    "Id": 22,
-    "MenuId": 22,
-    "NameTextKey": -901403179,
-    "HintTextKey": -969587787
+    "version": "250330.1.0",
+    "id": 20,
+    "menuId": 20,
+    "nameTextKey": 608947449,
+    "hintTextKey": 674964121
   },
   {
-    "Version": "250330.1.0",
-    "Id": 23,
-    "MenuId": 23,
-    "NameTextKey": -1119707837,
-    "HintTextKey": -1322093789
+    "version": "250330.1.0",
+    "id": 22,
+    "menuId": 22,
+    "nameTextKey": -901403179,
+    "hintTextKey": -969587787
   },
   {
-    "Version": "250330.1.0",
-    "Id": 24,
-    "MenuId": 24,
-    "NameTextKey": 589695200,
-    "HintTextKey": 794224256
+    "version": "250330.1.0",
+    "id": 23,
+    "menuId": 23,
+    "nameTextKey": -1119707837,
+    "hintTextKey": -1322093789
   },
   {
-    "Version": "250330.1.0",
-    "Id": 25,
-    "MenuId": 25,
-    "NameTextKey": 1411463286,
-    "HintTextKey": 1481758230
+    "version": "250330.1.0",
+    "id": 24,
+    "menuId": 24,
+    "nameTextKey": 589695200,
+    "hintTextKey": 794224256
   },
   {
-    "Version": "250330.1.0",
-    "Id": 27,
-    "MenuId": 27,
-    "NameTextKey": -1171302054,
-    "HintTextKey": -1235241158
+    "version": "250330.1.0",
+    "id": 25,
+    "menuId": 25,
+    "nameTextKey": 1411463286,
+    "hintTextKey": 1481758230
   },
   {
-    "Version": "250330.1.0",
-    "Id": 28,
-    "MenuId": 28,
-    "NameTextKey": 714097867,
-    "HintTextKey": 652257963
+    "version": "250330.1.0",
+    "id": 27,
+    "menuId": 27,
+    "nameTextKey": -1171302054,
+    "hintTextKey": -1235241158
   },
   {
-    "Version": "250330.1.0",
-    "Id": 29,
-    "MenuId": 29,
-    "NameTextKey": 1570206813,
-    "HintTextKey": 1374132797
+    "version": "250330.1.0",
+    "id": 28,
+    "menuId": 28,
+    "nameTextKey": 714097867,
+    "hintTextKey": 652257963
   },
   {
-    "Version": "250330.1.0",
-    "Id": 30,
-    "MenuId": 30,
-    "NameTextKey": 1028718008,
-    "HintTextKey": 824185816
+    "version": "250330.1.0",
+    "id": 29,
+    "menuId": 29,
+    "nameTextKey": 1570206813,
+    "hintTextKey": 1374132797
   },
   {
-    "Version": "250330.1.0",
-    "Id": 31,
-    "MenuId": 31,
-    "NameTextKey": 1247268142,
-    "HintTextKey": 1176970062
+    "version": "250330.1.0",
+    "id": 30,
+    "menuId": 30,
+    "nameTextKey": 1028718008,
+    "hintTextKey": 824185816
   },
   {
-    "Version": "250330.1.0",
-    "Id": 32,
-    "MenuId": 32,
-    "NameTextKey": -748774252,
-    "HintTextKey": -550604044
+    "version": "250330.1.0",
+    "id": 31,
+    "menuId": 31,
+    "nameTextKey": 1247268142,
+    "hintTextKey": 1176970062
   },
   {
-    "Version": "250330.1.0",
-    "Id": 33,
-    "MenuId": 33,
-    "NameTextKey": -1537627134,
-    "HintTextKey": -1473691038
+    "version": "250330.1.0",
+    "id": 32,
+    "menuId": 32,
+    "nameTextKey": -748774252,
+    "hintTextKey": -550604044
   },
   {
-    "Version": "250330.1.0",
-    "Id": 34,
-    "MenuId": 34,
-    "NameTextKey": 977090977,
-    "HintTextKey": 911071169
+    "version": "250330.1.0",
+    "id": 33,
+    "menuId": 33,
+    "nameTextKey": -1537627134,
+    "hintTextKey": -1473691038
   },
   {
-    "Version": "250330.1.0",
-    "Id": 36,
-    "MenuId": 36,
-    "NameTextKey": -734832499,
-    "HintTextKey": -666650899
+    "version": "250330.1.0",
+    "id": 34,
+    "menuId": 34,
+    "nameTextKey": 977090977,
+    "hintTextKey": 911071169
   },
   {
-    "Version": "250330.1.0",
-    "Id": 38,
-    "MenuId": 38,
-    "NameTextKey": 864777610,
-    "HintTextKey": 1073454058
+    "version": "250330.1.0",
+    "id": 36,
+    "menuId": 36,
+    "nameTextKey": -734832499,
+    "hintTextKey": -666650899
   },
   {
-    "Version": "250330.1.0",
-    "Id": 39,
-    "MenuId": 39,
-    "NameTextKey": 1150043420,
-    "HintTextKey": 1224518524
+    "version": "260530.1.0",
+    "id": 37,
+    "menuId": 37,
+    "nameTextKey": -1556846565,
+    "hintTextKey": -1354463621
   },
   {
-    "Version": "250330.1.0",
-    "Id": 40,
-    "MenuId": 40,
-    "NameTextKey": 1913744255,
-    "HintTextKey": 2120320287
+    "version": "250330.1.0",
+    "id": 38,
+    "menuId": 38,
+    "nameTextKey": 864777610,
+    "hintTextKey": 1073454058
   },
   {
-    "Version": "250330.1.0",
-    "Id": 41,
-    "MenuId": 41,
-    "NameTextKey": 85351401,
-    "HintTextKey": 157726089
+    "version": "250330.1.0",
+    "id": 39,
+    "menuId": 39,
+    "nameTextKey": 1150043420,
+    "hintTextKey": 1224518524
   },
   {
-    "Version": "250330.1.0",
-    "Id": 42,
-    "MenuId": 42,
-    "NameTextKey": -1675687341,
-    "HintTextKey": -1871715277
+    "version": "250330.1.0",
+    "id": 40,
+    "menuId": 40,
+    "nameTextKey": 1913744255,
+    "hintTextKey": 2120320287
   },
   {
-    "Version": "250330.1.0",
-    "Id": 43,
-    "MenuId": 43,
-    "NameTextKey": -350733627,
-    "HintTextKey": -412560219
+    "version": "250330.1.0",
+    "id": 41,
+    "menuId": 41,
+    "nameTextKey": 85351401,
+    "hintTextKey": 157726089
   },
   {
-    "Version": "250330.1.0",
-    "Id": 45,
-    "MenuId": 45,
-    "NameTextKey": 41656304,
-    "HintTextKey": 235630992
+    "version": "250330.1.0",
+    "id": 42,
+    "menuId": 42,
+    "nameTextKey": -1675687341,
+    "hintTextKey": -1871715277
   },
   {
-    "Version": "250330.1.0",
-    "Id": 46,
-    "MenuId": 46,
-    "NameTextKey": -1686974902,
-    "HintTextKey": -1761468374
+    "version": "250330.1.0",
+    "id": 43,
+    "menuId": 43,
+    "nameTextKey": -350733627,
+    "hintTextKey": -412560219
   },
   {
-    "Version": "250330.1.0",
-    "Id": 47,
-    "MenuId": 47,
-    "NameTextKey": -327811364,
-    "HintTextKey": -536538948
+    "version": "250330.1.0",
+    "id": 45,
+    "menuId": 45,
+    "nameTextKey": 41656304,
+    "hintTextKey": 235630992
   },
   {
-    "Version": "250330.1.0",
-    "Id": 49,
-    "MenuId": 49,
-    "NameTextKey": 198038491,
-    "HintTextKey": 129842619
+    "version": "250330.1.0",
+    "id": 46,
+    "menuId": 46,
+    "nameTextKey": -1686974902,
+    "hintTextKey": -1761468374
   },
   {
-    "Version": "250330.1.0",
-    "Id": 50,
-    "MenuId": 50,
-    "NameTextKey": 1795840574,
-    "HintTextKey": 1736094814
+    "version": "250330.1.0",
+    "id": 47,
+    "menuId": 47,
+    "nameTextKey": -327811364,
+    "hintTextKey": -536538948
   },
   {
-    "Version": "250330.1.0",
-    "Id": 51,
-    "MenuId": 51,
-    "NameTextKey": 470641320,
-    "HintTextKey": 276661448
+    "version": "250330.1.0",
+    "id": 49,
+    "menuId": 49,
+    "nameTextKey": 198038491,
+    "hintTextKey": 129842619
   },
   {
-    "Version": "250330.1.0",
-    "Id": 52,
-    "MenuId": 52,
-    "NameTextKey": -2063320302,
-    "HintTextKey": -1988831886
+    "version": "250330.1.0",
+    "id": 50,
+    "menuId": 50,
+    "nameTextKey": 1795840574,
+    "hintTextKey": 1736094814
   },
   {
-    "Version": "250330.1.0",
-    "Id": 54,
-    "MenuId": 54,
-    "NameTextKey": 1818730023,
-    "HintTextKey": 1612148807
+    "version": "250330.1.0",
+    "id": 51,
+    "menuId": 51,
+    "nameTextKey": 470641320,
+    "hintTextKey": 276661448
   },
   {
-    "Version": "250330.1.0",
-    "Id": 55,
-    "MenuId": 55,
-    "NameTextKey": 459321009,
-    "HintTextKey": 386941137
+    "version": "250330.1.0",
+    "id": 52,
+    "menuId": 52,
+    "nameTextKey": -2063320302,
+    "hintTextKey": -1988831886
   },
   {
-    "Version": "250330.1.0",
-    "Id": 57,
-    "MenuId": 57,
-    "NameTextKey": -177287267,
-    "HintTextKey": -115465731
+    "version": "250330.1.0",
+    "id": 54,
+    "menuId": 54,
+    "nameTextKey": 1818730023,
+    "hintTextKey": 1612148807
   },
   {
-    "Version": "250330.1.0",
-    "Id": 58,
-    "MenuId": 58,
-    "NameTextKey": 1708249612,
-    "HintTextKey": 1772174444
+    "version": "250330.1.0",
+    "id": 55,
+    "menuId": 55,
+    "nameTextKey": 459321009,
+    "hintTextKey": 386941137
   },
   {
-    "Version": "250330.1.0",
-    "Id": 59,
-    "MenuId": 59,
-    "NameTextKey": 316072602,
-    "HintTextKey": 514198778
+    "version": "250330.1.0",
+    "id": 57,
+    "menuId": 57,
+    "nameTextKey": -177287267,
+    "hintTextKey": -115465731
   },
   {
-    "Version": "250330.1.0",
-    "Id": 60,
-    "MenuId": 60,
-    "NameTextKey": 1076300285,
-    "HintTextKey": 1280829341
+    "version": "250330.1.0",
+    "id": 58,
+    "menuId": 58,
+    "nameTextKey": 1708249612,
+    "hintTextKey": 1772174444
+  },
+  {
+    "version": "250330.1.0",
+    "id": 59,
+    "menuId": 59,
+    "nameTextKey": 316072602,
+    "hintTextKey": 514198778
+  },
+  {
+    "version": "250330.1.0",
+    "id": 60,
+    "menuId": 60,
+    "nameTextKey": 1076300285,
+    "hintTextKey": 1280829341
   }
 ]

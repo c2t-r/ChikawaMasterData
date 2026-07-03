@@ -1,562 +1,562 @@
 [
   {
-    "Version": "250330.1.0",
-    "Id": 1001,
-    "HomeCharacterType": "Main",
-    "Value": 11001,
-    "EventZone": {
-      "x": 0.0,
+    "version": "250330.1.0",
+    "id": 1001,
+    "homeCharacterType": "Main",
+    "value": 11001,
+    "eventZone": {
+      "x": 0,
       "y": 0.15000000596046448,
-      "width": 2.0,
+      "width": 2,
       "height": 1.5
     },
-    "BodyZone": {
-      "x": 0.0,
-      "y": 0.0,
-      "width": 1.0,
-      "height": 1.0
+    "bodyZone": {
+      "x": 0,
+      "y": 0,
+      "width": 1,
+      "height": 1
     },
-    "GiftAssetId": 1001,
-    "SortOrder": 1
+    "giftAssetId": 1001,
+    "sortOrder": 1
   },
   {
-    "Version": "250330.1.0",
-    "Id": 1002,
-    "HomeCharacterType": "Main",
-    "Value": 12001,
-    "EventZone": {
-      "x": 0.0,
+    "version": "250330.1.0",
+    "id": 1002,
+    "homeCharacterType": "Main",
+    "value": 12001,
+    "eventZone": {
+      "x": 0,
       "y": 0.15000000596046448,
-      "width": 2.0,
+      "width": 2,
       "height": 1.5
     },
-    "BodyZone": {
-      "x": 0.0,
-      "y": 0.0,
-      "width": 1.0,
-      "height": 1.0
+    "bodyZone": {
+      "x": 0,
+      "y": 0,
+      "width": 1,
+      "height": 1
     },
-    "GiftAssetId": 1002,
-    "SortOrder": 2
+    "giftAssetId": 1002,
+    "sortOrder": 2
   },
   {
-    "Version": "250330.1.0",
-    "Id": 1003,
-    "HomeCharacterType": "Main",
-    "Value": 13001,
-    "EventZone": {
-      "x": 0.0,
+    "version": "250330.1.0",
+    "id": 1003,
+    "homeCharacterType": "Main",
+    "value": 13001,
+    "eventZone": {
+      "x": 0,
       "y": 0.15000000596046448,
-      "width": 2.0,
+      "width": 2,
       "height": 1.5
     },
-    "BodyZone": {
-      "x": 0.0,
-      "y": 0.0,
-      "width": 1.0,
-      "height": 1.0
+    "bodyZone": {
+      "x": 0,
+      "y": 0,
+      "width": 1,
+      "height": 1
     },
-    "GiftAssetId": 1003,
-    "SortOrder": 3
+    "giftAssetId": 1003,
+    "sortOrder": 3
   },
   {
-    "Version": "250330.1.0",
-    "Id": 1004,
-    "HomeCharacterType": "Main",
-    "Value": 14001,
-    "EventZone": {
-      "x": 0.0,
+    "version": "250330.1.0",
+    "id": 1004,
+    "homeCharacterType": "Main",
+    "value": 14001,
+    "eventZone": {
+      "x": 0,
       "y": 0.15000000596046448,
-      "width": 2.0,
+      "width": 2,
       "height": 1.5
     },
-    "BodyZone": {
-      "x": 0.0,
-      "y": 0.0,
-      "width": 1.0,
-      "height": 1.0
+    "bodyZone": {
+      "x": 0,
+      "y": 0,
+      "width": 1,
+      "height": 1
     },
-    "GiftAssetId": 1004,
-    "SortOrder": 5
+    "giftAssetId": 1004,
+    "sortOrder": 5
   },
   {
-    "Version": "250330.1.0",
-    "Id": 1005,
-    "HomeCharacterType": "Main",
-    "Value": 15001,
-    "EventZone": {
-      "x": 0.0,
+    "version": "250330.1.0",
+    "id": 1005,
+    "homeCharacterType": "Main",
+    "value": 15001,
+    "eventZone": {
+      "x": 0,
       "y": 0.15000000596046448,
-      "width": 2.0,
+      "width": 2,
       "height": 1.5
     },
-    "BodyZone": {
-      "x": 0.0,
-      "y": 0.0,
-      "width": 1.0,
-      "height": 1.0
+    "bodyZone": {
+      "x": 0,
+      "y": 0,
+      "width": 1,
+      "height": 1
     },
-    "GiftAssetId": 1005,
-    "SortOrder": 4
+    "giftAssetId": 1005,
+    "sortOrder": 4
   },
   {
-    "Version": "250330.1.0",
-    "Id": 1006,
-    "HomeCharacterType": "Main",
-    "Value": 16001,
-    "EventZone": {
-      "x": 0.0,
+    "version": "250330.1.0",
+    "id": 1006,
+    "homeCharacterType": "Main",
+    "value": 16001,
+    "eventZone": {
+      "x": 0,
       "y": 0.15000000596046448,
-      "width": 2.0,
+      "width": 2,
       "height": 1.5
     },
-    "BodyZone": {
-      "x": 0.0,
-      "y": 0.0,
-      "width": 1.0,
-      "height": 1.0
+    "bodyZone": {
+      "x": 0,
+      "y": 0,
+      "width": 1,
+      "height": 1
     },
-    "GiftAssetId": 1006,
-    "SortOrder": 6
+    "giftAssetId": 1006,
+    "sortOrder": 6
   },
   {
-    "Version": "250330.1.0",
-    "Id": 1007,
-    "HomeCharacterType": "Main",
-    "Value": 17001,
-    "EventZone": {
-      "x": 0.0,
+    "version": "250330.1.0",
+    "id": 1007,
+    "homeCharacterType": "Main",
+    "value": 17001,
+    "eventZone": {
+      "x": 0,
       "y": 0.15000000596046448,
-      "width": 2.0,
+      "width": 2,
       "height": 1.5
     },
-    "BodyZone": {
-      "x": 0.0,
-      "y": 0.0,
-      "width": 1.0,
-      "height": 1.0
+    "bodyZone": {
+      "x": 0,
+      "y": 0,
+      "width": 1,
+      "height": 1
     },
-    "GiftAssetId": 1007,
-    "SortOrder": 7
+    "giftAssetId": 1007,
+    "sortOrder": 7
   },
   {
-    "Version": "250330.1.0",
-    "Id": 3001,
-    "HomeCharacterType": "Sub",
-    "Value": 19,
-    "EventZone": {
-      "x": 0.0,
+    "version": "250330.1.0",
+    "id": 3001,
+    "homeCharacterType": "Sub",
+    "value": 19,
+    "eventZone": {
+      "x": 0,
       "y": 0.30000001192092896,
-      "width": 3.0,
-      "height": 3.0
+      "width": 3,
+      "height": 3
     },
-    "BodyZone": {
-      "x": 0.0,
-      "y": 0.0,
-      "width": 2.0,
-      "height": 2.0
+    "bodyZone": {
+      "x": 0,
+      "y": 0,
+      "width": 2,
+      "height": 2
     },
-    "GiftAssetId": 3001,
-    "SortOrder": 8
+    "giftAssetId": 3001,
+    "sortOrder": 8
   },
   {
-    "Version": "250330.1.0",
-    "Id": 3002,
-    "HomeCharacterType": "Sub",
-    "Value": 7,
-    "EventZone": {
-      "x": 0.0,
+    "version": "250330.1.0",
+    "id": 3002,
+    "homeCharacterType": "Sub",
+    "value": 7,
+    "eventZone": {
+      "x": 0,
       "y": 0.30000001192092896,
-      "width": 3.0,
-      "height": 3.0
+      "width": 3,
+      "height": 3
     },
-    "BodyZone": {
-      "x": 0.0,
-      "y": 0.0,
-      "width": 2.0,
-      "height": 2.0
+    "bodyZone": {
+      "x": 0,
+      "y": 0,
+      "width": 2,
+      "height": 2
     },
-    "GiftAssetId": 3002,
-    "SortOrder": 9
+    "giftAssetId": 3002,
+    "sortOrder": 9
   },
   {
-    "Version": "250330.1.0",
-    "Id": 3003,
-    "HomeCharacterType": "Sub",
-    "Value": 4,
-    "EventZone": {
-      "x": 0.0,
+    "version": "250330.1.0",
+    "id": 3003,
+    "homeCharacterType": "Sub",
+    "value": 4,
+    "eventZone": {
+      "x": 0,
       "y": 0.30000001192092896,
-      "width": 3.0,
-      "height": 3.0
+      "width": 3,
+      "height": 3
     },
-    "BodyZone": {
-      "x": 0.0,
-      "y": 0.0,
-      "width": 2.0,
-      "height": 2.0
+    "bodyZone": {
+      "x": 0,
+      "y": 0,
+      "width": 2,
+      "height": 2
     },
-    "GiftAssetId": 3003,
-    "SortOrder": 10
+    "giftAssetId": 3003,
+    "sortOrder": 10
   },
   {
-    "Version": "250330.1.0",
-    "Id": 3004,
-    "HomeCharacterType": "Sub",
-    "Value": 2,
-    "EventZone": {
-      "x": 0.0,
+    "version": "250330.1.0",
+    "id": 3004,
+    "homeCharacterType": "Sub",
+    "value": 2,
+    "eventZone": {
+      "x": 0,
       "y": 0.30000001192092896,
-      "width": 3.0,
-      "height": 3.0
+      "width": 3,
+      "height": 3
     },
-    "BodyZone": {
-      "x": 0.0,
-      "y": 0.0,
-      "width": 2.0,
-      "height": 2.0
+    "bodyZone": {
+      "x": 0,
+      "y": 0,
+      "width": 2,
+      "height": 2
     },
-    "GiftAssetId": 3004,
-    "SortOrder": 11
+    "giftAssetId": 3004,
+    "sortOrder": 11
   },
   {
-    "Version": "250330.1.0",
-    "Id": 3005,
-    "HomeCharacterType": "Sub",
-    "Value": 1,
-    "EventZone": {
-      "x": 0.0,
+    "version": "250330.1.0",
+    "id": 3005,
+    "homeCharacterType": "Sub",
+    "value": 1,
+    "eventZone": {
+      "x": 0,
       "y": 0.30000001192092896,
-      "width": 3.0,
-      "height": 3.0
+      "width": 3,
+      "height": 3
     },
-    "BodyZone": {
-      "x": 0.0,
-      "y": 0.0,
-      "width": 2.0,
-      "height": 2.0
+    "bodyZone": {
+      "x": 0,
+      "y": 0,
+      "width": 2,
+      "height": 2
     },
-    "GiftAssetId": 3005,
-    "SortOrder": 12
+    "giftAssetId": 3005,
+    "sortOrder": 12
   },
   {
-    "Version": "250330.1.0",
-    "Id": 3006,
-    "HomeCharacterType": "Sub",
-    "Value": 3,
-    "EventZone": {
-      "x": 0.0,
+    "version": "250330.1.0",
+    "id": 3006,
+    "homeCharacterType": "Sub",
+    "value": 3,
+    "eventZone": {
+      "x": 0,
       "y": 0.30000001192092896,
-      "width": 3.0,
-      "height": 3.0
+      "width": 3,
+      "height": 3
     },
-    "BodyZone": {
-      "x": 0.0,
-      "y": 0.0,
-      "width": 2.0,
-      "height": 2.0
+    "bodyZone": {
+      "x": 0,
+      "y": 0,
+      "width": 2,
+      "height": 2
     },
-    "GiftAssetId": 3006,
-    "SortOrder": 13
+    "giftAssetId": 3006,
+    "sortOrder": 13
   },
   {
-    "Version": "250330.1.0",
-    "Id": 3007,
-    "HomeCharacterType": "Sub",
-    "Value": 10,
-    "EventZone": {
-      "x": 0.0,
+    "version": "250330.1.0",
+    "id": 3007,
+    "homeCharacterType": "Sub",
+    "value": 10,
+    "eventZone": {
+      "x": 0,
       "y": 0.30000001192092896,
-      "width": 3.0,
-      "height": 3.0
+      "width": 3,
+      "height": 3
     },
-    "BodyZone": {
-      "x": 0.0,
-      "y": 0.0,
-      "width": 2.0,
-      "height": 2.0
+    "bodyZone": {
+      "x": 0,
+      "y": 0,
+      "width": 2,
+      "height": 2
     },
-    "GiftAssetId": 3007,
-    "SortOrder": 14
+    "giftAssetId": 3007,
+    "sortOrder": 14
   },
   {
-    "Version": "250330.1.0",
-    "Id": 3008,
-    "HomeCharacterType": "Sub",
-    "Value": 6,
-    "EventZone": {
-      "x": 0.0,
+    "version": "250330.1.0",
+    "id": 3008,
+    "homeCharacterType": "Sub",
+    "value": 6,
+    "eventZone": {
+      "x": 0,
       "y": 0.30000001192092896,
-      "width": 3.0,
-      "height": 3.0
+      "width": 3,
+      "height": 3
     },
-    "BodyZone": {
-      "x": 0.0,
-      "y": 0.0,
-      "width": 2.0,
-      "height": 2.0
+    "bodyZone": {
+      "x": 0,
+      "y": 0,
+      "width": 2,
+      "height": 2
     },
-    "GiftAssetId": 3008,
-    "SortOrder": 15
+    "giftAssetId": 3008,
+    "sortOrder": 15
   },
   {
-    "Version": "250330.1.0",
-    "Id": 3009,
-    "HomeCharacterType": "Sub",
-    "Value": 9,
-    "EventZone": {
-      "x": 0.0,
+    "version": "250330.1.0",
+    "id": 3009,
+    "homeCharacterType": "Sub",
+    "value": 9,
+    "eventZone": {
+      "x": 0,
       "y": 0.30000001192092896,
-      "width": 3.0,
-      "height": 3.0
+      "width": 3,
+      "height": 3
     },
-    "BodyZone": {
-      "x": 0.0,
-      "y": 0.0,
-      "width": 2.0,
-      "height": 2.0
+    "bodyZone": {
+      "x": 0,
+      "y": 0,
+      "width": 2,
+      "height": 2
     },
-    "GiftAssetId": 3009,
-    "SortOrder": 16
+    "giftAssetId": 3009,
+    "sortOrder": 16
   },
   {
-    "Version": "250330.1.0",
-    "Id": 3011,
-    "HomeCharacterType": "Sub",
-    "Value": 5,
-    "EventZone": {
-      "x": 0.0,
+    "version": "250330.1.0",
+    "id": 3011,
+    "homeCharacterType": "Sub",
+    "value": 5,
+    "eventZone": {
+      "x": 0,
       "y": 0.30000001192092896,
-      "width": 3.0,
-      "height": 3.0
+      "width": 3,
+      "height": 3
     },
-    "BodyZone": {
-      "x": 0.0,
-      "y": 0.0,
-      "width": 2.0,
-      "height": 2.0
+    "bodyZone": {
+      "x": 0,
+      "y": 0,
+      "width": 2,
+      "height": 2
     },
-    "GiftAssetId": 3011,
-    "SortOrder": 17
+    "giftAssetId": 3011,
+    "sortOrder": 17
   },
   {
-    "Version": "250330.1.0",
-    "Id": 3012,
-    "HomeCharacterType": "Sub",
-    "Value": 13,
-    "EventZone": {
-      "x": 0.0,
+    "version": "250330.1.0",
+    "id": 3012,
+    "homeCharacterType": "Sub",
+    "value": 13,
+    "eventZone": {
+      "x": 0,
       "y": 0.30000001192092896,
-      "width": 3.0,
-      "height": 3.0
+      "width": 3,
+      "height": 3
     },
-    "BodyZone": {
-      "x": 0.0,
-      "y": 0.0,
-      "width": 2.0,
-      "height": 2.0
+    "bodyZone": {
+      "x": 0,
+      "y": 0,
+      "width": 2,
+      "height": 2
     },
-    "GiftAssetId": 3012,
-    "SortOrder": 18
+    "giftAssetId": 3012,
+    "sortOrder": 18
   },
   {
-    "Version": "250330.1.0",
-    "Id": 3013,
-    "HomeCharacterType": "Sub",
-    "Value": 14,
-    "EventZone": {
-      "x": 0.0,
+    "version": "250330.1.0",
+    "id": 3013,
+    "homeCharacterType": "Sub",
+    "value": 14,
+    "eventZone": {
+      "x": 0,
       "y": 0.30000001192092896,
-      "width": 3.0,
-      "height": 3.0
+      "width": 3,
+      "height": 3
     },
-    "BodyZone": {
-      "x": 0.0,
-      "y": 0.0,
-      "width": 2.0,
-      "height": 2.0
+    "bodyZone": {
+      "x": 0,
+      "y": 0,
+      "width": 2,
+      "height": 2
     },
-    "GiftAssetId": 3013,
-    "SortOrder": 19
+    "giftAssetId": 3013,
+    "sortOrder": 19
   },
   {
-    "Version": "250330.1.0",
-    "Id": 3014,
-    "HomeCharacterType": "Sub",
-    "Value": 17,
-    "EventZone": {
-      "x": 0.0,
+    "version": "250330.1.0",
+    "id": 3014,
+    "homeCharacterType": "Sub",
+    "value": 17,
+    "eventZone": {
+      "x": 0,
       "y": 0.30000001192092896,
-      "width": 3.0,
-      "height": 3.0
+      "width": 3,
+      "height": 3
     },
-    "BodyZone": {
-      "x": 0.0,
-      "y": 0.0,
-      "width": 2.0,
-      "height": 2.0
+    "bodyZone": {
+      "x": 0,
+      "y": 0,
+      "width": 2,
+      "height": 2
     },
-    "GiftAssetId": 3014,
-    "SortOrder": 20
+    "giftAssetId": 3014,
+    "sortOrder": 20
   },
   {
-    "Version": "250330.1.0",
-    "Id": 3015,
-    "HomeCharacterType": "Sub",
-    "Value": 8,
-    "EventZone": {
-      "x": 0.0,
+    "version": "250330.1.0",
+    "id": 3015,
+    "homeCharacterType": "Sub",
+    "value": 8,
+    "eventZone": {
+      "x": 0,
       "y": 0.30000001192092896,
-      "width": 3.0,
-      "height": 3.0
+      "width": 3,
+      "height": 3
     },
-    "BodyZone": {
-      "x": 0.0,
-      "y": 0.0,
-      "width": 2.0,
-      "height": 2.0
+    "bodyZone": {
+      "x": 0,
+      "y": 0,
+      "width": 2,
+      "height": 2
     },
-    "GiftAssetId": 3015,
-    "SortOrder": 21
+    "giftAssetId": 3015,
+    "sortOrder": 21
   },
   {
-    "Version": "250330.1.0",
-    "Id": 3016,
-    "HomeCharacterType": "Sub",
-    "Value": 16,
-    "EventZone": {
-      "x": 0.0,
+    "version": "250330.1.0",
+    "id": 3016,
+    "homeCharacterType": "Sub",
+    "value": 16,
+    "eventZone": {
+      "x": 0,
       "y": 0.30000001192092896,
-      "width": 3.0,
-      "height": 3.0
+      "width": 3,
+      "height": 3
     },
-    "BodyZone": {
-      "x": 0.0,
-      "y": 0.0,
-      "width": 2.0,
-      "height": 2.0
+    "bodyZone": {
+      "x": 0,
+      "y": 0,
+      "width": 2,
+      "height": 2
     },
-    "GiftAssetId": 3016,
-    "SortOrder": 22
+    "giftAssetId": 3016,
+    "sortOrder": 22
   },
   {
-    "Version": "250330.1.0",
-    "Id": 3017,
-    "HomeCharacterType": "Sub",
-    "Value": 15,
-    "EventZone": {
-      "x": 0.0,
+    "version": "250330.1.0",
+    "id": 3017,
+    "homeCharacterType": "Sub",
+    "value": 15,
+    "eventZone": {
+      "x": 0,
       "y": 0.30000001192092896,
-      "width": 3.0,
-      "height": 3.0
+      "width": 3,
+      "height": 3
     },
-    "BodyZone": {
-      "x": 0.0,
-      "y": 0.0,
-      "width": 2.0,
-      "height": 2.0
+    "bodyZone": {
+      "x": 0,
+      "y": 0,
+      "width": 2,
+      "height": 2
     },
-    "GiftAssetId": 3017,
-    "SortOrder": 23
+    "giftAssetId": 3017,
+    "sortOrder": 23
   },
   {
-    "Version": "250330.1.0",
-    "Id": 3018,
-    "HomeCharacterType": "Sub",
-    "Value": 12,
-    "EventZone": {
-      "x": 0.0,
+    "version": "250330.1.0",
+    "id": 3018,
+    "homeCharacterType": "Sub",
+    "value": 12,
+    "eventZone": {
+      "x": 0,
       "y": 0.30000001192092896,
-      "width": 3.0,
-      "height": 3.0
+      "width": 3,
+      "height": 3
     },
-    "BodyZone": {
-      "x": 0.0,
-      "y": 0.0,
-      "width": 2.0,
-      "height": 2.0
+    "bodyZone": {
+      "x": 0,
+      "y": 0,
+      "width": 2,
+      "height": 2
     },
-    "GiftAssetId": 3018,
-    "SortOrder": 24
+    "giftAssetId": 3018,
+    "sortOrder": 24
   },
   {
-    "Version": "250330.1.0",
-    "Id": 3019,
-    "HomeCharacterType": "Sub",
-    "Value": 18,
-    "EventZone": {
-      "x": 0.0,
+    "version": "250330.1.0",
+    "id": 3019,
+    "homeCharacterType": "Sub",
+    "value": 18,
+    "eventZone": {
+      "x": 0,
       "y": 0.30000001192092896,
-      "width": 3.0,
-      "height": 3.0
+      "width": 3,
+      "height": 3
     },
-    "BodyZone": {
-      "x": 0.0,
-      "y": 0.0,
-      "width": 2.0,
-      "height": 2.0
+    "bodyZone": {
+      "x": 0,
+      "y": 0,
+      "width": 2,
+      "height": 2
     },
-    "GiftAssetId": 3019,
-    "SortOrder": 25
+    "giftAssetId": 3019,
+    "sortOrder": 25
   },
   {
-    "Version": "250330.1.0",
-    "Id": 3020,
-    "HomeCharacterType": "Sub",
-    "Value": 20,
-    "EventZone": {
-      "x": 0.0,
+    "version": "250330.1.0",
+    "id": 3020,
+    "homeCharacterType": "Sub",
+    "value": 20,
+    "eventZone": {
+      "x": 0,
       "y": 0.30000001192092896,
-      "width": 3.0,
-      "height": 3.0
+      "width": 3,
+      "height": 3
     },
-    "BodyZone": {
-      "x": 0.0,
-      "y": 0.0,
-      "width": 2.0,
-      "height": 2.0
+    "bodyZone": {
+      "x": 0,
+      "y": 0,
+      "width": 2,
+      "height": 2
     },
-    "GiftAssetId": 3020,
-    "SortOrder": 26
+    "giftAssetId": 3020,
+    "sortOrder": 26
   },
   {
-    "Version": "250330.1.0",
-    "Id": 3021,
-    "HomeCharacterType": "Sub",
-    "Value": 21,
-    "EventZone": {
-      "x": 0.0,
+    "version": "250330.1.0",
+    "id": 3021,
+    "homeCharacterType": "Sub",
+    "value": 21,
+    "eventZone": {
+      "x": 0,
       "y": 0.30000001192092896,
-      "width": 3.0,
-      "height": 3.0
+      "width": 3,
+      "height": 3
     },
-    "BodyZone": {
-      "x": 0.0,
-      "y": 0.0,
-      "width": 2.0,
-      "height": 2.0
+    "bodyZone": {
+      "x": 0,
+      "y": 0,
+      "width": 2,
+      "height": 2
     },
-    "GiftAssetId": 3021,
-    "SortOrder": 27
+    "giftAssetId": 3021,
+    "sortOrder": 27
   },
   {
-    "Version": "250330.1.0",
-    "Id": 3022,
-    "HomeCharacterType": "Sub",
-    "Value": 11,
-    "EventZone": {
-      "x": 0.0,
+    "version": "250330.1.0",
+    "id": 3022,
+    "homeCharacterType": "Sub",
+    "value": 11,
+    "eventZone": {
+      "x": 0,
       "y": 0.30000001192092896,
-      "width": 3.0,
-      "height": 3.0
+      "width": 3,
+      "height": 3
     },
-    "BodyZone": {
-      "x": 0.0,
-      "y": 0.0,
-      "width": 2.0,
-      "height": 2.0
+    "bodyZone": {
+      "x": 0,
+      "y": 0,
+      "width": 2,
+      "height": 2
     },
-    "GiftAssetId": 3022,
-    "SortOrder": 28
+    "giftAssetId": 3022,
+    "sortOrder": 28
   }
 ]

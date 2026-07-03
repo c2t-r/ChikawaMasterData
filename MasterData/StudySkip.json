@@ -1,22 +1,22 @@
 [
   {
-    "Version": "250330.1.0",
-    "Id": 1,
-    "ConsumeGroupId": 7,
-    "SkipMinutesPerAction": 30,
-    "SkipType": "FixedTime",
-    "LimitCountPerDay": 4,
-    "ResetHoursUTC": 6,
-    "AdRewardId": 16
+    "version": "250330.1.0",
+    "id": 1,
+    "consumeGroupId": 7,
+    "skipMinutesPerAction": 30,
+    "skipType": "FixedTime",
+    "limitCountPerDay": 4,
+    "resetHoursUtc": 6,
+    "adRewardId": 16
   },
   {
-    "Version": "250330.1.0",
-    "Id": 2,
-    "ConsumeGroupId": 17,
-    "SkipMinutesPerAction": 1,
-    "SkipType": "AllTime",
-    "LimitCountPerDay": 0,
-    "ResetHoursUTC": 6,
-    "AdRewardId": 0
+    "version": "250330.1.0",
+    "id": 2,
+    "consumeGroupId": 17,
+    "skipMinutesPerAction": 1,
+    "skipType": "AllTime",
+    "limitCountPerDay": 0,
+    "resetHoursUtc": 6,
+    "adRewardId": 0
   }
 ]

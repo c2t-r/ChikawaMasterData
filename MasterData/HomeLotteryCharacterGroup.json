@@ -1,226 +1,226 @@
 [
   {
-    "Version": "250850.1.0",
-    "Id": 101,
-    "TableId": 1,
-    "HomeCharacterGroupId": 1001,
-    "Weight": 10,
-    "ConditionGroupId": 0
+    "version": "250850.1.0",
+    "id": 101,
+    "tableId": 1,
+    "homeCharacterGroupId": 1001,
+    "weight": 10,
+    "conditionGroupId": 0
   },
   {
-    "Version": "250850.1.0",
-    "Id": 102,
-    "TableId": 1,
-    "HomeCharacterGroupId": 1002,
-    "Weight": 10,
-    "ConditionGroupId": 0
+    "version": "250850.1.0",
+    "id": 102,
+    "tableId": 1,
+    "homeCharacterGroupId": 1002,
+    "weight": 10,
+    "conditionGroupId": 0
   },
   {
-    "Version": "250850.1.0",
-    "Id": 103,
-    "TableId": 1,
-    "HomeCharacterGroupId": 1003,
-    "Weight": 10,
-    "ConditionGroupId": 0
+    "version": "250850.1.0",
+    "id": 103,
+    "tableId": 1,
+    "homeCharacterGroupId": 1003,
+    "weight": 10,
+    "conditionGroupId": 0
   },
   {
-    "Version": "250850.1.0",
-    "Id": 104,
-    "TableId": 1,
-    "HomeCharacterGroupId": 1004,
-    "Weight": 10,
-    "ConditionGroupId": 0
+    "version": "250850.1.0",
+    "id": 104,
+    "tableId": 1,
+    "homeCharacterGroupId": 1004,
+    "weight": 10,
+    "conditionGroupId": 0
   },
   {
-    "Version": "250850.1.0",
-    "Id": 105,
-    "TableId": 1,
-    "HomeCharacterGroupId": 1005,
-    "Weight": 10,
-    "ConditionGroupId": 0
+    "version": "250850.1.0",
+    "id": 105,
+    "tableId": 1,
+    "homeCharacterGroupId": 1005,
+    "weight": 10,
+    "conditionGroupId": 0
   },
   {
-    "Version": "250850.1.0",
-    "Id": 106,
-    "TableId": 1,
-    "HomeCharacterGroupId": 1006,
-    "Weight": 10,
-    "ConditionGroupId": 0
+    "version": "250850.1.0",
+    "id": 106,
+    "tableId": 1,
+    "homeCharacterGroupId": 1006,
+    "weight": 10,
+    "conditionGroupId": 0
   },
   {
-    "Version": "250850.1.0",
-    "Id": 107,
-    "TableId": 1,
-    "HomeCharacterGroupId": 1007,
-    "Weight": 10,
-    "ConditionGroupId": 0
+    "version": "250850.1.0",
+    "id": 107,
+    "tableId": 1,
+    "homeCharacterGroupId": 1007,
+    "weight": 10,
+    "conditionGroupId": 0
   },
   {
-    "Version": "250850.1.0",
-    "Id": 301,
-    "TableId": 2,
-    "HomeCharacterGroupId": 3001,
-    "Weight": 10,
-    "ConditionGroupId": 0
+    "version": "250850.1.0",
+    "id": 301,
+    "tableId": 2,
+    "homeCharacterGroupId": 3001,
+    "weight": 10,
+    "conditionGroupId": 0
   },
   {
-    "Version": "250850.1.0",
-    "Id": 302,
-    "TableId": 2,
-    "HomeCharacterGroupId": 3002,
-    "Weight": 10,
-    "ConditionGroupId": 0
+    "version": "250850.1.0",
+    "id": 302,
+    "tableId": 2,
+    "homeCharacterGroupId": 3002,
+    "weight": 10,
+    "conditionGroupId": 0
   },
   {
-    "Version": "250850.1.0",
-    "Id": 303,
-    "TableId": 2,
-    "HomeCharacterGroupId": 3003,
-    "Weight": 10,
-    "ConditionGroupId": 0
+    "version": "250850.1.0",
+    "id": 303,
+    "tableId": 2,
+    "homeCharacterGroupId": 3003,
+    "weight": 10,
+    "conditionGroupId": 0
   },
   {
-    "Version": "250850.1.0",
-    "Id": 304,
-    "TableId": 2,
-    "HomeCharacterGroupId": 3004,
-    "Weight": 10,
-    "ConditionGroupId": 0
+    "version": "250850.1.0",
+    "id": 304,
+    "tableId": 2,
+    "homeCharacterGroupId": 3004,
+    "weight": 10,
+    "conditionGroupId": 0
   },
   {
-    "Version": "250850.1.0",
-    "Id": 305,
-    "TableId": 2,
-    "HomeCharacterGroupId": 3005,
-    "Weight": 10,
-    "ConditionGroupId": 0
+    "version": "250850.1.0",
+    "id": 305,
+    "tableId": 2,
+    "homeCharacterGroupId": 3005,
+    "weight": 10,
+    "conditionGroupId": 0
   },
   {
-    "Version": "250850.1.0",
-    "Id": 306,
-    "TableId": 2,
-    "HomeCharacterGroupId": 3006,
-    "Weight": 10,
-    "ConditionGroupId": 0
+    "version": "250850.1.0",
+    "id": 306,
+    "tableId": 2,
+    "homeCharacterGroupId": 3006,
+    "weight": 10,
+    "conditionGroupId": 0
   },
   {
-    "Version": "250850.1.0",
-    "Id": 307,
-    "TableId": 2,
-    "HomeCharacterGroupId": 3007,
-    "Weight": 10,
-    "ConditionGroupId": 0
+    "version": "250850.1.0",
+    "id": 307,
+    "tableId": 2,
+    "homeCharacterGroupId": 3007,
+    "weight": 10,
+    "conditionGroupId": 0
   },
   {
-    "Version": "250850.1.0",
-    "Id": 308,
-    "TableId": 2,
-    "HomeCharacterGroupId": 3008,
-    "Weight": 10,
-    "ConditionGroupId": 0
+    "version": "250850.1.0",
+    "id": 308,
+    "tableId": 2,
+    "homeCharacterGroupId": 3008,
+    "weight": 10,
+    "conditionGroupId": 0
   },
   {
-    "Version": "250850.1.0",
-    "Id": 309,
-    "TableId": 2,
-    "HomeCharacterGroupId": 3009,
-    "Weight": 10,
-    "ConditionGroupId": 0
+    "version": "250850.1.0",
+    "id": 309,
+    "tableId": 2,
+    "homeCharacterGroupId": 3009,
+    "weight": 10,
+    "conditionGroupId": 0
   },
   {
-    "Version": "250850.1.0",
-    "Id": 311,
-    "TableId": 2,
-    "HomeCharacterGroupId": 3011,
-    "Weight": 10,
-    "ConditionGroupId": 0
+    "version": "250850.1.0",
+    "id": 311,
+    "tableId": 2,
+    "homeCharacterGroupId": 3011,
+    "weight": 10,
+    "conditionGroupId": 0
   },
   {
-    "Version": "250850.1.0",
-    "Id": 312,
-    "TableId": 2,
-    "HomeCharacterGroupId": 3012,
-    "Weight": 10,
-    "ConditionGroupId": 0
+    "version": "250850.1.0",
+    "id": 312,
+    "tableId": 2,
+    "homeCharacterGroupId": 3012,
+    "weight": 10,
+    "conditionGroupId": 0
   },
   {
-    "Version": "250850.1.0",
-    "Id": 313,
-    "TableId": 2,
-    "HomeCharacterGroupId": 3013,
-    "Weight": 10,
-    "ConditionGroupId": 0
+    "version": "250850.1.0",
+    "id": 313,
+    "tableId": 2,
+    "homeCharacterGroupId": 3013,
+    "weight": 10,
+    "conditionGroupId": 0
   },
   {
-    "Version": "250850.1.0",
-    "Id": 314,
-    "TableId": 2,
-    "HomeCharacterGroupId": 3014,
-    "Weight": 10,
-    "ConditionGroupId": 0
+    "version": "250850.1.0",
+    "id": 314,
+    "tableId": 2,
+    "homeCharacterGroupId": 3014,
+    "weight": 10,
+    "conditionGroupId": 0
   },
   {
-    "Version": "250850.1.0",
-    "Id": 315,
-    "TableId": 2,
-    "HomeCharacterGroupId": 3015,
-    "Weight": 10,
-    "ConditionGroupId": 0
+    "version": "250850.1.0",
+    "id": 315,
+    "tableId": 2,
+    "homeCharacterGroupId": 3015,
+    "weight": 10,
+    "conditionGroupId": 0
   },
   {
-    "Version": "250850.1.0",
-    "Id": 316,
-    "TableId": 2,
-    "HomeCharacterGroupId": 3016,
-    "Weight": 10,
-    "ConditionGroupId": 0
+    "version": "250850.1.0",
+    "id": 316,
+    "tableId": 2,
+    "homeCharacterGroupId": 3016,
+    "weight": 10,
+    "conditionGroupId": 0
   },
   {
-    "Version": "250850.1.0",
-    "Id": 317,
-    "TableId": 2,
-    "HomeCharacterGroupId": 3017,
-    "Weight": 10,
-    "ConditionGroupId": 0
+    "version": "250850.1.0",
+    "id": 317,
+    "tableId": 2,
+    "homeCharacterGroupId": 3017,
+    "weight": 10,
+    "conditionGroupId": 0
   },
   {
-    "Version": "250850.1.0",
-    "Id": 318,
-    "TableId": 2,
-    "HomeCharacterGroupId": 3018,
-    "Weight": 10,
-    "ConditionGroupId": 0
+    "version": "250850.1.0",
+    "id": 318,
+    "tableId": 2,
+    "homeCharacterGroupId": 3018,
+    "weight": 10,
+    "conditionGroupId": 0
   },
   {
-    "Version": "250850.1.0",
-    "Id": 319,
-    "TableId": 2,
-    "HomeCharacterGroupId": 3019,
-    "Weight": 10,
-    "ConditionGroupId": 0
+    "version": "250850.1.0",
+    "id": 319,
+    "tableId": 2,
+    "homeCharacterGroupId": 3019,
+    "weight": 10,
+    "conditionGroupId": 0
   },
   {
-    "Version": "250850.1.0",
-    "Id": 320,
-    "TableId": 2,
-    "HomeCharacterGroupId": 3020,
-    "Weight": 10,
-    "ConditionGroupId": 0
+    "version": "250850.1.0",
+    "id": 320,
+    "tableId": 2,
+    "homeCharacterGroupId": 3020,
+    "weight": 10,
+    "conditionGroupId": 0
   },
   {
-    "Version": "250850.1.0",
-    "Id": 321,
-    "TableId": 2,
-    "HomeCharacterGroupId": 3021,
-    "Weight": 10,
-    "ConditionGroupId": 0
+    "version": "250850.1.0",
+    "id": 321,
+    "tableId": 2,
+    "homeCharacterGroupId": 3021,
+    "weight": 10,
+    "conditionGroupId": 0
   },
   {
-    "Version": "250850.1.0",
-    "Id": 322,
-    "TableId": 2,
-    "HomeCharacterGroupId": 3022,
-    "Weight": 10,
-    "ConditionGroupId": 0
+    "version": "250850.1.0",
+    "id": 322,
+    "tableId": 2,
+    "homeCharacterGroupId": 3022,
+    "weight": 10,
+    "conditionGroupId": 0
   }
 ]

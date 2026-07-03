@@ -1,555 +1,578 @@
 [
   {
-    "Version": "250330.1.0",
-    "Id": 1,
-    "ViewConditionId": 0,
-    "Number": 1,
-    "PossessionEffectIds": [
+    "version": "250330.1.0",
+    "id": 1,
+    "viewConditionId": 0,
+    "number": 1,
+    "possessionEffectIds": [
       71001
     ],
-    "NameTextKey": 2010309190,
-    "CookingMenuRarityId": 1
+    "nameTextKey": 2010309190,
+    "cookingMenuRarityId": 1
   },
   {
-    "Version": "250330.1.0",
-    "Id": 2,
-    "ViewConditionId": 0,
-    "Number": 2,
-    "PossessionEffectIds": [
+    "version": "250330.1.0",
+    "id": 2,
+    "viewConditionId": 0,
+    "number": 2,
+    "possessionEffectIds": [
       71007
     ],
-    "NameTextKey": -287591428,
-    "CookingMenuRarityId": 1
+    "nameTextKey": -287591428,
+    "cookingMenuRarityId": 1
   },
   {
-    "Version": "250330.1.0",
-    "Id": 4,
-    "ViewConditionId": 0,
-    "Number": 3,
-    "PossessionEffectIds": [
+    "version": "250330.1.0",
+    "id": 4,
+    "viewConditionId": 0,
+    "number": 3,
+    "possessionEffectIds": [
       71002,
       71008
     ],
-    "NameTextKey": 129504969,
-    "CookingMenuRarityId": 1
+    "nameTextKey": 129504969,
+    "cookingMenuRarityId": 1
   },
   {
-    "Version": "250330.1.0",
-    "Id": 5,
-    "ViewConditionId": 0,
-    "Number": 4,
-    "PossessionEffectIds": [
+    "version": "250330.1.0",
+    "id": 5,
+    "viewConditionId": 0,
+    "number": 4,
+    "possessionEffectIds": [
       71006,
       71008
     ],
-    "NameTextKey": 1891575391,
-    "CookingMenuRarityId": 1
+    "nameTextKey": 1891575391,
+    "cookingMenuRarityId": 1
   },
   {
-    "Version": "250330.1.0",
-    "Id": 6,
-    "ViewConditionId": 0,
-    "Number": 5,
-    "PossessionEffectIds": [
+    "version": "250330.1.0",
+    "id": 6,
+    "viewConditionId": 0,
+    "number": 5,
+    "possessionEffectIds": [
       72002,
       72006
     ],
-    "NameTextKey": -373917723,
-    "CookingMenuRarityId": 2
+    "nameTextKey": -373917723,
+    "cookingMenuRarityId": 2
   },
   {
-    "Version": "250330.1.0",
-    "Id": 7,
-    "ViewConditionId": 0,
-    "Number": 6,
-    "PossessionEffectIds": [
+    "version": "250330.1.0",
+    "id": 7,
+    "viewConditionId": 0,
+    "number": 6,
+    "possessionEffectIds": [
       72002,
       72010
     ],
-    "NameTextKey": -1632549005,
-    "CookingMenuRarityId": 2
+    "nameTextKey": -1632549005,
+    "cookingMenuRarityId": 2
   },
   {
-    "Version": "250330.1.0",
-    "Id": 9,
-    "ViewConditionId": 0,
-    "Number": 7,
-    "PossessionEffectIds": [
+    "version": "260530.1.0",
+    "id": 8,
+    "viewConditionId": 0,
+    "number": 49,
+    "possessionEffectIds": [
+      73011
+    ],
+    "nameTextKey": 235821794,
+    "cookingMenuRarityId": 3
+  },
+  {
+    "version": "250330.1.0",
+    "id": 9,
+    "viewConditionId": 0,
+    "number": 7,
+    "possessionEffectIds": [
       73001
     ],
-    "NameTextKey": 2030660212,
-    "CookingMenuRarityId": 3
+    "nameTextKey": 2030660212,
+    "cookingMenuRarityId": 3
   },
   {
-    "Version": "250330.1.0",
-    "Id": 10,
-    "ViewConditionId": 0,
-    "Number": 8,
-    "PossessionEffectIds": [
+    "version": "250330.1.0",
+    "id": 10,
+    "viewConditionId": 0,
+    "number": 8,
+    "possessionEffectIds": [
       73002,
       73010
     ],
-    "NameTextKey": 432989073,
-    "CookingMenuRarityId": 3
+    "nameTextKey": 432989073,
+    "cookingMenuRarityId": 3
   },
   {
-    "Version": "250330.1.0",
-    "Id": 11,
-    "ViewConditionId": 0,
-    "Number": 9,
-    "PossessionEffectIds": [
+    "version": "250330.1.0",
+    "id": 11,
+    "viewConditionId": 0,
+    "number": 9,
+    "possessionEffectIds": [
       71002,
       71006
     ],
-    "NameTextKey": 1858720519,
-    "CookingMenuRarityId": 1
+    "nameTextKey": 1858720519,
+    "cookingMenuRarityId": 1
   },
   {
-    "Version": "250330.1.0",
-    "Id": 12,
-    "ViewConditionId": 0,
-    "Number": 10,
-    "PossessionEffectIds": [
+    "version": "250330.1.0",
+    "id": 12,
+    "viewConditionId": 0,
+    "number": 10,
+    "possessionEffectIds": [
       71001
     ],
-    "NameTextKey": -138378563,
-    "CookingMenuRarityId": 1
+    "nameTextKey": -138378563,
+    "cookingMenuRarityId": 1
   },
   {
-    "Version": "250330.1.0",
-    "Id": 14,
-    "ViewConditionId": 0,
-    "Number": 11,
-    "PossessionEffectIds": [
+    "version": "250330.1.0",
+    "id": 14,
+    "viewConditionId": 0,
+    "number": 11,
+    "possessionEffectIds": [
       71002,
       71010
     ],
-    "NameTextKey": 514008968,
-    "CookingMenuRarityId": 1
+    "nameTextKey": 514008968,
+    "cookingMenuRarityId": 1
   },
   {
-    "Version": "250330.1.0",
-    "Id": 15,
-    "ViewConditionId": 0,
-    "Number": 12,
-    "PossessionEffectIds": [
+    "version": "250330.1.0",
+    "id": 15,
+    "viewConditionId": 0,
+    "number": 12,
+    "possessionEffectIds": [
       71006,
       71010
     ],
-    "NameTextKey": 1772361502,
-    "CookingMenuRarityId": 1
+    "nameTextKey": 1772361502,
+    "cookingMenuRarityId": 1
   },
   {
-    "Version": "250330.1.0",
-    "Id": 16,
-    "ViewConditionId": 0,
-    "Number": 13,
-    "PossessionEffectIds": [
+    "version": "250330.1.0",
+    "id": 16,
+    "viewConditionId": 0,
+    "number": 13,
+    "possessionEffectIds": [
       72002,
       72006
     ],
-    "NameTextKey": -257079644,
-    "CookingMenuRarityId": 2
+    "nameTextKey": -257079644,
+    "cookingMenuRarityId": 2
   },
   {
-    "Version": "250330.1.0",
-    "Id": 18,
-    "ViewConditionId": 0,
-    "Number": 14,
-    "PossessionEffectIds": [
+    "version": "250330.1.0",
+    "id": 18,
+    "viewConditionId": 0,
+    "number": 14,
+    "possessionEffectIds": [
       72005
     ],
-    "NameTextKey": 387279779,
-    "CookingMenuRarityId": 2
+    "nameTextKey": 387279779,
+    "cookingMenuRarityId": 2
   },
   {
-    "Version": "250330.1.0",
-    "Id": 19,
-    "ViewConditionId": 0,
-    "Number": 15,
-    "PossessionEffectIds": [
+    "version": "250330.1.0",
+    "id": 19,
+    "viewConditionId": 0,
+    "number": 15,
+    "possessionEffectIds": [
       73002,
       73006
     ],
-    "NameTextKey": 1611815733,
-    "CookingMenuRarityId": 3
+    "nameTextKey": 1611815733,
+    "cookingMenuRarityId": 3
   },
   {
-    "Version": "250330.1.0",
-    "Id": 20,
-    "ViewConditionId": 0,
-    "Number": 16,
-    "PossessionEffectIds": [
+    "version": "250330.1.0",
+    "id": 20,
+    "viewConditionId": 0,
+    "number": 16,
+    "possessionEffectIds": [
       73006,
       73008
     ],
-    "NameTextKey": 853782610,
-    "CookingMenuRarityId": 3
+    "nameTextKey": 853782610,
+    "cookingMenuRarityId": 3
   },
   {
-    "Version": "250330.1.0",
-    "Id": 22,
-    "ViewConditionId": 0,
-    "Number": 17,
-    "PossessionEffectIds": [
+    "version": "250330.1.0",
+    "id": 22,
+    "viewConditionId": 0,
+    "number": 17,
+    "possessionEffectIds": [
       71007
     ],
-    "NameTextKey": -588394114,
-    "CookingMenuRarityId": 1
+    "nameTextKey": -588394114,
+    "cookingMenuRarityId": 1
   },
   {
-    "Version": "250330.1.0",
-    "Id": 23,
-    "ViewConditionId": 0,
-    "Number": 18,
-    "PossessionEffectIds": [
+    "version": "250330.1.0",
+    "id": 23,
+    "viewConditionId": 0,
+    "number": 18,
+    "possessionEffectIds": [
       71009
     ],
-    "NameTextKey": -1410670104,
-    "CookingMenuRarityId": 1
+    "nameTextKey": -1410670104,
+    "cookingMenuRarityId": 1
   },
   {
-    "Version": "250330.1.0",
-    "Id": 24,
-    "ViewConditionId": 0,
-    "Number": 19,
-    "PossessionEffectIds": [
+    "version": "250330.1.0",
+    "id": 24,
+    "viewConditionId": 0,
+    "number": 19,
+    "possessionEffectIds": [
       71002,
       71006
     ],
-    "NameTextKey": 898528331,
-    "CookingMenuRarityId": 1
+    "nameTextKey": 898528331,
+    "cookingMenuRarityId": 1
   },
   {
-    "Version": "250330.1.0",
-    "Id": 25,
-    "ViewConditionId": 0,
-    "Number": 20,
-    "PossessionEffectIds": [
+    "version": "250330.1.0",
+    "id": 25,
+    "viewConditionId": 0,
+    "number": 20,
+    "possessionEffectIds": [
       71005
     ],
-    "NameTextKey": 1116292317,
-    "CookingMenuRarityId": 1
+    "nameTextKey": 1116292317,
+    "cookingMenuRarityId": 1
   },
   {
-    "Version": "250330.1.0",
-    "Id": 27,
-    "ViewConditionId": 0,
-    "Number": 21,
-    "PossessionEffectIds": [
+    "version": "250330.1.0",
+    "id": 27,
+    "viewConditionId": 0,
+    "number": 21,
+    "possessionEffectIds": [
       72006,
       72010
     ],
-    "NameTextKey": -1400429071,
-    "CookingMenuRarityId": 2
+    "nameTextKey": -1400429071,
+    "cookingMenuRarityId": 2
   },
   {
-    "Version": "250330.1.0",
-    "Id": 28,
-    "ViewConditionId": 0,
-    "Number": 22,
-    "PossessionEffectIds": [
+    "version": "250330.1.0",
+    "id": 28,
+    "viewConditionId": 0,
+    "number": 22,
+    "possessionEffectIds": [
       72007
     ],
-    "NameTextKey": 1010317408,
-    "CookingMenuRarityId": 2
+    "nameTextKey": 1010317408,
+    "cookingMenuRarityId": 2
   },
   {
-    "Version": "250330.1.0",
-    "Id": 29,
-    "ViewConditionId": 0,
-    "Number": 23,
-    "PossessionEffectIds": [
+    "version": "250330.1.0",
+    "id": 29,
+    "viewConditionId": 0,
+    "number": 23,
+    "possessionEffectIds": [
       73002,
       73008
     ],
-    "NameTextKey": 1262422262,
-    "CookingMenuRarityId": 3
+    "nameTextKey": 1262422262,
+    "cookingMenuRarityId": 3
   },
   {
-    "Version": "250330.1.0",
-    "Id": 30,
-    "ViewConditionId": 0,
-    "Number": 24,
-    "PossessionEffectIds": [
+    "version": "250330.1.0",
+    "id": 30,
+    "viewConditionId": 0,
+    "number": 24,
+    "possessionEffectIds": [
       73006,
       73010
     ],
-    "NameTextKey": 737706259,
-    "CookingMenuRarityId": 3
+    "nameTextKey": 737706259,
+    "cookingMenuRarityId": 3
   },
   {
-    "Version": "250330.1.0",
-    "Id": 31,
-    "ViewConditionId": 0,
-    "Number": 25,
-    "PossessionEffectIds": [
+    "version": "250330.1.0",
+    "id": 31,
+    "viewConditionId": 0,
+    "number": 25,
+    "possessionEffectIds": [
       71002,
       71010
     ],
-    "NameTextKey": 1560260997,
-    "CookingMenuRarityId": 1
+    "nameTextKey": 1560260997,
+    "cookingMenuRarityId": 1
   },
   {
-    "Version": "250330.1.0",
-    "Id": 32,
-    "ViewConditionId": 0,
-    "Number": 26,
-    "PossessionEffectIds": [
+    "version": "250330.1.0",
+    "id": 32,
+    "viewConditionId": 0,
+    "number": 26,
+    "possessionEffectIds": [
       71006,
       71008
     ],
-    "NameTextKey": -973676481,
-    "CookingMenuRarityId": 1
+    "nameTextKey": -973676481,
+    "cookingMenuRarityId": 1
   },
   {
-    "Version": "250330.1.0",
-    "Id": 33,
-    "ViewConditionId": 0,
-    "Number": 27,
-    "PossessionEffectIds": [
+    "version": "250330.1.0",
+    "id": 33,
+    "viewConditionId": 0,
+    "number": 27,
+    "possessionEffectIds": [
       71011
     ],
-    "NameTextKey": -1292775255,
-    "CookingMenuRarityId": 1
+    "nameTextKey": -1292775255,
+    "cookingMenuRarityId": 1
   },
   {
-    "Version": "250330.1.0",
-    "Id": 34,
-    "ViewConditionId": 0,
-    "Number": 28,
-    "PossessionEffectIds": [
+    "version": "250330.1.0",
+    "id": 34,
+    "viewConditionId": 0,
+    "number": 28,
+    "possessionEffectIds": [
       71007
     ],
-    "NameTextKey": 747980042,
-    "CookingMenuRarityId": 1
+    "nameTextKey": 747980042,
+    "cookingMenuRarityId": 1
   },
   {
-    "Version": "250330.1.0",
-    "Id": 36,
-    "ViewConditionId": 0,
-    "Number": 29,
-    "PossessionEffectIds": [
+    "version": "250330.1.0",
+    "id": 36,
+    "viewConditionId": 0,
+    "number": 29,
+    "possessionEffectIds": [
       72002,
       72010
     ],
-    "NameTextKey": -1030020058,
-    "CookingMenuRarityId": 2
+    "nameTextKey": -1030020058,
+    "cookingMenuRarityId": 2
   },
   {
-    "Version": "250330.1.0",
-    "Id": 38,
-    "ViewConditionId": 0,
-    "Number": 30,
-    "PossessionEffectIds": [
-      72009
-    ],
-    "NameTextKey": 623053089,
-    "CookingMenuRarityId": 2
-  },
-  {
-    "Version": "250330.1.0",
-    "Id": 39,
-    "ViewConditionId": 0,
-    "Number": 31,
-    "PossessionEffectIds": [
+    "version": "260530.1.0",
+    "id": 37,
+    "viewConditionId": 0,
+    "number": 50,
+    "possessionEffectIds": [
       73002,
       73010
     ],
-    "NameTextKey": 1378105783,
-    "CookingMenuRarityId": 3
+    "nameTextKey": -1248062288,
+    "cookingMenuRarityId": 3
   },
   {
-    "Version": "250330.1.0",
-    "Id": 40,
-    "ViewConditionId": 0,
-    "Number": 32,
-    "PossessionEffectIds": [
+    "version": "250330.1.0",
+    "id": 38,
+    "viewConditionId": 0,
+    "number": 30,
+    "possessionEffectIds": [
+      72009
+    ],
+    "nameTextKey": 623053089,
+    "cookingMenuRarityId": 2
+  },
+  {
+    "version": "250330.1.0",
+    "id": 39,
+    "viewConditionId": 0,
+    "number": 31,
+    "possessionEffectIds": [
+      73002,
+      73010
+    ],
+    "nameTextKey": 1378105783,
+    "cookingMenuRarityId": 3
+  },
+  {
+    "version": "250330.1.0",
+    "id": 40,
+    "viewConditionId": 0,
+    "number": 32,
+    "possessionEffectIds": [
       73008,
       73010
     ],
-    "NameTextKey": 1689851860,
-    "CookingMenuRarityId": 3
+    "nameTextKey": 1689851860,
+    "cookingMenuRarityId": 3
   },
   {
-    "Version": "250330.1.0",
-    "Id": 41,
-    "ViewConditionId": 0,
-    "Number": 33,
-    "PossessionEffectIds": [
+    "version": "250330.1.0",
+    "id": 41,
+    "viewConditionId": 0,
+    "number": 33,
+    "possessionEffectIds": [
       71001
     ],
-    "NameTextKey": 331228994,
-    "CookingMenuRarityId": 1
+    "nameTextKey": 331228994,
+    "cookingMenuRarityId": 1
   },
   {
-    "Version": "250330.1.0",
-    "Id": 42,
-    "ViewConditionId": 0,
-    "Number": 34,
-    "PossessionEffectIds": [
+    "version": "250330.1.0",
+    "id": 42,
+    "viewConditionId": 0,
+    "number": 34,
+    "possessionEffectIds": [
       71006,
       71010
     ],
-    "NameTextKey": -1967687944,
-    "CookingMenuRarityId": 1
+    "nameTextKey": -1967687944,
+    "cookingMenuRarityId": 1
   },
   {
-    "Version": "250330.1.0",
-    "Id": 43,
-    "ViewConditionId": 0,
-    "Number": 35,
-    "PossessionEffectIds": [
+    "version": "250330.1.0",
+    "id": 43,
+    "viewConditionId": 0,
+    "number": 35,
+    "possessionEffectIds": [
       71001
     ],
-    "NameTextKey": -38779282,
-    "CookingMenuRarityId": 1
+    "nameTextKey": -38779282,
+    "cookingMenuRarityId": 1
   },
   {
-    "Version": "250330.1.0",
-    "Id": 45,
-    "ViewConditionId": 0,
-    "Number": 36,
-    "PossessionEffectIds": [
+    "version": "250330.1.0",
+    "id": 45,
+    "viewConditionId": 0,
+    "number": 36,
+    "possessionEffectIds": [
       71007
     ],
-    "NameTextKey": 349430619,
-    "CookingMenuRarityId": 1
+    "nameTextKey": 349430619,
+    "cookingMenuRarityId": 1
   },
   {
-    "Version": "250330.1.0",
-    "Id": 46,
-    "ViewConditionId": 0,
-    "Number": 37,
-    "PossessionEffectIds": [
+    "version": "250330.1.0",
+    "id": 46,
+    "viewConditionId": 0,
+    "number": 37,
+    "possessionEffectIds": [
       72002,
       72006
     ],
-    "NameTextKey": -1915047199,
-    "CookingMenuRarityId": 2
+    "nameTextKey": -1915047199,
+    "cookingMenuRarityId": 2
   },
   {
-    "Version": "250330.1.0",
-    "Id": 47,
-    "ViewConditionId": 0,
-    "Number": 38,
-    "PossessionEffectIds": [
+    "version": "250330.1.0",
+    "id": 47,
+    "viewConditionId": 0,
+    "number": 38,
+    "possessionEffectIds": [
       72011
     ],
-    "NameTextKey": -86146441,
-    "CookingMenuRarityId": 2
+    "nameTextKey": -86146441,
+    "cookingMenuRarityId": 2
   },
   {
-    "Version": "250330.1.0",
-    "Id": 49,
-    "ViewConditionId": 0,
-    "Number": 39,
-    "PossessionEffectIds": [
+    "version": "250330.1.0",
+    "id": 49,
+    "viewConditionId": 0,
+    "number": 39,
+    "possessionEffectIds": [
       73002,
       73008
     ],
-    "NameTextKey": 493203312,
-    "CookingMenuRarityId": 3
+    "nameTextKey": 493203312,
+    "cookingMenuRarityId": 3
   },
   {
-    "Version": "250330.1.0",
-    "Id": 50,
-    "ViewConditionId": 0,
-    "Number": 40,
-    "PossessionEffectIds": [
+    "version": "250330.1.0",
+    "id": 50,
+    "viewConditionId": 0,
+    "number": 40,
+    "possessionEffectIds": [
       73011
     ],
-    "NameTextKey": 2107778709,
-    "CookingMenuRarityId": 3
+    "nameTextKey": 2107778709,
+    "cookingMenuRarityId": 3
   },
   {
-    "Version": "250330.1.0",
-    "Id": 51,
-    "ViewConditionId": 0,
-    "Number": 41,
-    "PossessionEffectIds": [
+    "version": "250330.1.0",
+    "id": 51,
+    "viewConditionId": 0,
+    "number": 41,
+    "possessionEffectIds": [
       71002,
       71010
     ],
-    "NameTextKey": 178591235,
-    "CookingMenuRarityId": 1
+    "nameTextKey": 178591235,
+    "cookingMenuRarityId": 1
   },
   {
-    "Version": "250330.1.0",
-    "Id": 52,
-    "ViewConditionId": 0,
-    "Number": 42,
-    "PossessionEffectIds": [
+    "version": "250330.1.0",
+    "id": 52,
+    "viewConditionId": 0,
+    "number": 42,
+    "possessionEffectIds": [
       71005
     ],
-    "NameTextKey": -1817425991,
-    "CookingMenuRarityId": 1
+    "nameTextKey": -1817425991,
+    "cookingMenuRarityId": 1
   },
   {
-    "Version": "250330.1.0",
-    "Id": 54,
-    "ViewConditionId": 0,
-    "Number": 43,
-    "PossessionEffectIds": [
+    "version": "250330.1.0",
+    "id": 54,
+    "viewConditionId": 0,
+    "number": 43,
+    "possessionEffectIds": [
       71001
     ],
-    "NameTextKey": 2060444300,
-    "CookingMenuRarityId": 1
+    "nameTextKey": 2060444300,
+    "cookingMenuRarityId": 1
   },
   {
-    "Version": "250330.1.0",
-    "Id": 55,
-    "ViewConditionId": 0,
-    "Number": 44,
-    "PossessionEffectIds": [
+    "version": "250330.1.0",
+    "id": 55,
+    "viewConditionId": 0,
+    "number": 44,
+    "possessionEffectIds": [
       71009
     ],
-    "NameTextKey": 231264794,
-    "CookingMenuRarityId": 1
+    "nameTextKey": 231264794,
+    "cookingMenuRarityId": 1
   },
   {
-    "Version": "250330.1.0",
-    "Id": 57,
-    "ViewConditionId": 0,
-    "Number": 45,
-    "PossessionEffectIds": [
+    "version": "250330.1.0",
+    "id": 57,
+    "viewConditionId": 0,
+    "number": 45,
+    "possessionEffectIds": [
       72001
     ],
-    "NameTextKey": -473517258,
-    "CookingMenuRarityId": 2
+    "nameTextKey": -473517258,
+    "cookingMenuRarityId": 2
   },
   {
-    "Version": "250330.1.0",
-    "Id": 58,
-    "ViewConditionId": 0,
-    "Number": 46,
-    "PossessionEffectIds": [
+    "version": "250330.1.0",
+    "id": 58,
+    "viewConditionId": 0,
+    "number": 46,
+    "possessionEffectIds": [
       72002,
       72006
     ],
-    "NameTextKey": 1937354407,
-    "CookingMenuRarityId": 2
+    "nameTextKey": 1937354407,
+    "cookingMenuRarityId": 2
   },
   {
-    "Version": "250330.1.0",
-    "Id": 59,
-    "ViewConditionId": 0,
-    "Number": 47,
-    "PossessionEffectIds": [
+    "version": "250330.1.0",
+    "id": 59,
+    "viewConditionId": 0,
+    "number": 47,
+    "possessionEffectIds": [
       73005
     ],
-    "NameTextKey": 75406897,
-    "CookingMenuRarityId": 3
+    "nameTextKey": 75406897,
+    "cookingMenuRarityId": 3
   },
   {
-    "Version": "250330.1.0",
-    "Id": 60,
-    "ViewConditionId": 0,
-    "Number": 48,
-    "PossessionEffectIds": [
+    "version": "250330.1.0",
+    "id": 60,
+    "viewConditionId": 0,
+    "number": 48,
+    "possessionEffectIds": [
       73001
     ],
-    "NameTextKey": 1452242262,
-    "CookingMenuRarityId": 3
+    "nameTextKey": 1452242262,
+    "cookingMenuRarityId": 3
   }
 ]

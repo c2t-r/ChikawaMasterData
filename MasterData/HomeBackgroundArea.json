@@ -1,3035 +1,3305 @@
 [
   {
-    "Version": "250330.1.0",
-    "Id": 1,
-    "SetId": 1,
-    "Position": {
+    "version": "250330.1.0",
+    "id": 1,
+    "setId": 1,
+    "position": {
       "x": -1.100000023841858,
       "y": 4.5
     },
-    "SlotNum": 1,
-    "Type": "Item",
-    "LotteryTableId": 0,
-    "GroupIndex": 1,
-    "CharacterGroupLotteryTableId": 0,
-    "LargeSlotNumRestrictedAreaIds": []
+    "slotNum": 1,
+    "type": "Item",
+    "lotteryTableId": 0,
+    "groupIndex": 1,
+    "characterGroupLotteryTableId": 0,
+    "largeSlotNumRestrictedAreaIds": []
   },
   {
-    "Version": "250330.1.0",
-    "Id": 2,
-    "SetId": 1,
-    "Position": {
+    "version": "250330.1.0",
+    "id": 2,
+    "setId": 1,
+    "position": {
       "x": 1.2000000476837158,
       "y": 1.5
     },
-    "SlotNum": 1,
-    "Type": "Item",
-    "LotteryTableId": 0,
-    "GroupIndex": 1,
-    "CharacterGroupLotteryTableId": 0,
-    "LargeSlotNumRestrictedAreaIds": []
+    "slotNum": 1,
+    "type": "Item",
+    "lotteryTableId": 0,
+    "groupIndex": 1,
+    "characterGroupLotteryTableId": 0,
+    "largeSlotNumRestrictedAreaIds": []
   },
   {
-    "Version": "250330.1.0",
-    "Id": 3,
-    "SetId": 1,
-    "Position": {
-      "x": 1.0,
+    "version": "250330.1.0",
+    "id": 3,
+    "setId": 1,
+    "position": {
+      "x": 1,
       "y": 6.5
     },
-    "SlotNum": 1,
-    "Type": "Character",
-    "LotteryTableId": 1,
-    "GroupIndex": 1,
-    "CharacterGroupLotteryTableId": 1,
-    "LargeSlotNumRestrictedAreaIds": []
+    "slotNum": 1,
+    "type": "Character",
+    "lotteryTableId": 1,
+    "groupIndex": 1,
+    "characterGroupLotteryTableId": 1,
+    "largeSlotNumRestrictedAreaIds": []
   },
   {
-    "Version": "250330.1.0",
-    "Id": 4,
-    "SetId": 1,
-    "Position": {
+    "version": "250330.1.0",
+    "id": 4,
+    "setId": 1,
+    "position": {
       "x": -1.5,
       "y": 2.5
     },
-    "SlotNum": 1,
-    "Type": "Character",
-    "LotteryTableId": 1,
-    "GroupIndex": 1,
-    "CharacterGroupLotteryTableId": 1,
-    "LargeSlotNumRestrictedAreaIds": []
+    "slotNum": 1,
+    "type": "Character",
+    "lotteryTableId": 1,
+    "groupIndex": 1,
+    "characterGroupLotteryTableId": 1,
+    "largeSlotNumRestrictedAreaIds": []
   },
   {
-    "Version": "250330.1.0",
-    "Id": 5,
-    "SetId": 1,
-    "Position": {
+    "version": "250330.1.0",
+    "id": 5,
+    "setId": 1,
+    "position": {
       "x": 1.2000000476837158,
       "y": 4.5
     },
-    "SlotNum": 1,
-    "Type": "GushSpot",
-    "LotteryTableId": 0,
-    "GroupIndex": 1,
-    "CharacterGroupLotteryTableId": 0,
-    "LargeSlotNumRestrictedAreaIds": []
+    "slotNum": 1,
+    "type": "GushSpot",
+    "lotteryTableId": 0,
+    "groupIndex": 1,
+    "characterGroupLotteryTableId": 0,
+    "largeSlotNumRestrictedAreaIds": []
   },
   {
-    "Version": "250330.1.0",
-    "Id": 201,
-    "SetId": 2,
-    "Position": {
-      "x": -1.0,
+    "version": "250330.1.0",
+    "id": 201,
+    "setId": 2,
+    "position": {
+      "x": -1,
       "y": 1.5
     },
-    "SlotNum": 2,
-    "Type": "BigItem",
-    "LotteryTableId": 0,
-    "GroupIndex": 1,
-    "CharacterGroupLotteryTableId": 0,
-    "LargeSlotNumRestrictedAreaIds": []
+    "slotNum": 2,
+    "type": "BigItem",
+    "lotteryTableId": 0,
+    "groupIndex": 1,
+    "characterGroupLotteryTableId": 0,
+    "largeSlotNumRestrictedAreaIds": []
   },
   {
-    "Version": "250330.1.0",
-    "Id": 202,
-    "SetId": 2,
-    "Position": {
+    "version": "250330.1.0",
+    "id": 202,
+    "setId": 2,
+    "position": {
       "x": -3.5,
       "y": -2.799999952316284
     },
-    "SlotNum": 2,
-    "Type": "BigItem",
-    "LotteryTableId": 0,
-    "GroupIndex": 1,
-    "CharacterGroupLotteryTableId": 0,
-    "LargeSlotNumRestrictedAreaIds": []
+    "slotNum": 2,
+    "type": "BigItem",
+    "lotteryTableId": 0,
+    "groupIndex": 1,
+    "characterGroupLotteryTableId": 0,
+    "largeSlotNumRestrictedAreaIds": []
   },
   {
-    "Version": "250330.1.0",
-    "Id": 203,
-    "SetId": 2,
-    "Position": {
-      "x": 3.0,
-      "y": -2.0
+    "version": "250330.1.0",
+    "id": 203,
+    "setId": 2,
+    "position": {
+      "x": 3,
+      "y": -2
     },
-    "SlotNum": 1,
-    "Type": "Item",
-    "LotteryTableId": 0,
-    "GroupIndex": 1,
-    "CharacterGroupLotteryTableId": 0,
-    "LargeSlotNumRestrictedAreaIds": []
+    "slotNum": 1,
+    "type": "Item",
+    "lotteryTableId": 0,
+    "groupIndex": 1,
+    "characterGroupLotteryTableId": 0,
+    "largeSlotNumRestrictedAreaIds": []
   },
   {
-    "Version": "250330.1.0",
-    "Id": 204,
-    "SetId": 2,
-    "Position": {
+    "version": "250330.1.0",
+    "id": 204,
+    "setId": 2,
+    "position": {
       "x": -5.5,
       "y": 2.5
     },
-    "SlotNum": 1,
-    "Type": "Item",
-    "LotteryTableId": 0,
-    "GroupIndex": 1,
-    "CharacterGroupLotteryTableId": 0,
-    "LargeSlotNumRestrictedAreaIds": []
+    "slotNum": 1,
+    "type": "Item",
+    "lotteryTableId": 0,
+    "groupIndex": 1,
+    "characterGroupLotteryTableId": 0,
+    "largeSlotNumRestrictedAreaIds": []
   },
   {
-    "Version": "250330.1.0",
-    "Id": 205,
-    "SetId": 2,
-    "Position": {
-      "x": -5.0,
+    "version": "250330.1.0",
+    "id": 205,
+    "setId": 2,
+    "position": {
+      "x": -5,
       "y": -6.5
     },
-    "SlotNum": 1,
-    "Type": "Item",
-    "LotteryTableId": 0,
-    "GroupIndex": 1,
-    "CharacterGroupLotteryTableId": 0,
-    "LargeSlotNumRestrictedAreaIds": []
+    "slotNum": 1,
+    "type": "Item",
+    "lotteryTableId": 0,
+    "groupIndex": 1,
+    "characterGroupLotteryTableId": 0,
+    "largeSlotNumRestrictedAreaIds": []
   },
   {
-    "Version": "250330.1.0",
-    "Id": 206,
-    "SetId": 2,
-    "Position": {
+    "version": "250330.1.0",
+    "id": 206,
+    "setId": 2,
+    "position": {
       "x": -0.20000000298023224,
       "y": -6.800000190734863
     },
-    "SlotNum": 1,
-    "Type": "Item",
-    "LotteryTableId": 0,
-    "GroupIndex": 1,
-    "CharacterGroupLotteryTableId": 0,
-    "LargeSlotNumRestrictedAreaIds": []
+    "slotNum": 1,
+    "type": "Item",
+    "lotteryTableId": 0,
+    "groupIndex": 1,
+    "characterGroupLotteryTableId": 0,
+    "largeSlotNumRestrictedAreaIds": []
   },
   {
-    "Version": "250330.1.0",
-    "Id": 207,
-    "SetId": 2,
-    "Position": {
-      "x": 4.0,
+    "version": "250330.1.0",
+    "id": 207,
+    "setId": 2,
+    "position": {
+      "x": 4,
       "y": -5.699999809265137
     },
-    "SlotNum": 1,
-    "Type": "Item",
-    "LotteryTableId": 0,
-    "GroupIndex": 1,
-    "CharacterGroupLotteryTableId": 0,
-    "LargeSlotNumRestrictedAreaIds": []
+    "slotNum": 1,
+    "type": "Item",
+    "lotteryTableId": 0,
+    "groupIndex": 1,
+    "characterGroupLotteryTableId": 0,
+    "largeSlotNumRestrictedAreaIds": []
   },
   {
-    "Version": "250330.1.0",
-    "Id": 208,
-    "SetId": 2,
-    "Position": {
+    "version": "250330.1.0",
+    "id": 208,
+    "setId": 2,
+    "position": {
       "x": 1.5,
       "y": -3.799999952316284
     },
-    "SlotNum": 1,
-    "Type": "Character",
-    "LotteryTableId": 1,
-    "GroupIndex": 1,
-    "CharacterGroupLotteryTableId": 1,
-    "LargeSlotNumRestrictedAreaIds": []
+    "slotNum": 1,
+    "type": "Character",
+    "lotteryTableId": 1,
+    "groupIndex": 1,
+    "characterGroupLotteryTableId": 1,
+    "largeSlotNumRestrictedAreaIds": []
   },
   {
-    "Version": "250330.1.0",
-    "Id": 209,
-    "SetId": 2,
-    "Position": {
+    "version": "250330.1.0",
+    "id": 209,
+    "setId": 2,
+    "position": {
       "x": -2.5,
       "y": -4.5
     },
-    "SlotNum": 1,
-    "Type": "Character",
-    "LotteryTableId": 1,
-    "GroupIndex": 1,
-    "CharacterGroupLotteryTableId": 1,
-    "LargeSlotNumRestrictedAreaIds": []
+    "slotNum": 1,
+    "type": "Character",
+    "lotteryTableId": 1,
+    "groupIndex": 1,
+    "characterGroupLotteryTableId": 1,
+    "largeSlotNumRestrictedAreaIds": []
   },
   {
-    "Version": "250330.1.0",
-    "Id": 210,
-    "SetId": 2,
-    "Position": {
-      "x": 6.0,
-      "y": -3.0
+    "version": "250330.1.0",
+    "id": 210,
+    "setId": 2,
+    "position": {
+      "x": 6,
+      "y": -3
     },
-    "SlotNum": 1,
-    "Type": "Character",
-    "LotteryTableId": 2,
-    "GroupIndex": 1,
-    "CharacterGroupLotteryTableId": 2,
-    "LargeSlotNumRestrictedAreaIds": []
+    "slotNum": 1,
+    "type": "Character",
+    "lotteryTableId": 2,
+    "groupIndex": 1,
+    "characterGroupLotteryTableId": 2,
+    "largeSlotNumRestrictedAreaIds": []
   },
   {
-    "Version": "250330.1.0",
-    "Id": 211,
-    "SetId": 2,
-    "Position": {
-      "x": -6.0,
-      "y": 0.0
+    "version": "250330.1.0",
+    "id": 211,
+    "setId": 2,
+    "position": {
+      "x": -6,
+      "y": 0
     },
-    "SlotNum": 1,
-    "Type": "Character",
-    "LotteryTableId": 2,
-    "GroupIndex": 1,
-    "CharacterGroupLotteryTableId": 2,
-    "LargeSlotNumRestrictedAreaIds": [
+    "slotNum": 1,
+    "type": "Character",
+    "lotteryTableId": 2,
+    "groupIndex": 1,
+    "characterGroupLotteryTableId": 2,
+    "largeSlotNumRestrictedAreaIds": [
       202,
       204
     ]
   },
   {
-    "Version": "250330.1.0",
-    "Id": 212,
-    "SetId": 2,
-    "Position": {
-      "x": 5.0,
-      "y": 2.0
+    "version": "250330.1.0",
+    "id": 212,
+    "setId": 2,
+    "position": {
+      "x": 5,
+      "y": 2
     },
-    "SlotNum": 1,
-    "Type": "Character",
-    "LotteryTableId": 3,
-    "GroupIndex": 1,
-    "CharacterGroupLotteryTableId": 2,
-    "LargeSlotNumRestrictedAreaIds": []
+    "slotNum": 1,
+    "type": "Character",
+    "lotteryTableId": 3,
+    "groupIndex": 1,
+    "characterGroupLotteryTableId": 2,
+    "largeSlotNumRestrictedAreaIds": []
   },
   {
-    "Version": "250330.1.0",
-    "Id": 213,
-    "SetId": 2,
-    "Position": {
+    "version": "250330.1.0",
+    "id": 213,
+    "setId": 2,
+    "position": {
       "x": 2.700000047683716,
       "y": 2.5
     },
-    "SlotNum": 1,
-    "Type": "GushSpot",
-    "LotteryTableId": 0,
-    "GroupIndex": 1,
-    "CharacterGroupLotteryTableId": 0,
-    "LargeSlotNumRestrictedAreaIds": []
+    "slotNum": 1,
+    "type": "GushSpot",
+    "lotteryTableId": 0,
+    "groupIndex": 1,
+    "characterGroupLotteryTableId": 0,
+    "largeSlotNumRestrictedAreaIds": []
   },
   {
-    "Version": "250330.1.0",
-    "Id": 214,
-    "SetId": 2,
-    "Position": {
-      "x": 0.0,
-      "y": -3.0
+    "version": "250330.1.0",
+    "id": 214,
+    "setId": 2,
+    "position": {
+      "x": 0,
+      "y": -3
     },
-    "SlotNum": 1,
-    "Type": "GushSpot",
-    "LotteryTableId": 0,
-    "GroupIndex": 1,
-    "CharacterGroupLotteryTableId": 0,
-    "LargeSlotNumRestrictedAreaIds": []
+    "slotNum": 1,
+    "type": "GushSpot",
+    "lotteryTableId": 0,
+    "groupIndex": 1,
+    "characterGroupLotteryTableId": 0,
+    "largeSlotNumRestrictedAreaIds": []
   },
   {
-    "Version": "250330.1.0",
-    "Id": 301,
-    "SetId": 3,
-    "Position": {
-      "x": -4.0,
+    "version": "250330.1.0",
+    "id": 301,
+    "setId": 3,
+    "position": {
+      "x": -4,
       "y": 1.2999999523162842
     },
-    "SlotNum": 2,
-    "Type": "BigItem",
-    "LotteryTableId": 0,
-    "GroupIndex": 1,
-    "CharacterGroupLotteryTableId": 0,
-    "LargeSlotNumRestrictedAreaIds": []
+    "slotNum": 2,
+    "type": "BigItem",
+    "lotteryTableId": 0,
+    "groupIndex": 1,
+    "characterGroupLotteryTableId": 0,
+    "largeSlotNumRestrictedAreaIds": []
   },
   {
-    "Version": "250330.1.0",
-    "Id": 302,
-    "SetId": 3,
-    "Position": {
-      "x": 1.0,
+    "version": "250330.1.0",
+    "id": 302,
+    "setId": 3,
+    "position": {
+      "x": 1,
       "y": -6.699999809265137
     },
-    "SlotNum": 2,
-    "Type": "BigItem",
-    "LotteryTableId": 0,
-    "GroupIndex": 1,
-    "CharacterGroupLotteryTableId": 0,
-    "LargeSlotNumRestrictedAreaIds": []
+    "slotNum": 2,
+    "type": "BigItem",
+    "lotteryTableId": 0,
+    "groupIndex": 1,
+    "characterGroupLotteryTableId": 0,
+    "largeSlotNumRestrictedAreaIds": []
   },
   {
-    "Version": "250330.1.0",
-    "Id": 303,
-    "SetId": 3,
-    "Position": {
-      "x": 0.0,
+    "version": "250330.1.0",
+    "id": 303,
+    "setId": 3,
+    "position": {
+      "x": 0,
       "y": 3.5
     },
-    "SlotNum": 1,
-    "Type": "Item",
-    "LotteryTableId": 0,
-    "GroupIndex": 1,
-    "CharacterGroupLotteryTableId": 0,
-    "LargeSlotNumRestrictedAreaIds": []
+    "slotNum": 1,
+    "type": "Item",
+    "lotteryTableId": 0,
+    "groupIndex": 1,
+    "characterGroupLotteryTableId": 0,
+    "largeSlotNumRestrictedAreaIds": []
   },
   {
-    "Version": "250330.1.0",
-    "Id": 304,
-    "SetId": 3,
-    "Position": {
-      "x": 3.0,
+    "version": "250330.1.0",
+    "id": 304,
+    "setId": 3,
+    "position": {
+      "x": 3,
       "y": 2.5
     },
-    "SlotNum": 1,
-    "Type": "Item",
-    "LotteryTableId": 0,
-    "GroupIndex": 1,
-    "CharacterGroupLotteryTableId": 0,
-    "LargeSlotNumRestrictedAreaIds": []
+    "slotNum": 1,
+    "type": "Item",
+    "lotteryTableId": 0,
+    "groupIndex": 1,
+    "characterGroupLotteryTableId": 0,
+    "largeSlotNumRestrictedAreaIds": []
   },
   {
-    "Version": "250330.1.0",
-    "Id": 305,
-    "SetId": 3,
-    "Position": {
+    "version": "250330.1.0",
+    "id": 305,
+    "setId": 3,
+    "position": {
       "x": 4.5,
       "y": -0.8999999761581421
     },
-    "SlotNum": 1,
-    "Type": "Item",
-    "LotteryTableId": 0,
-    "GroupIndex": 1,
-    "CharacterGroupLotteryTableId": 0,
-    "LargeSlotNumRestrictedAreaIds": []
+    "slotNum": 1,
+    "type": "Item",
+    "lotteryTableId": 0,
+    "groupIndex": 1,
+    "characterGroupLotteryTableId": 0,
+    "largeSlotNumRestrictedAreaIds": []
   },
   {
-    "Version": "250330.1.0",
-    "Id": 306,
-    "SetId": 3,
-    "Position": {
+    "version": "250330.1.0",
+    "id": 306,
+    "setId": 3,
+    "position": {
       "x": -3.9000000953674316,
       "y": -2.5
     },
-    "SlotNum": 1,
-    "Type": "Item",
-    "LotteryTableId": 0,
-    "GroupIndex": 1,
-    "CharacterGroupLotteryTableId": 0,
-    "LargeSlotNumRestrictedAreaIds": []
+    "slotNum": 1,
+    "type": "Item",
+    "lotteryTableId": 0,
+    "groupIndex": 1,
+    "characterGroupLotteryTableId": 0,
+    "largeSlotNumRestrictedAreaIds": []
   },
   {
-    "Version": "250330.1.0",
-    "Id": 307,
-    "SetId": 3,
-    "Position": {
+    "version": "250330.1.0",
+    "id": 307,
+    "setId": 3,
+    "position": {
       "x": 5.5,
       "y": -6.5
     },
-    "SlotNum": 1,
-    "Type": "Item",
-    "LotteryTableId": 0,
-    "GroupIndex": 1,
-    "CharacterGroupLotteryTableId": 0,
-    "LargeSlotNumRestrictedAreaIds": []
+    "slotNum": 1,
+    "type": "Item",
+    "lotteryTableId": 0,
+    "groupIndex": 1,
+    "characterGroupLotteryTableId": 0,
+    "largeSlotNumRestrictedAreaIds": []
   },
   {
-    "Version": "250330.1.0",
-    "Id": 308,
-    "SetId": 3,
-    "Position": {
+    "version": "250330.1.0",
+    "id": 308,
+    "setId": 3,
+    "position": {
       "x": -0.20000000298023224,
       "y": -1.5
     },
-    "SlotNum": 1,
-    "Type": "Character",
-    "LotteryTableId": 1,
-    "GroupIndex": 1,
-    "CharacterGroupLotteryTableId": 1,
-    "LargeSlotNumRestrictedAreaIds": []
+    "slotNum": 1,
+    "type": "Character",
+    "lotteryTableId": 1,
+    "groupIndex": 1,
+    "characterGroupLotteryTableId": 1,
+    "largeSlotNumRestrictedAreaIds": []
   },
   {
-    "Version": "250330.1.0",
-    "Id": 309,
-    "SetId": 3,
-    "Position": {
+    "version": "250330.1.0",
+    "id": 309,
+    "setId": 3,
+    "position": {
       "x": 1.5,
-      "y": 0.0
+      "y": 0
     },
-    "SlotNum": 1,
-    "Type": "Character",
-    "LotteryTableId": 1,
-    "GroupIndex": 1,
-    "CharacterGroupLotteryTableId": 1,
-    "LargeSlotNumRestrictedAreaIds": []
+    "slotNum": 1,
+    "type": "Character",
+    "lotteryTableId": 1,
+    "groupIndex": 1,
+    "characterGroupLotteryTableId": 1,
+    "largeSlotNumRestrictedAreaIds": []
   },
   {
-    "Version": "250330.1.0",
-    "Id": 310,
-    "SetId": 3,
-    "Position": {
+    "version": "250330.1.0",
+    "id": 310,
+    "setId": 3,
+    "position": {
       "x": -6.5,
       "y": -1.5
     },
-    "SlotNum": 1,
-    "Type": "Character",
-    "LotteryTableId": 2,
-    "GroupIndex": 1,
-    "CharacterGroupLotteryTableId": 2,
-    "LargeSlotNumRestrictedAreaIds": [
+    "slotNum": 1,
+    "type": "Character",
+    "lotteryTableId": 2,
+    "groupIndex": 1,
+    "characterGroupLotteryTableId": 2,
+    "largeSlotNumRestrictedAreaIds": [
       301,
       306
     ]
   },
   {
-    "Version": "250330.1.0",
-    "Id": 311,
-    "SetId": 3,
-    "Position": {
+    "version": "250330.1.0",
+    "id": 311,
+    "setId": 3,
+    "position": {
       "x": 0.30000001192092896,
       "y": 1.7999999523162842
     },
-    "SlotNum": 1,
-    "Type": "Character",
-    "LotteryTableId": 2,
-    "GroupIndex": 1,
-    "CharacterGroupLotteryTableId": 2,
-    "LargeSlotNumRestrictedAreaIds": [
+    "slotNum": 1,
+    "type": "Character",
+    "lotteryTableId": 2,
+    "groupIndex": 1,
+    "characterGroupLotteryTableId": 2,
+    "largeSlotNumRestrictedAreaIds": [
       301,
       303
     ]
   },
   {
-    "Version": "250330.1.0",
-    "Id": 312,
-    "SetId": 3,
-    "Position": {
-      "x": 6.0,
+    "version": "250330.1.0",
+    "id": 312,
+    "setId": 3,
+    "position": {
+      "x": 6,
       "y": 2.799999952316284
     },
-    "SlotNum": 1,
-    "Type": "Character",
-    "LotteryTableId": 2,
-    "GroupIndex": 1,
-    "CharacterGroupLotteryTableId": 2,
-    "LargeSlotNumRestrictedAreaIds": []
+    "slotNum": 1,
+    "type": "Character",
+    "lotteryTableId": 2,
+    "groupIndex": 1,
+    "characterGroupLotteryTableId": 2,
+    "largeSlotNumRestrictedAreaIds": []
   },
   {
-    "Version": "250330.1.0",
-    "Id": 313,
-    "SetId": 3,
-    "Position": {
-      "x": -5.0,
+    "version": "250330.1.0",
+    "id": 313,
+    "setId": 3,
+    "position": {
+      "x": -5,
       "y": -7.5
     },
-    "SlotNum": 1,
-    "Type": "Character",
-    "LotteryTableId": 3,
-    "GroupIndex": 1,
-    "CharacterGroupLotteryTableId": 2,
-    "LargeSlotNumRestrictedAreaIds": []
+    "slotNum": 1,
+    "type": "Character",
+    "lotteryTableId": 3,
+    "groupIndex": 1,
+    "characterGroupLotteryTableId": 2,
+    "largeSlotNumRestrictedAreaIds": []
   },
   {
-    "Version": "250570.1.0",
-    "Id": 314,
-    "SetId": 3,
-    "Position": {
+    "version": "250570.1.0",
+    "id": 314,
+    "setId": 3,
+    "position": {
       "x": -0.30000001192092896,
       "y": 0.5
     },
-    "SlotNum": 1,
-    "Type": "GushSpot",
-    "LotteryTableId": 0,
-    "GroupIndex": 1,
-    "CharacterGroupLotteryTableId": 0,
-    "LargeSlotNumRestrictedAreaIds": []
+    "slotNum": 1,
+    "type": "GushSpot",
+    "lotteryTableId": 0,
+    "groupIndex": 1,
+    "characterGroupLotteryTableId": 0,
+    "largeSlotNumRestrictedAreaIds": []
   },
   {
-    "Version": "250330.1.0",
-    "Id": 315,
-    "SetId": 3,
-    "Position": {
+    "version": "250330.1.0",
+    "id": 315,
+    "setId": 3,
+    "position": {
       "x": 1.5,
       "y": -1.899999976158142
     },
-    "SlotNum": 1,
-    "Type": "GushSpot",
-    "LotteryTableId": 0,
-    "GroupIndex": 1,
-    "CharacterGroupLotteryTableId": 0,
-    "LargeSlotNumRestrictedAreaIds": []
+    "slotNum": 1,
+    "type": "GushSpot",
+    "lotteryTableId": 0,
+    "groupIndex": 1,
+    "characterGroupLotteryTableId": 0,
+    "largeSlotNumRestrictedAreaIds": []
   },
   {
-    "Version": "250350.1.0",
-    "Id": 100101,
-    "SetId": 1001,
-    "Position": {
+    "version": "250350.1.0",
+    "id": 100101,
+    "setId": 1001,
+    "position": {
       "x": -0.5,
-      "y": 0.0
+      "y": 0
     },
-    "SlotNum": 2,
-    "Type": "BigItem",
-    "LotteryTableId": 0,
-    "GroupIndex": 1,
-    "CharacterGroupLotteryTableId": 0,
-    "LargeSlotNumRestrictedAreaIds": []
+    "slotNum": 2,
+    "type": "BigItem",
+    "lotteryTableId": 0,
+    "groupIndex": 1,
+    "characterGroupLotteryTableId": 0,
+    "largeSlotNumRestrictedAreaIds": []
   },
   {
-    "Version": "250350.1.0",
-    "Id": 100102,
-    "SetId": 1001,
-    "Position": {
-      "x": 5.0,
+    "version": "250350.1.0",
+    "id": 100102,
+    "setId": 1001,
+    "position": {
+      "x": 5,
       "y": 2.5
     },
-    "SlotNum": 2,
-    "Type": "BigItem",
-    "LotteryTableId": 0,
-    "GroupIndex": 1,
-    "CharacterGroupLotteryTableId": 0,
-    "LargeSlotNumRestrictedAreaIds": []
+    "slotNum": 2,
+    "type": "BigItem",
+    "lotteryTableId": 0,
+    "groupIndex": 1,
+    "characterGroupLotteryTableId": 0,
+    "largeSlotNumRestrictedAreaIds": []
   },
   {
-    "Version": "250350.1.0",
-    "Id": 100103,
-    "SetId": 1001,
-    "Position": {
+    "version": "250350.1.0",
+    "id": 100103,
+    "setId": 1001,
+    "position": {
       "x": 2.5,
       "y": -4.5
     },
-    "SlotNum": 2,
-    "Type": "BigItem",
-    "LotteryTableId": 0,
-    "GroupIndex": 1,
-    "CharacterGroupLotteryTableId": 0,
-    "LargeSlotNumRestrictedAreaIds": []
+    "slotNum": 2,
+    "type": "BigItem",
+    "lotteryTableId": 0,
+    "groupIndex": 1,
+    "characterGroupLotteryTableId": 0,
+    "largeSlotNumRestrictedAreaIds": []
   },
   {
-    "Version": "250350.1.0",
-    "Id": 100104,
-    "SetId": 1001,
-    "Position": {
+    "version": "250350.1.0",
+    "id": 100104,
+    "setId": 1001,
+    "position": {
       "x": -4.699999809265137,
       "y": -4.699999809265137
     },
-    "SlotNum": 2,
-    "Type": "BigItem",
-    "LotteryTableId": 0,
-    "GroupIndex": 1,
-    "CharacterGroupLotteryTableId": 0,
-    "LargeSlotNumRestrictedAreaIds": []
+    "slotNum": 2,
+    "type": "BigItem",
+    "lotteryTableId": 0,
+    "groupIndex": 1,
+    "characterGroupLotteryTableId": 0,
+    "largeSlotNumRestrictedAreaIds": []
   },
   {
-    "Version": "250350.1.0",
-    "Id": 100105,
-    "SetId": 1001,
-    "Position": {
+    "version": "250350.1.0",
+    "id": 100105,
+    "setId": 1001,
+    "position": {
       "x": -4.5,
       "y": 2.5
     },
-    "SlotNum": 1,
-    "Type": "Item",
-    "LotteryTableId": 0,
-    "GroupIndex": 1,
-    "CharacterGroupLotteryTableId": 0,
-    "LargeSlotNumRestrictedAreaIds": []
+    "slotNum": 1,
+    "type": "Item",
+    "lotteryTableId": 0,
+    "groupIndex": 1,
+    "characterGroupLotteryTableId": 0,
+    "largeSlotNumRestrictedAreaIds": []
   },
   {
-    "Version": "250350.1.0",
-    "Id": 100106,
-    "SetId": 1001,
-    "Position": {
-      "x": 4.0,
+    "version": "250350.1.0",
+    "id": 100106,
+    "setId": 1001,
+    "position": {
+      "x": 4,
       "y": -0.699999988079071
     },
-    "SlotNum": 1,
-    "Type": "Item",
-    "LotteryTableId": 0,
-    "GroupIndex": 1,
-    "CharacterGroupLotteryTableId": 0,
-    "LargeSlotNumRestrictedAreaIds": []
+    "slotNum": 1,
+    "type": "Item",
+    "lotteryTableId": 0,
+    "groupIndex": 1,
+    "characterGroupLotteryTableId": 0,
+    "largeSlotNumRestrictedAreaIds": []
   },
   {
-    "Version": "250350.1.0",
-    "Id": 100107,
-    "SetId": 1001,
-    "Position": {
+    "version": "250350.1.0",
+    "id": 100107,
+    "setId": 1001,
+    "position": {
       "x": -4.800000190734863,
-      "y": -1.0
+      "y": -1
     },
-    "SlotNum": 1,
-    "Type": "Item",
-    "LotteryTableId": 0,
-    "GroupIndex": 1,
-    "CharacterGroupLotteryTableId": 0,
-    "LargeSlotNumRestrictedAreaIds": []
+    "slotNum": 1,
+    "type": "Item",
+    "lotteryTableId": 0,
+    "groupIndex": 1,
+    "characterGroupLotteryTableId": 0,
+    "largeSlotNumRestrictedAreaIds": []
   },
   {
-    "Version": "250350.1.0",
-    "Id": 100108,
-    "SetId": 1001,
-    "Position": {
+    "version": "250350.1.0",
+    "id": 100108,
+    "setId": 1001,
+    "position": {
       "x": 1.2000000476837158,
       "y": 3.799999952316284
     },
-    "SlotNum": 1,
-    "Type": "Character",
-    "LotteryTableId": 1,
-    "GroupIndex": 1,
-    "CharacterGroupLotteryTableId": 1,
-    "LargeSlotNumRestrictedAreaIds": []
+    "slotNum": 1,
+    "type": "Character",
+    "lotteryTableId": 1,
+    "groupIndex": 1,
+    "characterGroupLotteryTableId": 1,
+    "largeSlotNumRestrictedAreaIds": []
   },
   {
-    "Version": "250350.1.0",
-    "Id": 100109,
-    "SetId": 1001,
-    "Position": {
+    "version": "250350.1.0",
+    "id": 100109,
+    "setId": 1001,
+    "position": {
       "x": 6.199999809265137,
       "y": -1.7999999523162842
     },
-    "SlotNum": 1,
-    "Type": "Character",
-    "LotteryTableId": 2,
-    "GroupIndex": 1,
-    "CharacterGroupLotteryTableId": 2,
-    "LargeSlotNumRestrictedAreaIds": [
+    "slotNum": 1,
+    "type": "Character",
+    "lotteryTableId": 2,
+    "groupIndex": 1,
+    "characterGroupLotteryTableId": 2,
+    "largeSlotNumRestrictedAreaIds": [
       100103,
       100106
     ]
   },
   {
-    "Version": "250350.1.0",
-    "Id": 100110,
-    "SetId": 1001,
-    "Position": {
+    "version": "250350.1.0",
+    "id": 100110,
+    "setId": 1001,
+    "position": {
       "x": -1.5,
       "y": 3.5
     },
-    "SlotNum": 1,
-    "Type": "Character",
-    "LotteryTableId": 2,
-    "GroupIndex": 1,
-    "CharacterGroupLotteryTableId": 2,
-    "LargeSlotNumRestrictedAreaIds": [
+    "slotNum": 1,
+    "type": "Character",
+    "lotteryTableId": 2,
+    "groupIndex": 1,
+    "characterGroupLotteryTableId": 2,
+    "largeSlotNumRestrictedAreaIds": [
       100108
     ]
   },
   {
-    "Version": "250350.1.0",
-    "Id": 100111,
-    "SetId": 1001,
-    "Position": {
+    "version": "250350.1.0",
+    "id": 100111,
+    "setId": 1001,
+    "position": {
       "x": -2.5,
-      "y": -7.0
+      "y": -7
     },
-    "SlotNum": 1,
-    "Type": "Character",
-    "LotteryTableId": 2,
-    "GroupIndex": 1,
-    "CharacterGroupLotteryTableId": 2,
-    "LargeSlotNumRestrictedAreaIds": [
+    "slotNum": 1,
+    "type": "Character",
+    "lotteryTableId": 2,
+    "groupIndex": 1,
+    "characterGroupLotteryTableId": 2,
+    "largeSlotNumRestrictedAreaIds": [
       100103,
       100104
     ]
   },
   {
-    "Version": "250350.1.0",
-    "Id": 100112,
-    "SetId": 1001,
-    "Position": {
-      "x": -1.0,
+    "version": "250350.1.0",
+    "id": 100112,
+    "setId": 1001,
+    "position": {
+      "x": -1,
       "y": -3.5
     },
-    "SlotNum": 1,
-    "Type": "GushSpot",
-    "LotteryTableId": 0,
-    "GroupIndex": 1,
-    "CharacterGroupLotteryTableId": 0,
-    "LargeSlotNumRestrictedAreaIds": []
+    "slotNum": 1,
+    "type": "GushSpot",
+    "lotteryTableId": 0,
+    "groupIndex": 1,
+    "characterGroupLotteryTableId": 0,
+    "largeSlotNumRestrictedAreaIds": []
   },
   {
-    "Version": "250440.1.0",
-    "Id": 100201,
-    "SetId": 1002,
-    "Position": {
-      "x": 0.0,
-      "y": 3.0
+    "version": "250440.1.0",
+    "id": 100201,
+    "setId": 1002,
+    "position": {
+      "x": 0,
+      "y": 3
     },
-    "SlotNum": 2,
-    "Type": "BigItem",
-    "LotteryTableId": 0,
-    "GroupIndex": 1,
-    "CharacterGroupLotteryTableId": 0,
-    "LargeSlotNumRestrictedAreaIds": []
+    "slotNum": 2,
+    "type": "BigItem",
+    "lotteryTableId": 0,
+    "groupIndex": 1,
+    "characterGroupLotteryTableId": 0,
+    "largeSlotNumRestrictedAreaIds": []
   },
   {
-    "Version": "250440.1.0",
-    "Id": 100202,
-    "SetId": 1002,
-    "Position": {
-      "x": 4.0,
+    "version": "250440.1.0",
+    "id": 100202,
+    "setId": 1002,
+    "position": {
+      "x": 4,
       "y": 0.5
     },
-    "SlotNum": 1,
-    "Type": "Item",
-    "LotteryTableId": 0,
-    "GroupIndex": 1,
-    "CharacterGroupLotteryTableId": 0,
-    "LargeSlotNumRestrictedAreaIds": []
+    "slotNum": 1,
+    "type": "Item",
+    "lotteryTableId": 0,
+    "groupIndex": 1,
+    "characterGroupLotteryTableId": 0,
+    "largeSlotNumRestrictedAreaIds": []
   },
   {
-    "Version": "250440.1.0",
-    "Id": 100203,
-    "SetId": 1002,
-    "Position": {
-      "x": -4.0,
+    "version": "250440.1.0",
+    "id": 100203,
+    "setId": 1002,
+    "position": {
+      "x": -4,
       "y": 0.5
     },
-    "SlotNum": 1,
-    "Type": "Item",
-    "LotteryTableId": 0,
-    "GroupIndex": 1,
-    "CharacterGroupLotteryTableId": 0,
-    "LargeSlotNumRestrictedAreaIds": []
+    "slotNum": 1,
+    "type": "Item",
+    "lotteryTableId": 0,
+    "groupIndex": 1,
+    "characterGroupLotteryTableId": 0,
+    "largeSlotNumRestrictedAreaIds": []
   },
   {
-    "Version": "250440.1.0",
-    "Id": 100204,
-    "SetId": 1002,
-    "Position": {
-      "x": 2.0,
+    "version": "250440.1.0",
+    "id": 100204,
+    "setId": 1002,
+    "position": {
+      "x": 2,
       "y": -2.5
     },
-    "SlotNum": 1,
-    "Type": "Item",
-    "LotteryTableId": 0,
-    "GroupIndex": 1,
-    "CharacterGroupLotteryTableId": 0,
-    "LargeSlotNumRestrictedAreaIds": []
+    "slotNum": 1,
+    "type": "Item",
+    "lotteryTableId": 0,
+    "groupIndex": 1,
+    "characterGroupLotteryTableId": 0,
+    "largeSlotNumRestrictedAreaIds": []
   },
   {
-    "Version": "250440.1.0",
-    "Id": 100205,
-    "SetId": 1002,
-    "Position": {
-      "x": -2.0,
+    "version": "250440.1.0",
+    "id": 100205,
+    "setId": 1002,
+    "position": {
+      "x": -2,
       "y": -2.5
     },
-    "SlotNum": 1,
-    "Type": "Item",
-    "LotteryTableId": 0,
-    "GroupIndex": 1,
-    "CharacterGroupLotteryTableId": 0,
-    "LargeSlotNumRestrictedAreaIds": []
+    "slotNum": 1,
+    "type": "Item",
+    "lotteryTableId": 0,
+    "groupIndex": 1,
+    "characterGroupLotteryTableId": 0,
+    "largeSlotNumRestrictedAreaIds": []
   },
   {
-    "Version": "250440.1.0",
-    "Id": 100206,
-    "SetId": 1002,
-    "Position": {
+    "version": "250440.1.0",
+    "id": 100206,
+    "setId": 1002,
+    "position": {
       "x": 1.2999999523162842,
-      "y": 0.0
+      "y": 0
     },
-    "SlotNum": 1,
-    "Type": "Character",
-    "LotteryTableId": 1,
-    "GroupIndex": 1,
-    "CharacterGroupLotteryTableId": 1,
-    "LargeSlotNumRestrictedAreaIds": []
+    "slotNum": 1,
+    "type": "Character",
+    "lotteryTableId": 1,
+    "groupIndex": 1,
+    "characterGroupLotteryTableId": 1,
+    "largeSlotNumRestrictedAreaIds": []
   },
   {
-    "Version": "250440.1.0",
-    "Id": 100207,
-    "SetId": 1002,
-    "Position": {
+    "version": "250440.1.0",
+    "id": 100207,
+    "setId": 1002,
+    "position": {
       "x": -1.2999999523162842,
-      "y": 0.0
+      "y": 0
     },
-    "SlotNum": 1,
-    "Type": "Character",
-    "LotteryTableId": 1,
-    "GroupIndex": 1,
-    "CharacterGroupLotteryTableId": 1,
-    "LargeSlotNumRestrictedAreaIds": []
+    "slotNum": 1,
+    "type": "Character",
+    "lotteryTableId": 1,
+    "groupIndex": 1,
+    "characterGroupLotteryTableId": 1,
+    "largeSlotNumRestrictedAreaIds": []
   },
   {
-    "Version": "250440.1.0",
-    "Id": 100208,
-    "SetId": 1002,
-    "Position": {
+    "version": "250440.1.0",
+    "id": 100208,
+    "setId": 1002,
+    "position": {
       "x": 5.5,
       "y": -2.299999952316284
     },
-    "SlotNum": 1,
-    "Type": "Character",
-    "LotteryTableId": 2,
-    "GroupIndex": 1,
-    "CharacterGroupLotteryTableId": 2,
-    "LargeSlotNumRestrictedAreaIds": [
+    "slotNum": 1,
+    "type": "Character",
+    "lotteryTableId": 2,
+    "groupIndex": 1,
+    "characterGroupLotteryTableId": 2,
+    "largeSlotNumRestrictedAreaIds": [
       100202,
       100204
     ]
   },
   {
-    "Version": "250440.1.0",
-    "Id": 100209,
-    "SetId": 1002,
-    "Position": {
+    "version": "250440.1.0",
+    "id": 100209,
+    "setId": 1002,
+    "position": {
       "x": -5.5,
       "y": -2.299999952316284
     },
-    "SlotNum": 1,
-    "Type": "Character",
-    "LotteryTableId": 2,
-    "GroupIndex": 1,
-    "CharacterGroupLotteryTableId": 2,
-    "LargeSlotNumRestrictedAreaIds": [
+    "slotNum": 1,
+    "type": "Character",
+    "lotteryTableId": 2,
+    "groupIndex": 1,
+    "characterGroupLotteryTableId": 2,
+    "largeSlotNumRestrictedAreaIds": [
       100203,
       100205
     ]
   },
   {
-    "Version": "250440.1.0",
-    "Id": 100210,
-    "SetId": 1002,
-    "Position": {
+    "version": "250440.1.0",
+    "id": 100210,
+    "setId": 1002,
+    "position": {
       "x": 3.200000047683716,
       "y": 3.9000000953674316
     },
-    "SlotNum": 1,
-    "Type": "GushSpot",
-    "LotteryTableId": 0,
-    "GroupIndex": 1,
-    "CharacterGroupLotteryTableId": 0,
-    "LargeSlotNumRestrictedAreaIds": []
+    "slotNum": 1,
+    "type": "GushSpot",
+    "lotteryTableId": 0,
+    "groupIndex": 1,
+    "characterGroupLotteryTableId": 0,
+    "largeSlotNumRestrictedAreaIds": []
   },
   {
-    "Version": "250440.1.0",
-    "Id": 100211,
-    "SetId": 1002,
-    "Position": {
+    "version": "250440.1.0",
+    "id": 100211,
+    "setId": 1002,
+    "position": {
       "x": -3.200000047683716,
       "y": 3.9000000953674316
     },
-    "SlotNum": 1,
-    "Type": "GushSpot",
-    "LotteryTableId": 0,
-    "GroupIndex": 1,
-    "CharacterGroupLotteryTableId": 0,
-    "LargeSlotNumRestrictedAreaIds": []
+    "slotNum": 1,
+    "type": "GushSpot",
+    "lotteryTableId": 0,
+    "groupIndex": 1,
+    "characterGroupLotteryTableId": 0,
+    "largeSlotNumRestrictedAreaIds": []
   },
   {
-    "Version": "250530.1.0",
-    "Id": 100301,
-    "SetId": 1003,
-    "Position": {
-      "x": 0.0,
+    "version": "250530.1.0",
+    "id": 100301,
+    "setId": 1003,
+    "position": {
+      "x": 0,
       "y": 2.5999999046325684
     },
-    "SlotNum": 2,
-    "Type": "BigItem",
-    "LotteryTableId": 0,
-    "GroupIndex": 1,
-    "CharacterGroupLotteryTableId": 0,
-    "LargeSlotNumRestrictedAreaIds": []
+    "slotNum": 2,
+    "type": "BigItem",
+    "lotteryTableId": 0,
+    "groupIndex": 1,
+    "characterGroupLotteryTableId": 0,
+    "largeSlotNumRestrictedAreaIds": []
   },
   {
-    "Version": "250530.1.0",
-    "Id": 100302,
-    "SetId": 1003,
-    "Position": {
-      "x": 2.0,
+    "version": "250530.1.0",
+    "id": 100302,
+    "setId": 1003,
+    "position": {
+      "x": 2,
       "y": -1.5
     },
-    "SlotNum": 2,
-    "Type": "BigItem",
-    "LotteryTableId": 0,
-    "GroupIndex": 1,
-    "CharacterGroupLotteryTableId": 0,
-    "LargeSlotNumRestrictedAreaIds": []
+    "slotNum": 2,
+    "type": "BigItem",
+    "lotteryTableId": 0,
+    "groupIndex": 1,
+    "characterGroupLotteryTableId": 0,
+    "largeSlotNumRestrictedAreaIds": []
   },
   {
-    "Version": "250530.1.0",
-    "Id": 100303,
-    "SetId": 1003,
-    "Position": {
+    "version": "250530.1.0",
+    "id": 100303,
+    "setId": 1003,
+    "position": {
       "x": -2.5,
       "y": -0.5
     },
-    "SlotNum": 1,
-    "Type": "Item",
-    "LotteryTableId": 0,
-    "GroupIndex": 1,
-    "CharacterGroupLotteryTableId": 0,
-    "LargeSlotNumRestrictedAreaIds": []
+    "slotNum": 1,
+    "type": "Item",
+    "lotteryTableId": 0,
+    "groupIndex": 1,
+    "characterGroupLotteryTableId": 0,
+    "largeSlotNumRestrictedAreaIds": []
   },
   {
-    "Version": "250530.1.0",
-    "Id": 100304,
-    "SetId": 1003,
-    "Position": {
+    "version": "250530.1.0",
+    "id": 100304,
+    "setId": 1003,
+    "position": {
       "x": -1.2000000476837158,
       "y": -4.5
     },
-    "SlotNum": 1,
-    "Type": "Item",
-    "LotteryTableId": 0,
-    "GroupIndex": 1,
-    "CharacterGroupLotteryTableId": 0,
-    "LargeSlotNumRestrictedAreaIds": []
+    "slotNum": 1,
+    "type": "Item",
+    "lotteryTableId": 0,
+    "groupIndex": 1,
+    "characterGroupLotteryTableId": 0,
+    "largeSlotNumRestrictedAreaIds": []
   },
   {
-    "Version": "250530.1.0",
-    "Id": 100305,
-    "SetId": 1003,
-    "Position": {
-      "x": 2.0,
+    "version": "250530.1.0",
+    "id": 100305,
+    "setId": 1003,
+    "position": {
+      "x": 2,
       "y": -5.5
     },
-    "SlotNum": 1,
-    "Type": "Item",
-    "LotteryTableId": 0,
-    "GroupIndex": 1,
-    "CharacterGroupLotteryTableId": 0,
-    "LargeSlotNumRestrictedAreaIds": []
+    "slotNum": 1,
+    "type": "Item",
+    "lotteryTableId": 0,
+    "groupIndex": 1,
+    "characterGroupLotteryTableId": 0,
+    "largeSlotNumRestrictedAreaIds": []
   },
   {
-    "Version": "250530.1.0",
-    "Id": 100306,
-    "SetId": 1003,
-    "Position": {
+    "version": "250530.1.0",
+    "id": 100306,
+    "setId": 1003,
+    "position": {
       "x": 4.5,
       "y": 2.5
     },
-    "SlotNum": 1,
-    "Type": "Character",
-    "LotteryTableId": 1,
-    "GroupIndex": 1,
-    "CharacterGroupLotteryTableId": 1,
-    "LargeSlotNumRestrictedAreaIds": []
+    "slotNum": 1,
+    "type": "Character",
+    "lotteryTableId": 1,
+    "groupIndex": 1,
+    "characterGroupLotteryTableId": 1,
+    "largeSlotNumRestrictedAreaIds": []
   },
   {
-    "Version": "250530.1.0",
-    "Id": 100307,
-    "SetId": 1003,
-    "Position": {
-      "x": -4.0,
-      "y": -4.0
+    "version": "250530.1.0",
+    "id": 100307,
+    "setId": 1003,
+    "position": {
+      "x": -4,
+      "y": -4
     },
-    "SlotNum": 1,
-    "Type": "Character",
-    "LotteryTableId": 1,
-    "GroupIndex": 1,
-    "CharacterGroupLotteryTableId": 1,
-    "LargeSlotNumRestrictedAreaIds": []
+    "slotNum": 1,
+    "type": "Character",
+    "lotteryTableId": 1,
+    "groupIndex": 1,
+    "characterGroupLotteryTableId": 1,
+    "largeSlotNumRestrictedAreaIds": []
   },
   {
-    "Version": "250530.1.0",
-    "Id": 100308,
-    "SetId": 1003,
-    "Position": {
+    "version": "250530.1.0",
+    "id": 100308,
+    "setId": 1003,
+    "position": {
       "x": -4.300000190734863,
       "y": 2.5
     },
-    "SlotNum": 1,
-    "Type": "Character",
-    "LotteryTableId": 2,
-    "GroupIndex": 1,
-    "CharacterGroupLotteryTableId": 2,
-    "LargeSlotNumRestrictedAreaIds": [
+    "slotNum": 1,
+    "type": "Character",
+    "lotteryTableId": 2,
+    "groupIndex": 1,
+    "characterGroupLotteryTableId": 2,
+    "largeSlotNumRestrictedAreaIds": [
       100301
     ]
   },
   {
-    "Version": "250530.1.0",
-    "Id": 100309,
-    "SetId": 1003,
-    "Position": {
+    "version": "250530.1.0",
+    "id": 100309,
+    "setId": 1003,
+    "position": {
       "x": 4.5,
-      "y": -4.0
+      "y": -4
     },
-    "SlotNum": 1,
-    "Type": "Character",
-    "LotteryTableId": 2,
-    "GroupIndex": 1,
-    "CharacterGroupLotteryTableId": 2,
-    "LargeSlotNumRestrictedAreaIds": [
+    "slotNum": 1,
+    "type": "Character",
+    "lotteryTableId": 2,
+    "groupIndex": 1,
+    "characterGroupLotteryTableId": 2,
+    "largeSlotNumRestrictedAreaIds": [
       100302,
       100305
     ]
   },
   {
-    "Version": "250530.1.0",
-    "Id": 100310,
-    "SetId": 1003,
-    "Position": {
+    "version": "250530.1.0",
+    "id": 100310,
+    "setId": 1003,
+    "position": {
       "x": 0.6000000238418579,
       "y": -2.799999952316284
     },
-    "SlotNum": 1,
-    "Type": "GushSpot",
-    "LotteryTableId": 0,
-    "GroupIndex": 1,
-    "CharacterGroupLotteryTableId": 0,
-    "LargeSlotNumRestrictedAreaIds": []
+    "slotNum": 1,
+    "type": "GushSpot",
+    "lotteryTableId": 0,
+    "groupIndex": 1,
+    "characterGroupLotteryTableId": 0,
+    "largeSlotNumRestrictedAreaIds": []
   },
   {
-    "Version": "250530.1.0",
-    "Id": 100311,
-    "SetId": 1003,
-    "Position": {
-      "x": -3.0,
+    "version": "250530.1.0",
+    "id": 100311,
+    "setId": 1003,
+    "position": {
+      "x": -3,
       "y": -2.200000047683716
     },
-    "SlotNum": 1,
-    "Type": "GushSpot",
-    "LotteryTableId": 0,
-    "GroupIndex": 1,
-    "CharacterGroupLotteryTableId": 0,
-    "LargeSlotNumRestrictedAreaIds": []
+    "slotNum": 1,
+    "type": "GushSpot",
+    "lotteryTableId": 0,
+    "groupIndex": 1,
+    "characterGroupLotteryTableId": 0,
+    "largeSlotNumRestrictedAreaIds": []
   },
   {
-    "Version": "250610.1.0",
-    "Id": 100401,
-    "SetId": 1004,
-    "Position": {
-      "x": 0.0,
+    "version": "250610.1.0",
+    "id": 100401,
+    "setId": 1004,
+    "position": {
+      "x": 0,
       "y": 2.5
     },
-    "SlotNum": 1,
-    "Type": "Item",
-    "LotteryTableId": 0,
-    "GroupIndex": 1,
-    "CharacterGroupLotteryTableId": 0,
-    "LargeSlotNumRestrictedAreaIds": []
+    "slotNum": 1,
+    "type": "Item",
+    "lotteryTableId": 0,
+    "groupIndex": 1,
+    "characterGroupLotteryTableId": 0,
+    "largeSlotNumRestrictedAreaIds": []
   },
   {
-    "Version": "250610.1.0",
-    "Id": 100402,
-    "SetId": 1004,
-    "Position": {
+    "version": "250610.1.0",
+    "id": 100402,
+    "setId": 1004,
+    "position": {
       "x": 5.800000190734863,
       "y": 2.299999952316284
     },
-    "SlotNum": 1,
-    "Type": "Item",
-    "LotteryTableId": 0,
-    "GroupIndex": 1,
-    "CharacterGroupLotteryTableId": 0,
-    "LargeSlotNumRestrictedAreaIds": []
+    "slotNum": 1,
+    "type": "Item",
+    "lotteryTableId": 0,
+    "groupIndex": 1,
+    "characterGroupLotteryTableId": 0,
+    "largeSlotNumRestrictedAreaIds": []
   },
   {
-    "Version": "250610.1.0",
-    "Id": 100403,
-    "SetId": 1004,
-    "Position": {
+    "version": "250610.1.0",
+    "id": 100403,
+    "setId": 1004,
+    "position": {
       "x": -5.800000190734863,
       "y": 2.299999952316284
     },
-    "SlotNum": 1,
-    "Type": "Item",
-    "LotteryTableId": 0,
-    "GroupIndex": 1,
-    "CharacterGroupLotteryTableId": 0,
-    "LargeSlotNumRestrictedAreaIds": []
+    "slotNum": 1,
+    "type": "Item",
+    "lotteryTableId": 0,
+    "groupIndex": 1,
+    "characterGroupLotteryTableId": 0,
+    "largeSlotNumRestrictedAreaIds": []
   },
   {
-    "Version": "250610.1.0",
-    "Id": 100404,
-    "SetId": 1004,
-    "Position": {
-      "x": 3.0,
+    "version": "250610.1.0",
+    "id": 100404,
+    "setId": 1004,
+    "position": {
+      "x": 3,
       "y": 0.800000011920929
     },
-    "SlotNum": 1,
-    "Type": "Item",
-    "LotteryTableId": 0,
-    "GroupIndex": 1,
-    "CharacterGroupLotteryTableId": 0,
-    "LargeSlotNumRestrictedAreaIds": []
+    "slotNum": 1,
+    "type": "Item",
+    "lotteryTableId": 0,
+    "groupIndex": 1,
+    "characterGroupLotteryTableId": 0,
+    "largeSlotNumRestrictedAreaIds": []
   },
   {
-    "Version": "250610.1.0",
-    "Id": 100405,
-    "SetId": 1004,
-    "Position": {
-      "x": -3.0,
+    "version": "250610.1.0",
+    "id": 100405,
+    "setId": 1004,
+    "position": {
+      "x": -3,
       "y": 0.800000011920929
     },
-    "SlotNum": 1,
-    "Type": "Item",
-    "LotteryTableId": 0,
-    "GroupIndex": 1,
-    "CharacterGroupLotteryTableId": 0,
-    "LargeSlotNumRestrictedAreaIds": []
+    "slotNum": 1,
+    "type": "Item",
+    "lotteryTableId": 0,
+    "groupIndex": 1,
+    "characterGroupLotteryTableId": 0,
+    "largeSlotNumRestrictedAreaIds": []
   },
   {
-    "Version": "250610.1.0",
-    "Id": 100406,
-    "SetId": 1004,
-    "Position": {
+    "version": "250610.1.0",
+    "id": 100406,
+    "setId": 1004,
+    "position": {
       "x": 1.2000000476837158,
-      "y": -2.0
+      "y": -2
     },
-    "SlotNum": 1,
-    "Type": "Character",
-    "LotteryTableId": 1,
-    "GroupIndex": 1,
-    "CharacterGroupLotteryTableId": 1,
-    "LargeSlotNumRestrictedAreaIds": []
+    "slotNum": 1,
+    "type": "Character",
+    "lotteryTableId": 1,
+    "groupIndex": 1,
+    "characterGroupLotteryTableId": 1,
+    "largeSlotNumRestrictedAreaIds": []
   },
   {
-    "Version": "250610.1.0",
-    "Id": 100407,
-    "SetId": 1004,
-    "Position": {
+    "version": "250610.1.0",
+    "id": 100407,
+    "setId": 1004,
+    "position": {
       "x": -1.2000000476837158,
-      "y": -2.0
+      "y": -2
     },
-    "SlotNum": 1,
-    "Type": "Character",
-    "LotteryTableId": 1,
-    "GroupIndex": 1,
-    "CharacterGroupLotteryTableId": 1,
-    "LargeSlotNumRestrictedAreaIds": []
+    "slotNum": 1,
+    "type": "Character",
+    "lotteryTableId": 1,
+    "groupIndex": 1,
+    "characterGroupLotteryTableId": 1,
+    "largeSlotNumRestrictedAreaIds": []
   },
   {
-    "Version": "250610.1.0",
-    "Id": 100408,
-    "SetId": 1004,
-    "Position": {
-      "x": 4.0,
-      "y": -3.0
+    "version": "250610.1.0",
+    "id": 100408,
+    "setId": 1004,
+    "position": {
+      "x": 4,
+      "y": -3
     },
-    "SlotNum": 1,
-    "Type": "Character",
-    "LotteryTableId": 2,
-    "GroupIndex": 1,
-    "CharacterGroupLotteryTableId": 2,
-    "LargeSlotNumRestrictedAreaIds": [
+    "slotNum": 1,
+    "type": "Character",
+    "lotteryTableId": 2,
+    "groupIndex": 1,
+    "characterGroupLotteryTableId": 2,
+    "largeSlotNumRestrictedAreaIds": [
       100406
     ]
   },
   {
-    "Version": "250610.1.0",
-    "Id": 100409,
-    "SetId": 1004,
-    "Position": {
-      "x": -4.0,
-      "y": -3.0
+    "version": "250610.1.0",
+    "id": 100409,
+    "setId": 1004,
+    "position": {
+      "x": -4,
+      "y": -3
     },
-    "SlotNum": 1,
-    "Type": "Character",
-    "LotteryTableId": 2,
-    "GroupIndex": 1,
-    "CharacterGroupLotteryTableId": 2,
-    "LargeSlotNumRestrictedAreaIds": [
+    "slotNum": 1,
+    "type": "Character",
+    "lotteryTableId": 2,
+    "groupIndex": 1,
+    "characterGroupLotteryTableId": 2,
+    "largeSlotNumRestrictedAreaIds": [
       100407
     ]
   },
   {
-    "Version": "250610.1.0",
-    "Id": 100410,
-    "SetId": 1004,
-    "Position": {
+    "version": "250610.1.0",
+    "id": 100410,
+    "setId": 1004,
+    "position": {
       "x": -0.5,
-      "y": -4.0
+      "y": -4
     },
-    "SlotNum": 1,
-    "Type": "Character",
-    "LotteryTableId": 2,
-    "GroupIndex": 1,
-    "CharacterGroupLotteryTableId": 2,
-    "LargeSlotNumRestrictedAreaIds": [
+    "slotNum": 1,
+    "type": "Character",
+    "lotteryTableId": 2,
+    "groupIndex": 1,
+    "characterGroupLotteryTableId": 2,
+    "largeSlotNumRestrictedAreaIds": [
       100406,
       100407
     ]
   },
   {
-    "Version": "250610.1.0",
-    "Id": 100411,
-    "SetId": 1004,
-    "Position": {
+    "version": "250610.1.0",
+    "id": 100411,
+    "setId": 1004,
+    "position": {
       "x": 0.5,
-      "y": -6.0
+      "y": -6
     },
-    "SlotNum": 1,
-    "Type": "Character",
-    "LotteryTableId": 2,
-    "GroupIndex": 1,
-    "CharacterGroupLotteryTableId": 2,
-    "LargeSlotNumRestrictedAreaIds": [
+    "slotNum": 1,
+    "type": "Character",
+    "lotteryTableId": 2,
+    "groupIndex": 1,
+    "characterGroupLotteryTableId": 2,
+    "largeSlotNumRestrictedAreaIds": [
       100410,
       100413
     ]
   },
   {
-    "Version": "250610.1.0",
-    "Id": 100412,
-    "SetId": 1004,
-    "Position": {
-      "x": 0.0,
-      "y": -8.0
+    "version": "250610.1.0",
+    "id": 100412,
+    "setId": 1004,
+    "position": {
+      "x": 0,
+      "y": -8
     },
-    "SlotNum": 1,
-    "Type": "Character",
-    "LotteryTableId": 2,
-    "GroupIndex": 1,
-    "CharacterGroupLotteryTableId": 2,
-    "LargeSlotNumRestrictedAreaIds": [
+    "slotNum": 1,
+    "type": "Character",
+    "lotteryTableId": 2,
+    "groupIndex": 1,
+    "characterGroupLotteryTableId": 2,
+    "largeSlotNumRestrictedAreaIds": [
       100411,
       100413,
       100414
     ]
   },
   {
-    "Version": "250710.1.0",
-    "Id": 100413,
-    "SetId": 1004,
-    "Position": {
+    "version": "250710.1.0",
+    "id": 100413,
+    "setId": 1004,
+    "position": {
       "x": 4.5,
-      "y": -8.0
+      "y": -8
     },
-    "SlotNum": 2,
-    "Type": "Character",
-    "LotteryTableId": 3,
-    "GroupIndex": 1,
-    "CharacterGroupLotteryTableId": 2,
-    "LargeSlotNumRestrictedAreaIds": []
+    "slotNum": 2,
+    "type": "Character",
+    "lotteryTableId": 3,
+    "groupIndex": 1,
+    "characterGroupLotteryTableId": 2,
+    "largeSlotNumRestrictedAreaIds": []
   },
   {
-    "Version": "250710.1.0",
-    "Id": 100414,
-    "SetId": 1004,
-    "Position": {
+    "version": "250710.1.0",
+    "id": 100414,
+    "setId": 1004,
+    "position": {
       "x": -4.5,
-      "y": -8.0
+      "y": -8
     },
-    "SlotNum": 2,
-    "Type": "Character",
-    "LotteryTableId": 3,
-    "GroupIndex": 1,
-    "CharacterGroupLotteryTableId": 2,
-    "LargeSlotNumRestrictedAreaIds": []
+    "slotNum": 2,
+    "type": "Character",
+    "lotteryTableId": 3,
+    "groupIndex": 1,
+    "characterGroupLotteryTableId": 2,
+    "largeSlotNumRestrictedAreaIds": []
   },
   {
-    "Version": "250610.1.0",
-    "Id": 100415,
-    "SetId": 1004,
-    "Position": {
+    "version": "250610.1.0",
+    "id": 100415,
+    "setId": 1004,
+    "position": {
       "x": 0.20000000298023224,
       "y": 0.20000000298023224
     },
-    "SlotNum": 1,
-    "Type": "GushSpot",
-    "LotteryTableId": 0,
-    "GroupIndex": 1,
-    "CharacterGroupLotteryTableId": 0,
-    "LargeSlotNumRestrictedAreaIds": []
+    "slotNum": 1,
+    "type": "GushSpot",
+    "lotteryTableId": 0,
+    "groupIndex": 1,
+    "characterGroupLotteryTableId": 0,
+    "largeSlotNumRestrictedAreaIds": []
   },
   {
-    "Version": "250610.1.0",
-    "Id": 100416,
-    "SetId": 1004,
-    "Position": {
+    "version": "250610.1.0",
+    "id": 100416,
+    "setId": 1004,
+    "position": {
       "x": -5.199999809265137,
       "y": 1.5
     },
-    "SlotNum": 1,
-    "Type": "GushSpot",
-    "LotteryTableId": 0,
-    "GroupIndex": 1,
-    "CharacterGroupLotteryTableId": 0,
-    "LargeSlotNumRestrictedAreaIds": []
+    "slotNum": 1,
+    "type": "GushSpot",
+    "lotteryTableId": 0,
+    "groupIndex": 1,
+    "characterGroupLotteryTableId": 0,
+    "largeSlotNumRestrictedAreaIds": []
   },
   {
-    "Version": "250710.1.0",
-    "Id": 100501,
-    "SetId": 1005,
-    "Position": {
-      "x": 0.0,
-      "y": 3.0
+    "version": "250710.1.0",
+    "id": 100501,
+    "setId": 1005,
+    "position": {
+      "x": 0,
+      "y": 3
     },
-    "SlotNum": 1,
-    "Type": "Item",
-    "LotteryTableId": 0,
-    "GroupIndex": 1,
-    "CharacterGroupLotteryTableId": 0,
-    "LargeSlotNumRestrictedAreaIds": []
+    "slotNum": 1,
+    "type": "Item",
+    "lotteryTableId": 0,
+    "groupIndex": 1,
+    "characterGroupLotteryTableId": 0,
+    "largeSlotNumRestrictedAreaIds": []
   },
   {
-    "Version": "250710.1.0",
-    "Id": 100502,
-    "SetId": 1005,
-    "Position": {
+    "version": "250710.1.0",
+    "id": 100502,
+    "setId": 1005,
+    "position": {
       "x": 1.2000000476837158,
       "y": -0.5
     },
-    "SlotNum": 1,
-    "Type": "Item",
-    "LotteryTableId": 0,
-    "GroupIndex": 1,
-    "CharacterGroupLotteryTableId": 0,
-    "LargeSlotNumRestrictedAreaIds": []
+    "slotNum": 1,
+    "type": "Item",
+    "lotteryTableId": 0,
+    "groupIndex": 1,
+    "characterGroupLotteryTableId": 0,
+    "largeSlotNumRestrictedAreaIds": []
   },
   {
-    "Version": "250710.1.0",
-    "Id": 100503,
-    "SetId": 1005,
-    "Position": {
+    "version": "250710.1.0",
+    "id": 100503,
+    "setId": 1005,
+    "position": {
       "x": -3.5,
-      "y": 0.0
+      "y": 0
     },
-    "SlotNum": 1,
-    "Type": "Item",
-    "LotteryTableId": 0,
-    "GroupIndex": 1,
-    "CharacterGroupLotteryTableId": 0,
-    "LargeSlotNumRestrictedAreaIds": []
+    "slotNum": 1,
+    "type": "Item",
+    "lotteryTableId": 0,
+    "groupIndex": 1,
+    "characterGroupLotteryTableId": 0,
+    "largeSlotNumRestrictedAreaIds": []
   },
   {
-    "Version": "250710.1.0",
-    "Id": 100504,
-    "SetId": 1005,
-    "Position": {
-      "x": -2.0,
+    "version": "250710.1.0",
+    "id": 100504,
+    "setId": 1005,
+    "position": {
+      "x": -2,
       "y": -3.200000047683716
     },
-    "SlotNum": 1,
-    "Type": "Item",
-    "LotteryTableId": 0,
-    "GroupIndex": 1,
-    "CharacterGroupLotteryTableId": 0,
-    "LargeSlotNumRestrictedAreaIds": []
+    "slotNum": 1,
+    "type": "Item",
+    "lotteryTableId": 0,
+    "groupIndex": 1,
+    "characterGroupLotteryTableId": 0,
+    "largeSlotNumRestrictedAreaIds": []
   },
   {
-    "Version": "250710.1.0",
-    "Id": 100505,
-    "SetId": 1005,
-    "Position": {
-      "x": 3.0,
+    "version": "250710.1.0",
+    "id": 100505,
+    "setId": 1005,
+    "position": {
+      "x": 3,
       "y": -4.5
     },
-    "SlotNum": 1,
-    "Type": "Item",
-    "LotteryTableId": 0,
-    "GroupIndex": 1,
-    "CharacterGroupLotteryTableId": 0,
-    "LargeSlotNumRestrictedAreaIds": []
+    "slotNum": 1,
+    "type": "Item",
+    "lotteryTableId": 0,
+    "groupIndex": 1,
+    "characterGroupLotteryTableId": 0,
+    "largeSlotNumRestrictedAreaIds": []
   },
   {
-    "Version": "250710.1.0",
-    "Id": 100506,
-    "SetId": 1005,
-    "Position": {
-      "x": 4.0,
+    "version": "250710.1.0",
+    "id": 100506,
+    "setId": 1005,
+    "position": {
+      "x": 4,
       "y": 2.200000047683716
     },
-    "SlotNum": 1,
-    "Type": "Character",
-    "LotteryTableId": 1,
-    "GroupIndex": 1,
-    "CharacterGroupLotteryTableId": 1,
-    "LargeSlotNumRestrictedAreaIds": []
+    "slotNum": 1,
+    "type": "Character",
+    "lotteryTableId": 1,
+    "groupIndex": 1,
+    "characterGroupLotteryTableId": 1,
+    "largeSlotNumRestrictedAreaIds": []
   },
   {
-    "Version": "250710.1.0",
-    "Id": 100507,
-    "SetId": 1005,
-    "Position": {
-      "x": 6.0,
-      "y": -2.0
+    "version": "250710.1.0",
+    "id": 100507,
+    "setId": 1005,
+    "position": {
+      "x": 6,
+      "y": -2
     },
-    "SlotNum": 1,
-    "Type": "Character",
-    "LotteryTableId": 1,
-    "GroupIndex": 1,
-    "CharacterGroupLotteryTableId": 1,
-    "LargeSlotNumRestrictedAreaIds": []
+    "slotNum": 1,
+    "type": "Character",
+    "lotteryTableId": 1,
+    "groupIndex": 1,
+    "characterGroupLotteryTableId": 1,
+    "largeSlotNumRestrictedAreaIds": []
   },
   {
-    "Version": "250710.1.0",
-    "Id": 100508,
-    "SetId": 1005,
-    "Position": {
-      "x": -5.0,
+    "version": "250710.1.0",
+    "id": 100508,
+    "setId": 1005,
+    "position": {
+      "x": -5,
       "y": -2.5
     },
-    "SlotNum": 1,
-    "Type": "Character",
-    "LotteryTableId": 2,
-    "GroupIndex": 1,
-    "CharacterGroupLotteryTableId": 2,
-    "LargeSlotNumRestrictedAreaIds": [
+    "slotNum": 1,
+    "type": "Character",
+    "lotteryTableId": 2,
+    "groupIndex": 1,
+    "characterGroupLotteryTableId": 2,
+    "largeSlotNumRestrictedAreaIds": [
       100503,
       100504
     ]
   },
   {
-    "Version": "250710.1.0",
-    "Id": 100509,
-    "SetId": 1005,
-    "Position": {
-      "x": 3.0,
+    "version": "250710.1.0",
+    "id": 100509,
+    "setId": 1005,
+    "position": {
+      "x": 3,
       "y": -8.5
     },
-    "SlotNum": 1,
-    "Type": "Character",
-    "LotteryTableId": 2,
-    "GroupIndex": 1,
-    "CharacterGroupLotteryTableId": 2,
-    "LargeSlotNumRestrictedAreaIds": [
+    "slotNum": 1,
+    "type": "Character",
+    "lotteryTableId": 2,
+    "groupIndex": 1,
+    "characterGroupLotteryTableId": 2,
+    "largeSlotNumRestrictedAreaIds": [
       100505
     ]
   },
   {
-    "Version": "250710.1.0",
-    "Id": 100510,
-    "SetId": 1005,
-    "Position": {
-      "x": -1.0,
-      "y": -7.0
+    "version": "250710.1.0",
+    "id": 100510,
+    "setId": 1005,
+    "position": {
+      "x": -1,
+      "y": -7
     },
-    "SlotNum": 1,
-    "Type": "Character",
-    "LotteryTableId": 2,
-    "GroupIndex": 1,
-    "CharacterGroupLotteryTableId": 2,
-    "LargeSlotNumRestrictedAreaIds": [
+    "slotNum": 1,
+    "type": "Character",
+    "lotteryTableId": 2,
+    "groupIndex": 1,
+    "characterGroupLotteryTableId": 2,
+    "largeSlotNumRestrictedAreaIds": [
       100504
     ]
   },
   {
-    "Version": "250710.1.0",
-    "Id": 100511,
-    "SetId": 1005,
-    "Position": {
-      "x": -1.0,
-      "y": 0.0
+    "version": "250710.1.0",
+    "id": 100511,
+    "setId": 1005,
+    "position": {
+      "x": -1,
+      "y": 0
     },
-    "SlotNum": 1,
-    "Type": "GushSpot",
-    "LotteryTableId": 0,
-    "GroupIndex": 1,
-    "CharacterGroupLotteryTableId": 0,
-    "LargeSlotNumRestrictedAreaIds": []
+    "slotNum": 1,
+    "type": "GushSpot",
+    "lotteryTableId": 0,
+    "groupIndex": 1,
+    "characterGroupLotteryTableId": 0,
+    "largeSlotNumRestrictedAreaIds": []
   },
   {
-    "Version": "250810.1.0",
-    "Id": 100601,
-    "SetId": 1006,
-    "Position": {
-      "x": 2.0,
+    "version": "250810.1.0",
+    "id": 100601,
+    "setId": 1006,
+    "position": {
+      "x": 2,
       "y": 2.799999952316284
     },
-    "SlotNum": 2,
-    "Type": "BigItem",
-    "LotteryTableId": 0,
-    "GroupIndex": 1,
-    "CharacterGroupLotteryTableId": 0,
-    "LargeSlotNumRestrictedAreaIds": []
+    "slotNum": 2,
+    "type": "BigItem",
+    "lotteryTableId": 0,
+    "groupIndex": 1,
+    "characterGroupLotteryTableId": 0,
+    "largeSlotNumRestrictedAreaIds": []
   },
   {
-    "Version": "250810.1.0",
-    "Id": 100602,
-    "SetId": 1006,
-    "Position": {
+    "version": "250810.1.0",
+    "id": 100602,
+    "setId": 1006,
+    "position": {
       "x": -3.5,
-      "y": 3.0
+      "y": 3
     },
-    "SlotNum": 1,
-    "Type": "Item",
-    "LotteryTableId": 0,
-    "GroupIndex": 1,
-    "CharacterGroupLotteryTableId": 0,
-    "LargeSlotNumRestrictedAreaIds": []
+    "slotNum": 1,
+    "type": "Item",
+    "lotteryTableId": 0,
+    "groupIndex": 1,
+    "characterGroupLotteryTableId": 0,
+    "largeSlotNumRestrictedAreaIds": []
   },
   {
-    "Version": "250810.1.0",
-    "Id": 100603,
-    "SetId": 1006,
-    "Position": {
+    "version": "250810.1.0",
+    "id": 100603,
+    "setId": 1006,
+    "position": {
       "x": -2.5,
       "y": -0.5
     },
-    "SlotNum": 1,
-    "Type": "Item",
-    "LotteryTableId": 0,
-    "GroupIndex": 1,
-    "CharacterGroupLotteryTableId": 0,
-    "LargeSlotNumRestrictedAreaIds": []
+    "slotNum": 1,
+    "type": "Item",
+    "lotteryTableId": 0,
+    "groupIndex": 1,
+    "characterGroupLotteryTableId": 0,
+    "largeSlotNumRestrictedAreaIds": []
   },
   {
-    "Version": "250810.1.0",
-    "Id": 100604,
-    "SetId": 1006,
-    "Position": {
+    "version": "250810.1.0",
+    "id": 100604,
+    "setId": 1006,
+    "position": {
       "x": 3.5,
-      "y": -1.0
+      "y": -1
     },
-    "SlotNum": 1,
-    "Type": "Item",
-    "LotteryTableId": 0,
-    "GroupIndex": 1,
-    "CharacterGroupLotteryTableId": 0,
-    "LargeSlotNumRestrictedAreaIds": []
+    "slotNum": 1,
+    "type": "Item",
+    "lotteryTableId": 0,
+    "groupIndex": 1,
+    "characterGroupLotteryTableId": 0,
+    "largeSlotNumRestrictedAreaIds": []
   },
   {
-    "Version": "250810.1.0",
-    "Id": 100605,
-    "SetId": 1006,
-    "Position": {
+    "version": "250810.1.0",
+    "id": 100605,
+    "setId": 1006,
+    "position": {
       "x": -3.5,
       "y": -3.5
     },
-    "SlotNum": 1,
-    "Type": "Item",
-    "LotteryTableId": 0,
-    "GroupIndex": 1,
-    "CharacterGroupLotteryTableId": 0,
-    "LargeSlotNumRestrictedAreaIds": []
+    "slotNum": 1,
+    "type": "Item",
+    "lotteryTableId": 0,
+    "groupIndex": 1,
+    "characterGroupLotteryTableId": 0,
+    "largeSlotNumRestrictedAreaIds": []
   },
   {
-    "Version": "250810.1.0",
-    "Id": 100606,
-    "SetId": 1006,
-    "Position": {
-      "x": 1.0,
-      "y": -4.0
+    "version": "250810.1.0",
+    "id": 100606,
+    "setId": 1006,
+    "position": {
+      "x": 1,
+      "y": -4
     },
-    "SlotNum": 1,
-    "Type": "Item",
-    "LotteryTableId": 0,
-    "GroupIndex": 1,
-    "CharacterGroupLotteryTableId": 0,
-    "LargeSlotNumRestrictedAreaIds": []
+    "slotNum": 1,
+    "type": "Item",
+    "lotteryTableId": 0,
+    "groupIndex": 1,
+    "characterGroupLotteryTableId": 0,
+    "largeSlotNumRestrictedAreaIds": []
   },
   {
-    "Version": "250810.1.0",
-    "Id": 100607,
-    "SetId": 1006,
-    "Position": {
+    "version": "250810.1.0",
+    "id": 100607,
+    "setId": 1006,
+    "position": {
       "x": 0.5,
-      "y": 0.0
+      "y": 0
     },
-    "SlotNum": 1,
-    "Type": "Character",
-    "LotteryTableId": 1,
-    "GroupIndex": 1,
-    "CharacterGroupLotteryTableId": 1,
-    "LargeSlotNumRestrictedAreaIds": []
+    "slotNum": 1,
+    "type": "Character",
+    "lotteryTableId": 1,
+    "groupIndex": 1,
+    "characterGroupLotteryTableId": 1,
+    "largeSlotNumRestrictedAreaIds": []
   },
   {
-    "Version": "250810.1.0",
-    "Id": 100608,
-    "SetId": 1006,
-    "Position": {
+    "version": "250810.1.0",
+    "id": 100608,
+    "setId": 1006,
+    "position": {
       "x": 3.700000047683716,
       "y": -3.5
     },
-    "SlotNum": 1,
-    "Type": "Character",
-    "LotteryTableId": 1,
-    "GroupIndex": 1,
-    "CharacterGroupLotteryTableId": 1,
-    "LargeSlotNumRestrictedAreaIds": []
+    "slotNum": 1,
+    "type": "Character",
+    "lotteryTableId": 1,
+    "groupIndex": 1,
+    "characterGroupLotteryTableId": 1,
+    "largeSlotNumRestrictedAreaIds": []
   },
   {
-    "Version": "250810.1.0",
-    "Id": 100609,
-    "SetId": 1006,
-    "Position": {
+    "version": "250810.1.0",
+    "id": 100609,
+    "setId": 1006,
+    "position": {
       "x": -5.5,
       "y": 0.5
     },
-    "SlotNum": 1,
-    "Type": "Character",
-    "LotteryTableId": 2,
-    "GroupIndex": 1,
-    "CharacterGroupLotteryTableId": 2,
-    "LargeSlotNumRestrictedAreaIds": [
+    "slotNum": 1,
+    "type": "Character",
+    "lotteryTableId": 2,
+    "groupIndex": 1,
+    "characterGroupLotteryTableId": 2,
+    "largeSlotNumRestrictedAreaIds": [
       100602,
       100603
     ]
   },
   {
-    "Version": "250810.1.0",
-    "Id": 100610,
-    "SetId": 1006,
-    "Position": {
-      "x": -6.0,
-      "y": -2.0
+    "version": "250810.1.0",
+    "id": 100610,
+    "setId": 1006,
+    "position": {
+      "x": -6,
+      "y": -2
     },
-    "SlotNum": 1,
-    "Type": "Character",
-    "LotteryTableId": 2,
-    "GroupIndex": 1,
-    "CharacterGroupLotteryTableId": 2,
-    "LargeSlotNumRestrictedAreaIds": [
+    "slotNum": 1,
+    "type": "Character",
+    "lotteryTableId": 2,
+    "groupIndex": 1,
+    "characterGroupLotteryTableId": 2,
+    "largeSlotNumRestrictedAreaIds": [
       100603,
       100609,
       100605
     ]
   },
   {
-    "Version": "250810.1.0",
-    "Id": 100611,
-    "SetId": 1006,
-    "Position": {
-      "x": 6.0,
+    "version": "250810.1.0",
+    "id": 100611,
+    "setId": 1006,
+    "position": {
+      "x": 6,
       "y": 0.5
     },
-    "SlotNum": 1,
-    "Type": "Character",
-    "LotteryTableId": 2,
-    "GroupIndex": 1,
-    "CharacterGroupLotteryTableId": 2,
-    "LargeSlotNumRestrictedAreaIds": [
+    "slotNum": 1,
+    "type": "Character",
+    "lotteryTableId": 2,
+    "groupIndex": 1,
+    "characterGroupLotteryTableId": 2,
+    "largeSlotNumRestrictedAreaIds": [
       100601,
       100604
     ]
   },
   {
-    "Version": "250810.1.0",
-    "Id": 100612,
-    "SetId": 1006,
-    "Position": {
+    "version": "250810.1.0",
+    "id": 100612,
+    "setId": 1006,
+    "position": {
       "x": -1.2999999523162842,
-      "y": -4.0
+      "y": -4
     },
-    "SlotNum": 1,
-    "Type": "GushSpot",
-    "LotteryTableId": 0,
-    "GroupIndex": 1,
-    "CharacterGroupLotteryTableId": 0,
-    "LargeSlotNumRestrictedAreaIds": []
+    "slotNum": 1,
+    "type": "GushSpot",
+    "lotteryTableId": 0,
+    "groupIndex": 1,
+    "characterGroupLotteryTableId": 0,
+    "largeSlotNumRestrictedAreaIds": []
   },
   {
-    "Version": "250810.1.0",
-    "Id": 100613,
-    "SetId": 1006,
-    "Position": {
+    "version": "250810.1.0",
+    "id": 100613,
+    "setId": 1006,
+    "position": {
       "x": -1.5,
       "y": 3.4000000953674316
     },
-    "SlotNum": 1,
-    "Type": "GushSpot",
-    "LotteryTableId": 0,
-    "GroupIndex": 1,
-    "CharacterGroupLotteryTableId": 0,
-    "LargeSlotNumRestrictedAreaIds": []
+    "slotNum": 1,
+    "type": "GushSpot",
+    "lotteryTableId": 0,
+    "groupIndex": 1,
+    "characterGroupLotteryTableId": 0,
+    "largeSlotNumRestrictedAreaIds": []
   },
   {
-    "Version": "250910.1.0",
-    "Id": 100701,
-    "SetId": 1007,
-    "Position": {
-      "x": 0.0,
-      "y": 2.0
+    "version": "250910.1.0",
+    "id": 100701,
+    "setId": 1007,
+    "position": {
+      "x": 0,
+      "y": 2
     },
-    "SlotNum": 2,
-    "Type": "BigItem",
-    "LotteryTableId": 0,
-    "GroupIndex": 1,
-    "CharacterGroupLotteryTableId": 0,
-    "LargeSlotNumRestrictedAreaIds": []
+    "slotNum": 2,
+    "type": "BigItem",
+    "lotteryTableId": 0,
+    "groupIndex": 1,
+    "characterGroupLotteryTableId": 0,
+    "largeSlotNumRestrictedAreaIds": []
   },
   {
-    "Version": "250910.1.0",
-    "Id": 100702,
-    "SetId": 1007,
-    "Position": {
+    "version": "250910.1.0",
+    "id": 100702,
+    "setId": 1007,
+    "position": {
       "x": 3.299999952316284,
       "y": -1.2999999523162842
     },
-    "SlotNum": 1,
-    "Type": "Item",
-    "LotteryTableId": 0,
-    "GroupIndex": 1,
-    "CharacterGroupLotteryTableId": 0,
-    "LargeSlotNumRestrictedAreaIds": []
+    "slotNum": 1,
+    "type": "Item",
+    "lotteryTableId": 0,
+    "groupIndex": 1,
+    "characterGroupLotteryTableId": 0,
+    "largeSlotNumRestrictedAreaIds": []
   },
   {
-    "Version": "250910.1.0",
-    "Id": 100703,
-    "SetId": 1007,
-    "Position": {
+    "version": "250910.1.0",
+    "id": 100703,
+    "setId": 1007,
+    "position": {
       "x": -3.200000047683716,
       "y": -1.5
     },
-    "SlotNum": 1,
-    "Type": "Item",
-    "LotteryTableId": 0,
-    "GroupIndex": 1,
-    "CharacterGroupLotteryTableId": 0,
-    "LargeSlotNumRestrictedAreaIds": []
+    "slotNum": 1,
+    "type": "Item",
+    "lotteryTableId": 0,
+    "groupIndex": 1,
+    "characterGroupLotteryTableId": 0,
+    "largeSlotNumRestrictedAreaIds": []
   },
   {
-    "Version": "250910.1.0",
-    "Id": 100704,
-    "SetId": 1007,
-    "Position": {
-      "x": 0.0,
+    "version": "250910.1.0",
+    "id": 100704,
+    "setId": 1007,
+    "position": {
+      "x": 0,
       "y": -3.5
     },
-    "SlotNum": 1,
-    "Type": "Item",
-    "LotteryTableId": 0,
-    "GroupIndex": 1,
-    "CharacterGroupLotteryTableId": 0,
-    "LargeSlotNumRestrictedAreaIds": []
+    "slotNum": 1,
+    "type": "Item",
+    "lotteryTableId": 0,
+    "groupIndex": 1,
+    "characterGroupLotteryTableId": 0,
+    "largeSlotNumRestrictedAreaIds": []
   },
   {
-    "Version": "250910.1.0",
-    "Id": 100705,
-    "SetId": 1007,
-    "Position": {
-      "x": 0.0,
+    "version": "250910.1.0",
+    "id": 100705,
+    "setId": 1007,
+    "position": {
+      "x": 0,
       "y": -0.30000001192092896
     },
-    "SlotNum": 1,
-    "Type": "Character",
-    "LotteryTableId": 1,
-    "GroupIndex": 1,
-    "CharacterGroupLotteryTableId": 1,
-    "LargeSlotNumRestrictedAreaIds": []
+    "slotNum": 1,
+    "type": "Character",
+    "lotteryTableId": 1,
+    "groupIndex": 1,
+    "characterGroupLotteryTableId": 1,
+    "largeSlotNumRestrictedAreaIds": []
   },
   {
-    "Version": "250910.1.0",
-    "Id": 100706,
-    "SetId": 1007,
-    "Position": {
+    "version": "250910.1.0",
+    "id": 100706,
+    "setId": 1007,
+    "position": {
       "x": -3.5,
       "y": -3.299999952316284
     },
-    "SlotNum": 1,
-    "Type": "Character",
-    "LotteryTableId": 1,
-    "GroupIndex": 1,
-    "CharacterGroupLotteryTableId": 1,
-    "LargeSlotNumRestrictedAreaIds": []
+    "slotNum": 1,
+    "type": "Character",
+    "lotteryTableId": 1,
+    "groupIndex": 1,
+    "characterGroupLotteryTableId": 1,
+    "largeSlotNumRestrictedAreaIds": []
   },
   {
-    "Version": "250910.1.0",
-    "Id": 100707,
-    "SetId": 1007,
-    "Position": {
+    "version": "250910.1.0",
+    "id": 100707,
+    "setId": 1007,
+    "position": {
       "x": -6.099999904632568,
       "y": 0.30000001192092896
     },
-    "SlotNum": 1,
-    "Type": "Character",
-    "LotteryTableId": 2,
-    "GroupIndex": 1,
-    "CharacterGroupLotteryTableId": 2,
-    "LargeSlotNumRestrictedAreaIds": [
+    "slotNum": 1,
+    "type": "Character",
+    "lotteryTableId": 2,
+    "groupIndex": 1,
+    "characterGroupLotteryTableId": 2,
+    "largeSlotNumRestrictedAreaIds": [
       100707
     ]
   },
   {
-    "Version": "250910.1.0",
-    "Id": 100708,
-    "SetId": 1007,
-    "Position": {
+    "version": "250910.1.0",
+    "id": 100708,
+    "setId": 1007,
+    "position": {
       "x": 6.099999904632568,
-      "y": 0.0
+      "y": 0
     },
-    "SlotNum": 1,
-    "Type": "Character",
-    "LotteryTableId": 2,
-    "GroupIndex": 1,
-    "CharacterGroupLotteryTableId": 2,
-    "LargeSlotNumRestrictedAreaIds": [
+    "slotNum": 1,
+    "type": "Character",
+    "lotteryTableId": 2,
+    "groupIndex": 1,
+    "characterGroupLotteryTableId": 2,
+    "largeSlotNumRestrictedAreaIds": [
       100708
     ]
   },
   {
-    "Version": "250910.1.0",
-    "Id": 100709,
-    "SetId": 1007,
-    "Position": {
+    "version": "250910.1.0",
+    "id": 100709,
+    "setId": 1007,
+    "position": {
       "x": -3.799999952316284,
       "y": 2.5999999046325684
     },
-    "SlotNum": 1,
-    "Type": "GushSpot",
-    "LotteryTableId": 0,
-    "GroupIndex": 1,
-    "CharacterGroupLotteryTableId": 0,
-    "LargeSlotNumRestrictedAreaIds": []
+    "slotNum": 1,
+    "type": "GushSpot",
+    "lotteryTableId": 0,
+    "groupIndex": 1,
+    "characterGroupLotteryTableId": 0,
+    "largeSlotNumRestrictedAreaIds": []
   },
   {
-    "Version": "250910.1.0",
-    "Id": 100710,
-    "SetId": 1007,
-    "Position": {
+    "version": "250910.1.0",
+    "id": 100710,
+    "setId": 1007,
+    "position": {
       "x": 3.9000000953674316,
       "y": -3.5
     },
-    "SlotNum": 1,
-    "Type": "GushSpot",
-    "LotteryTableId": 0,
-    "GroupIndex": 1,
-    "CharacterGroupLotteryTableId": 0,
-    "LargeSlotNumRestrictedAreaIds": []
+    "slotNum": 1,
+    "type": "GushSpot",
+    "lotteryTableId": 0,
+    "groupIndex": 1,
+    "characterGroupLotteryTableId": 0,
+    "largeSlotNumRestrictedAreaIds": []
   },
   {
-    "Version": "251010.1.0",
-    "Id": 100801,
-    "SetId": 1008,
-    "Position": {
-      "x": -2.0,
+    "version": "251010.1.0",
+    "id": 100801,
+    "setId": 1008,
+    "position": {
+      "x": -2,
       "y": 2.4000000953674316
     },
-    "SlotNum": 2,
-    "Type": "BigItem",
-    "LotteryTableId": 0,
-    "GroupIndex": 1,
-    "CharacterGroupLotteryTableId": 0,
-    "LargeSlotNumRestrictedAreaIds": []
+    "slotNum": 2,
+    "type": "BigItem",
+    "lotteryTableId": 0,
+    "groupIndex": 1,
+    "characterGroupLotteryTableId": 0,
+    "largeSlotNumRestrictedAreaIds": []
   },
   {
-    "Version": "251010.1.0",
-    "Id": 100802,
-    "SetId": 1008,
-    "Position": {
+    "version": "251010.1.0",
+    "id": 100802,
+    "setId": 1008,
+    "position": {
       "x": 2.5,
       "y": -1.600000023841858
     },
-    "SlotNum": 2,
-    "Type": "BigItem",
-    "LotteryTableId": 0,
-    "GroupIndex": 1,
-    "CharacterGroupLotteryTableId": 0,
-    "LargeSlotNumRestrictedAreaIds": []
+    "slotNum": 2,
+    "type": "BigItem",
+    "lotteryTableId": 0,
+    "groupIndex": 1,
+    "characterGroupLotteryTableId": 0,
+    "largeSlotNumRestrictedAreaIds": []
   },
   {
-    "Version": "251010.1.0",
-    "Id": 100803,
-    "SetId": 1008,
-    "Position": {
+    "version": "251010.1.0",
+    "id": 100803,
+    "setId": 1008,
+    "position": {
       "x": -2.5,
       "y": -5.199999809265137
     },
-    "SlotNum": 2,
-    "Type": "BigItem",
-    "LotteryTableId": 0,
-    "GroupIndex": 1,
-    "CharacterGroupLotteryTableId": 0,
-    "LargeSlotNumRestrictedAreaIds": []
+    "slotNum": 2,
+    "type": "BigItem",
+    "lotteryTableId": 0,
+    "groupIndex": 1,
+    "characterGroupLotteryTableId": 0,
+    "largeSlotNumRestrictedAreaIds": []
   },
   {
-    "Version": "251010.1.0",
-    "Id": 100804,
-    "SetId": 1008,
-    "Position": {
+    "version": "251010.1.0",
+    "id": 100804,
+    "setId": 1008,
+    "position": {
       "x": -2.200000047683716,
       "y": -1.2999999523162842
     },
-    "SlotNum": 1,
-    "Type": "Item",
-    "LotteryTableId": 0,
-    "GroupIndex": 1,
-    "CharacterGroupLotteryTableId": 0,
-    "LargeSlotNumRestrictedAreaIds": []
+    "slotNum": 1,
+    "type": "Item",
+    "lotteryTableId": 0,
+    "groupIndex": 1,
+    "characterGroupLotteryTableId": 0,
+    "largeSlotNumRestrictedAreaIds": []
   },
   {
-    "Version": "251010.1.0",
-    "Id": 100805,
-    "SetId": 1008,
-    "Position": {
+    "version": "251010.1.0",
+    "id": 100805,
+    "setId": 1008,
+    "position": {
       "x": 2.200000047683716,
-      "y": 3.0
+      "y": 3
     },
-    "SlotNum": 1,
-    "Type": "Character",
-    "LotteryTableId": 1,
-    "GroupIndex": 1,
-    "CharacterGroupLotteryTableId": 1,
-    "LargeSlotNumRestrictedAreaIds": []
+    "slotNum": 1,
+    "type": "Character",
+    "lotteryTableId": 1,
+    "groupIndex": 1,
+    "characterGroupLotteryTableId": 1,
+    "largeSlotNumRestrictedAreaIds": []
   },
   {
-    "Version": "251010.1.0",
-    "Id": 100806,
-    "SetId": 1008,
-    "Position": {
+    "version": "251010.1.0",
+    "id": 100806,
+    "setId": 1008,
+    "position": {
       "x": 2.5999999046325684,
       "y": -5.300000190734863
     },
-    "SlotNum": 1,
-    "Type": "Character",
-    "LotteryTableId": 1,
-    "GroupIndex": 1,
-    "CharacterGroupLotteryTableId": 1,
-    "LargeSlotNumRestrictedAreaIds": []
+    "slotNum": 1,
+    "type": "Character",
+    "lotteryTableId": 1,
+    "groupIndex": 1,
+    "characterGroupLotteryTableId": 1,
+    "largeSlotNumRestrictedAreaIds": []
   },
   {
-    "Version": "251010.1.0",
-    "Id": 100807,
-    "SetId": 1008,
-    "Position": {
+    "version": "251010.1.0",
+    "id": 100807,
+    "setId": 1008,
+    "position": {
       "x": 6.599999904632568,
       "y": -1.899999976158142
     },
-    "SlotNum": 1,
-    "Type": "Character",
-    "LotteryTableId": 2,
-    "GroupIndex": 1,
-    "CharacterGroupLotteryTableId": 2,
-    "LargeSlotNumRestrictedAreaIds": [
+    "slotNum": 1,
+    "type": "Character",
+    "lotteryTableId": 2,
+    "groupIndex": 1,
+    "characterGroupLotteryTableId": 2,
+    "largeSlotNumRestrictedAreaIds": [
       100808
     ]
   },
   {
-    "Version": "251010.1.0",
-    "Id": 100808,
-    "SetId": 1008,
-    "Position": {
+    "version": "251010.1.0",
+    "id": 100808,
+    "setId": 1008,
+    "position": {
       "x": -6.400000095367432,
-      "y": -5.0
+      "y": -5
     },
-    "SlotNum": 1,
-    "Type": "Character",
-    "LotteryTableId": 2,
-    "GroupIndex": 1,
-    "CharacterGroupLotteryTableId": 2,
-    "LargeSlotNumRestrictedAreaIds": [
+    "slotNum": 1,
+    "type": "Character",
+    "lotteryTableId": 2,
+    "groupIndex": 1,
+    "characterGroupLotteryTableId": 2,
+    "largeSlotNumRestrictedAreaIds": [
       100809
     ]
   },
   {
-    "Version": "251010.1.0",
-    "Id": 100809,
-    "SetId": 1008,
-    "Position": {
+    "version": "251010.1.0",
+    "id": 100809,
+    "setId": 1008,
+    "position": {
       "x": 0.8500000238418579,
       "y": -3.5
     },
-    "SlotNum": 1,
-    "Type": "GushSpot",
-    "LotteryTableId": 0,
-    "GroupIndex": 1,
-    "CharacterGroupLotteryTableId": 0,
-    "LargeSlotNumRestrictedAreaIds": []
+    "slotNum": 1,
+    "type": "GushSpot",
+    "lotteryTableId": 0,
+    "groupIndex": 1,
+    "characterGroupLotteryTableId": 0,
+    "largeSlotNumRestrictedAreaIds": []
   },
   {
-    "Version": "251030.1.0",
-    "Id": 100901,
-    "SetId": 1009,
-    "Position": {
+    "version": "251030.1.0",
+    "id": 100901,
+    "setId": 1009,
+    "position": {
       "x": 0.30000001192092896,
       "y": 2.5999999046325684
     },
-    "SlotNum": 2,
-    "Type": "BigItem",
-    "LotteryTableId": 0,
-    "GroupIndex": 1,
-    "CharacterGroupLotteryTableId": 0,
-    "LargeSlotNumRestrictedAreaIds": []
+    "slotNum": 2,
+    "type": "BigItem",
+    "lotteryTableId": 0,
+    "groupIndex": 1,
+    "characterGroupLotteryTableId": 0,
+    "largeSlotNumRestrictedAreaIds": []
   },
   {
-    "Version": "251030.1.0",
-    "Id": 100902,
-    "SetId": 1009,
-    "Position": {
+    "version": "251030.1.0",
+    "id": 100902,
+    "setId": 1009,
+    "position": {
       "x": -2.200000047683716,
       "y": -1.399999976158142
     },
-    "SlotNum": 1,
-    "Type": "Item",
-    "LotteryTableId": 0,
-    "GroupIndex": 1,
-    "CharacterGroupLotteryTableId": 0,
-    "LargeSlotNumRestrictedAreaIds": []
+    "slotNum": 1,
+    "type": "Item",
+    "lotteryTableId": 0,
+    "groupIndex": 1,
+    "characterGroupLotteryTableId": 0,
+    "largeSlotNumRestrictedAreaIds": []
   },
   {
-    "Version": "251030.1.0",
-    "Id": 100903,
-    "SetId": 1009,
-    "Position": {
+    "version": "251030.1.0",
+    "id": 100903,
+    "setId": 1009,
+    "position": {
       "x": 1.5,
       "y": -2.700000047683716
     },
-    "SlotNum": 1,
-    "Type": "Item",
-    "LotteryTableId": 0,
-    "GroupIndex": 1,
-    "CharacterGroupLotteryTableId": 0,
-    "LargeSlotNumRestrictedAreaIds": []
+    "slotNum": 1,
+    "type": "Item",
+    "lotteryTableId": 0,
+    "groupIndex": 1,
+    "characterGroupLotteryTableId": 0,
+    "largeSlotNumRestrictedAreaIds": []
   },
   {
-    "Version": "251030.1.0",
-    "Id": 100904,
-    "SetId": 1009,
-    "Position": {
+    "version": "251030.1.0",
+    "id": 100904,
+    "setId": 1009,
+    "position": {
       "x": -2.200000047683716,
       "y": -4.5
     },
-    "SlotNum": 1,
-    "Type": "Item",
-    "LotteryTableId": 0,
-    "GroupIndex": 1,
-    "CharacterGroupLotteryTableId": 0,
-    "LargeSlotNumRestrictedAreaIds": []
+    "slotNum": 1,
+    "type": "Item",
+    "lotteryTableId": 0,
+    "groupIndex": 1,
+    "characterGroupLotteryTableId": 0,
+    "largeSlotNumRestrictedAreaIds": []
   },
   {
-    "Version": "251030.1.0",
-    "Id": 100905,
-    "SetId": 1009,
-    "Position": {
+    "version": "251030.1.0",
+    "id": 100905,
+    "setId": 1009,
+    "position": {
       "x": 1.100000023841858,
       "y": 0.5
     },
-    "SlotNum": 1,
-    "Type": "Character",
-    "LotteryTableId": 1,
-    "GroupIndex": 1,
-    "CharacterGroupLotteryTableId": 1,
-    "LargeSlotNumRestrictedAreaIds": []
+    "slotNum": 1,
+    "type": "Character",
+    "lotteryTableId": 1,
+    "groupIndex": 1,
+    "characterGroupLotteryTableId": 1,
+    "largeSlotNumRestrictedAreaIds": []
   },
   {
-    "Version": "251030.1.0",
-    "Id": 100906,
-    "SetId": 1009,
-    "Position": {
-      "x": 1.0,
+    "version": "251030.1.0",
+    "id": 100906,
+    "setId": 1009,
+    "position": {
+      "x": 1,
       "y": -4.5
     },
-    "SlotNum": 1,
-    "Type": "Character",
-    "LotteryTableId": 1,
-    "GroupIndex": 1,
-    "CharacterGroupLotteryTableId": 1,
-    "LargeSlotNumRestrictedAreaIds": []
+    "slotNum": 1,
+    "type": "Character",
+    "lotteryTableId": 1,
+    "groupIndex": 1,
+    "characterGroupLotteryTableId": 1,
+    "largeSlotNumRestrictedAreaIds": []
   },
   {
-    "Version": "251030.1.0",
-    "Id": 100907,
-    "SetId": 1009,
-    "Position": {
-      "x": -5.0,
-      "y": -4.0
+    "version": "251030.1.0",
+    "id": 100907,
+    "setId": 1009,
+    "position": {
+      "x": -5,
+      "y": -4
     },
-    "SlotNum": 1,
-    "Type": "Character",
-    "LotteryTableId": 2,
-    "GroupIndex": 1,
-    "CharacterGroupLotteryTableId": 2,
-    "LargeSlotNumRestrictedAreaIds": [
+    "slotNum": 1,
+    "type": "Character",
+    "lotteryTableId": 2,
+    "groupIndex": 1,
+    "characterGroupLotteryTableId": 2,
+    "largeSlotNumRestrictedAreaIds": [
       100902,
       100904
     ]
   },
   {
-    "Version": "251030.1.0",
-    "Id": 100908,
-    "SetId": 1009,
-    "Position": {
-      "x": 5.0,
+    "version": "251030.1.0",
+    "id": 100908,
+    "setId": 1009,
+    "position": {
+      "x": 5,
       "y": -4.199999809265137
     },
-    "SlotNum": 2,
-    "Type": "Character",
-    "LotteryTableId": 2,
-    "GroupIndex": 1,
-    "CharacterGroupLotteryTableId": 2,
-    "LargeSlotNumRestrictedAreaIds": [
+    "slotNum": 2,
+    "type": "Character",
+    "lotteryTableId": 2,
+    "groupIndex": 1,
+    "characterGroupLotteryTableId": 2,
+    "largeSlotNumRestrictedAreaIds": [
       100903
     ]
   },
   {
-    "Version": "251030.1.0",
-    "Id": 100909,
-    "SetId": 1009,
-    "Position": {
+    "version": "251030.1.0",
+    "id": 100909,
+    "setId": 1009,
+    "position": {
       "x": 3.700000047683716,
       "y": 0.20000000298023224
     },
-    "SlotNum": 1,
-    "Type": "GushSpot",
-    "LotteryTableId": 0,
-    "GroupIndex": 1,
-    "CharacterGroupLotteryTableId": 0,
-    "LargeSlotNumRestrictedAreaIds": []
+    "slotNum": 1,
+    "type": "GushSpot",
+    "lotteryTableId": 0,
+    "groupIndex": 1,
+    "characterGroupLotteryTableId": 0,
+    "largeSlotNumRestrictedAreaIds": []
   },
   {
-    "Version": "251210.1.0",
-    "Id": 101001,
-    "SetId": 1010,
-    "Position": {
-      "x": 0.0,
+    "version": "251210.1.0",
+    "id": 101001,
+    "setId": 1010,
+    "position": {
+      "x": 0,
       "y": 3.200000047683716
     },
-    "SlotNum": 2,
-    "Type": "BigItem",
-    "LotteryTableId": 0,
-    "GroupIndex": 1,
-    "CharacterGroupLotteryTableId": 0,
-    "LargeSlotNumRestrictedAreaIds": []
+    "slotNum": 2,
+    "type": "BigItem",
+    "lotteryTableId": 0,
+    "groupIndex": 1,
+    "characterGroupLotteryTableId": 0,
+    "largeSlotNumRestrictedAreaIds": []
   },
   {
-    "Version": "251210.1.0",
-    "Id": 101002,
-    "SetId": 1010,
-    "Position": {
+    "version": "251210.1.0",
+    "id": 101002,
+    "setId": 1010,
+    "position": {
       "x": -2.200000047683716,
       "y": -0.5
     },
-    "SlotNum": 1,
-    "Type": "Item",
-    "LotteryTableId": 0,
-    "GroupIndex": 1,
-    "CharacterGroupLotteryTableId": 0,
-    "LargeSlotNumRestrictedAreaIds": []
+    "slotNum": 1,
+    "type": "Item",
+    "lotteryTableId": 0,
+    "groupIndex": 1,
+    "characterGroupLotteryTableId": 0,
+    "largeSlotNumRestrictedAreaIds": []
   },
   {
-    "Version": "251210.1.0",
-    "Id": 101003,
-    "SetId": 1010,
-    "Position": {
+    "version": "251210.1.0",
+    "id": 101003,
+    "setId": 1010,
+    "position": {
       "x": 1.899999976158142,
       "y": -2.0999999046325684
     },
-    "SlotNum": 1,
-    "Type": "Item",
-    "LotteryTableId": 0,
-    "GroupIndex": 1,
-    "CharacterGroupLotteryTableId": 0,
-    "LargeSlotNumRestrictedAreaIds": []
+    "slotNum": 1,
+    "type": "Item",
+    "lotteryTableId": 0,
+    "groupIndex": 1,
+    "characterGroupLotteryTableId": 0,
+    "largeSlotNumRestrictedAreaIds": []
   },
   {
-    "Version": "251210.1.0",
-    "Id": 101004,
-    "SetId": 1010,
-    "Position": {
+    "version": "251210.1.0",
+    "id": 101004,
+    "setId": 1010,
+    "position": {
       "x": 2.299999952316284,
       "y": -5.300000190734863
     },
-    "SlotNum": 1,
-    "Type": "Item",
-    "LotteryTableId": 0,
-    "GroupIndex": 1,
-    "CharacterGroupLotteryTableId": 0,
-    "LargeSlotNumRestrictedAreaIds": []
+    "slotNum": 1,
+    "type": "Item",
+    "lotteryTableId": 0,
+    "groupIndex": 1,
+    "characterGroupLotteryTableId": 0,
+    "largeSlotNumRestrictedAreaIds": []
   },
   {
-    "Version": "251210.1.0",
-    "Id": 101005,
-    "SetId": 1010,
-    "Position": {
+    "version": "251210.1.0",
+    "id": 101005,
+    "setId": 1010,
+    "position": {
       "x": -3.4000000953674316,
       "y": -2.299999952316284
     },
-    "SlotNum": 1,
-    "Type": "Character",
-    "LotteryTableId": 1,
-    "GroupIndex": 1,
-    "CharacterGroupLotteryTableId": 1,
-    "LargeSlotNumRestrictedAreaIds": []
+    "slotNum": 1,
+    "type": "Character",
+    "lotteryTableId": 1,
+    "groupIndex": 1,
+    "characterGroupLotteryTableId": 1,
+    "largeSlotNumRestrictedAreaIds": []
   },
   {
-    "Version": "251210.1.0",
-    "Id": 101006,
-    "SetId": 1010,
-    "Position": {
+    "version": "251210.1.0",
+    "id": 101006,
+    "setId": 1010,
+    "position": {
       "x": -1.100000023841858,
       "y": -4.199999809265137
     },
-    "SlotNum": 1,
-    "Type": "Character",
-    "LotteryTableId": 1,
-    "GroupIndex": 1,
-    "CharacterGroupLotteryTableId": 1,
-    "LargeSlotNumRestrictedAreaIds": []
+    "slotNum": 1,
+    "type": "Character",
+    "lotteryTableId": 1,
+    "groupIndex": 1,
+    "characterGroupLotteryTableId": 1,
+    "largeSlotNumRestrictedAreaIds": []
   },
   {
-    "Version": "251210.1.0",
-    "Id": 101007,
-    "SetId": 1010,
-    "Position": {
+    "version": "251210.1.0",
+    "id": 101007,
+    "setId": 1010,
+    "position": {
       "x": 1.600000023841858,
       "y": 1.100000023841858
     },
-    "SlotNum": 1,
-    "Type": "Character",
-    "LotteryTableId": 2,
-    "GroupIndex": 1,
-    "CharacterGroupLotteryTableId": 2,
-    "LargeSlotNumRestrictedAreaIds": [
+    "slotNum": 1,
+    "type": "Character",
+    "lotteryTableId": 2,
+    "groupIndex": 1,
+    "characterGroupLotteryTableId": 2,
+    "largeSlotNumRestrictedAreaIds": [
       101001
     ]
   },
   {
-    "Version": "251210.1.0",
-    "Id": 101008,
-    "SetId": 1010,
-    "Position": {
+    "version": "251210.1.0",
+    "id": 101008,
+    "setId": 1010,
+    "position": {
       "x": -3.799999952316284,
       "y": -4.800000190734863
     },
-    "SlotNum": 1,
-    "Type": "Character",
-    "LotteryTableId": 2,
-    "GroupIndex": 1,
-    "CharacterGroupLotteryTableId": 2,
-    "LargeSlotNumRestrictedAreaIds": [
+    "slotNum": 1,
+    "type": "Character",
+    "lotteryTableId": 2,
+    "groupIndex": 1,
+    "characterGroupLotteryTableId": 2,
+    "largeSlotNumRestrictedAreaIds": [
       101002,
       101005,
       101006
     ]
   },
   {
-    "Version": "251210.1.0",
-    "Id": 101009,
-    "SetId": 1010,
-    "Position": {
+    "version": "251210.1.0",
+    "id": 101009,
+    "setId": 1010,
+    "position": {
       "x": -1.100000023841858,
-      "y": -2.0
+      "y": -2
     },
-    "SlotNum": 1,
-    "Type": "GushSpot",
-    "LotteryTableId": 0,
-    "GroupIndex": 1,
-    "CharacterGroupLotteryTableId": 0,
-    "LargeSlotNumRestrictedAreaIds": []
+    "slotNum": 1,
+    "type": "GushSpot",
+    "lotteryTableId": 0,
+    "groupIndex": 1,
+    "characterGroupLotteryTableId": 0,
+    "largeSlotNumRestrictedAreaIds": []
   },
   {
-    "Version": "260110.1.0",
-    "Id": 101101,
-    "SetId": 1011,
-    "Position": {
-      "x": 0.0,
+    "version": "260110.1.0",
+    "id": 101101,
+    "setId": 1011,
+    "position": {
+      "x": 0,
       "y": 3.200000047683716
     },
-    "SlotNum": 2,
-    "Type": "BigItem",
-    "LotteryTableId": 0,
-    "GroupIndex": 1,
-    "CharacterGroupLotteryTableId": 0,
-    "LargeSlotNumRestrictedAreaIds": []
+    "slotNum": 2,
+    "type": "BigItem",
+    "lotteryTableId": 0,
+    "groupIndex": 1,
+    "characterGroupLotteryTableId": 0,
+    "largeSlotNumRestrictedAreaIds": []
   },
   {
-    "Version": "260110.1.0",
-    "Id": 101102,
-    "SetId": 1011,
-    "Position": {
-      "x": -3.0,
+    "version": "260110.1.0",
+    "id": 101102,
+    "setId": 1011,
+    "position": {
+      "x": -3,
       "y": -1.399999976158142
     },
-    "SlotNum": 1,
-    "Type": "Item",
-    "LotteryTableId": 0,
-    "GroupIndex": 1,
-    "CharacterGroupLotteryTableId": 0,
-    "LargeSlotNumRestrictedAreaIds": []
+    "slotNum": 1,
+    "type": "Item",
+    "lotteryTableId": 0,
+    "groupIndex": 1,
+    "characterGroupLotteryTableId": 0,
+    "largeSlotNumRestrictedAreaIds": []
   },
   {
-    "Version": "260110.1.0",
-    "Id": 101103,
-    "SetId": 1011,
-    "Position": {
-      "x": 3.0,
+    "version": "260110.1.0",
+    "id": 101103,
+    "setId": 1011,
+    "position": {
+      "x": 3,
       "y": -2.5
     },
-    "SlotNum": 1,
-    "Type": "Item",
-    "LotteryTableId": 0,
-    "GroupIndex": 1,
-    "CharacterGroupLotteryTableId": 0,
-    "LargeSlotNumRestrictedAreaIds": []
+    "slotNum": 1,
+    "type": "Item",
+    "lotteryTableId": 0,
+    "groupIndex": 1,
+    "characterGroupLotteryTableId": 0,
+    "largeSlotNumRestrictedAreaIds": []
   },
   {
-    "Version": "260110.1.0",
-    "Id": 101104,
-    "SetId": 1011,
-    "Position": {
+    "version": "260110.1.0",
+    "id": 101104,
+    "setId": 1011,
+    "position": {
       "x": 1.2999999523162842,
       "y": -5.900000095367432
     },
-    "SlotNum": 1,
-    "Type": "Item",
-    "LotteryTableId": 0,
-    "GroupIndex": 1,
-    "CharacterGroupLotteryTableId": 0,
-    "LargeSlotNumRestrictedAreaIds": []
+    "slotNum": 1,
+    "type": "Item",
+    "lotteryTableId": 0,
+    "groupIndex": 1,
+    "characterGroupLotteryTableId": 0,
+    "largeSlotNumRestrictedAreaIds": []
   },
   {
-    "Version": "260110.1.0",
-    "Id": 101105,
-    "SetId": 1011,
-    "Position": {
-      "x": 0.0,
+    "version": "260110.1.0",
+    "id": 101105,
+    "setId": 1011,
+    "position": {
+      "x": 0,
       "y": -1.5
     },
-    "SlotNum": 1,
-    "Type": "Character",
-    "LotteryTableId": 1,
-    "GroupIndex": 1,
-    "CharacterGroupLotteryTableId": 1,
-    "LargeSlotNumRestrictedAreaIds": []
+    "slotNum": 1,
+    "type": "Character",
+    "lotteryTableId": 1,
+    "groupIndex": 1,
+    "characterGroupLotteryTableId": 1,
+    "largeSlotNumRestrictedAreaIds": []
   },
   {
-    "Version": "260110.1.0",
-    "Id": 101106,
-    "SetId": 1011,
-    "Position": {
+    "version": "260110.1.0",
+    "id": 101106,
+    "setId": 1011,
+    "position": {
       "x": -1.7999999523162842,
       "y": -4.800000190734863
     },
-    "SlotNum": 1,
-    "Type": "Character",
-    "LotteryTableId": 1,
-    "GroupIndex": 1,
-    "CharacterGroupLotteryTableId": 1,
-    "LargeSlotNumRestrictedAreaIds": []
+    "slotNum": 1,
+    "type": "Character",
+    "lotteryTableId": 1,
+    "groupIndex": 1,
+    "characterGroupLotteryTableId": 1,
+    "largeSlotNumRestrictedAreaIds": []
   },
   {
-    "Version": "260110.1.0",
-    "Id": 101107,
-    "SetId": 1011,
-    "Position": {
+    "version": "260110.1.0",
+    "id": 101107,
+    "setId": 1011,
+    "position": {
       "x": -6.199999809265137,
       "y": 1.7000000476837158
     },
-    "SlotNum": 1,
-    "Type": "Character",
-    "LotteryTableId": 2,
-    "GroupIndex": 1,
-    "CharacterGroupLotteryTableId": 2,
-    "LargeSlotNumRestrictedAreaIds": []
+    "slotNum": 1,
+    "type": "Character",
+    "lotteryTableId": 2,
+    "groupIndex": 1,
+    "characterGroupLotteryTableId": 2,
+    "largeSlotNumRestrictedAreaIds": []
   },
   {
-    "Version": "260110.1.0",
-    "Id": 101108,
-    "SetId": 1011,
-    "Position": {
+    "version": "260110.1.0",
+    "id": 101108,
+    "setId": 1011,
+    "position": {
       "x": 2.799999952316284,
       "y": 0.8999999761581421
     },
-    "SlotNum": 1,
-    "Type": "Character",
-    "LotteryTableId": 2,
-    "GroupIndex": 1,
-    "CharacterGroupLotteryTableId": 2,
-    "LargeSlotNumRestrictedAreaIds": []
+    "slotNum": 1,
+    "type": "Character",
+    "lotteryTableId": 2,
+    "groupIndex": 1,
+    "characterGroupLotteryTableId": 2,
+    "largeSlotNumRestrictedAreaIds": []
   },
   {
-    "Version": "260110.1.0",
-    "Id": 101109,
-    "SetId": 1011,
-    "Position": {
+    "version": "260110.1.0",
+    "id": 101109,
+    "setId": 1011,
+    "position": {
       "x": -2.700000047683716,
       "y": -2.799999952316284
     },
-    "SlotNum": 1,
-    "Type": "GushSpot",
-    "LotteryTableId": 0,
-    "GroupIndex": 1,
-    "CharacterGroupLotteryTableId": 0,
-    "LargeSlotNumRestrictedAreaIds": []
+    "slotNum": 1,
+    "type": "GushSpot",
+    "lotteryTableId": 0,
+    "groupIndex": 1,
+    "characterGroupLotteryTableId": 0,
+    "largeSlotNumRestrictedAreaIds": []
   },
   {
-    "Version": "260210.1.0",
-    "Id": 101201,
-    "SetId": 1012,
-    "Position": {
+    "version": "260210.1.0",
+    "id": 101201,
+    "setId": 1012,
+    "position": {
       "x": -1.7000000476837158,
       "y": -1.399999976158142
     },
-    "SlotNum": 2,
-    "Type": "BigItem",
-    "LotteryTableId": 0,
-    "GroupIndex": 1,
-    "CharacterGroupLotteryTableId": 0,
-    "LargeSlotNumRestrictedAreaIds": []
+    "slotNum": 2,
+    "type": "BigItem",
+    "lotteryTableId": 0,
+    "groupIndex": 1,
+    "characterGroupLotteryTableId": 0,
+    "largeSlotNumRestrictedAreaIds": []
   },
   {
-    "Version": "260210.1.0",
-    "Id": 101202,
-    "SetId": 1012,
-    "Position": {
-      "x": 0.0,
+    "version": "260210.1.0",
+    "id": 101202,
+    "setId": 1012,
+    "position": {
+      "x": 0,
       "y": 2.5
     },
-    "SlotNum": 1,
-    "Type": "Item",
-    "LotteryTableId": 0,
-    "GroupIndex": 1,
-    "CharacterGroupLotteryTableId": 0,
-    "LargeSlotNumRestrictedAreaIds": []
+    "slotNum": 1,
+    "type": "Item",
+    "lotteryTableId": 0,
+    "groupIndex": 1,
+    "characterGroupLotteryTableId": 0,
+    "largeSlotNumRestrictedAreaIds": []
   },
   {
-    "Version": "260210.1.0",
-    "Id": 101203,
-    "SetId": 1012,
-    "Position": {
+    "version": "260210.1.0",
+    "id": 101203,
+    "setId": 1012,
+    "position": {
       "x": 3.299999952316284,
       "y": 0.5
     },
-    "SlotNum": 1,
-    "Type": "Item",
-    "LotteryTableId": 0,
-    "GroupIndex": 1,
-    "CharacterGroupLotteryTableId": 0,
-    "LargeSlotNumRestrictedAreaIds": []
+    "slotNum": 1,
+    "type": "Item",
+    "lotteryTableId": 0,
+    "groupIndex": 1,
+    "characterGroupLotteryTableId": 0,
+    "largeSlotNumRestrictedAreaIds": []
   },
   {
-    "Version": "260210.1.0",
-    "Id": 101204,
-    "SetId": 1012,
-    "Position": {
-      "x": 0.0,
+    "version": "260210.1.0",
+    "id": 101204,
+    "setId": 1012,
+    "position": {
+      "x": 0,
       "y": -5.5
     },
-    "SlotNum": 1,
-    "Type": "Item",
-    "LotteryTableId": 0,
-    "GroupIndex": 1,
-    "CharacterGroupLotteryTableId": 0,
-    "LargeSlotNumRestrictedAreaIds": []
+    "slotNum": 1,
+    "type": "Item",
+    "lotteryTableId": 0,
+    "groupIndex": 1,
+    "characterGroupLotteryTableId": 0,
+    "largeSlotNumRestrictedAreaIds": []
   },
   {
-    "Version": "260210.1.0",
-    "Id": 101205,
-    "SetId": 1012,
-    "Position": {
-      "x": -3.0,
+    "version": "260210.1.0",
+    "id": 101205,
+    "setId": 1012,
+    "position": {
+      "x": -3,
       "y": 2.5
     },
-    "SlotNum": 1,
-    "Type": "Character",
-    "LotteryTableId": 1,
-    "GroupIndex": 1,
-    "CharacterGroupLotteryTableId": 1,
-    "LargeSlotNumRestrictedAreaIds": []
+    "slotNum": 1,
+    "type": "Character",
+    "lotteryTableId": 1,
+    "groupIndex": 1,
+    "characterGroupLotteryTableId": 1,
+    "largeSlotNumRestrictedAreaIds": []
   },
   {
-    "Version": "260210.1.0",
-    "Id": 101206,
-    "SetId": 1012,
-    "Position": {
+    "version": "260210.1.0",
+    "id": 101206,
+    "setId": 1012,
+    "position": {
       "x": 2.4000000953674316,
       "y": -1.5
     },
-    "SlotNum": 1,
-    "Type": "Character",
-    "LotteryTableId": 1,
-    "GroupIndex": 1,
-    "CharacterGroupLotteryTableId": 1,
-    "LargeSlotNumRestrictedAreaIds": []
+    "slotNum": 1,
+    "type": "Character",
+    "lotteryTableId": 1,
+    "groupIndex": 1,
+    "characterGroupLotteryTableId": 1,
+    "largeSlotNumRestrictedAreaIds": []
   },
   {
-    "Version": "260210.1.0",
-    "Id": 101207,
-    "SetId": 1012,
-    "Position": {
+    "version": "260210.1.0",
+    "id": 101207,
+    "setId": 1012,
+    "position": {
       "x": 6.300000190734863,
       "y": 2.299999952316284
     },
-    "SlotNum": 1,
-    "Type": "Character",
-    "LotteryTableId": 2,
-    "GroupIndex": 1,
-    "CharacterGroupLotteryTableId": 2,
-    "LargeSlotNumRestrictedAreaIds": []
+    "slotNum": 1,
+    "type": "Character",
+    "lotteryTableId": 2,
+    "groupIndex": 1,
+    "characterGroupLotteryTableId": 2,
+    "largeSlotNumRestrictedAreaIds": []
   },
   {
-    "Version": "260210.1.0",
-    "Id": 101208,
-    "SetId": 1012,
-    "Position": {
+    "version": "260210.1.0",
+    "id": 101208,
+    "setId": 1012,
+    "position": {
       "x": -6.199999809265137,
       "y": 1.7999999523162842
     },
-    "SlotNum": 1,
-    "Type": "Character",
-    "LotteryTableId": 2,
-    "GroupIndex": 1,
-    "CharacterGroupLotteryTableId": 2,
-    "LargeSlotNumRestrictedAreaIds": []
+    "slotNum": 1,
+    "type": "Character",
+    "lotteryTableId": 2,
+    "groupIndex": 1,
+    "characterGroupLotteryTableId": 2,
+    "largeSlotNumRestrictedAreaIds": []
   },
   {
-    "Version": "260210.1.0",
-    "Id": 101209,
-    "SetId": 1012,
-    "Position": {
+    "version": "260210.1.0",
+    "id": 101209,
+    "setId": 1012,
+    "position": {
       "x": 5.800000190734863,
       "y": -2.299999952316284
     },
-    "SlotNum": 1,
-    "Type": "Character",
-    "LotteryTableId": 2,
-    "GroupIndex": 1,
-    "CharacterGroupLotteryTableId": 2,
-    "LargeSlotNumRestrictedAreaIds": []
+    "slotNum": 1,
+    "type": "Character",
+    "lotteryTableId": 2,
+    "groupIndex": 1,
+    "characterGroupLotteryTableId": 2,
+    "largeSlotNumRestrictedAreaIds": []
   },
   {
-    "Version": "260210.1.0",
-    "Id": 101210,
-    "SetId": 1012,
-    "Position": {
+    "version": "260210.1.0",
+    "id": 101210,
+    "setId": 1012,
+    "position": {
       "x": -6.400000095367432,
       "y": -4.5
     },
-    "SlotNum": 1,
-    "Type": "Character",
-    "LotteryTableId": 2,
-    "GroupIndex": 1,
-    "CharacterGroupLotteryTableId": 2,
-    "LargeSlotNumRestrictedAreaIds": []
+    "slotNum": 1,
+    "type": "Character",
+    "lotteryTableId": 2,
+    "groupIndex": 1,
+    "characterGroupLotteryTableId": 2,
+    "largeSlotNumRestrictedAreaIds": []
   },
   {
-    "Version": "260210.1.0",
-    "Id": 101211,
-    "SetId": 1012,
-    "Position": {
+    "version": "260210.1.0",
+    "id": 101211,
+    "setId": 1012,
+    "position": {
       "x": 2.5,
       "y": -3.200000047683716
     },
-    "SlotNum": 1,
-    "Type": "GushSpot",
-    "LotteryTableId": 0,
-    "GroupIndex": 1,
-    "CharacterGroupLotteryTableId": 0,
-    "LargeSlotNumRestrictedAreaIds": []
+    "slotNum": 1,
+    "type": "GushSpot",
+    "lotteryTableId": 0,
+    "groupIndex": 1,
+    "characterGroupLotteryTableId": 0,
+    "largeSlotNumRestrictedAreaIds": []
   },
   {
-    "Version": "260210.1.0",
-    "Id": 101212,
-    "SetId": 1012,
-    "Position": {
+    "version": "260210.1.0",
+    "id": 101212,
+    "setId": 1012,
+    "position": {
       "x": -3.299999952316284,
       "y": -3.5
     },
-    "SlotNum": 1,
-    "Type": "GushSpot",
-    "LotteryTableId": 0,
-    "GroupIndex": 1,
-    "CharacterGroupLotteryTableId": 0,
-    "LargeSlotNumRestrictedAreaIds": []
+    "slotNum": 1,
+    "type": "GushSpot",
+    "lotteryTableId": 0,
+    "groupIndex": 1,
+    "characterGroupLotteryTableId": 0,
+    "largeSlotNumRestrictedAreaIds": []
   },
   {
-    "Version": "260310.1.0",
-    "Id": 101301,
-    "SetId": 1013,
-    "Position": {
-      "x": 0.0,
-      "y": -2.0
+    "version": "260310.1.0",
+    "id": 101301,
+    "setId": 1013,
+    "position": {
+      "x": 0,
+      "y": -2
     },
-    "SlotNum": 2,
-    "Type": "BigItem",
-    "LotteryTableId": 0,
-    "GroupIndex": 1,
-    "CharacterGroupLotteryTableId": 0,
-    "LargeSlotNumRestrictedAreaIds": []
+    "slotNum": 2,
+    "type": "BigItem",
+    "lotteryTableId": 0,
+    "groupIndex": 1,
+    "characterGroupLotteryTableId": 0,
+    "largeSlotNumRestrictedAreaIds": []
   },
   {
-    "Version": "260310.1.0",
-    "Id": 101302,
-    "SetId": 1013,
-    "Position": {
+    "version": "260310.1.0",
+    "id": 101302,
+    "setId": 1013,
+    "position": {
       "x": -2.9000000953674316,
       "y": 2.299999952316284
     },
-    "SlotNum": 1,
-    "Type": "Item",
-    "LotteryTableId": 0,
-    "GroupIndex": 1,
-    "CharacterGroupLotteryTableId": 0,
-    "LargeSlotNumRestrictedAreaIds": []
+    "slotNum": 1,
+    "type": "Item",
+    "lotteryTableId": 0,
+    "groupIndex": 1,
+    "characterGroupLotteryTableId": 0,
+    "largeSlotNumRestrictedAreaIds": []
   },
   {
-    "Version": "260310.1.0",
-    "Id": 101303,
-    "SetId": 1013,
-    "Position": {
+    "version": "260310.1.0",
+    "id": 101303,
+    "setId": 1013,
+    "position": {
       "x": -1.7999999523162842,
       "y": -5.5
     },
-    "SlotNum": 1,
-    "Type": "Item",
-    "LotteryTableId": 0,
-    "GroupIndex": 1,
-    "CharacterGroupLotteryTableId": 0,
-    "LargeSlotNumRestrictedAreaIds": []
+    "slotNum": 1,
+    "type": "Item",
+    "lotteryTableId": 0,
+    "groupIndex": 1,
+    "characterGroupLotteryTableId": 0,
+    "largeSlotNumRestrictedAreaIds": []
   },
   {
-    "Version": "260310.1.0",
-    "Id": 101304,
-    "SetId": 1013,
-    "Position": {
+    "version": "260310.1.0",
+    "id": 101304,
+    "setId": 1013,
+    "position": {
       "x": 1.7999999523162842,
       "y": -5.5
     },
-    "SlotNum": 1,
-    "Type": "Item",
-    "LotteryTableId": 0,
-    "GroupIndex": 1,
-    "CharacterGroupLotteryTableId": 0,
-    "LargeSlotNumRestrictedAreaIds": []
+    "slotNum": 1,
+    "type": "Item",
+    "lotteryTableId": 0,
+    "groupIndex": 1,
+    "characterGroupLotteryTableId": 0,
+    "largeSlotNumRestrictedAreaIds": []
   },
   {
-    "Version": "260310.1.0",
-    "Id": 101305,
-    "SetId": 1013,
-    "Position": {
+    "version": "260310.1.0",
+    "id": 101305,
+    "setId": 1013,
+    "position": {
       "x": 2.9000000953674316,
       "y": 2.299999952316284
     },
-    "SlotNum": 1,
-    "Type": "Item",
-    "LotteryTableId": 0,
-    "GroupIndex": 1,
-    "CharacterGroupLotteryTableId": 0,
-    "LargeSlotNumRestrictedAreaIds": []
+    "slotNum": 1,
+    "type": "Item",
+    "lotteryTableId": 0,
+    "groupIndex": 1,
+    "characterGroupLotteryTableId": 0,
+    "largeSlotNumRestrictedAreaIds": []
   },
   {
-    "Version": "260310.1.0",
-    "Id": 101306,
-    "SetId": 1013,
-    "Position": {
+    "version": "260310.1.0",
+    "id": 101306,
+    "setId": 1013,
+    "position": {
       "x": -3.9000000953674316,
       "y": 0.5
     },
-    "SlotNum": 1,
-    "Type": "Character",
-    "LotteryTableId": 1,
-    "GroupIndex": 1,
-    "CharacterGroupLotteryTableId": 1,
-    "LargeSlotNumRestrictedAreaIds": []
+    "slotNum": 1,
+    "type": "Character",
+    "lotteryTableId": 1,
+    "groupIndex": 1,
+    "characterGroupLotteryTableId": 1,
+    "largeSlotNumRestrictedAreaIds": []
   },
   {
-    "Version": "260310.1.0",
-    "Id": 101307,
-    "SetId": 1013,
-    "Position": {
-      "x": 0.0,
-      "y": 4.0
+    "version": "260310.1.0",
+    "id": 101307,
+    "setId": 1013,
+    "position": {
+      "x": 0,
+      "y": 4
     },
-    "SlotNum": 1,
-    "Type": "Character",
-    "LotteryTableId": 1,
-    "GroupIndex": 1,
-    "CharacterGroupLotteryTableId": 1,
-    "LargeSlotNumRestrictedAreaIds": []
+    "slotNum": 1,
+    "type": "Character",
+    "lotteryTableId": 1,
+    "groupIndex": 1,
+    "characterGroupLotteryTableId": 1,
+    "largeSlotNumRestrictedAreaIds": []
   },
   {
-    "Version": "260310.1.0",
-    "Id": 101308,
-    "SetId": 1013,
-    "Position": {
+    "version": "260310.1.0",
+    "id": 101308,
+    "setId": 1013,
+    "position": {
       "x": -6.300000190734863,
-      "y": 1.0
+      "y": 1
     },
-    "SlotNum": 1,
-    "Type": "Character",
-    "LotteryTableId": 2,
-    "GroupIndex": 1,
-    "CharacterGroupLotteryTableId": 2,
-    "LargeSlotNumRestrictedAreaIds": []
+    "slotNum": 1,
+    "type": "Character",
+    "lotteryTableId": 2,
+    "groupIndex": 1,
+    "characterGroupLotteryTableId": 2,
+    "largeSlotNumRestrictedAreaIds": []
   },
   {
-    "Version": "260310.1.0",
-    "Id": 101309,
-    "SetId": 1013,
-    "Position": {
+    "version": "260310.1.0",
+    "id": 101309,
+    "setId": 1013,
+    "position": {
       "x": 6.300000190734863,
       "y": 0.800000011920929
     },
-    "SlotNum": 1,
-    "Type": "Character",
-    "LotteryTableId": 2,
-    "GroupIndex": 1,
-    "CharacterGroupLotteryTableId": 2,
-    "LargeSlotNumRestrictedAreaIds": []
+    "slotNum": 1,
+    "type": "Character",
+    "lotteryTableId": 2,
+    "groupIndex": 1,
+    "characterGroupLotteryTableId": 2,
+    "largeSlotNumRestrictedAreaIds": []
   },
   {
-    "Version": "260310.1.0",
-    "Id": 101310,
-    "SetId": 1013,
-    "Position": {
+    "version": "260310.1.0",
+    "id": 101310,
+    "setId": 1013,
+    "position": {
       "x": -5.5,
-      "y": -4.0
+      "y": -4
     },
-    "SlotNum": 1,
-    "Type": "Character",
-    "LotteryTableId": 2,
-    "GroupIndex": 1,
-    "CharacterGroupLotteryTableId": 2,
-    "LargeSlotNumRestrictedAreaIds": []
+    "slotNum": 1,
+    "type": "Character",
+    "lotteryTableId": 2,
+    "groupIndex": 1,
+    "characterGroupLotteryTableId": 2,
+    "largeSlotNumRestrictedAreaIds": []
   },
   {
-    "Version": "260310.1.0",
-    "Id": 101311,
-    "SetId": 1013,
-    "Position": {
+    "version": "260310.1.0",
+    "id": 101311,
+    "setId": 1013,
+    "position": {
       "x": 5.5,
-      "y": -4.0
+      "y": -4
     },
-    "SlotNum": 1,
-    "Type": "Character",
-    "LotteryTableId": 2,
-    "GroupIndex": 1,
-    "CharacterGroupLotteryTableId": 2,
-    "LargeSlotNumRestrictedAreaIds": []
+    "slotNum": 1,
+    "type": "Character",
+    "lotteryTableId": 2,
+    "groupIndex": 1,
+    "characterGroupLotteryTableId": 2,
+    "largeSlotNumRestrictedAreaIds": []
   },
   {
-    "Version": "260310.1.0",
-    "Id": 101312,
-    "SetId": 1013,
-    "Position": {
-      "x": 0.0,
+    "version": "260310.1.0",
+    "id": 101312,
+    "setId": 1013,
+    "position": {
+      "x": 0,
       "y": 2.5
     },
-    "SlotNum": 1,
-    "Type": "GushSpot",
-    "LotteryTableId": 0,
-    "GroupIndex": 1,
-    "CharacterGroupLotteryTableId": 0,
-    "LargeSlotNumRestrictedAreaIds": []
+    "slotNum": 1,
+    "type": "GushSpot",
+    "lotteryTableId": 0,
+    "groupIndex": 1,
+    "characterGroupLotteryTableId": 0,
+    "largeSlotNumRestrictedAreaIds": []
   },
   {
-    "Version": "260410.1.0",
-    "Id": 101401,
-    "SetId": 1014,
-    "Position": {
+    "version": "260410.1.0",
+    "id": 101401,
+    "setId": 1014,
+    "position": {
       "x": 0.10000000149011612,
       "y": 2.700000047683716
     },
-    "SlotNum": 2,
-    "Type": "BigItem",
-    "LotteryTableId": 0,
-    "GroupIndex": 1,
-    "CharacterGroupLotteryTableId": 0,
-    "LargeSlotNumRestrictedAreaIds": []
+    "slotNum": 2,
+    "type": "BigItem",
+    "lotteryTableId": 0,
+    "groupIndex": 1,
+    "characterGroupLotteryTableId": 0,
+    "largeSlotNumRestrictedAreaIds": []
   },
   {
-    "Version": "260410.1.0",
-    "Id": 101402,
-    "SetId": 1014,
-    "Position": {
+    "version": "260410.1.0",
+    "id": 101402,
+    "setId": 1014,
+    "position": {
       "x": -1.899999976158142,
       "y": -1.5
     },
-    "SlotNum": 2,
-    "Type": "BigItem",
-    "LotteryTableId": 0,
-    "GroupIndex": 1,
-    "CharacterGroupLotteryTableId": 0,
-    "LargeSlotNumRestrictedAreaIds": []
+    "slotNum": 2,
+    "type": "BigItem",
+    "lotteryTableId": 0,
+    "groupIndex": 1,
+    "characterGroupLotteryTableId": 0,
+    "largeSlotNumRestrictedAreaIds": []
   },
   {
-    "Version": "260410.1.0",
-    "Id": 101403,
-    "SetId": 1014,
-    "Position": {
-      "x": 1.0,
+    "version": "260410.1.0",
+    "id": 101403,
+    "setId": 1014,
+    "position": {
+      "x": 1,
       "y": -5.699999809265137
     },
-    "SlotNum": 2,
-    "Type": "BigItem",
-    "LotteryTableId": 0,
-    "GroupIndex": 1,
-    "CharacterGroupLotteryTableId": 0,
-    "LargeSlotNumRestrictedAreaIds": []
+    "slotNum": 2,
+    "type": "BigItem",
+    "lotteryTableId": 0,
+    "groupIndex": 1,
+    "characterGroupLotteryTableId": 0,
+    "largeSlotNumRestrictedAreaIds": []
   },
   {
-    "Version": "260410.1.0",
-    "Id": 101404,
-    "SetId": 1014,
-    "Position": {
+    "version": "260410.1.0",
+    "id": 101404,
+    "setId": 1014,
+    "position": {
       "x": 2.799999952316284,
       "y": -0.5
     },
-    "SlotNum": 1,
-    "Type": "Item",
-    "LotteryTableId": 0,
-    "GroupIndex": 1,
-    "CharacterGroupLotteryTableId": 0,
-    "LargeSlotNumRestrictedAreaIds": []
+    "slotNum": 1,
+    "type": "Item",
+    "lotteryTableId": 0,
+    "groupIndex": 1,
+    "characterGroupLotteryTableId": 0,
+    "largeSlotNumRestrictedAreaIds": []
   },
   {
-    "Version": "260410.1.0",
-    "Id": 101405,
-    "SetId": 1014,
-    "Position": {
+    "version": "260410.1.0",
+    "id": 101405,
+    "setId": 1014,
+    "position": {
       "x": 3.9000000953674316,
-      "y": 3.0
+      "y": 3
     },
-    "SlotNum": 1,
-    "Type": "Character",
-    "LotteryTableId": 1,
-    "GroupIndex": 1,
-    "CharacterGroupLotteryTableId": 1,
-    "LargeSlotNumRestrictedAreaIds": []
+    "slotNum": 1,
+    "type": "Character",
+    "lotteryTableId": 1,
+    "groupIndex": 1,
+    "characterGroupLotteryTableId": 1,
+    "largeSlotNumRestrictedAreaIds": []
   },
   {
-    "Version": "260410.1.0",
-    "Id": 101406,
-    "SetId": 1014,
-    "Position": {
-      "x": -3.0,
+    "version": "260410.1.0",
+    "id": 101406,
+    "setId": 1014,
+    "position": {
+      "x": -3,
       "y": -3.5
     },
-    "SlotNum": 1,
-    "Type": "Character",
-    "LotteryTableId": 1,
-    "GroupIndex": 1,
-    "CharacterGroupLotteryTableId": 1,
-    "LargeSlotNumRestrictedAreaIds": []
+    "slotNum": 1,
+    "type": "Character",
+    "lotteryTableId": 1,
+    "groupIndex": 1,
+    "characterGroupLotteryTableId": 1,
+    "largeSlotNumRestrictedAreaIds": []
   },
   {
-    "Version": "260410.1.0",
-    "Id": 101407,
-    "SetId": 1014,
-    "Position": {
-      "x": -6.0,
+    "version": "260410.1.0",
+    "id": 101407,
+    "setId": 1014,
+    "position": {
+      "x": -6,
       "y": -0.20000000298023224
     },
-    "SlotNum": 1,
-    "Type": "Character",
-    "LotteryTableId": 2,
-    "GroupIndex": 1,
-    "CharacterGroupLotteryTableId": 2,
-    "LargeSlotNumRestrictedAreaIds": []
+    "slotNum": 1,
+    "type": "Character",
+    "lotteryTableId": 2,
+    "groupIndex": 1,
+    "characterGroupLotteryTableId": 2,
+    "largeSlotNumRestrictedAreaIds": []
   },
   {
-    "Version": "260410.1.0",
-    "Id": 101408,
-    "SetId": 1014,
-    "Position": {
+    "version": "260410.1.0",
+    "id": 101408,
+    "setId": 1014,
+    "position": {
       "x": 5.300000190734863,
       "y": -5.300000190734863
     },
-    "SlotNum": 1,
-    "Type": "Character",
-    "LotteryTableId": 2,
-    "GroupIndex": 1,
-    "CharacterGroupLotteryTableId": 2,
-    "LargeSlotNumRestrictedAreaIds": []
+    "slotNum": 1,
+    "type": "Character",
+    "lotteryTableId": 2,
+    "groupIndex": 1,
+    "characterGroupLotteryTableId": 2,
+    "largeSlotNumRestrictedAreaIds": []
   },
   {
-    "Version": "260410.1.0",
-    "Id": 101409,
-    "SetId": 1014,
-    "Position": {
+    "version": "260410.1.0",
+    "id": 101409,
+    "setId": 1014,
+    "position": {
       "x": -3.5,
       "y": 2.799999952316284
     },
-    "SlotNum": 1,
-    "Type": "GushSpot",
-    "LotteryTableId": 0,
-    "GroupIndex": 1,
-    "CharacterGroupLotteryTableId": 0,
-    "LargeSlotNumRestrictedAreaIds": []
+    "slotNum": 1,
+    "type": "GushSpot",
+    "lotteryTableId": 0,
+    "groupIndex": 1,
+    "characterGroupLotteryTableId": 0,
+    "largeSlotNumRestrictedAreaIds": []
   },
   {
-    "Version": "260510.1.0",
-    "Id": 101501,
-    "SetId": 1015,
-    "Position": {
-      "x": 1.0,
+    "version": "260510.1.0",
+    "id": 101501,
+    "setId": 1015,
+    "position": {
+      "x": 1,
       "y": -1.7000000476837158
     },
-    "SlotNum": 2,
-    "Type": "BigItem",
-    "LotteryTableId": 0,
-    "GroupIndex": 1,
-    "CharacterGroupLotteryTableId": 0,
-    "LargeSlotNumRestrictedAreaIds": []
+    "slotNum": 2,
+    "type": "BigItem",
+    "lotteryTableId": 0,
+    "groupIndex": 1,
+    "characterGroupLotteryTableId": 0,
+    "largeSlotNumRestrictedAreaIds": []
   },
   {
-    "Version": "260510.1.0",
-    "Id": 101502,
-    "SetId": 1015,
-    "Position": {
+    "version": "260510.1.0",
+    "id": 101502,
+    "setId": 1015,
+    "position": {
       "x": -3.200000047683716,
       "y": 0.4000000059604645
     },
-    "SlotNum": 1,
-    "Type": "Item",
-    "LotteryTableId": 0,
-    "GroupIndex": 1,
-    "CharacterGroupLotteryTableId": 0,
-    "LargeSlotNumRestrictedAreaIds": []
+    "slotNum": 1,
+    "type": "Item",
+    "lotteryTableId": 0,
+    "groupIndex": 1,
+    "characterGroupLotteryTableId": 0,
+    "largeSlotNumRestrictedAreaIds": []
   },
   {
-    "Version": "260510.1.0",
-    "Id": 101503,
-    "SetId": 1015,
-    "Position": {
+    "version": "260510.1.0",
+    "id": 101503,
+    "setId": 1015,
+    "position": {
       "x": -1.7999999523162842,
-      "y": -5.0
+      "y": -5
     },
-    "SlotNum": 1,
-    "Type": "Item",
-    "LotteryTableId": 0,
-    "GroupIndex": 1,
-    "CharacterGroupLotteryTableId": 0,
-    "LargeSlotNumRestrictedAreaIds": []
+    "slotNum": 1,
+    "type": "Item",
+    "lotteryTableId": 0,
+    "groupIndex": 1,
+    "characterGroupLotteryTableId": 0,
+    "largeSlotNumRestrictedAreaIds": []
   },
   {
-    "Version": "260510.1.0",
-    "Id": 101504,
-    "SetId": 1015,
-    "Position": {
+    "version": "260510.1.0",
+    "id": 101504,
+    "setId": 1015,
+    "position": {
       "x": 2.5999999046325684,
-      "y": -5.0
+      "y": -5
     },
-    "SlotNum": 1,
-    "Type": "Item",
-    "LotteryTableId": 0,
-    "GroupIndex": 1,
-    "CharacterGroupLotteryTableId": 0,
-    "LargeSlotNumRestrictedAreaIds": []
+    "slotNum": 1,
+    "type": "Item",
+    "lotteryTableId": 0,
+    "groupIndex": 1,
+    "characterGroupLotteryTableId": 0,
+    "largeSlotNumRestrictedAreaIds": []
   },
   {
-    "Version": "260510.1.0",
-    "Id": 101505,
-    "SetId": 1015,
-    "Position": {
-      "x": 0.0,
+    "version": "260510.1.0",
+    "id": 101505,
+    "setId": 1015,
+    "position": {
+      "x": 0,
       "y": 2.5
     },
-    "SlotNum": 1,
-    "Type": "Character",
-    "LotteryTableId": 1,
-    "GroupIndex": 1,
-    "CharacterGroupLotteryTableId": 1,
-    "LargeSlotNumRestrictedAreaIds": []
+    "slotNum": 1,
+    "type": "Character",
+    "lotteryTableId": 1,
+    "groupIndex": 1,
+    "characterGroupLotteryTableId": 1,
+    "largeSlotNumRestrictedAreaIds": []
   },
   {
-    "Version": "260510.1.0",
-    "Id": 101506,
-    "SetId": 1015,
-    "Position": {
+    "version": "260510.1.0",
+    "id": 101506,
+    "setId": 1015,
+    "position": {
       "x": 2.299999952316284,
       "y": 2.5
     },
-    "SlotNum": 1,
-    "Type": "Character",
-    "LotteryTableId": 1,
-    "GroupIndex": 1,
-    "CharacterGroupLotteryTableId": 1,
-    "LargeSlotNumRestrictedAreaIds": []
+    "slotNum": 1,
+    "type": "Character",
+    "lotteryTableId": 1,
+    "groupIndex": 1,
+    "characterGroupLotteryTableId": 1,
+    "largeSlotNumRestrictedAreaIds": []
   },
   {
-    "Version": "260510.1.0",
-    "Id": 101507,
-    "SetId": 1015,
-    "Position": {
+    "version": "260510.1.0",
+    "id": 101507,
+    "setId": 1015,
+    "position": {
       "x": -2.9000000953674316,
       "y": -1.5
     },
-    "SlotNum": 1,
-    "Type": "Character",
-    "LotteryTableId": 1,
-    "GroupIndex": 1,
-    "CharacterGroupLotteryTableId": 1,
-    "LargeSlotNumRestrictedAreaIds": []
+    "slotNum": 1,
+    "type": "Character",
+    "lotteryTableId": 1,
+    "groupIndex": 1,
+    "characterGroupLotteryTableId": 1,
+    "largeSlotNumRestrictedAreaIds": []
   },
   {
-    "Version": "260510.1.0",
-    "Id": 101508,
-    "SetId": 1015,
-    "Position": {
+    "version": "260510.1.0",
+    "id": 101508,
+    "setId": 1015,
+    "position": {
       "x": -5.800000190734863,
       "y": -2.0999999046325684
     },
-    "SlotNum": 1,
-    "Type": "Character",
-    "LotteryTableId": 2,
-    "GroupIndex": 1,
-    "CharacterGroupLotteryTableId": 2,
-    "LargeSlotNumRestrictedAreaIds": []
+    "slotNum": 1,
+    "type": "Character",
+    "lotteryTableId": 2,
+    "groupIndex": 1,
+    "characterGroupLotteryTableId": 2,
+    "largeSlotNumRestrictedAreaIds": []
   },
   {
-    "Version": "260510.1.0",
-    "Id": 101509,
-    "SetId": 1015,
-    "Position": {
-      "x": 5.0,
+    "version": "260510.1.0",
+    "id": 101509,
+    "setId": 1015,
+    "position": {
+      "x": 5,
       "y": 0.699999988079071
     },
-    "SlotNum": 1,
-    "Type": "Character",
-    "LotteryTableId": 2,
-    "GroupIndex": 1,
-    "CharacterGroupLotteryTableId": 2,
-    "LargeSlotNumRestrictedAreaIds": []
+    "slotNum": 1,
+    "type": "Character",
+    "lotteryTableId": 2,
+    "groupIndex": 1,
+    "characterGroupLotteryTableId": 2,
+    "largeSlotNumRestrictedAreaIds": []
   },
   {
-    "Version": "260510.1.0",
-    "Id": 101510,
-    "SetId": 1015,
-    "Position": {
+    "version": "260510.1.0",
+    "id": 101510,
+    "setId": 1015,
+    "position": {
       "x": 4.199999809265137,
       "y": 2.5
     },
-    "SlotNum": 1,
-    "Type": "GushSpot",
-    "LotteryTableId": 0,
-    "GroupIndex": 1,
-    "CharacterGroupLotteryTableId": 0,
-    "LargeSlotNumRestrictedAreaIds": []
+    "slotNum": 1,
+    "type": "GushSpot",
+    "lotteryTableId": 0,
+    "groupIndex": 1,
+    "characterGroupLotteryTableId": 0,
+    "largeSlotNumRestrictedAreaIds": []
+  },
+  {
+    "version": "260610.1.0",
+    "id": 101601,
+    "setId": 1016,
+    "position": {
+      "x": -2,
+      "y": -2
+    },
+    "slotNum": 2,
+    "type": "BigItem",
+    "lotteryTableId": 0,
+    "groupIndex": 1,
+    "characterGroupLotteryTableId": 0,
+    "largeSlotNumRestrictedAreaIds": []
+  },
+  {
+    "version": "260610.1.0",
+    "id": 101602,
+    "setId": 1016,
+    "position": {
+      "x": 0.30000001192092896,
+      "y": 2.4000000953674316
+    },
+    "slotNum": 1,
+    "type": "Item",
+    "lotteryTableId": 0,
+    "groupIndex": 1,
+    "characterGroupLotteryTableId": 0,
+    "largeSlotNumRestrictedAreaIds": []
+  },
+  {
+    "version": "260610.1.0",
+    "id": 101603,
+    "setId": 1016,
+    "position": {
+      "x": 2.700000047683716,
+      "y": -2.799999952316284
+    },
+    "slotNum": 1,
+    "type": "Item",
+    "lotteryTableId": 0,
+    "groupIndex": 1,
+    "characterGroupLotteryTableId": 0,
+    "largeSlotNumRestrictedAreaIds": []
+  },
+  {
+    "version": "260610.1.0",
+    "id": 101604,
+    "setId": 1016,
+    "position": {
+      "x": -2,
+      "y": -5.5
+    },
+    "slotNum": 1,
+    "type": "Item",
+    "lotteryTableId": 0,
+    "groupIndex": 1,
+    "characterGroupLotteryTableId": 0,
+    "largeSlotNumRestrictedAreaIds": []
+  },
+  {
+    "version": "260610.1.0",
+    "id": 101605,
+    "setId": 1016,
+    "position": {
+      "x": 3.200000047683716,
+      "y": 2.4000000953674316
+    },
+    "slotNum": 1,
+    "type": "Character",
+    "lotteryTableId": 1,
+    "groupIndex": 1,
+    "characterGroupLotteryTableId": 1,
+    "largeSlotNumRestrictedAreaIds": []
+  },
+  {
+    "version": "260610.1.0",
+    "id": 101606,
+    "setId": 1016,
+    "position": {
+      "x": 1.899999976158142,
+      "y": -5.199999809265137
+    },
+    "slotNum": 1,
+    "type": "Character",
+    "lotteryTableId": 1,
+    "groupIndex": 1,
+    "characterGroupLotteryTableId": 1,
+    "largeSlotNumRestrictedAreaIds": []
+  },
+  {
+    "version": "260610.1.0",
+    "id": 101607,
+    "setId": 1016,
+    "position": {
+      "x": -5.800000190734863,
+      "y": -3.5
+    },
+    "slotNum": 1,
+    "type": "Character",
+    "lotteryTableId": 2,
+    "groupIndex": 1,
+    "characterGroupLotteryTableId": 2,
+    "largeSlotNumRestrictedAreaIds": []
+  },
+  {
+    "version": "260610.1.0",
+    "id": 101608,
+    "setId": 1016,
+    "position": {
+      "x": 5.900000095367432,
+      "y": 1.600000023841858
+    },
+    "slotNum": 1,
+    "type": "Character",
+    "lotteryTableId": 2,
+    "groupIndex": 1,
+    "characterGroupLotteryTableId": 2,
+    "largeSlotNumRestrictedAreaIds": []
+  },
+  {
+    "version": "260610.1.0",
+    "id": 101609,
+    "setId": 1016,
+    "position": {
+      "x": 0.4000000059604645,
+      "y": -3.5
+    },
+    "slotNum": 1,
+    "type": "GushSpot",
+    "lotteryTableId": 0,
+    "groupIndex": 1,
+    "characterGroupLotteryTableId": 0,
+    "largeSlotNumRestrictedAreaIds": []
+  },
+  {
+    "version": "260710.1.0",
+    "id": 101701,
+    "setId": 1017,
+    "position": {
+      "x": -1.600000023841858,
+      "y": -2.0999999046325684
+    },
+    "slotNum": 2,
+    "type": "BigItem",
+    "lotteryTableId": 0,
+    "groupIndex": 1,
+    "characterGroupLotteryTableId": 0,
+    "largeSlotNumRestrictedAreaIds": []
+  },
+  {
+    "version": "260710.1.0",
+    "id": 101702,
+    "setId": 1017,
+    "position": {
+      "x": 2.9000000953674316,
+      "y": 0.30000001192092896
+    },
+    "slotNum": 1,
+    "type": "Item",
+    "lotteryTableId": 0,
+    "groupIndex": 1,
+    "characterGroupLotteryTableId": 0,
+    "largeSlotNumRestrictedAreaIds": []
+  },
+  {
+    "version": "260710.1.0",
+    "id": 101703,
+    "setId": 1017,
+    "position": {
+      "x": -1.7000000476837158,
+      "y": -5.699999809265137
+    },
+    "slotNum": 1,
+    "type": "Item",
+    "lotteryTableId": 0,
+    "groupIndex": 1,
+    "characterGroupLotteryTableId": 0,
+    "largeSlotNumRestrictedAreaIds": []
+  },
+  {
+    "version": "260710.1.0",
+    "id": 101704,
+    "setId": 1017,
+    "position": {
+      "x": 1.7999999523162842,
+      "y": -5.599999904632568
+    },
+    "slotNum": 1,
+    "type": "Item",
+    "lotteryTableId": 0,
+    "groupIndex": 1,
+    "characterGroupLotteryTableId": 0,
+    "largeSlotNumRestrictedAreaIds": []
+  },
+  {
+    "version": "260710.1.0",
+    "id": 101705,
+    "setId": 1017,
+    "position": {
+      "x": -2.299999952316284,
+      "y": 2.299999952316284
+    },
+    "slotNum": 1,
+    "type": "Character",
+    "lotteryTableId": 1,
+    "groupIndex": 1,
+    "characterGroupLotteryTableId": 1,
+    "largeSlotNumRestrictedAreaIds": []
+  },
+  {
+    "version": "260710.1.0",
+    "id": 101706,
+    "setId": 1017,
+    "position": {
+      "x": 2.200000047683716,
+      "y": -1.7000000476837158
+    },
+    "slotNum": 1,
+    "type": "Character",
+    "lotteryTableId": 1,
+    "groupIndex": 1,
+    "characterGroupLotteryTableId": 1,
+    "largeSlotNumRestrictedAreaIds": []
+  },
+  {
+    "version": "260710.1.0",
+    "id": 101707,
+    "setId": 1017,
+    "position": {
+      "x": -6,
+      "y": -2
+    },
+    "slotNum": 1,
+    "type": "Character",
+    "lotteryTableId": 2,
+    "groupIndex": 1,
+    "characterGroupLotteryTableId": 2,
+    "largeSlotNumRestrictedAreaIds": []
+  },
+  {
+    "version": "260710.1.0",
+    "id": 101708,
+    "setId": 1017,
+    "position": {
+      "x": 5.800000190734863,
+      "y": 0.4000000059604645
+    },
+    "slotNum": 1,
+    "type": "Character",
+    "lotteryTableId": 2,
+    "groupIndex": 1,
+    "characterGroupLotteryTableId": 2,
+    "largeSlotNumRestrictedAreaIds": []
+  },
+  {
+    "version": "260710.1.0",
+    "id": 101709,
+    "setId": 1017,
+    "position": {
+      "x": 0.20000000298023224,
+      "y": 2
+    },
+    "slotNum": 1,
+    "type": "GushSpot",
+    "lotteryTableId": 0,
+    "groupIndex": 1,
+    "characterGroupLotteryTableId": 0,
+    "largeSlotNumRestrictedAreaIds": []
   }
 ]

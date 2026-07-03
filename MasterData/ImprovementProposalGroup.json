@@ -1,198 +1,198 @@
 [
   {
-    "Version": "250330.1.0",
-    "Id": 1,
-    "GroupType": "MainBattleLose",
-    "TextKey": 1614089256,
-    "MaximumDisplayCount": 4
+    "version": "250330.1.0",
+    "id": 1,
+    "groupType": "MainBattleLose",
+    "textKey": 1614089256,
+    "maximumDisplayCount": 4
   },
   {
-    "Version": "250330.1.0",
-    "Id": 2,
-    "GroupType": "MainBattleTimeUp",
-    "TextKey": -1568855975,
-    "MaximumDisplayCount": 4
+    "version": "250330.1.0",
+    "id": 2,
+    "groupType": "MainBattleTimeUp",
+    "textKey": -1568855975,
+    "maximumDisplayCount": 4
   },
   {
-    "Version": "250330.1.0",
-    "Id": 3,
-    "GroupType": "SubBattleBossRushLose",
-    "TextKey": 1614089256,
-    "MaximumDisplayCount": 4
+    "version": "250330.1.0",
+    "id": 3,
+    "groupType": "SubBattleBossRushLose",
+    "textKey": 1614089256,
+    "maximumDisplayCount": 4
   },
   {
-    "Version": "250330.1.0",
-    "Id": 4,
-    "GroupType": "SubBattleBossRushTimeUp",
-    "TextKey": -1568855975,
-    "MaximumDisplayCount": 4
+    "version": "250330.1.0",
+    "id": 4,
+    "groupType": "SubBattleBossRushTimeUp",
+    "textKey": -1568855975,
+    "maximumDisplayCount": 4
   },
   {
-    "Version": "250330.1.0",
-    "Id": 5,
-    "GroupType": "SubBattleGoldTimeUp",
-    "TextKey": -1568855975,
-    "MaximumDisplayCount": 4
+    "version": "250330.1.0",
+    "id": 5,
+    "groupType": "SubBattleGoldTimeUp",
+    "textKey": -1568855975,
+    "maximumDisplayCount": 4
   },
   {
-    "Version": "250330.1.0",
-    "Id": 6,
-    "GroupType": "GemResourceLack",
-    "TextKey": 1165060948,
-    "MaximumDisplayCount": 4
+    "version": "250330.1.0",
+    "id": 6,
+    "groupType": "GemResourceLack",
+    "textKey": 1165060948,
+    "maximumDisplayCount": 4
   },
   {
-    "Version": "250330.1.0",
-    "Id": 7,
-    "GroupType": "CostumeEnhanceResourceLack",
-    "TextKey": 1165060948,
-    "MaximumDisplayCount": 4
+    "version": "250330.1.0",
+    "id": 7,
+    "groupType": "CostumeEnhanceResourceLack",
+    "textKey": 1165060948,
+    "maximumDisplayCount": 4
   },
   {
-    "Version": "250330.1.0",
-    "Id": 8,
-    "GroupType": "CostumePromotionResourceLack",
-    "TextKey": 1165060948,
-    "MaximumDisplayCount": 4
+    "version": "250330.1.0",
+    "id": 8,
+    "groupType": "CostumePromotionResourceLack",
+    "textKey": 1165060948,
+    "maximumDisplayCount": 4
   },
   {
-    "Version": "250330.1.0",
-    "Id": 9,
-    "GroupType": "BossRushResourceLack",
-    "TextKey": 1165060948,
-    "MaximumDisplayCount": 4
+    "version": "250330.1.0",
+    "id": 9,
+    "groupType": "BossRushResourceLack",
+    "textKey": 1165060948,
+    "maximumDisplayCount": 4
   },
   {
-    "Version": "250330.1.0",
-    "Id": 10,
-    "GroupType": "GoldDungeonResourceLack",
-    "TextKey": 1165060948,
-    "MaximumDisplayCount": 4
+    "version": "250330.1.0",
+    "id": 10,
+    "groupType": "GoldDungeonResourceLack",
+    "textKey": 1165060948,
+    "maximumDisplayCount": 4
   },
   {
-    "Version": "250330.1.0",
-    "Id": 11,
-    "GroupType": "WeedingHoeLack",
-    "TextKey": 1165060948,
-    "MaximumDisplayCount": 4
+    "version": "250330.1.0",
+    "id": 11,
+    "groupType": "WeedingHoeLack",
+    "textKey": 1165060948,
+    "maximumDisplayCount": 4
   },
   {
-    "Version": "250330.1.0",
-    "Id": 12,
-    "GroupType": "WeedingDrillLack",
-    "TextKey": 1165060948,
-    "MaximumDisplayCount": 4
+    "version": "250330.1.0",
+    "id": 12,
+    "groupType": "WeedingDrillLack",
+    "textKey": 1165060948,
+    "maximumDisplayCount": 4
   },
   {
-    "Version": "250330.1.0",
-    "Id": 13,
-    "GroupType": "WeedingBombLack",
-    "TextKey": 1165060948,
-    "MaximumDisplayCount": 4
+    "version": "250330.1.0",
+    "id": 13,
+    "groupType": "WeedingBombLack",
+    "textKey": 1165060948,
+    "maximumDisplayCount": 4
   },
   {
-    "Version": "250330.1.0",
-    "Id": 14,
-    "GroupType": "StudyResourceLack",
-    "TextKey": 1165060948,
-    "MaximumDisplayCount": 4
+    "version": "250330.1.0",
+    "id": 14,
+    "groupType": "StudyResourceLack",
+    "textKey": 1165060948,
+    "maximumDisplayCount": 4
   },
   {
-    "Version": "250330.1.0",
-    "Id": 15,
-    "GroupType": "CookingResourceLack",
-    "TextKey": 1165060948,
-    "MaximumDisplayCount": 4
+    "version": "250330.1.0",
+    "id": 15,
+    "groupType": "CookingResourceLack",
+    "textKey": 1165060948,
+    "maximumDisplayCount": 4
   },
   {
-    "Version": "250330.1.0",
-    "Id": 16,
-    "GroupType": "MasteryEnhanceResourceLack",
-    "TextKey": 1165060948,
-    "MaximumDisplayCount": 4
+    "version": "250330.1.0",
+    "id": 16,
+    "groupType": "MasteryEnhanceResourceLack",
+    "textKey": 1165060948,
+    "maximumDisplayCount": 4
   },
   {
-    "Version": "250330.1.0",
-    "Id": 17,
-    "GroupType": "MasteryPromotionResourceLack",
-    "TextKey": 1165060948,
-    "MaximumDisplayCount": 4
+    "version": "250330.1.0",
+    "id": 17,
+    "groupType": "MasteryPromotionResourceLack",
+    "textKey": 1165060948,
+    "maximumDisplayCount": 4
   },
   {
-    "Version": "250330.1.0",
-    "Id": 18,
-    "GroupType": "PaidGemResourceLack",
-    "TextKey": 1165060948,
-    "MaximumDisplayCount": 4
+    "version": "250330.1.0",
+    "id": 18,
+    "groupType": "PaidGemResourceLack",
+    "textKey": 1165060948,
+    "maximumDisplayCount": 4
   },
   {
-    "Version": "250330.1.0",
-    "Id": 19,
-    "GroupType": "CookingUnlockLevelUpperResourceLack",
-    "TextKey": 1165060948,
-    "MaximumDisplayCount": 4
+    "version": "250330.1.0",
+    "id": 19,
+    "groupType": "CookingUnlockLevelUpperResourceLack",
+    "textKey": 1165060948,
+    "maximumDisplayCount": 4
   },
   {
-    "Version": "250330.1.0",
-    "Id": 20,
-    "GroupType": "HomeItemEnhanceResourceLack",
-    "TextKey": 1165060948,
-    "MaximumDisplayCount": 4
+    "version": "250330.1.0",
+    "id": 20,
+    "groupType": "HomeItemEnhanceResourceLack",
+    "textKey": 1165060948,
+    "maximumDisplayCount": 4
   },
   {
-    "Version": "250720.1.0",
-    "Id": 21,
-    "GroupType": "SubBattleTreasureLose",
-    "TextKey": 1614089256,
-    "MaximumDisplayCount": 4
+    "version": "250720.1.0",
+    "id": 21,
+    "groupType": "SubBattleTreasureLose",
+    "textKey": 1614089256,
+    "maximumDisplayCount": 4
   },
   {
-    "Version": "250720.1.0",
-    "Id": 22,
-    "GroupType": "SubBattleTreasureTimeUp",
-    "TextKey": -1568855975,
-    "MaximumDisplayCount": 4
+    "version": "250720.1.0",
+    "id": 22,
+    "groupType": "SubBattleTreasureTimeUp",
+    "textKey": -1568855975,
+    "maximumDisplayCount": 4
   },
   {
-    "Version": "250720.1.0",
-    "Id": 23,
-    "GroupType": "SubBattleTreasureResourceLack",
-    "TextKey": 1165060948,
-    "MaximumDisplayCount": 4
+    "version": "250720.1.0",
+    "id": 23,
+    "groupType": "SubBattleTreasureResourceLack",
+    "textKey": 1165060948,
+    "maximumDisplayCount": 4
   },
   {
-    "Version": "260110.1.0",
-    "Id": 24,
-    "GroupType": "TreasureEnhanceResourceLack",
-    "TextKey": 1165060948,
-    "MaximumDisplayCount": 4
+    "version": "260110.1.0",
+    "id": 24,
+    "groupType": "TreasureEnhanceResourceLack",
+    "textKey": 1165060948,
+    "maximumDisplayCount": 4
   },
   {
-    "Version": "260110.1.0",
-    "Id": 25,
-    "GroupType": "TreasurePromotionResourceLack",
-    "TextKey": 1165060948,
-    "MaximumDisplayCount": 4
+    "version": "260110.1.0",
+    "id": 25,
+    "groupType": "TreasurePromotionResourceLack",
+    "textKey": 1165060948,
+    "maximumDisplayCount": 4
   },
   {
-    "Version": "260410.1.0",
-    "Id": 26,
-    "GroupType": "SubBattleStrongGemResourceLack",
-    "TextKey": 1165060948,
-    "MaximumDisplayCount": 4
+    "version": "260410.1.0",
+    "id": 26,
+    "groupType": "SubBattleStrongGemResourceLack",
+    "textKey": 1165060948,
+    "maximumDisplayCount": 4
   },
   {
-    "Version": "260410.1.0",
-    "Id": 31,
-    "GroupType": "KeyholderEnhanceResourceLack",
-    "TextKey": 1165060948,
-    "MaximumDisplayCount": 4
+    "version": "260410.1.0",
+    "id": 31,
+    "groupType": "KeyholderEnhanceResourceLack",
+    "textKey": 1165060948,
+    "maximumDisplayCount": 4
   },
   {
-    "Version": "260410.1.0",
-    "Id": 32,
-    "GroupType": "KeyholderMax",
-    "TextKey": -1774555501,
-    "MaximumDisplayCount": 4
+    "version": "260410.1.0",
+    "id": 32,
+    "groupType": "KeyholderMax",
+    "textKey": -1774555501,
+    "maximumDisplayCount": 4
   }
 ]

@@ -1,22 +1,22 @@
 [
   {
-    "Version": "251010.1.0",
-    "Id": 101507,
-    "EntryId": 101507,
-    "RankId": 101507,
-    "ViewId": 101507,
-    "FirstReachRewardGroupId": 101507,
-    "ChallengeHuntStageId": 101507,
-    "DailyRewardGroupId": 101507
+    "version": "251010.1.0",
+    "id": 101507,
+    "entryId": 101507,
+    "rankId": 101507,
+    "viewId": 101507,
+    "firstReachRewardGroupId": 101507,
+    "challengeHuntStageId": 101507,
+    "dailyRewardGroupId": 101507
   },
   {
-    "Version": "260410.1.0",
-    "Id": 102607,
-    "EntryId": 102607,
-    "RankId": 102607,
-    "ViewId": 102607,
-    "FirstReachRewardGroupId": 102607,
-    "ChallengeHuntStageId": 102607,
-    "DailyRewardGroupId": 102607
+    "version": "260410.1.0",
+    "id": 102607,
+    "entryId": 102607,
+    "rankId": 102607,
+    "viewId": 102607,
+    "firstReachRewardGroupId": 102607,
+    "challengeHuntStageId": 102607,
+    "dailyRewardGroupId": 102607
   }
 ]
